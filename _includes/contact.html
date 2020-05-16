@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="card card-right">
+                <div class="card-body">
+                    <address>
+                        <h2><img src="/assets/images/icons/contact.svg" alt="icon">Contact</h2>
+                        <div class="media">
+                            <div class="media-body">
+                                <img src="/assets/images/avatars.png" class="align-self-center mr-3 rounded-circle" alt="gonvalhector's avatar" id="avatar">
+                                <ul class="list-unstyled">
+                                    {% for item in site.data.contact %}
+                                        <li class="media">
+                                          <div class="media-body">
+                                            <a href="{{ item.link }}"><img src="{{ item.icon }}" class="mr-3 filter-text2" alt="icon"> {{ item.name }}</a>
+                                          </div>
+                                        </li>
+                                    {% endfor %}
+                                  </ul>
+                            </div>
+                        </div>
+                    </address>
+                </div>
+            </div>
+      </div>
+    </div>
+</div>

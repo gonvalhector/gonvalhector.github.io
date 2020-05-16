@@ -1,0 +1,12 @@
+- name: gonvalhector@gmail.com
+  link: mailto:gonvalhector@gmail.com
+  icon: /assets/images/icons/email.svg
+- name: Youtube
+  link: https://www.youtube.com/channel/UC3kw3-NtSJE4Iao7SZQxowA
+  icon: /assets/images/icons/youtube.svg
+- name: Instagram
+  link: https://www.instagram.com/gonvalhector/
+  icon: /assets/images/icons/instagram.svg
+- name: Github
+  link: https://github.com/gonvalhector
+  icon: /assets/images/icons/github.svg

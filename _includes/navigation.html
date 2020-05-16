@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg">
     <a class="navbar-brand">
-        <img src="static/images/decoration/logo.png" class="img-fluid rounded" alt="Logo" id="logo">
+        <img src="/assets/images/logo.png" class="img-fluid rounded" alt="logo" id="logo">
         gonvalhector
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -8,10 +8,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
         <div class="navbar-nav">
-            <a class="nav-item nav-link" id="active" href="#"><img src="static/images/decoration/icons/iconmonstr-door-3.svg" class="mr-1 filter-text3" alt="lounge icon">home <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="#"><img src="static/images/decoration/icons/iconmonstr-construction-8.svg" class="mr-1 filter-text1" alt="projects icon">projects</a>
-            <a class="nav-item nav-link" href="#"><img src="static/images/decoration/icons/iconmonstr-paintbrush-8.svg" class="mr-1 filter-text1" alt="hobbies icon">hobbies</a>
-            <a class="nav-item nav-link" href="#"><img src="static/images/decoration/icons/iconmonstr-picture-17.svg" class="mr-1 filter-text1" alt="gallery icon">gallery</a>
+            {% for item in site.data.navigation %}
+                <a class="nav-item nav-link" {% if page.url == item.link %}id="active"{% endif %} href="{{ item.link }}"><img src="{{ item.icon }}" class="mr-1 filter-text3" alt="icon">{{ item.name }} <span class="sr-only">(current)</span></a>
+            {% endfor %}
         </div>
     </div>
 </nav>
