@@ -2,7 +2,7 @@
   link: /
   icon: /assets/images/icons/home.svg
 - name: blog
-  link: /blog
+  link: /blog.html
   icon: /assets/images/icons/blog.svg
 - name: projects
   link: /projects

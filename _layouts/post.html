@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h1>blog</h1>
+            <h2>{{ page.title }}</h2>
+            <p>{{ page.date | date_to_string }} <i>by</i> {{ page.author }}</p>
+
+            {{ content }}
+        </div>
+    </div>
+</div>
