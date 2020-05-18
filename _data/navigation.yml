@@ -11,5 +11,5 @@
   link: /gallery
   icon: /assets/images/icons/gallery.svg
 - name: about
-  link: /about.html
+  link: /about
   icon: /assets/images/icons/about.svg

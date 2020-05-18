@@ -1,0 +1,109 @@
+// Background Colors
+// Oxford Blue
+$bgd1: #03223D;
+// Royal Blue
+$bgd2: #082A63;
+// Dark Cornflower Blue
+$bgd3: #34609D;
+
+// Text Color
+// Lavender
+$txt1: #DDDCF2;
+// Sinopia
+$txt2: #CA3B02;
+// Mikado Yellow
+$txt3: #FDC41C;
+
+// Drop Shadow
+// Rich Black
+$shadow: #061019;
+
+// Filter
+$fltrtxt2: invert(40%) sepia(85%) saturate(7481%) hue-rotate(23deg) brightness(97%) contrast(98%);
+$fltrtxt3: invert(92%) sepia(17%) saturate(5915%) hue-rotate(342deg) brightness(103%) contrast(98%);
+
+body {
+    background-color: $bgd1;
+    color: $txt1;
+    header {
+        box-shadow: 0px 2px 2px 0.5px $shadow;
+        nav {
+            background-color: $bgd2;
+            .navbar-brand {
+                color: $txt2;
+                font-size: 3.5vh;
+                text-shadow: 1.5px 1.5px 1.5px $shadow;
+            }
+            .navbar-brand:hover {
+                color: $txt2;
+            }
+            .navbar-nav {
+                .nav-item {
+                    color: $txt3;
+                    .nav-icon {
+                        filter: $fltrtxt3;
+                    }
+                }
+                .nav-item:hover {
+                    color: $txt2;
+                    .nav-icon {
+                        filter: $fltrtxt2;
+                    }
+                }
+                .active {
+                    color: $txt2;
+                    .nav-icon {
+                        filter: $fltrtxt2;
+                    }
+                }
+            }
+        }
+
+    }
+    main {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        h1 {
+            color: $bgd3;
+        }
+        a {
+            color: $txt3;
+        }
+        a:hover {
+            color: $txt2;
+        }
+    }
+    footer {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        .card {
+            background-color: $bgd2;
+            box-shadow: 1px 2px 2px 0.5px $shadow;
+            .list-group {
+                .list-group-item {
+                    background-color: $bgd2;
+                    border-color: $bgd3;
+                    .item-link {
+                        color: $txt3;
+                        .item-icon {
+                            filter: $fltrtxt3;
+                        }
+                    }
+                    .item-link:hover {
+                        color: $txt2;
+                        .item-icon {
+                            filter: $fltrtxt2;
+                        }
+                    }
+                }
+            }
+            #contact {
+                color: $txt2;
+                text-shadow: 1px 1px 1px $shadow;
+                #contact-icon {
+                    filter: $fltrtxt2;
+                }
+            }
+        }
+    }
+}
