@@ -11,8 +11,8 @@ $bgd3: #34609D;
 $txt1: #DDDCF2;
 // Sinopia
 $txt2: #CA3B02;
-// Mikado Yellow
-$txt3: #FDC41C;
+// Maize (Crayola)
+$txt3: #E6B365;
 
 // Drop Shadow
 // Rich Black
@@ -20,15 +20,18 @@ $shadow: #061019;
 
 // Filter
 $fltrtxt2: invert(40%) sepia(85%) saturate(7481%) hue-rotate(23deg) brightness(97%) contrast(98%);
-$fltrtxt3: invert(92%) sepia(17%) saturate(5915%) hue-rotate(342deg) brightness(103%) contrast(98%);
+$fltrtxt3: invert(82%) sepia(17%) saturate(1373%) hue-rotate(339deg) brightness(95%) contrast(90%);
 
 body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
     background-color: $bgd1;
     color: $txt1;
     header {
+        background-color: $bgd2;
         box-shadow: 0px 2px 2px 0.5px $shadow;
         nav {
-            background-color: $bgd2;
             .navbar-brand {
                 color: $txt2;
                 font-size: 3.5vh;
@@ -64,10 +67,11 @@ body {
 
     }
     main {
+        flex: 1;
         margin-top: 10px;
-        margin-bottom: 10px;
         h1 {
             color: $bgd3;
+            text-shadow: 2px 2px 2px $shadow;
         }
         a {
             color: $txt3;
@@ -75,11 +79,17 @@ body {
         a:hover {
             color: $txt2;
         }
+        .avatar {
+            width: 3vh;
+            height: auto;
+        }
     }
     footer {
-        margin-top: 10px;
-        margin-bottom: 10px;
+        width: 100%;
+        margin-bottom: 3vh;
         .card {
+            margin: auto;
+            width: 83.33%;
             background-color: $bgd2;
             box-shadow: 1px 2px 2px 0.5px $shadow;
             .list-group {

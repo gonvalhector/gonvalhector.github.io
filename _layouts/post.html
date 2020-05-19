@@ -4,9 +4,8 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col">
-            <h1>Blog Post</h1>
-            <h2>{{ page.title }}</h2>
-            <p>{{ page.date | date_to_string }} <i>by</i> {{ page.author }}</p>
+            <h1>{{ page.title }}</h1>
+            <p><a href="/about"><img src="/assets/images/avatar.png" class="avatar rounded-circle" alt="image"> {{ page.author | upcase }}</a> - {{ page.date | date_to_string }}</p>
 
             {{ content }}
         </div>
