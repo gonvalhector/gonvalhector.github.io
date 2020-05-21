@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: grid
 title: gallery
+columns: 3
 ---
-
-# {{ page.title | capitalize }}
 
 Under construction.

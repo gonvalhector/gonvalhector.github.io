@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h1>{{ page.title | capitalize }}</h1>
+        </div>
+    </div>
+    {% assign columns = page.columns %}
+    {% for i in (1..3) %}
+        <div class="row">
+            {% for j in (1..columns) %}
+                <div class="col-4">
+                    <img src="/assets/images/gallery/thumbs/test.png" alt="test">
+                </div>
+            {% endfor %}
+        </div>
+    {% endfor %}
+    {{ content }}
+</div>

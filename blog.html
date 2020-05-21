@@ -1,20 +1,14 @@
 ---
-layout: default
+layout: regular
 title: blog
 ---
 
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <h1>Latest Posts</h1>
-            <ul>
-                {% for post in site.posts %}
-                    <li>
-                        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                        {{ post.excerpt }}
-                    </li>
-                {% endfor %}
-            </ul>
-        </div>
-    </div>
-</div>
+<h1>Latest Posts</h1>
+    <ul>
+        {% for post in site.posts %}
+            <li>
+                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                {{ post.excerpt }}
+            </li>
+        {% endfor %}
+    </ul>
