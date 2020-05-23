@@ -14,12 +14,29 @@ columns: 3
         {% assign total = item.images | size %}
         {% assign columns = page.columns %}
         {% assign rows = total | divided_by: columns %}
+        {% assign leftovers = total | modulo: columns %}
+        {% if leftovers > 0 %}
+            {% assign rows = rows | plus: 1 %}
+        {% endif %}
+        {% assign n = 0 %}
         {% for i in (1..rows) %}
-            <div class="row">
+            <div class="row mr-1 my-2">
                 {% for j in (1..columns) %}
-                    <div class="col">
-                        <img src="{{ item.images[n].link }}" alt="{{ item.images[n].name }}" title="{{ item.images[n].name }}">
+                    <div class="col-{{ columns | plus: 1 }}">
+                        <picture>
+                            <source media="(min-width: 640px)" srcset="{{ item.images[n].XL_PNG }}">
+                            <source media="(min-width: 640px)" srcset="{{ item.images[n].XL_JPG }}">
+                            <source media="(min-width: 480px)" srcset="{{ item.images[n].L_PNG }}">
+                            <source media="(min-width: 480px)" srcset="{{ item.images[n].L_JPG }}">
+                            <source media="(min-width: 320px)" srcset="{{ item.images[n].M_PNG }}">
+                            <source media="(min-width: 320px)" srcset="{{ item.images[n].M_JPG }}">
+                            <source media="(min-width: 240px)" srcset="{{ item.images[n].S_PNG }}">
+                            <source media="(min-width: 240px)" srcset="{{ item.images[n].S_JPG }}">
+                            <source media="(min-width: 150px)" srcset="{{ item.images[n].XS_PNG }}">
+                            <img src="{{ item.images[n].XS_JPG }}" alt="{{ item.images[n].alt }}" title="{{ item.images[n].title }}">
+                        </picture>
                     </div>
+                    {% assign n = n | plus: 1 %}
                 {% endfor %}
             </div>
         {% endfor %}

@@ -1,9 +1,50 @@
 - name: Art Gallery
   images:
-      - name: test image 1
-        link: /assets/images/gallery/thumbs/test.png
-      - name: test image 2
-        link: /assets/images/gallery/thumbs/test.png
-      - name: test image 3
-        link: /assets/images/gallery/thumbs/test.png
-- name: Blog Gallery
+      - title: Test Image 1
+        alt: test image number one
+        XL_PNG: /assets/images/gallery/thumbs/test/640.png
+        XL_JPG: /assets/images/gallery/thumbs/test/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/test/480.png
+        L:JPG: /assets/images/gallery/thumbs/test/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/test/320.png
+        M_JPG: /assets/images/gallery/thumbs/test/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/test/240.png
+        S_JPG: /assets/images/gallery/thumbs/test/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/test/150.png
+        XS_JPG: /assets/images/gallery/thumbs/test/150.jpg
+      - title: Test Image 2
+        alt: test image number two
+        XL_PNG: /assets/images/gallery/thumbs/test/640.png
+        XL_JPG: /assets/images/gallery/thumbs/test/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/test/480.png
+        L:JPG: /assets/images/gallery/thumbs/test/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/test/320.png
+        M_JPG: /assets/images/gallery/thumbs/test/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/test/240.png
+        S_JPG: /assets/images/gallery/thumbs/test/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/test/150.png
+        XS_JPG: /assets/images/gallery/thumbs/test/150.jpg
+      - title: Test Image 3
+        alt: test image number three
+        XL_PNG: /assets/images/gallery/thumbs/test/640.png
+        XL_JPG: /assets/images/gallery/thumbs/test/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/test/480.png
+        L:JPG: /assets/images/gallery/thumbs/test/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/test/320.png
+        M_JPG: /assets/images/gallery/thumbs/test/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/test/240.png
+        S_JPG: /assets/images/gallery/thumbs/test/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/test/150.png
+        XS_JPG: /assets/images/gallery/thumbs/test/150.jpg
+      - title: Test Image 4
+        alt: test image number four
+        XL_PNG: /assets/images/gallery/thumbs/test/640.png
+        XL_JPG: /assets/images/gallery/thumbs/test/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/test/480.png
+        L:JPG: /assets/images/gallery/thumbs/test/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/test/320.png
+        M_JPG: /assets/images/gallery/thumbs/test/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/test/240.png
+        S_JPG: /assets/images/gallery/thumbs/test/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/test/150.png
+        XS_JPG: /assets/images/gallery/thumbs/test/150.jpg
