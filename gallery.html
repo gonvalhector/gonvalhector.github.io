@@ -1,0 +1,27 @@
+---
+layout: default
+title: gallery
+columns: 3
+---
+
+<div class="container">
+    {% for item in site.data.gallery %}
+        <div class="row">
+            <div class="col">
+                <h1>{{ item.name }}</h1>
+            </div>
+        </div>
+        {% assign total = item.images | size %}
+        {% assign columns = page.columns %}
+        {% assign rows = total | divided_by: columns %}
+        {% for i in (1..rows) %}
+            <div class="row">
+                {% for j in (1..columns) %}
+                    <div class="col">
+                        <img src="{{ item.images[n].link }}" alt="{{ item.images[n].name }}" title="{{ item.images[n].name }}">
+                    </div>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    {% endfor %}
+</div>

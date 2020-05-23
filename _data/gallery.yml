@@ -1,0 +1,9 @@
+- name: Art Gallery
+  images:
+      - name: test image 1
+        link: /assets/images/gallery/thumbs/test.png
+      - name: test image 2
+        link: /assets/images/gallery/thumbs/test.png
+      - name: test image 3
+        link: /assets/images/gallery/thumbs/test.png
+- name: Blog Gallery
