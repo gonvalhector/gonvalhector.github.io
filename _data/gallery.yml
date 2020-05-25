@@ -1,43 +1,271 @@
 - name: Art Gallery
   images:
-      - title: Test Image 1
-        alt: test image number one
-        XL_PNG: /assets/images/gallery/thumbs/test/640.png
-        XL_JPG: /assets/images/gallery/thumbs/test/640.jpg
-        L_PNG: /assets/images/gallery/thumbs/test/480.png
-        L:JPG: /assets/images/gallery/thumbs/test/480.jpg
-        M_PNG: /assets/images/gallery/thumbs/test/320.png
-        M_JPG: /assets/images/gallery/thumbs/test/320.jpg
-        S_PNG: /assets/images/gallery/thumbs/test/240.png
-        S_JPG: /assets/images/gallery/thumbs/test/240.jpg
-        XS_PNG: /assets/images/gallery/thumbs/test/150.png
-        XS_JPG: /assets/images/gallery/thumbs/test/150.jpg
-      - title: Test Image 2
-        alt: test image number two
-        XL_PNG: /assets/images/gallery/thumbs/test/640.png
-        XL_JPG: /assets/images/gallery/thumbs/test/640.jpg
-        L_PNG: /assets/images/gallery/thumbs/test/480.png
-        L:JPG: /assets/images/gallery/thumbs/test/480.jpg
-        M_PNG: /assets/images/gallery/thumbs/test/320.png
-        M_JPG: /assets/images/gallery/thumbs/test/320.jpg
-        S_PNG: /assets/images/gallery/thumbs/test/240.png
-        S_JPG: /assets/images/gallery/thumbs/test/240.jpg
-        XS_PNG: /assets/images/gallery/thumbs/test/150.png
-        XS_JPG: /assets/images/gallery/thumbs/test/150.jpg
-      - title: Test Image 3
-        alt: test image number three
-        XL_PNG: /assets/images/gallery/thumbs/test/640.png
-        XL_JPG: /assets/images/gallery/thumbs/test/640.jpg
-        L_PNG: /assets/images/gallery/thumbs/test/480.png
-        L:JPG: /assets/images/gallery/thumbs/test/480.jpg
-        M_PNG: /assets/images/gallery/thumbs/test/320.png
-        M_JPG: /assets/images/gallery/thumbs/test/320.jpg
-        S_PNG: /assets/images/gallery/thumbs/test/240.png
-        S_JPG: /assets/images/gallery/thumbs/test/240.jpg
-        XS_PNG: /assets/images/gallery/thumbs/test/150.png
-        XS_JPG: /assets/images/gallery/thumbs/test/150.jpg
-      - title: Test Image 4
-        alt: test image number four
+      - title: Alyska Portrait
+        alt: Pixel art portrait of Alyska
+        XL_PNG: /assets/images/gallery/thumbs/alyska/640.png
+        XL_JPG: /assets/images/gallery/thumbs/alyska/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/alyska/480.png
+        L:JPG: /assets/images/gallery/thumbs/alyska/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/alyska/320.png
+        M_JPG: /assets/images/gallery/thumbs/alyska/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/alyska/240.png
+        S_JPG: /assets/images/gallery/thumbs/alyska/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/alyska/150.png
+        XS_JPG: /assets/images/gallery/thumbs/alyska/150.jpg
+      - title: Antlers Girl
+        alt: Digital painting of a girl with antlers
+        XL_PNG: /assets/images/gallery/thumbs/antlers_girl/640.png
+        XL_JPG: /assets/images/gallery/thumbs/antlers_girl/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/antlers_girl/480.png
+        L:JPG: /assets/images/gallery/thumbs/antlers_girl/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/antlers_girl/320.png
+        M_JPG: /assets/images/gallery/thumbs/antlers_girl/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/antlers_girl/240.png
+        S_JPG: /assets/images/gallery/thumbs/antlers_girl/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/antlers_girl/150.png
+        XS_JPG: /assets/images/gallery/thumbs/antlers_girl/150.jpg
+      - title: Aveliana DTIYS
+        alt: Pixel art of Aveliana
+        XL_PNG: /assets/images/gallery/thumbs/aveliana/640.png
+        XL_JPG: /assets/images/gallery/thumbs/aveliana/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/aveliana/480.png
+        L:JPG: /assets/images/gallery/thumbs/aveliana/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/aveliana/320.png
+        M_JPG: /assets/images/gallery/thumbs/aveliana/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/aveliana/240.png
+        S_JPG: /assets/images/gallery/thumbs/aveliana/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/aveliana/150.png
+        XS_JPG: /assets/images/gallery/thumbs/aveliana/150.jpg
+      - title: Ben Jensen Chibi
+        alt: Drawing of a chibi style character
+        XL_PNG: /assets/images/gallery/thumbs/ben_jensen_chibi/640.png
+        XL_JPG: /assets/images/gallery/thumbs/ben_jensen_chibi/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/ben_jensen_chibi/480.png
+        L:JPG: /assets/images/gallery/thumbs/ben_jensen_chibi/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/ben_jensen_chibi/320.png
+        M_JPG: /assets/images/gallery/thumbs/ben_jensen_chibi/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/ben_jensen_chibi/240.png
+        S_JPG: /assets/images/gallery/thumbs/ben_jensen_chibi/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/ben_jensen_chibi/150.png
+        XS_JPG: /assets/images/gallery/thumbs/ben_jensen_chibi/150.jpg
+      - title: Black Knight
+        alt: Pixel art of a Black Knight from Dark Souls
+        XL_PNG: /assets/images/gallery/thumbs/black_knight/640.png
+        XL_JPG: /assets/images/gallery/thumbs/black_knight/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/black_knight/480.png
+        L:JPG: /assets/images/gallery/thumbs/black_knight/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/black_knight/320.png
+        M_JPG: /assets/images/gallery/thumbs/black_knight/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/black_knight/240.png
+        S_JPG: /assets/images/gallery/thumbs/black_knight/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/black_knight/150.png
+        XS_JPG: /assets/images/gallery/thumbs/black_knight/150.jpg
+      - title: Briana White Portrait
+        alt: Pixel art portrait of Briana White
+        XL_PNG: /assets/images/gallery/thumbs/briana/640.png
+        XL_JPG: /assets/images/gallery/thumbs/briana/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/briana/480.png
+        L:JPG: /assets/images/gallery/thumbs/briana/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/briana/320.png
+        M_JPG: /assets/images/gallery/thumbs/briana/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/briana/240.png
+        S_JPG: /assets/images/gallery/thumbs/briana/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/briana/150.png
+        XS_JPG: /assets/images/gallery/thumbs/briana/150.jpg
+      - title: Childish Harpy
+        alt: Watercolor painting of a childish harpy
+        XL_PNG: /assets/images/gallery/thumbs/childish_harpy/640.png
+        XL_JPG: /assets/images/gallery/thumbs/childish_harpy/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/childish_harpy/480.png
+        L:JPG: /assets/images/gallery/thumbs/childish_harpy/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/childish_harpy/320.png
+        M_JPG: /assets/images/gallery/thumbs/childish_harpy/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/childish_harpy/240.png
+        S_JPG: /assets/images/gallery/thumbs/childish_harpy/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/childish_harpy/150.png
+        XS_JPG: /assets/images/gallery/thumbs/childish_harpy/150.jpg
+      - title: Confused Llama
+        alt: Ink sketch of a confused llama
+        XL_PNG: /assets/images/gallery/thumbs/confused_llama/640.png
+        XL_JPG: /assets/images/gallery/thumbs/confused_llama/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/confused_llama/480.png
+        L:JPG: /assets/images/gallery/thumbs/confused_llama/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/confused_llama/320.png
+        M_JPG: /assets/images/gallery/thumbs/confused_llama/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/confused_llama/240.png
+        S_JPG: /assets/images/gallery/thumbs/confused_llama/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/confused_llama/150.png
+        XS_JPG: /assets/images/gallery/thumbs/confused_llama/150.jpg
+      - title: Dark Wanderer
+        alt: Ink sketch of a dark wanderer
+        XL_PNG: /assets/images/gallery/thumbs/dark_wanderer/640.png
+        XL_JPG: /assets/images/gallery/thumbs/dark_wanderer/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/dark_wanderer/480.png
+        L:JPG: /assets/images/gallery/thumbs/dark_wanderer/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/dark_wanderer/320.png
+        M_JPG: /assets/images/gallery/thumbs/dark_wanderer/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/dark_wanderer/240.png
+        S_JPG: /assets/images/gallery/thumbs/dark_wanderer/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/dark_wanderer/150.png
+        XS_JPG: /assets/images/gallery/thumbs/dark_wanderer/150.jpg
+      - title: Dogo
+        alt: Watercolor painting of my dog
+        XL_PNG: /assets/images/gallery/thumbs/dogo/640.png
+        XL_JPG: /assets/images/gallery/thumbs/dogo/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/dogo/480.png
+        L:JPG: /assets/images/gallery/thumbs/dogo/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/dogo/320.png
+        M_JPG: /assets/images/gallery/thumbs/dogo/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/dogo/240.png
+        S_JPG: /assets/images/gallery/thumbs/dogo/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/dogo/150.png
+        XS_JPG: /assets/images/gallery/thumbs/dogo/150.jpg
+      - title: Justice League Sprites
+        alt: Pixel Art Sprites of the Justice League
+        XL_PNG: /assets/images/gallery/thumbs/jl_rpg_maker_xp/640.png
+        XL_JPG: /assets/images/gallery/thumbs/jl_rpg_maker_xp/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/jl_rpg_maker_xp/480.png
+        L:JPG: /assets/images/gallery/thumbs/jl_rpg_maker_xp/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/jl_rpg_maker_xp/320.png
+        M_JPG: /assets/images/gallery/thumbs/jl_rpg_maker_xp/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/jl_rpg_maker_xp/240.png
+        S_JPG: /assets/images/gallery/thumbs/jl_rpg_maker_xp/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/jl_rpg_maker_xp/150.png
+        XS_JPG: /assets/images/gallery/thumbs/jl_rpg_maker_xp/150.jpg
+      - title: Light Mage
+        alt: Watercolor painting of a light mage
+        XL_PNG: /assets/images/gallery/thumbs/light_mage/640.png
+        XL_JPG: /assets/images/gallery/thumbs/light_mage/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/light_mage/480.png
+        L:JPG: /assets/images/gallery/thumbs/light_mage/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/light_mage/320.png
+        M_JPG: /assets/images/gallery/thumbs/light_mage/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/light_mage/240.png
+        S_JPG: /assets/images/gallery/thumbs/light_mage/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/light_mage/150.png
+        XS_JPG: /assets/images/gallery/thumbs/light_mage/150.jpg
+      - title: Marz Portrait
+        alt: Pixel art portrait of Marz
+        XL_PNG: /assets/images/gallery/thumbs/marz/640.png
+        XL_JPG: /assets/images/gallery/thumbs/marz/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/marz/480.png
+        L:JPG: /assets/images/gallery/thumbs/marz/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/marz/320.png
+        M_JPG: /assets/images/gallery/thumbs/marz/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/marz/240.png
+        S_JPG: /assets/images/gallery/thumbs/marz/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/marz/150.png
+        XS_JPG: /assets/images/gallery/thumbs/marz/150.jpg
+      - title: MerMay 2020
+        alt: Watercolor painting of a mermaid warrior
+        XL_PNG: /assets/images/gallery/thumbs/mermay/640.png
+        XL_JPG: /assets/images/gallery/thumbs/mermay/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/mermay/480.png
+        L:JPG: /assets/images/gallery/thumbs/mermay/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/mermay/320.png
+        M_JPG: /assets/images/gallery/thumbs/mermay/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/mermay/240.png
+        S_JPG: /assets/images/gallery/thumbs/mermay/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/mermay/150.png
+        XS_JPG: /assets/images/gallery/thumbs/mermay/150.jpg
+      - title: Mother's Day 2020
+        alt: Watercolor painting of a cup of coffee
+        XL_PNG: /assets/images/gallery/thumbs/mothers_day/640.png
+        XL_JPG: /assets/images/gallery/thumbs/mothers_day/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/mothers_day/480.png
+        L:JPG: /assets/images/gallery/thumbs/mothers_day/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/mothers_day/320.png
+        M_JPG: /assets/images/gallery/thumbs/mothers_day/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/mothers_day/240.png
+        S_JPG: /assets/images/gallery/thumbs/mothers_day/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/mothers_day/150.png
+        XS_JPG: /assets/images/gallery/thumbs/mothers_day/150.jpg
+      - title: Night Elf Chef
+        alt: Digital painting of a night elf chef
+        XL_PNG: /assets/images/gallery/thumbs/night_elf/640.png
+        XL_JPG: /assets/images/gallery/thumbs/night_elf/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/night_elf/480.png
+        L:JPG: /assets/images/gallery/thumbs/night_elf/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/night_elf/320.png
+        M_JPG: /assets/images/gallery/thumbs/night_elf/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/night_elf/240.png
+        S_JPG: /assets/images/gallery/thumbs/night_elf/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/night_elf/150.png
+        XS_JPG: /assets/images/gallery/thumbs/night_elf/150.jpg
+      - title: Old Wizard and his Projection
+        alt: Watercolor painting of an old wizard and his projection
+        XL_PNG: /assets/images/gallery/thumbs/old_wizard/640.png
+        XL_JPG: /assets/images/gallery/thumbs/old_wizard/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/old_wizard/480.png
+        L:JPG: /assets/images/gallery/thumbs/old_wizard/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/old_wizard/320.png
+        M_JPG: /assets/images/gallery/thumbs/old_wizard/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/old_wizard/240.png
+        S_JPG: /assets/images/gallery/thumbs/old_wizard/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/old_wizard/150.png
+        XS_JPG: /assets/images/gallery/thumbs/old_wizard/150.jpg
+      - title: Paltin & Paltie
+        alt: Watercolor painting of two avocado halves
+        XL_PNG: /assets/images/gallery/thumbs/paltin_&_paltie/640.png
+        XL_JPG: /assets/images/gallery/thumbs/paltin_&_paltie/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/paltin_&_paltie/480.png
+        L:JPG: /assets/images/gallery/thumbs/paltin_&_paltie/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/paltin_&_paltie/320.png
+        M_JPG: /assets/images/gallery/thumbs/paltin_&_paltie/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/paltin_&_paltie/240.png
+        S_JPG: /assets/images/gallery/thumbs/paltin_&_paltie/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/paltin_&_paltie/150.png
+        XS_JPG: /assets/images/gallery/thumbs/paltin_&_paltie/150.jpg
+      - title: Pattern 01
+        alt: Watercolor floral pattern of a gardenia
+        XL_PNG: /assets/images/gallery/thumbs/pattern_01/640.png
+        XL_JPG: /assets/images/gallery/thumbs/pattern_01/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/pattern_01/480.png
+        L:JPG: /assets/images/gallery/thumbs/pattern_01/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/pattern_01/320.png
+        M_JPG: /assets/images/gallery/thumbs/pattern_01/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/pattern_01/240.png
+        S_JPG: /assets/images/gallery/thumbs/pattern_01/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/pattern_01/150.png
+        XS_JPG: /assets/images/gallery/thumbs/pattern_01/150.jpg
+      - title: Sailor Moon DTIYS
+        alt: Pixel art of Sailor Moon
+        XL_PNG: /assets/images/gallery/thumbs/sailor_moon/640.png
+        XL_JPG: /assets/images/gallery/thumbs/sailor_moon/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/sailor_moon/480.png
+        L:JPG: /assets/images/gallery/thumbs/sailor_moon/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/sailor_moon/320.png
+        M_JPG: /assets/images/gallery/thumbs/sailor_moon/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/sailor_moon/240.png
+        S_JPG: /assets/images/gallery/thumbs/sailor_moon/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/sailor_moon/150.png
+        XS_JPG: /assets/images/gallery/thumbs/sailor_moon/150.jpg
+      - title: Drive Fan Art
+        alt: Pixel art of the movie Drive
+        XL_PNG: /assets/images/gallery/thumbs/drive/640.png
+        XL_JPG: /assets/images/gallery/thumbs/drive/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/drive/480.png
+        L:JPG: /assets/images/gallery/thumbs/drive/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/drive/320.png
+        M_JPG: /assets/images/gallery/thumbs/drive/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/drive/240.png
+        S_JPG: /assets/images/gallery/thumbs/drive/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/drive/150.png
+        XS_JPG: /assets/images/gallery/thumbs/drive/150.jpg
+      - title: Ezio Auditore Fan Art
+        alt: Pixel art of Ezio Auditore
+        XL_PNG: /assets/images/gallery/thumbs/ezio/640.png
+        XL_JPG: /assets/images/gallery/thumbs/ezio/640.jpg
+        L_PNG: /assets/images/gallery/thumbs/ezio/480.png
+        L:JPG: /assets/images/gallery/thumbs/ezio/480.jpg
+        M_PNG: /assets/images/gallery/thumbs/ezio/320.png
+        M_JPG: /assets/images/gallery/thumbs/ezio/320.jpg
+        S_PNG: /assets/images/gallery/thumbs/ezio/240.png
+        S_JPG: /assets/images/gallery/thumbs/ezio/240.jpg
+        XS_PNG: /assets/images/gallery/thumbs/ezio/150.png
+        XS_JPG: /assets/images/gallery/thumbs/ezio/150.jpg
+      - title: Test Image
+        alt: A test image
         XL_PNG: /assets/images/gallery/thumbs/test/640.png
         XL_JPG: /assets/images/gallery/thumbs/test/640.jpg
         L_PNG: /assets/images/gallery/thumbs/test/480.png

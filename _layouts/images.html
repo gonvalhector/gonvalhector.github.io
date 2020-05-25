@@ -1,0 +1,17 @@
+---
+layout: regular
+---
+
+<h1>{{ page.title }}</h1>
+{% for image in page.images %}
+    <picture>
+        <source media="(min-width: 1080px)" srcset="{{ image.L_PNG }}">
+        <source media="(min-width: 1080x)" srcset="{{ image.L_JPG }}">
+        <source media="(min-width: 750px)" srcset="{{ image.M_PNG }}">
+        <source media="(min-width: 750px)" srcset="{{ image.M_JPG }}">
+        <source media="(min-width: 640px)" srcset="{{ image.S_PNG }}">
+        <source media="(min-width: 640px)" srcset="{{ image.S_JPG }}">
+        <source media="(min-width: 360px)" srcset="{{ image.XS_PNG }}">
+        <img class="my-3 mx-auto d-block" src="{{ image.XS_JPG }}" alt="{{ page.alt }}" title="{{ page.title }}">
+    </picture>
+{% endfor %}

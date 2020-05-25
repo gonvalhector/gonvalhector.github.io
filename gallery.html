@@ -5,7 +5,7 @@ columns: 3
 ---
 
 <div class="container">
-    {% for item in site.data.gallery %}
+    <!-- {% for item in site.data.gallery %}
         <div class="row">
             <div class="col">
                 <h1>{{ item.name }}</h1>
@@ -40,5 +40,42 @@ columns: 3
                 {% endfor %}
             </div>
         {% endfor %}
-    {% endfor %}
+    {% endfor %} -->
+    {% if site.art_images  %}
+        <div class="row">
+            <div class="col">
+                <h1>Art Gallery</h1>
+            </div>
+        </div>
+        {% assign images = site.art_images %}
+        {% assign total = images | size %}
+        {% assign columns = page.columns %}
+        {% assign rows = total | divided_by: columns %}
+        {% assign leftovers = total | modulo: columns %}
+        {% if leftovers > 0 %}
+            {% assign rows = rows | plus: 1 %}
+        {% endif %}
+        {% assign n = 0 %}
+        {% for i in (1..rows) %}
+            <div class="row mr-1 my-2">
+                {% for j in (1..columns) %}
+                    <div class="col-{{ columns | plus: 1 }}">
+                        <a href="{{ images[n].url }}"><picture>
+                            <source media="(min-width: 640px)" srcset="{{ images[n].thumbs.XL_PNG }}">
+                            <source media="(min-width: 640px)" srcset="{{ images[n].thumbs.XL_JPG }}">
+                            <source media="(min-width: 480px)" srcset="{{ images[n].thumbs.L_PNG }}">
+                            <source media="(min-width: 480px)" srcset="{{ images[n].thumbs.L_JPG }}">
+                            <source media="(min-width: 320px)" srcset="{{ images[n].thumbs.M_PNG }}">
+                            <source media="(min-width: 320px)" srcset="{{ images[n].thumbs.M_JPG }}">
+                            <source media="(min-width: 240px)" srcset="{{ images[n].thumbs.S_PNG }}">
+                            <source media="(min-width: 240px)" srcset="{{ images[n].thumbs.S_JPG }}">
+                            <source media="(min-width: 150px)" srcset="{{ images[n].thumbs.XS_PNG }}">
+                            <img src="{{ images[n].thumbs.XS_JPG }}" alt="{{ images[n].alt }}" title="{{ images[n].title }}">
+                        </picture></a>
+                    </div>
+                    {% assign n = n | plus: 1 %}
+                {% endfor %}
+            </div>
+        {% endfor %}
+    {% endif %}
 </div>

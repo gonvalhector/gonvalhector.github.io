@@ -2,3 +2,23 @@ plugins:
     - jekyll-feed
     - jekyll-sitemap
     - jekyll-seo-tag
+
+collections:
+  art_images:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "art_images"
+    values:
+      layout: "images"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "regular"
