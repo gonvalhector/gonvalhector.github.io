@@ -3,15 +3,53 @@ layout: regular
 ---
 
 <h1>{{ page.title }}</h1>
-{% for image in page.images %}
-    <picture>
-        <source media="(min-width: 1080px)" srcset="{{ image.L_PNG }}">
-        <source media="(min-width: 1080x)" srcset="{{ image.L_JPG }}">
-        <source media="(min-width: 750px)" srcset="{{ image.M_PNG }}">
-        <source media="(min-width: 750px)" srcset="{{ image.M_JPG }}">
-        <source media="(min-width: 640px)" srcset="{{ image.S_PNG }}">
-        <source media="(min-width: 640px)" srcset="{{ image.S_JPG }}">
-        <source media="(min-width: 360px)" srcset="{{ image.XS_PNG }}">
-        <img class="my-3 mx-auto d-block" src="{{ image.XS_JPG }}" alt="{{ page.alt }}" title="{{ page.title }}">
-    </picture>
-{% endfor %}
+<div id="carouselCaptions" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        {% assign indicators = page.images | size | minus: 1 %}
+        {% for i in (0..indicators) %}
+            <li data-target="#carouselCaptions" data-slide-to="{{ i }}" {% if i == 0 %}class="active"{% endif %}></li>
+        {% endfor %}
+    </ol>
+    <div class="carousel-inner">
+        {% for image in page.images %}
+            {% if image == page.images[0] %}
+                <div class="carousel-item active">
+            {% else %}
+                <div class="carousel-item">
+            {% endif %}
+                    <picture>
+                        <source media="(min-width: 3840px)" srcset="{{ image.w2160_PNG }}">
+                        <source media="(min-width: 3840px)" srcset="{{ image.w2160_JPG }}">
+                        <source media="(min-width: 2560px)" srcset="{{ image.w1440_PNG }}">
+                        <source media="(min-width: 2560px)" srcset="{{ image.w1440_JPG }}">
+                        <source media="(min-width: 1920px)" srcset="{{ image.w1280_PNG }}">
+                        <source media="(min-width: 1920px)" srcset="{{ image.w1280_JPG }}">
+                        <source media="(min-width: 1024px)" srcset="{{ image.w1024_PNG }}">
+                        <source media="(min-width: 1024px)" srcset="{{ image.w1024_JPG }}">
+                        <source media="(min-width: 768px)" srcset="{{ image.w768_PNG }}">
+                        <source media="(min-width: 768px)" srcset="{{ image.w768_JPG }}">
+                        <source media="(min-width: 600px)" srcset="{{ image.w600_PNG }}">
+                        <source media="(min-width: 600px)" srcset="{{ image.w600_JPG }}">
+                        <source media="(min-width: 411px)" srcset="{{ image.w411_PNG }}">
+                        <source media="(min-width: 411px)" srcset="{{ image.w411_JPG }}">
+                        <source media="(min-width: 360px)" srcset="{{ image.w360_PNG }}">
+                        <source media="(min-width: 360px)" srcset="{{ image.w360_JPG }}">
+                        <source media="(min-width: 240px)" srcset="{{ image.w240_PNG }}">
+                        <img class="my-3 mx-auto d-block" src="{{ image.w240_JPG }}" alt="{{ page.alt }}" title="{{ page.title }}">
+                    </picture>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>{{ image.label }}</h5>
+                        <p>{{ image.caption }}</p>
+                    </div>
+                </div>
+        {% endfor %}
+    </div>
+    <a class="carousel-control-prev" href="#carouselCaptions" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselCaptions" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
