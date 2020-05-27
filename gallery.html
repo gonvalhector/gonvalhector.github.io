@@ -21,7 +21,7 @@ columns: 3
         {% endif %}
         {% assign n = 0 %}
         {% for i in (1..rows) %}
-            <div class="row mr-1 my-2">
+            <div class="row mr-1 my-5">
                 {% for j in (1..columns) %}
                     <div class="col-{{ columns | plus: 1 }}">
                         <a href="{{ images[n].url }}"><picture>

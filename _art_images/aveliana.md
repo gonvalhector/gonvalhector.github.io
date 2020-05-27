@@ -2,6 +2,7 @@
 short_name: aveliana
 title: Aveliana DTIYS
 alt: Pixel art of Aveliana
+video: https://www.youtube.com/embed/EM7HQb9jykw?rel=0
 thumbs:
     w2160_PNG: /assets/images/gallery/thumbs/aveliana/2160.png
     w2160_JPG: /assets/images/gallery/thumbs/aveliana/2160.jpg

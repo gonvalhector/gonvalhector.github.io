@@ -53,3 +53,10 @@ layout: regular
         <span class="sr-only">Next</span>
     </a>
 </div>
+
+{% if page.video %}
+    <h1>Speedpaint Video</h1>
+    <div class="embed-responsive embed-responsive-16by9 my-3">
+        <iframe class="embed-responsive-item" src="{{ page.video }}" allowfullscreen></iframe>
+    </div>
+{% endif %}

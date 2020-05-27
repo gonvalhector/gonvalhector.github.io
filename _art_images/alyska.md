@@ -2,6 +2,7 @@
 short_name: alyska
 title: Alyska Portrait
 alt: Pixel art portrait of Alyska
+video: https://www.youtube.com/embed/rJyZMG6ichQ?rel=0
 thumbs:
     w2160_PNG: /assets/images/gallery/thumbs/alyska/2160.png
     w2160_JPG: /assets/images/gallery/thumbs/alyska/2160.jpg
