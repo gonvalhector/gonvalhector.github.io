@@ -17,13 +17,10 @@ layout: regular
             {% else %}
                 <div class="carousel-item">
             {% endif %}
-                    <picture>
-                        <source media="(min-width: 3840px)" srcset="{{ image.w2160_PNG }}">
-                        <source media="(min-width: 3840px)" srcset="{{ image.w2160_JPG }}">
-                        <source media="(min-width: 2560px)" srcset="{{ image.w1440_PNG }}">
-                        <source media="(min-width: 2560px)" srcset="{{ image.w1440_JPG }}">
-                        <source media="(min-width: 1920px)" srcset="{{ image.w1280_PNG }}">
-                        <source media="(min-width: 1920px)" srcset="{{ image.w1280_JPG }}">
+                    
+                    <a href="{{ image.full }}"><picture>
+                        <source media="(min-width: 1920px)" srcset="{{ image.w1920_PNG }}">
+                        <source media="(min-width: 1920px)" srcset="{{ image.w1920_JPG }}">
                         <source media="(min-width: 1024px)" srcset="{{ image.w1024_PNG }}">
                         <source media="(min-width: 1024px)" srcset="{{ image.w1024_JPG }}">
                         <source media="(min-width: 768px)" srcset="{{ image.w768_PNG }}">
@@ -36,7 +33,7 @@ layout: regular
                         <source media="(min-width: 360px)" srcset="{{ image.w360_JPG }}">
                         <source media="(min-width: 240px)" srcset="{{ image.w240_PNG }}">
                         <img class="my-3 mx-auto d-block" src="{{ image.w240_JPG }}" alt="{{ page.alt }}" title="{{ page.title }}">
-                    </picture>
+                    </picture></a>
                     <div class="carousel-caption d-none d-md-block">
                         <h5>{{ image.label }}</h5>
                         <p>{{ image.caption }}</p>

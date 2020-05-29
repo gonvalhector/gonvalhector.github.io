@@ -25,12 +25,8 @@ columns: 3
                 {% for j in (1..columns) %}
                     <div class="col-{{ columns | plus: 1 }}">
                         <a href="{{ images[n].url }}"><picture>
-                            <source media="(min-width: 3840px)" srcset="{{ images[n].thumbs.w2160_PNG }}">
-                            <source media="(min-width: 3840px)" srcset="{{ images[n].thumbs.w2160_JPG }}">
-                            <source media="(min-width: 2560px)" srcset="{{ images[n].thumbs.w1440_PNG }}">
-                            <source media="(min-width: 2560px)" srcset="{{ images[n].thumbs.w1440_JPG }}">
-                            <source media="(min-width: 1920px)" srcset="{{ images[n].thumbs.w1280_PNG }}">
-                            <source media="(min-width: 1920px)" srcset="{{ images[n].thumbs.w1280_JPG }}">
+                            <source media="(min-width: 1920px)" srcset="{{ images[n].thumbs.w1920_PNG }}">
+                            <source media="(min-width: 1920px)" srcset="{{ images[n].thumbs.w1920_JPG }}">
                             <source media="(min-width: 1024px)" srcset="{{ images[n].thumbs.w1024_PNG }}">
                             <source media="(min-width: 1024px)" srcset="{{ images[n].thumbs.w1024_JPG }}">
                             <source media="(min-width: 768px)" srcset="{{ images[n].thumbs.w768_PNG }}">

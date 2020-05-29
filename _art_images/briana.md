@@ -4,12 +4,8 @@ title: Briana White Portrait
 alt: Pixel art portrait of Briana White
 video: https://www.youtube.com/embed/TBNUxOwNL08?rel=0
 thumbs:
-    w2160_PNG: /assets/images/gallery/thumbs/briana/2160.png
-    w2160_JPG: /assets/images/gallery/thumbs/briana/2160.jpg
-    w1440_PNG: /assets/images/gallery/thumbs/briana/1440.png
-    w1440_JPG: /assets/images/gallery/thumbs/briana/1440.jpg
-    w1280_PNG: /assets/images/gallery/thumbs/briana/1280.png
-    w1280_JPG: /assets/images/gallery/thumbs/briana/1280.jpg
+    w1920_PNG: /assets/images/gallery/thumbs/briana/1920.png
+    w1920_JPG: /assets/images/gallery/thumbs/briana/1920.jpg
     w1024_PNG: /assets/images/gallery/thumbs/briana/1024.png
     w1024_JPG: /assets/images/gallery/thumbs/briana/1024.jpg
     w768_PNG: /assets/images/gallery/thumbs/briana/768.png
@@ -25,12 +21,9 @@ thumbs:
 images:
     - label: Final Version
       caption: Fully rendered with a background.
-      w2160_PNG: /assets/images/gallery/briana/00/2160.png
-      w2160_JPG: /assets/images/gallery/briana/00/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/00/1440.png
-      w1440_JPG: /assets/images/gallery/briana/00/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/00/1280.png
-      w1280_JPG: /assets/images/gallery/briana/00/1280.jpg
+      full: /assets/images/gallery/briana/00/full.png
+      w1920_PNG: /assets/images/gallery/briana/00/1920.png
+      w1920_JPG: /assets/images/gallery/briana/00/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/00/1024.png
       w1024_JPG: /assets/images/gallery/briana/00/1024.jpg
       w768_PNG: /assets/images/gallery/briana/00/768.png
@@ -45,12 +38,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/00/240.jpg
     - label: First Version
       caption: Line art and basic values and colors added.
-      w2160_PNG: /assets/images/gallery/briana/01/2160.png
-      w2160_JPG: /assets/images/gallery/briana/01/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/01/1440.png
-      w1440_JPG: /assets/images/gallery/briana/01/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/01/1280.png
-      w1280_JPG: /assets/images/gallery/briana/01/1280.jpg
+      full: /assets/images/gallery/briana/01/full.png
+      w1920_PNG: /assets/images/gallery/briana/01/1920.png
+      w1920_JPG: /assets/images/gallery/briana/01/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/01/1024.png
       w1024_JPG: /assets/images/gallery/briana/01/1024.jpg
       w768_PNG: /assets/images/gallery/briana/01/768.png
@@ -65,12 +55,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/01/240.jpg
     - label: Second Version
       caption: Basic shading added.
-      w2160_PNG: /assets/images/gallery/briana/02/2160.png
-      w2160_JPG: /assets/images/gallery/briana/02/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/02/1440.png
-      w1440_JPG: /assets/images/gallery/briana/02/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/02/1280.png
-      w1280_JPG: /assets/images/gallery/briana/02/1280.jpg
+      full: /assets/images/gallery/briana/02/full.png
+      w1920_PNG: /assets/images/gallery/briana/02/1920.png
+      w1920_JPG: /assets/images/gallery/briana/02/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/02/1024.png
       w1024_JPG: /assets/images/gallery/briana/02/1024.jpg
       w768_PNG: /assets/images/gallery/briana/02/768.png
@@ -85,12 +72,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/02/240.jpg
     - label: Third Version
       caption: Values replaced for basic colors.
-      w2160_PNG: /assets/images/gallery/briana/03/2160.png
-      w2160_JPG: /assets/images/gallery/briana/03/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/03/1440.png
-      w1440_JPG: /assets/images/gallery/briana/03/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/03/1280.png
-      w1280_JPG: /assets/images/gallery/briana/03/1280.jpg
+      full: /assets/images/gallery/briana/03/full.png
+      w1920_PNG: /assets/images/gallery/briana/03/1920.png
+      w1920_JPG: /assets/images/gallery/briana/03/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/03/1024.png
       w1024_JPG: /assets/images/gallery/briana/03/1024.jpg
       w768_PNG: /assets/images/gallery/briana/03/768.png
@@ -105,12 +89,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/03/240.jpg
     - label: Fourth Version
       caption: Minimal color and shading adjustments.
-      w2160_PNG: /assets/images/gallery/briana/04/2160.png
-      w2160_JPG: /assets/images/gallery/briana/04/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/04/1440.png
-      w1440_JPG: /assets/images/gallery/briana/04/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/04/1280.png
-      w1280_JPG: /assets/images/gallery/briana/04/1280.jpg
+      full: /assets/images/gallery/briana/04/full.png
+      w1920_PNG: /assets/images/gallery/briana/04/1920.png
+      w1920_JPG: /assets/images/gallery/briana/04/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/04/1024.png
       w1024_JPG: /assets/images/gallery/briana/04/1024.jpg
       w768_PNG: /assets/images/gallery/briana/04/768.png
@@ -125,12 +106,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/04/240.jpg
     - label: Fifth Version
       caption: More shading added to the hair.
-      w2160_PNG: /assets/images/gallery/briana/05/2160.png
-      w2160_JPG: /assets/images/gallery/briana/05/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/05/1440.png
-      w1440_JPG: /assets/images/gallery/briana/05/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/05/1280.png
-      w1280_JPG: /assets/images/gallery/briana/05/1280.jpg
+      full: /assets/images/gallery/briana/05/full.png
+      w1920_PNG: /assets/images/gallery/briana/05/1920.png
+      w1920_JPG: /assets/images/gallery/briana/05/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/05/1024.png
       w1024_JPG: /assets/images/gallery/briana/05/1024.jpg
       w768_PNG: /assets/images/gallery/briana/05/768.png
@@ -145,12 +123,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/05/240.jpg
     - label: Sixth Version
       caption: More shading added to the skin.
-      w2160_PNG: /assets/images/gallery/briana/06/2160.png
-      w2160_JPG: /assets/images/gallery/briana/06/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/06/1440.png
-      w1440_JPG: /assets/images/gallery/briana/06/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/06/1280.png
-      w1280_JPG: /assets/images/gallery/briana/06/1280.jpg
+      full: /assets/images/gallery/briana/06/full.png
+      w1920_PNG: /assets/images/gallery/briana/06/1920.png
+      w1920_JPG: /assets/images/gallery/briana/06/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/06/1024.png
       w1024_JPG: /assets/images/gallery/briana/06/1024.jpg
       w768_PNG: /assets/images/gallery/briana/06/768.png
@@ -165,12 +140,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/06/240.jpg
     - label: Seventh Version
       caption: Started shading on the eyes and the lips.
-      w2160_PNG: /assets/images/gallery/briana/07/2160.png
-      w2160_JPG: /assets/images/gallery/briana/07/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/07/1440.png
-      w1440_JPG: /assets/images/gallery/briana/07/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/07/1280.png
-      w1280_JPG: /assets/images/gallery/briana/07/1280.jpg
+      full: /assets/images/gallery/briana/07/full.png
+      w1920_PNG: /assets/images/gallery/briana/07/1920.png
+      w1920_JPG: /assets/images/gallery/briana/07/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/07/1024.png
       w1024_JPG: /assets/images/gallery/briana/07/1024.jpg
       w768_PNG: /assets/images/gallery/briana/07/768.png
@@ -185,12 +157,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/07/240.jpg
     - label: Eighth Version
       caption: First fully rendered version.
-      w2160_PNG: /assets/images/gallery/briana/08/2160.png
-      w2160_JPG: /assets/images/gallery/briana/08/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/08/1440.png
-      w1440_JPG: /assets/images/gallery/briana/08/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/08/1280.png
-      w1280_JPG: /assets/images/gallery/briana/08/1280.jpg
+      full: /assets/images/gallery/briana/08/full.png
+      w1920_PNG: /assets/images/gallery/briana/08/1920.png
+      w1920_JPG: /assets/images/gallery/briana/08/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/08/1024.png
       w1024_JPG: /assets/images/gallery/briana/08/1024.jpg
       w768_PNG: /assets/images/gallery/briana/08/768.png
@@ -205,12 +174,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/08/240.jpg
     - label: Ninth Version
       caption: Last version was not very accurate, so tweaks have been made.
-      w2160_PNG: /assets/images/gallery/briana/09/2160.png
-      w2160_JPG: /assets/images/gallery/briana/09/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/09/1440.png
-      w1440_JPG: /assets/images/gallery/briana/09/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/09/1280.png
-      w1280_JPG: /assets/images/gallery/briana/09/1280.jpg
+      full: /assets/images/gallery/briana/09/full.png
+      w1920_PNG: /assets/images/gallery/briana/09/1920.png
+      w1920_JPG: /assets/images/gallery/briana/09/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/09/1024.png
       w1024_JPG: /assets/images/gallery/briana/09/1024.jpg
       w768_PNG: /assets/images/gallery/briana/09/768.png
@@ -225,12 +191,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/09/240.jpg
     - label: Tenth Version
       caption: Second fully rendered version.
-      w2160_PNG: /assets/images/gallery/briana/10/2160.png
-      w2160_JPG: /assets/images/gallery/briana/10/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/10/1440.png
-      w1440_JPG: /assets/images/gallery/briana/10/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/10/1280.png
-      w1280_JPG: /assets/images/gallery/briana/10/1280.jpg
+      full: /assets/images/gallery/briana/10/full.png
+      w1920_PNG: /assets/images/gallery/briana/10/1920.png
+      w1920_JPG: /assets/images/gallery/briana/10/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/10/1024.png
       w1024_JPG: /assets/images/gallery/briana/10/1024.jpg
       w768_PNG: /assets/images/gallery/briana/10/768.png
@@ -245,12 +208,9 @@ images:
       w240_JPG: /assets/images/gallery/briana/10/240.jpg
     - label: Eleventh Version
       caption: Last version was not enough, so I added a background.
-      w2160_PNG: /assets/images/gallery/briana/11/2160.png
-      w2160_JPG: /assets/images/gallery/briana/11/2160.jpg
-      w1440_PNG: /assets/images/gallery/briana/11/1440.png
-      w1440_JPG: /assets/images/gallery/briana/11/1440.jpg
-      w1280_PNG: /assets/images/gallery/briana/11/1280.png
-      w1280_JPG: /assets/images/gallery/briana/11/1280.jpg
+      full: /assets/images/gallery/briana/11/full.png
+      w1920_PNG: /assets/images/gallery/briana/11/1920.png
+      w1920_JPG: /assets/images/gallery/briana/11/1920.jpg
       w1024_PNG: /assets/images/gallery/briana/11/1024.png
       w1024_JPG: /assets/images/gallery/briana/11/1024.jpg
       w768_PNG: /assets/images/gallery/briana/11/768.png

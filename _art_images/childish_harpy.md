@@ -3,12 +3,8 @@ short_name: childish_harpy
 title: Childish Harpy
 alt: Watercolor painting of a childish harpy
 thumbs:
-    w2160_PNG: /assets/images/gallery/thumbs/childish_harpy/2160.png
-    w2160_JPG: /assets/images/gallery/thumbs/childish_harpy/2160.jpg
-    w1440_PNG: /assets/images/gallery/thumbs/childish_harpy/1440.png
-    w1440_JPG: /assets/images/gallery/thumbs/childish_harpy/1440.jpg
-    w1280_PNG: /assets/images/gallery/thumbs/childish_harpy/1280.png
-    w1280_JPG: /assets/images/gallery/thumbs/childish_harpy/1280.jpg
+    w1920_PNG: /assets/images/gallery/thumbs/childish_harpy/1920.png
+    w1920_JPG: /assets/images/gallery/thumbs/childish_harpy/1920.jpg
     w1024_PNG: /assets/images/gallery/thumbs/childish_harpy/1024.png
     w1024_JPG: /assets/images/gallery/thumbs/childish_harpy/1024.jpg
     w768_PNG: /assets/images/gallery/thumbs/childish_harpy/768.png
@@ -24,12 +20,9 @@ thumbs:
 images:
     - label: Final Version
       caption: Color tone tweaked.
-      w2160_PNG: /assets/images/gallery/childish_harpy/00/2160.png
-      w2160_JPG: /assets/images/gallery/childish_harpy/00/2160.jpg
-      w1440_PNG: /assets/images/gallery/childish_harpy/00/1440.png
-      w1440_JPG: /assets/images/gallery/childish_harpy/00/1440.jpg
-      w1280_PNG: /assets/images/gallery/childish_harpy/00/1280.png
-      w1280_JPG: /assets/images/gallery/childish_harpy/00/1280.jpg
+      full: /assets/images/gallery/childish_harpy/00/full.png
+      w1920_PNG: /assets/images/gallery/childish_harpy/00/1920.png
+      w1920_JPG: /assets/images/gallery/childish_harpy/00/1920.jpg
       w1024_PNG: /assets/images/gallery/childish_harpy/00/1024.png
       w1024_JPG: /assets/images/gallery/childish_harpy/00/1024.jpg
       w768_PNG: /assets/images/gallery/childish_harpy/00/768.png
@@ -44,12 +37,9 @@ images:
       w240_JPG: /assets/images/gallery/childish_harpy/00/240.jpg
     - label: First Version
       caption: Just the line art.
-      w2160_PNG: /assets/images/gallery/childish_harpy/01/2160.png
-      w2160_JPG: /assets/images/gallery/childish_harpy/01/2160.jpg
-      w1440_PNG: /assets/images/gallery/childish_harpy/01/1440.png
-      w1440_JPG: /assets/images/gallery/childish_harpy/01/1440.jpg
-      w1280_PNG: /assets/images/gallery/childish_harpy/01/1280.png
-      w1280_JPG: /assets/images/gallery/childish_harpy/01/1280.jpg
+      full: /assets/images/gallery/childish_harpy/01/full.png
+      w1920_PNG: /assets/images/gallery/childish_harpy/01/1920.png
+      w1920_JPG: /assets/images/gallery/childish_harpy/01/1920.jpg
       w1024_PNG: /assets/images/gallery/childish_harpy/01/1024.png
       w1024_JPG: /assets/images/gallery/childish_harpy/01/1024.jpg
       w768_PNG: /assets/images/gallery/childish_harpy/01/768.png
@@ -64,12 +54,9 @@ images:
       w240_JPG: /assets/images/gallery/childish_harpy/01/240.jpg
     - label: Second Version
       caption: The colors here are similar to the real life version.
-      w2160_PNG: /assets/images/gallery/childish_harpy/02/2160.png
-      w2160_JPG: /assets/images/gallery/childish_harpy/02/2160.jpg
-      w1440_PNG: /assets/images/gallery/childish_harpy/02/1440.png
-      w1440_JPG: /assets/images/gallery/childish_harpy/02/1440.jpg
-      w1280_PNG: /assets/images/gallery/childish_harpy/02/1280.png
-      w1280_JPG: /assets/images/gallery/childish_harpy/02/1280.jpg
+      full: /assets/images/gallery/childish_harpy/02/full.png
+      w1920_PNG: /assets/images/gallery/childish_harpy/02/1920.png
+      w1920_JPG: /assets/images/gallery/childish_harpy/02/1920.jpg
       w1024_PNG: /assets/images/gallery/childish_harpy/02/1024.png
       w1024_JPG: /assets/images/gallery/childish_harpy/02/1024.jpg
       w768_PNG: /assets/images/gallery/childish_harpy/02/768.png

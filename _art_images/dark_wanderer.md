@@ -3,12 +3,8 @@ short_name: dark_wanderer
 title: Dark Wanderer
 alt: Ink sketch of a dark wanderer
 thumbs:
-    w2160_PNG: /assets/images/gallery/thumbs/dark_wanderer/2160.png
-    w2160_JPG: /assets/images/gallery/thumbs/dark_wanderer/2160.jpg
-    w1440_PNG: /assets/images/gallery/thumbs/dark_wanderer/1440.png
-    w1440_JPG: /assets/images/gallery/thumbs/dark_wanderer/1440.jpg
-    w1280_PNG: /assets/images/gallery/thumbs/dark_wanderer/1280.png
-    w1280_JPG: /assets/images/gallery/thumbs/dark_wanderer/1280.jpg
+    w1920_PNG: /assets/images/gallery/thumbs/dark_wanderer/1920.png
+    w1920_JPG: /assets/images/gallery/thumbs/dark_wanderer/1920.jpg
     w1024_PNG: /assets/images/gallery/thumbs/dark_wanderer/1024.png
     w1024_JPG: /assets/images/gallery/thumbs/dark_wanderer/1024.jpg
     w768_PNG: /assets/images/gallery/thumbs/dark_wanderer/768.png
@@ -24,12 +20,9 @@ thumbs:
 images:
     - label: Final Version
       caption: Full height.
-      w2160_PNG: /assets/images/gallery/dark_wanderer/00/2160.png
-      w2160_JPG: /assets/images/gallery/dark_wanderer/00/2160.jpg
-      w1440_PNG: /assets/images/gallery/dark_wanderer/00/1440.png
-      w1440_JPG: /assets/images/gallery/dark_wanderer/00/1440.jpg
-      w1280_PNG: /assets/images/gallery/dark_wanderer/00/1280.png
-      w1280_JPG: /assets/images/gallery/dark_wanderer/00/1280.jpg
+      full: /assets/images/gallery/dark_wanderer/00/full.png
+      w1920_PNG: /assets/images/gallery/dark_wanderer/00/1920.png
+      w1920_JPG: /assets/images/gallery/dark_wanderer/00/1920.jpg
       w1024_PNG: /assets/images/gallery/dark_wanderer/00/1024.png
       w1024_JPG: /assets/images/gallery/dark_wanderer/00/1024.jpg
       w768_PNG: /assets/images/gallery/dark_wanderer/00/768.png

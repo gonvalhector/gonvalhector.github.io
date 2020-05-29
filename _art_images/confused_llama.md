@@ -3,12 +3,8 @@ short_name: confused_llama
 title: Confused Llama
 alt: Ink sketch of a confused llama
 thumbs:
-    w2160_PNG: /assets/images/gallery/thumbs/confused_llama/2160.png
-    w2160_JPG: /assets/images/gallery/thumbs/confused_llama/2160.jpg
-    w1440_PNG: /assets/images/gallery/thumbs/confused_llama/1440.png
-    w1440_JPG: /assets/images/gallery/thumbs/confused_llama/1440.jpg
-    w1280_PNG: /assets/images/gallery/thumbs/confused_llama/1280.png
-    w1280_JPG: /assets/images/gallery/thumbs/confused_llama/1280.jpg
+    w1920_PNG: /assets/images/gallery/thumbs/confused_llama/1920.png
+    w1920_JPG: /assets/images/gallery/thumbs/confused_llama/1920.jpg
     w1024_PNG: /assets/images/gallery/thumbs/confused_llama/1024.png
     w1024_JPG: /assets/images/gallery/thumbs/confused_llama/1024.jpg
     w768_PNG: /assets/images/gallery/thumbs/confused_llama/768.png
@@ -24,12 +20,9 @@ thumbs:
 images:
     - label: Final Version
       caption: Full width, height cropped.
-      w2160_PNG: /assets/images/gallery/confused_llama/00/2160.png
-      w2160_JPG: /assets/images/gallery/confused_llama/00/2160.jpg
-      w1440_PNG: /assets/images/gallery/confused_llama/00/1440.png
-      w1440_JPG: /assets/images/gallery/confused_llama/00/1440.jpg
-      w1280_PNG: /assets/images/gallery/confused_llama/00/1280.png
-      w1280_JPG: /assets/images/gallery/confused_llama/00/1280.jpg
+      full: /assets/images/gallery/confused_llama/00/full.png
+      w1920_PNG: /assets/images/gallery/confused_llama/00/1920.png
+      w1920_JPG: /assets/images/gallery/confused_llama/00/1920.jpg
       w1024_PNG: /assets/images/gallery/confused_llama/00/1024.png
       w1024_JPG: /assets/images/gallery/confused_llama/00/1024.jpg
       w768_PNG: /assets/images/gallery/confused_llama/00/768.png
@@ -44,12 +37,9 @@ images:
       w240_JPG: /assets/images/gallery/confused_llama/00/240.jpg
     - label: Final Version
       caption: Full height.
-      w2160_PNG: /assets/images/gallery/confused_llama/01/2160.png
-      w2160_JPG: /assets/images/gallery/confused_llama/01/2160.jpg
-      w1440_PNG: /assets/images/gallery/confused_llama/01/1440.png
-      w1440_JPG: /assets/images/gallery/confused_llama/01/1440.jpg
-      w1280_PNG: /assets/images/gallery/confused_llama/01/1280.png
-      w1280_JPG: /assets/images/gallery/confused_llama/01/1280.jpg
+      full: /assets/images/gallery/confused_llama/01/full.png
+      w1920_PNG: /assets/images/gallery/confused_llama/01/1920.png
+      w1920_JPG: /assets/images/gallery/confused_llama/01/1920.jpg
       w1024_PNG: /assets/images/gallery/confused_llama/01/1024.png
       w1024_JPG: /assets/images/gallery/confused_llama/01/1024.jpg
       w768_PNG: /assets/images/gallery/confused_llama/01/768.png
