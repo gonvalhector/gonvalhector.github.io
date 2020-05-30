@@ -17,7 +17,6 @@ layout: regular
             {% else %}
                 <div class="carousel-item">
             {% endif %}
-                    
                     <a href="{{ image.full }}"><picture>
                         <source media="(min-width: 1920px)" srcset="{{ image.w1920_PNG }}">
                         <source media="(min-width: 1920px)" srcset="{{ image.w1920_JPG }}">
@@ -35,8 +34,8 @@ layout: regular
                         <img class="my-3 mx-auto d-block" src="{{ image.w240_JPG }}" alt="{{ page.alt }}" title="{{ page.title }}">
                     </picture></a>
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>{{ image.label }}</h5>
-                        <p>{{ image.caption }}</p>
+                        <h5><b>{{ image.label }}</b></h5>
+                        <p><b>{{ image.caption }}</b></p>
                     </div>
                 </div>
         {% endfor %}
@@ -57,3 +56,5 @@ layout: regular
         <iframe class="embed-responsive-item" src="{{ page.video }}" allowfullscreen></iframe>
     </div>
 {% endif %}
+
+<h4><a href="{{ site.baseurl }}{% link gallery.html %}" class="return-link"><img src="/assets/images/icons/return.svg" alt="return icon" title="Return" class="return-icon"> Return to <img src="/assets/images/icons/gallery.svg" alt="gallery icon" title="Gallery" class="return-icon"></a></h4>

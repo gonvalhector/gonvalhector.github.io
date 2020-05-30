@@ -1,14 +1,5 @@
-<div class="card">
-    <div class="card-body">
-        <h2 id="contact" class="text-center"><img id="contact-icon" src="/assets/images/icons/contact.svg" alt="icon"> Contact</h2>
-    </div>
-    <address>
-        <ul class="list-group list-group-flush">
-            {% for item in site.data.contact %}
-                <li class="list-group-item text-center">
-                    <a href="{{ item.link }}" class="item-link"><img src="{{ item.icon }}" class="item-icon mr-3" alt="icon"> {{ item.name }}</a>
-                </li>
-            {% endfor %}
-        </ul>
-    </address>
-</div>
+<address>
+    {% for item in site.data.contact %}
+        <span><a href="{{ item.link }}" class="item-link"><img src="{{ item.icon }}" class="item-icon mr-3" alt="icon" title="{{ item.name }}"></a></span>
+    {% endfor %}
+</address>

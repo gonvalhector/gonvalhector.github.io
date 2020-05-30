@@ -5,7 +5,7 @@ title: home
 
 <h1>Welcome!</h1>
 <p>
-    This is <a href="/about" title="Who am I?">my</a> personal blog and website.
+    This is <a href="{{ site.baseurl }}{% link about.md %}" title="Who am I?">my personal</a> blog and website.
     <br>
-    Feel free to browse around, check my blog posts, projects and gallery.
+    Feel free to browse around, check my <a href="{{ site.baseurl }}{% link blog.html %}" title="My blog">blog posts</a>, <a href="{{ site.baseurl }}{% link projects.md %}" title="My Projects">projects</a> and <a href="{{ site.baseurl }}{% link gallery.html %}" title="My Gallery">gallery</a>.
 </p>

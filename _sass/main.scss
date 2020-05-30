@@ -21,11 +21,13 @@ $shadow: #061019;
 // Filter
 $fltrtxt2: invert(40%) sepia(85%) saturate(7481%) hue-rotate(23deg) brightness(97%) contrast(98%);
 $fltrtxt3: invert(82%) sepia(17%) saturate(1373%) hue-rotate(339deg) brightness(95%) contrast(90%);
+$fltrbgd1: invert(48%) sepia(32%) saturate(4165%) hue-rotate(162deg) brightness(96%) contrast(101%);
 
 body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    margin-bottom: 56.77px;
     background-color: $bgd1;
     color: $txt1;
     header {
@@ -50,16 +52,11 @@ body {
                         filter: $fltrtxt3;
                     }
                 }
-                .nav-item:hover {
+                .nav-item:hover, .active {
                     color: $txt2;
+                    text-shadow: 1px 1px 1px $shadow;
                     .nav-icon {
-                        filter: $fltrtxt2;
-                    }
-                }
-                .active {
-                    color: $txt2;
-                    .nav-icon {
-                        filter: $fltrtxt2;
+                        filter: $fltrtxt2 drop-shadow(1px 1px 1px $shadow);
                     }
                 }
             }
@@ -83,39 +80,54 @@ body {
             width: 3vh;
             height: auto;
         }
+        .return-link {
+            color: $txt3;
+            .return-icon {
+                filter: $fltrtxt3;
+            }
+        }
+        .return-link:hover {
+            color: $txt2;
+            text-shadow: 1px 1px 1px $shadow;
+            .return-icon {
+                filter: $fltrtxt2 drop-shadow(1px 1px 1px $shadow);
+            }
+        }
+        @media (min-width: 1920px) {
+            .carousel-inner .carousel-item img {
+                height: 72vh;
+                width: auto;
+            }
+        }
+        .carousel-caption {
+            color: $txt1;
+            text-shadow: 1px 1px 1px $shadow;
+        }
+        .carousel-control-next-icon, .carousel-control-prev-icon {
+            filter: $fltrbgd1 opacity(100%);
+        }
+        .carousel-indicators {
+            li {
+                filter: $fltrbgd1 opacity(100%);
+            }
+        }
     }
+
     footer {
         width: 100%;
-        margin-bottom: 3vh;
-        .card {
-            margin: auto;
-            width: 83.33%;
-            background-color: $bgd2;
-            box-shadow: 1px 2px 2px 0.5px $shadow;
-            .list-group {
-                .list-group-item {
-                    background-color: $bgd2;
-                    border-color: $bgd3;
-                    .item-link {
-                        color: $txt3;
-                        .item-icon {
-                            filter: $fltrtxt3;
-                        }
-                    }
-                    .item-link:hover {
-                        color: $txt2;
-                        .item-icon {
-                            filter: $fltrtxt2;
-                        }
-                    }
-                }
+        position: fixed;
+        bottom: 0;
+        background-color: $bgd2;
+        box-shadow: 0px -2px 2px 0.5px $shadow;
+        z-index: 16;
+        .item-link {
+            .item-icon {
+                filter: $fltrtxt3;
             }
-            #contact {
-                color: $txt2;
-                text-shadow: 1px 1px 1px $shadow;
-                #contact-icon {
-                    filter: $fltrtxt2;
-                }
+        }
+        .item-link:hover {
+            .item-icon {
+                filter: $fltrtxt2 drop-shadow(1px 1px 1px $shadow);
             }
         }
     }
