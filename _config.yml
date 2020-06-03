@@ -6,8 +6,15 @@ plugins:
 collections:
   art_images:
     output: true
+  projects:
+    output: true
 
 defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "regular"
   - scope:
       path: ""
       type: "art_images"

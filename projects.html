@@ -1,0 +1,49 @@
+---
+layout: default
+title: projects
+columns: 3
+---
+
+<div class="container">
+    {% if site.projects  %}
+        <div class="row">
+            <div class="col">
+                <h1>Web Apps</h1>
+            </div>
+        </div>
+        {% assign projects = site.projects %}
+        {% assign total = projects | size %}
+        {% assign columns = page.columns %}
+        {% assign rows = total | divided_by: columns %}
+        {% assign leftovers = total | modulo: columns %}
+        {% if leftovers > 0 %}
+            {% assign rows = rows | plus: 1 %}
+        {% endif %}
+        {% assign n = 0 %}
+        {% for i in (1..rows) %}
+            <div class="row mr-1 my-5">
+                {% for j in (1..columns) %}
+                    <div class="col-{{ columns | plus: 1 }}">
+                        <a href="{{ projects[n].url }}"><picture>
+                            <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.w1920_PNG }}">
+                            <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.w1920_JPG }}">
+                            <source media="(min-width: 1024px)" srcset="{{ projects[n].thumbs.w1024_PNG }}">
+                            <source media="(min-width: 1024px)" srcset="{{ projects[n].thumbs.w1024_JPG }}">
+                            <source media="(min-width: 768px)" srcset="{{ projects[n].thumbs.w768_PNG }}">
+                            <source media="(min-width: 768px)" srcset="{{ projects[n].thumbs.w768_JPG }}">
+                            <source media="(min-width: 600px)" srcset="{{ projects[n].thumbs.w600_PNG }}">
+                            <source media="(min-width: 600px)" srcset="{{ projects[n].thumbs.w600_JPG }}">
+                            <source media="(min-width: 411px)" srcset="{{ projects[n].thumbs.w411_PNG }}">
+                            <source media="(min-width: 411px)" srcset="{{ projects[n].thumbs.w411_JPG }}">
+                            <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.w360_PNG }}">
+                            <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.w360_JPG }}">
+                            <source media="(min-width: 240px)" srcset="{{ projects[n].thumbs.w240_PNG }}">
+                            <img src="{{ projects[n].thumbs.w240_JPG }}" alt="{{ projects[n].alt }}" title="{{ projects[n].title }}">
+                        </picture></a>
+                    </div>
+                    {% assign n = n | plus: 1 %}
+                {% endfor %}
+            </div>
+        {% endfor %}
+    {% endif %}
+</div>
