@@ -18,19 +18,42 @@ layout: regular
                 <div class="carousel-item">
             {% endif %}
                     <a href="{{ image.full }}"><picture>
-                        <source media="(min-width: 1920px)" srcset="{{ image.w1920_PNG }}">
-                        <source media="(min-width: 1920px)" srcset="{{ image.w1920_JPG }}">
-                        <source media="(min-width: 1024px)" srcset="{{ image.w1024_PNG }}">
-                        <source media="(min-width: 1024px)" srcset="{{ image.w1024_JPG }}">
-                        <source media="(min-width: 768px)" srcset="{{ image.w768_PNG }}">
-                        <source media="(min-width: 768px)" srcset="{{ image.w768_JPG }}">
-                        <source media="(min-width: 600px)" srcset="{{ image.w600_PNG }}">
-                        <source media="(min-width: 600px)" srcset="{{ image.w600_JPG }}">
-                        <source media="(min-width: 411px)" srcset="{{ image.w411_PNG }}">
-                        <source media="(min-width: 411px)" srcset="{{ image.w411_JPG }}">
-                        <source media="(min-width: 360px)" srcset="{{ image.w360_PNG }}">
-                        <source media="(min-width: 360px)" srcset="{{ image.w360_JPG }}">
-                        <source media="(min-width: 240px)" srcset="{{ image.w240_PNG }}">
+                        {% if image.w1920_GIF %}
+                            <source media="(min-width: 1920px)" srcset="{{ image.w1920_GIF }}">
+                            <source media="(min-width: 1920px)" srcset="{{ image.w1920_PNG }}">
+                            <source media="(min-width: 1920px)" srcset="{{ image.w1920_JPG }}">
+                            <source media="(min-width: 1024px)" srcset="{{ image.w1024_GIF }}">
+                            <source media="(min-width: 1024px)" srcset="{{ image.w1024_PNG }}">
+                            <source media="(min-width: 1024px)" srcset="{{ image.w1024_JPG }}">
+                            <source media="(min-width: 768px)" srcset="{{ image.w768_GIF }}">
+                            <source media="(min-width: 768px)" srcset="{{ image.w768_PNG }}">
+                            <source media="(min-width: 768px)" srcset="{{ image.w768_JPG }}">
+                            <source media="(min-width: 600px)" srcset="{{ image.w600_GIF }}">
+                            <source media="(min-width: 600px)" srcset="{{ image.w600_PNG }}">
+                            <source media="(min-width: 600px)" srcset="{{ image.w600_JPG }}">
+                            <source media="(min-width: 411px)" srcset="{{ image.w411_GIF }}">
+                            <source media="(min-width: 411px)" srcset="{{ image.w411_PNG }}">
+                            <source media="(min-width: 411px)" srcset="{{ image.w411_JPG }}">
+                            <source media="(min-width: 360px)" srcset="{{ image.w360_GIF }}">
+                            <source media="(min-width: 360px)" srcset="{{ image.w360_PNG }}">
+                            <source media="(min-width: 360px)" srcset="{{ image.w360_JPG }}">
+                            <source media="(min-width: 240px)" srcset="{{ image.w240_GIF }}">
+                            <source media="(min-width: 240px)" srcset="{{ image.w240_PNG }}">
+                        {% else %}
+                            <source media="(min-width: 1920px)" srcset="{{ image.w1920_PNG }}">
+                            <source media="(min-width: 1920px)" srcset="{{ image.w1920_JPG }}">
+                            <source media="(min-width: 1024px)" srcset="{{ image.w1024_PNG }}">
+                            <source media="(min-width: 1024px)" srcset="{{ image.w1024_JPG }}">
+                            <source media="(min-width: 768px)" srcset="{{ image.w768_PNG }}">
+                            <source media="(min-width: 768px)" srcset="{{ image.w768_JPG }}">
+                            <source media="(min-width: 600px)" srcset="{{ image.w600_PNG }}">
+                            <source media="(min-width: 600px)" srcset="{{ image.w600_JPG }}">
+                            <source media="(min-width: 411px)" srcset="{{ image.w411_PNG }}">
+                            <source media="(min-width: 411px)" srcset="{{ image.w411_JPG }}">
+                            <source media="(min-width: 360px)" srcset="{{ image.w360_PNG }}">
+                            <source media="(min-width: 360px)" srcset="{{ image.w360_JPG }}">
+                            <source media="(min-width: 240px)" srcset="{{ image.w240_PNG }}">
+                        {% endif %}
                         <img class="my-3 mx-auto d-block" src="{{ image.w240_JPG }}" alt="{{ page.alt }}" title="{{ page.title }}">
                     </picture></a>
                     <div class="carousel-caption d-none d-md-block">
@@ -56,5 +79,3 @@ layout: regular
         <iframe class="embed-responsive-item" src="{{ page.video }}" allowfullscreen></iframe>
     </div>
 {% endif %}
-
-<h4><a href="{{ site.baseurl }}{% link gallery.html %}" class="return-link"><img src="/assets/images/icons/return.svg" alt="return icon" title="Return" class="return-icon"> Return to <img src="/assets/images/icons/gallery.svg" alt="gallery icon" title="Gallery" class="return-icon"></a></h4>

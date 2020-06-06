@@ -9,7 +9,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
         <div class="navbar-nav ml-auto">
             {% for item in site.data.navigation %}
-                <a class="nav-item nav-link{% if page.url == item.link %} active{% endif %}" href="{{ item.link }}"><img src="{{ item.icon }}" class="nav-icon" alt="icon"> {{ item.name }}<span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link{% if page.url == item.link %} active{% endif %}" href="{{ item.link }}"><img src="{{ item.icon }}" class="nav-icon" alt="{{ item.name }} icon"> {{ item.name }}<span class="sr-only">(current)</span></a>
             {% endfor %}
         </div>
     </div>

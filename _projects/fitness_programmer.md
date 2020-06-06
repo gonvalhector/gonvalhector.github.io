@@ -21,9 +21,15 @@ thumbs:
 ---
 # {{ page.title }}
 
-Fitness Programmer is a [Heroku](https://www.heroku.com/) web application made
-with [Django](https://www.djangoproject.com/) that allows users to add exercise
+Fitness Programmer will be a [Heroku](https://www.heroku.com/) web application made
+with [Django](https://www.djangoproject.com/) that will allow users to add exercise
 routines, record their training sessions and keep track of their progress.
+
+More information on the original version down below.
+
+# Older Version
+
+Originally developed as a final project for the [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2020/notes/0/) course, it was a web application made using Flask and a PostgreSQL database.
 
 <div class="embed-responsive embed-responsive-16by9 my-3">
     <iframe class="embed-responsive-item" src="{{ page.video }}" allowfullscreen></iframe>

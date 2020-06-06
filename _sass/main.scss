@@ -80,19 +80,6 @@ body {
             width: 3vh;
             height: auto;
         }
-        .return-link {
-            color: $txt3;
-            .return-icon {
-                filter: $fltrtxt3;
-            }
-        }
-        .return-link:hover {
-            color: $txt2;
-            text-shadow: 1px 1px 1px $shadow;
-            .return-icon {
-                filter: $fltrtxt2 drop-shadow(1px 1px 1px $shadow);
-            }
-        }
         @media (min-width: 1920px) {
             .carousel-inner .carousel-item img {
                 height: 72vh;
@@ -117,9 +104,11 @@ body {
         width: 100%;
         position: fixed;
         bottom: 0;
-        background-color: $bgd2;
-        box-shadow: 0px -2px 2px 0.5px $shadow;
-        z-index: 16;
+        .contact {
+            background-color: $bgd2;
+            box-shadow: 0px -2px 2px 0.5px $shadow;
+            z-index: 16;
+        }
         .item-link {
             .item-icon {
                 filter: $fltrtxt3;
