@@ -1,9 +1,9 @@
 - title: Gallery
-  url: art_images/
-  link: /gallery.html
+  url: /art_images/
+  link: /gallery/
 - title: Projects
-  url: projects/
-  link: /projects.html
+  url: /project/
+  link: /projects/
 - title: Blog
-  url: posts/
-  link: /blog.html
+  url: /posts/
+  link: /blog/

@@ -3,13 +3,15 @@ plugins:
     - jekyll-sitemap
     - jekyll-seo-tag
 
+permalink: pretty
+
 collections:
   art_images:
     output: true
     permalink: /:collection/:title
   projects:
     output: true
-    permalink: /:collection/:title
+    permalink: /project/:title
   posts:
     output: true
     permalink: /:collection/:categories/:year/:month/:day/:title
