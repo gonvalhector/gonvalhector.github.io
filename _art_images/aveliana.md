@@ -22,46 +22,29 @@ images:
     - label: Animated Version
       caption: This loop was made to convey the atmosphere I wanted to represent.
       full: /assets/images/gallery/aveliana/000/full.gif
-      w1920_GIF: /assets/images/gallery/aveliana/000/1920.gif
-      w1920_PNG: /assets/images/gallery/aveliana/000/1920.png
-      w1920_JPG: /assets/images/gallery/aveliana/000/1920.jpg
-      w1024_GIF: /assets/images/gallery/aveliana/000/1024.gif
-      w1024_PNG: /assets/images/gallery/aveliana/000/1024.png
-      w1024_JPG: /assets/images/gallery/aveliana/000/1024.jpg
-      w768_GIF: /assets/images/gallery/aveliana/000/768.gif
-      w768_PNG: /assets/images/gallery/aveliana/000/768.png
-      w768_JPG: /assets/images/gallery/aveliana/000/768.jpg
-      w600_GIF: /assets/images/gallery/aveliana/000/600.gif
-      w600_PNG: /assets/images/gallery/aveliana/000/600.png
-      w600_JPG: /assets/images/gallery/aveliana/000/600.jpg
-      w411_GIF: /assets/images/gallery/aveliana/000/411.gif
-      w411_PNG: /assets/images/gallery/aveliana/000/411.png
-      w411_JPG: /assets/images/gallery/aveliana/000/411.jpg
-      w360_GIF: /assets/images/gallery/aveliana/000/360.gif
-      w360_PNG: /assets/images/gallery/aveliana/000/360.png
-      w360_JPG: /assets/images/gallery/aveliana/000/360.jpg
-      w240_GIF: /assets/images/gallery/aveliana/000/240.gif
-      w240_PNG: /assets/images/gallery/aveliana/000/240.png
-      w240_JPG: /assets/images/gallery/aveliana/000/240.jpg
-    - label: Final Version
-      caption: Fully rendered, shading and colors slightly tweaked.
-      full: /assets/images/gallery/aveliana/00/full.png
+      w1920_GIF: /assets/images/gallery/aveliana/00/1920.gif
       w1920_PNG: /assets/images/gallery/aveliana/00/1920.png
       w1920_JPG: /assets/images/gallery/aveliana/00/1920.jpg
+      w1024_GIF: /assets/images/gallery/aveliana/00/1024.gif
       w1024_PNG: /assets/images/gallery/aveliana/00/1024.png
       w1024_JPG: /assets/images/gallery/aveliana/00/1024.jpg
+      w768_GIF: /assets/images/gallery/aveliana/00/768.gif
       w768_PNG: /assets/images/gallery/aveliana/00/768.png
       w768_JPG: /assets/images/gallery/aveliana/00/768.jpg
+      w600_GIF: /assets/images/gallery/aveliana/00/600.gif
       w600_PNG: /assets/images/gallery/aveliana/00/600.png
       w600_JPG: /assets/images/gallery/aveliana/00/600.jpg
+      w411_GIF: /assets/images/gallery/aveliana/00/411.gif
       w411_PNG: /assets/images/gallery/aveliana/00/411.png
       w411_JPG: /assets/images/gallery/aveliana/00/411.jpg
+      w360_GIF: /assets/images/gallery/aveliana/00/360.gif
       w360_PNG: /assets/images/gallery/aveliana/00/360.png
       w360_JPG: /assets/images/gallery/aveliana/00/360.jpg
+      w240_GIF: /assets/images/gallery/aveliana/00/240.gif
       w240_PNG: /assets/images/gallery/aveliana/00/240.png
       w240_JPG: /assets/images/gallery/aveliana/00/240.jpg
-    - label: First Version
-      caption: Just Aveliana's line art and basic colors.
+    - label: Final Version
+      caption: Fully rendered, shading and colors slightly tweaked.
       full: /assets/images/gallery/aveliana/01/full.png
       w1920_PNG: /assets/images/gallery/aveliana/01/1920.png
       w1920_JPG: /assets/images/gallery/aveliana/01/1920.jpg
@@ -77,8 +60,8 @@ images:
       w360_JPG: /assets/images/gallery/aveliana/01/360.jpg
       w240_PNG: /assets/images/gallery/aveliana/01/240.png
       w240_JPG: /assets/images/gallery/aveliana/01/240.jpg
-    - label: Second Version
-      caption: Line art and basic colors added for the monster. Cape and corrections added to Aveliana.
+    - label: First Version
+      caption: Just Aveliana's line art and basic colors.
       full: /assets/images/gallery/aveliana/02/full.png
       w1920_PNG: /assets/images/gallery/aveliana/02/1920.png
       w1920_JPG: /assets/images/gallery/aveliana/02/1920.jpg
@@ -94,8 +77,8 @@ images:
       w360_JPG: /assets/images/gallery/aveliana/02/360.jpg
       w240_PNG: /assets/images/gallery/aveliana/02/240.png
       w240_JPG: /assets/images/gallery/aveliana/02/240.jpg
-    - label: Third Version
-      caption: Line art and basic colors added for the background. Basic shading for Aveliana.
+    - label: Second Version
+      caption: Line art and basic colors added for the monster. Cape and corrections added to Aveliana.
       full: /assets/images/gallery/aveliana/03/full.png
       w1920_PNG: /assets/images/gallery/aveliana/03/1920.png
       w1920_JPG: /assets/images/gallery/aveliana/03/1920.jpg
@@ -111,8 +94,8 @@ images:
       w360_JPG: /assets/images/gallery/aveliana/03/360.jpg
       w240_PNG: /assets/images/gallery/aveliana/03/240.png
       w240_JPG: /assets/images/gallery/aveliana/03/240.jpg
-    - label: Fourth Version
-      caption: Shading added to the rest of the picture.
+    - label: Third Version
+      caption: Line art and basic colors added for the background. Basic shading for Aveliana.
       full: /assets/images/gallery/aveliana/04/full.png
       w1920_PNG: /assets/images/gallery/aveliana/04/1920.png
       w1920_JPG: /assets/images/gallery/aveliana/04/1920.jpg
@@ -128,8 +111,8 @@ images:
       w360_JPG: /assets/images/gallery/aveliana/04/360.jpg
       w240_PNG: /assets/images/gallery/aveliana/04/240.png
       w240_JPG: /assets/images/gallery/aveliana/04/240.jpg
-    - label: Fifth Version
-      caption: Basic shading for the grass and tree leaves added.
+    - label: Fourth Version
+      caption: Shading added to the rest of the picture.
       full: /assets/images/gallery/aveliana/05/full.png
       w1920_PNG: /assets/images/gallery/aveliana/05/1920.png
       w1920_JPG: /assets/images/gallery/aveliana/05/1920.jpg
@@ -145,8 +128,8 @@ images:
       w360_JPG: /assets/images/gallery/aveliana/05/360.jpg
       w240_PNG: /assets/images/gallery/aveliana/05/240.png
       w240_JPG: /assets/images/gallery/aveliana/05/240.jpg
-    - label: Sixth Version
-      caption: Shading completed for Aveliana and the monster. Highlights added.
+    - label: Fifth Version
+      caption: Basic shading for the grass and tree leaves added.
       full: /assets/images/gallery/aveliana/06/full.png
       w1920_PNG: /assets/images/gallery/aveliana/06/1920.png
       w1920_JPG: /assets/images/gallery/aveliana/06/1920.jpg
@@ -162,8 +145,8 @@ images:
       w360_JPG: /assets/images/gallery/aveliana/06/360.jpg
       w240_PNG: /assets/images/gallery/aveliana/06/240.png
       w240_JPG: /assets/images/gallery/aveliana/06/240.jpg
-    - label: Seventh Version
-      caption: First fully rendered version.
+    - label: Sixth Version
+      caption: Shading completed for Aveliana and the monster. Highlights added.
       full: /assets/images/gallery/aveliana/07/full.png
       w1920_PNG: /assets/images/gallery/aveliana/07/1920.png
       w1920_JPG: /assets/images/gallery/aveliana/07/1920.jpg
@@ -179,4 +162,21 @@ images:
       w360_JPG: /assets/images/gallery/aveliana/07/360.jpg
       w240_PNG: /assets/images/gallery/aveliana/07/240.png
       w240_JPG: /assets/images/gallery/aveliana/07/240.jpg
+    - label: Seventh Version
+      caption: First fully rendered version.
+      full: /assets/images/gallery/aveliana/08/full.png
+      w1920_PNG: /assets/images/gallery/aveliana/08/1920.png
+      w1920_JPG: /assets/images/gallery/aveliana/08/1920.jpg
+      w1024_PNG: /assets/images/gallery/aveliana/08/1024.png
+      w1024_JPG: /assets/images/gallery/aveliana/08/1024.jpg
+      w768_PNG: /assets/images/gallery/aveliana/08/768.png
+      w768_JPG: /assets/images/gallery/aveliana/08/768.jpg
+      w600_PNG: /assets/images/gallery/aveliana/08/600.png
+      w600_JPG: /assets/images/gallery/aveliana/08/600.jpg
+      w411_PNG: /assets/images/gallery/aveliana/08/411.png
+      w411_JPG: /assets/images/gallery/aveliana/08/411.jpg
+      w360_PNG: /assets/images/gallery/aveliana/08/360.png
+      w360_JPG: /assets/images/gallery/aveliana/08/360.jpg
+      w240_PNG: /assets/images/gallery/aveliana/08/240.png
+      w240_JPG: /assets/images/gallery/aveliana/08/240.jpg
 ---

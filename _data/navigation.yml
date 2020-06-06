@@ -2,14 +2,14 @@
   link: /
   icon: /assets/images/icons/home.svg
 - name: blog
-  link: blog.html
+  link: /blog.html
   icon: /assets/images/icons/blog.svg
 - name: projects
-  link: projects.html
+  link: /projects.html
   icon: /assets/images/icons/projects.svg
 - name: gallery
-  link: gallery.html
+  link: /gallery.html
   icon: /assets/images/icons/gallery.svg
 - name: about
-  link: about.html
+  link: /about.html
   icon: /assets/images/icons/about.svg
