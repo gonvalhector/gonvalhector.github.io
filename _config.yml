@@ -3,8 +3,6 @@ plugins:
     - jekyll-sitemap
     - jekyll-seo-tag
 
-permalink: pretty
-
 collections:
   art_images:
     output: true
