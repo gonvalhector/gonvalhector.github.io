@@ -1,5 +1,5 @@
 {% for item in site.data.return %}
     {% if page.url contains item.url %}
-        <span><a href="{{ site.baseurl }}{% link {{ item.link }} %}" class="item-link"><img src="/assets/images/icons/return.svg" class="item-icon mr-3" alt="return icon" title="Return to {{ item.title }}"></a></span>
+        <span><a href="{{ item.link }}" class="item-link"><img src="/assets/images/icons/return.svg" class="item-icon mr-3" alt="return icon" title="Return to {{ item.title }}"></a></span>
     {% endif %}
 {% endfor %}
