@@ -104,10 +104,10 @@ body {
         width: 100%;
         position: fixed;
         bottom: 0;
+        z-index: 20;
         .contact {
             background-color: $bgd2;
             box-shadow: 0px -2px 2px 0.5px $shadow;
-            z-index: 16;
         }
         .item-link {
             .item-icon {

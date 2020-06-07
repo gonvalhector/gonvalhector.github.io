@@ -21,7 +21,7 @@ thumbs:
 images:
     - label: Animated Version
       caption: This loop was made to convey the atmosphere I wanted to represent.
-      full: /assets/images/gallery/aveliana/000/full.gif
+      full: /assets/images/gallery/aveliana/00/full.gif
       w1920_GIF: /assets/images/gallery/aveliana/00/1920.gif
       w1920_PNG: /assets/images/gallery/aveliana/00/1920.png
       w1920_JPG: /assets/images/gallery/aveliana/00/1920.jpg
