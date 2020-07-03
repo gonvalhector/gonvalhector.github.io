@@ -3,36 +3,36 @@ short_name: dogo
 title: Dogo
 alt: Watercolor painting of a dog
 thumbs:
-    w1920_PNG: /assets/images/gallery/thumbs/dogo/1920.png
-    w1920_JPG: /assets/images/gallery/thumbs/dogo/1920.jpg
-    w1024_PNG: /assets/images/gallery/thumbs/dogo/1024.png
-    w1024_JPG: /assets/images/gallery/thumbs/dogo/1024.jpg
-    w768_PNG: /assets/images/gallery/thumbs/dogo/768.png
-    w768_JPG: /assets/images/gallery/thumbs/dogo/768.jpg
-    w600_PNG: /assets/images/gallery/thumbs/dogo/600.png
-    w600_JPG: /assets/images/gallery/thumbs/dogo/600.jpg
-    w411_PNG: /assets/images/gallery/thumbs/dogo/411.png
-    w411_JPG: /assets/images/gallery/thumbs/dogo/411.jpg
-    w360_PNG: /assets/images/gallery/thumbs/dogo/360.png
-    w360_JPG: /assets/images/gallery/thumbs/dogo/360.jpg
-    w240_PNG: /assets/images/gallery/thumbs/dogo/240.png
-    w240_JPG: /assets/images/gallery/thumbs/dogo/240.jpg
+    w1920_PNG: https://lh3.googleusercontent.com/NA5vzVYS0ujG2-zkk2gUhsUuUt1jo7t0bUiOZPaSplJ5A5AbyB_pO2lT240K3jds3zPXUXe1HR2MJkHSP1H0jwYeJMylzYgiYTzNd1XpOlZOMhabJxqUSunzC0DYCX59LvFluX8udw=w355
+    w1920_JPG: https://lh3.googleusercontent.com/a_-MZoorFD4qKKHGcj-ylzE_qQ6AozeKE3W2UOxyCCBwbZ2TZt-IW1f2EUoWoyvJDWz92WRztdfTM9F3kZiZFV6-L5wcz420ll3oxmplgJON-sQRR9ZfSTVs1dTsTGX0HgAG-9G2zA=w355
+    w1024_PNG: https://lh3.googleusercontent.com/NA5vzVYS0ujG2-zkk2gUhsUuUt1jo7t0bUiOZPaSplJ5A5AbyB_pO2lT240K3jds3zPXUXe1HR2MJkHSP1H0jwYeJMylzYgiYTzNd1XpOlZOMhabJxqUSunzC0DYCX59LvFluX8udw=w284
+    w1024_JPG: https://lh3.googleusercontent.com/a_-MZoorFD4qKKHGcj-ylzE_qQ6AozeKE3W2UOxyCCBwbZ2TZt-IW1f2EUoWoyvJDWz92WRztdfTM9F3kZiZFV6-L5wcz420ll3oxmplgJON-sQRR9ZfSTVs1dTsTGX0HgAG-9G2zA=w284
+    w768_PNG: https://lh3.googleusercontent.com/NA5vzVYS0ujG2-zkk2gUhsUuUt1jo7t0bUiOZPaSplJ5A5AbyB_pO2lT240K3jds3zPXUXe1HR2MJkHSP1H0jwYeJMylzYgiYTzNd1XpOlZOMhabJxqUSunzC0DYCX59LvFluX8udw=w213
+    w768_JPG: https://lh3.googleusercontent.com/a_-MZoorFD4qKKHGcj-ylzE_qQ6AozeKE3W2UOxyCCBwbZ2TZt-IW1f2EUoWoyvJDWz92WRztdfTM9F3kZiZFV6-L5wcz420ll3oxmplgJON-sQRR9ZfSTVs1dTsTGX0HgAG-9G2zA=w213
+    w600_PNG: https://lh3.googleusercontent.com/NA5vzVYS0ujG2-zkk2gUhsUuUt1jo7t0bUiOZPaSplJ5A5AbyB_pO2lT240K3jds3zPXUXe1HR2MJkHSP1H0jwYeJMylzYgiYTzNd1XpOlZOMhabJxqUSunzC0DYCX59LvFluX8udw=w166
+    w600_JPG: https://lh3.googleusercontent.com/a_-MZoorFD4qKKHGcj-ylzE_qQ6AozeKE3W2UOxyCCBwbZ2TZt-IW1f2EUoWoyvJDWz92WRztdfTM9F3kZiZFV6-L5wcz420ll3oxmplgJON-sQRR9ZfSTVs1dTsTGX0HgAG-9G2zA=w166
+    w411_PNG: https://lh3.googleusercontent.com/NA5vzVYS0ujG2-zkk2gUhsUuUt1jo7t0bUiOZPaSplJ5A5AbyB_pO2lT240K3jds3zPXUXe1HR2MJkHSP1H0jwYeJMylzYgiYTzNd1XpOlZOMhabJxqUSunzC0DYCX59LvFluX8udw=w114
+    w411_JPG: https://lh3.googleusercontent.com/a_-MZoorFD4qKKHGcj-ylzE_qQ6AozeKE3W2UOxyCCBwbZ2TZt-IW1f2EUoWoyvJDWz92WRztdfTM9F3kZiZFV6-L5wcz420ll3oxmplgJON-sQRR9ZfSTVs1dTsTGX0HgAG-9G2zA=w114
+    w360_PNG: https://lh3.googleusercontent.com/NA5vzVYS0ujG2-zkk2gUhsUuUt1jo7t0bUiOZPaSplJ5A5AbyB_pO2lT240K3jds3zPXUXe1HR2MJkHSP1H0jwYeJMylzYgiYTzNd1XpOlZOMhabJxqUSunzC0DYCX59LvFluX8udw=w100
+    w360_JPG: https://lh3.googleusercontent.com/a_-MZoorFD4qKKHGcj-ylzE_qQ6AozeKE3W2UOxyCCBwbZ2TZt-IW1f2EUoWoyvJDWz92WRztdfTM9F3kZiZFV6-L5wcz420ll3oxmplgJON-sQRR9ZfSTVs1dTsTGX0HgAG-9G2zA=w100
+    w240_PNG: https://lh3.googleusercontent.com/NA5vzVYS0ujG2-zkk2gUhsUuUt1jo7t0bUiOZPaSplJ5A5AbyB_pO2lT240K3jds3zPXUXe1HR2MJkHSP1H0jwYeJMylzYgiYTzNd1XpOlZOMhabJxqUSunzC0DYCX59LvFluX8udw=w66
+    w240_JPG: https://lh3.googleusercontent.com/a_-MZoorFD4qKKHGcj-ylzE_qQ6AozeKE3W2UOxyCCBwbZ2TZt-IW1f2EUoWoyvJDWz92WRztdfTM9F3kZiZFV6-L5wcz420ll3oxmplgJON-sQRR9ZfSTVs1dTsTGX0HgAG-9G2zA=w66
 images:
     - label: Final Version
       caption: Quick watercolor and ink sketch.
-      full: /assets/images/gallery/dogo/00/full.png
-      w1920_PNG: /assets/images/gallery/dogo/00/1920.png
-      w1920_JPG: /assets/images/gallery/dogo/00/1920.jpg
-      w1024_PNG: /assets/images/gallery/dogo/00/1024.png
-      w1024_JPG: /assets/images/gallery/dogo/00/1024.jpg
-      w768_PNG: /assets/images/gallery/dogo/00/768.png
-      w768_JPG: /assets/images/gallery/dogo/00/768.jpg
-      w600_PNG: /assets/images/gallery/dogo/00/600.png
-      w600_JPG: /assets/images/gallery/dogo/00/600.jpg
-      w411_PNG: /assets/images/gallery/dogo/00/411.png
-      w411_JPG: /assets/images/gallery/dogo/00/411.jpg
-      w360_PNG: /assets/images/gallery/dogo/00/360.png
-      w360_JPG: /assets/images/gallery/dogo/00/360.jpg
-      w240_PNG: /assets/images/gallery/dogo/00/240.png
-      w240_JPG: /assets/images/gallery/dogo/00/240.jpg
+      full: https://lh3.googleusercontent.com/m71V8zp1BWAY9_oNNEVT6QJeODIVevBnr8u7YQHjm-9ihqcmWY5fDMNEwqh_jhHIqPPuRh0docdpgaoel2_svafWhe7iEtY3edfgWn5mJqxPv4YZzrVAtaRalpORc916d6eK8kF_tw=w1080-h1080
+      w1920_PNG: https://lh3.googleusercontent.com/LmF5_0xt2rarft6kjrav3nHj2ygszY4Sa566Wq_F_d-nKbsSVY8w6qDH_Vr5LMhlpl3T1wpcG5oTFrmF433t9Ypc2ouv4-1kAHj1gsR1ZlwMwRhj_XuDtYFP-ewHXTT-1e2H217MRg=w850
+      w1920_JPG: https://lh3.googleusercontent.com/hEq9JAacNEweeQWnjDxK1yYP1CCfMrXUsJIWt9nKTLGynWQsEDwwnXsMsddgSLE4Q4DvDcz5IzgOr9Ob4jxj4UAU5kSIMvtP3E6o4A8ZHIgV_0W2Klugxx0CXPquwC6wI4NXT-q4_w=w850
+      w1024_PNG: https://lh3.googleusercontent.com/LmF5_0xt2rarft6kjrav3nHj2ygszY4Sa566Wq_F_d-nKbsSVY8w6qDH_Vr5LMhlpl3T1wpcG5oTFrmF433t9Ypc2ouv4-1kAHj1gsR1ZlwMwRhj_XuDtYFP-ewHXTT-1e2H217MRg=w711
+      w1024_JPG: https://lh3.googleusercontent.com/hEq9JAacNEweeQWnjDxK1yYP1CCfMrXUsJIWt9nKTLGynWQsEDwwnXsMsddgSLE4Q4DvDcz5IzgOr9Ob4jxj4UAU5kSIMvtP3E6o4A8ZHIgV_0W2Klugxx0CXPquwC6wI4NXT-q4_w=w711
+      w768_PNG: https://lh3.googleusercontent.com/LmF5_0xt2rarft6kjrav3nHj2ygszY4Sa566Wq_F_d-nKbsSVY8w6qDH_Vr5LMhlpl3T1wpcG5oTFrmF433t9Ypc2ouv4-1kAHj1gsR1ZlwMwRhj_XuDtYFP-ewHXTT-1e2H217MRg=w533
+      w768_JPG: https://lh3.googleusercontent.com/hEq9JAacNEweeQWnjDxK1yYP1CCfMrXUsJIWt9nKTLGynWQsEDwwnXsMsddgSLE4Q4DvDcz5IzgOr9Ob4jxj4UAU5kSIMvtP3E6o4A8ZHIgV_0W2Klugxx0CXPquwC6wI4NXT-q4_w=w533
+      w600_PNG: https://lh3.googleusercontent.com/LmF5_0xt2rarft6kjrav3nHj2ygszY4Sa566Wq_F_d-nKbsSVY8w6qDH_Vr5LMhlpl3T1wpcG5oTFrmF433t9Ypc2ouv4-1kAHj1gsR1ZlwMwRhj_XuDtYFP-ewHXTT-1e2H217MRg=w416
+      w600_JPG: https://lh3.googleusercontent.com/hEq9JAacNEweeQWnjDxK1yYP1CCfMrXUsJIWt9nKTLGynWQsEDwwnXsMsddgSLE4Q4DvDcz5IzgOr9Ob4jxj4UAU5kSIMvtP3E6o4A8ZHIgV_0W2Klugxx0CXPquwC6wI4NXT-q4_w=w416
+      w411_PNG: https://lh3.googleusercontent.com/LmF5_0xt2rarft6kjrav3nHj2ygszY4Sa566Wq_F_d-nKbsSVY8w6qDH_Vr5LMhlpl3T1wpcG5oTFrmF433t9Ypc2ouv4-1kAHj1gsR1ZlwMwRhj_XuDtYFP-ewHXTT-1e2H217MRg=w285
+      w411_JPG: https://lh3.googleusercontent.com/hEq9JAacNEweeQWnjDxK1yYP1CCfMrXUsJIWt9nKTLGynWQsEDwwnXsMsddgSLE4Q4DvDcz5IzgOr9Ob4jxj4UAU5kSIMvtP3E6o4A8ZHIgV_0W2Klugxx0CXPquwC6wI4NXT-q4_w=w285
+      w360_PNG: https://lh3.googleusercontent.com/LmF5_0xt2rarft6kjrav3nHj2ygszY4Sa566Wq_F_d-nKbsSVY8w6qDH_Vr5LMhlpl3T1wpcG5oTFrmF433t9Ypc2ouv4-1kAHj1gsR1ZlwMwRhj_XuDtYFP-ewHXTT-1e2H217MRg=w250
+      w360_JPG: https://lh3.googleusercontent.com/hEq9JAacNEweeQWnjDxK1yYP1CCfMrXUsJIWt9nKTLGynWQsEDwwnXsMsddgSLE4Q4DvDcz5IzgOr9Ob4jxj4UAU5kSIMvtP3E6o4A8ZHIgV_0W2Klugxx0CXPquwC6wI4NXT-q4_w=w250
+      w240_PNG: https://lh3.googleusercontent.com/LmF5_0xt2rarft6kjrav3nHj2ygszY4Sa566Wq_F_d-nKbsSVY8w6qDH_Vr5LMhlpl3T1wpcG5oTFrmF433t9Ypc2ouv4-1kAHj1gsR1ZlwMwRhj_XuDtYFP-ewHXTT-1e2H217MRg=w166
+      w240_JPG: https://lh3.googleusercontent.com/hEq9JAacNEweeQWnjDxK1yYP1CCfMrXUsJIWt9nKTLGynWQsEDwwnXsMsddgSLE4Q4DvDcz5IzgOr9Ob4jxj4UAU5kSIMvtP3E6o4A8ZHIgV_0W2Klugxx0CXPquwC6wI4NXT-q4_w=w166
 ---

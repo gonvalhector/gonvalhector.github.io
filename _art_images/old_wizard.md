@@ -3,36 +3,36 @@ short_name: old_wizard
 title: Old Wizard and his Projection
 alt: Watercolor painting of an old wizard and his projection
 thumbs:
-    w1920_PNG: /assets/images/gallery/thumbs/old_wizard/1920.png
-    w1920_JPG: /assets/images/gallery/thumbs/old_wizard/1920.jpg
-    w1024_PNG: /assets/images/gallery/thumbs/old_wizard/1024.png
-    w1024_JPG: /assets/images/gallery/thumbs/old_wizard/1024.jpg
-    w768_PNG: /assets/images/gallery/thumbs/old_wizard/768.png
-    w768_JPG: /assets/images/gallery/thumbs/old_wizard/768.jpg
-    w600_PNG: /assets/images/gallery/thumbs/old_wizard/600.png
-    w600_JPG: /assets/images/gallery/thumbs/old_wizard/600.jpg
-    w411_PNG: /assets/images/gallery/thumbs/old_wizard/411.png
-    w411_JPG: /assets/images/gallery/thumbs/old_wizard/411.jpg
-    w360_PNG: /assets/images/gallery/thumbs/old_wizard/360.png
-    w360_JPG: /assets/images/gallery/thumbs/old_wizard/360.jpg
-    w240_PNG: /assets/images/gallery/thumbs/old_wizard/240.png
-    w240_JPG: /assets/images/gallery/thumbs/old_wizard/240.jpg
+    w1920_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w355
+    w1920_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w355
+    w1024_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w284
+    w1024_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w284
+    w768_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w213
+    w768_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w213
+    w600_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w166
+    w600_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w166
+    w411_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w114
+    w411_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w114
+    w360_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w100
+    w360_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w100
+    w240_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w66
+    w240_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w66
 images:
     - label: Final Version
       caption: Fully rendered.
-      full: /assets/images/gallery/old_wizard/00/full.png
-      w1920_PNG: /assets/images/gallery/old_wizard/00/1920.png
-      w1920_JPG: /assets/images/gallery/old_wizard/00/1920.jpg
-      w1024_PNG: /assets/images/gallery/old_wizard/00/1024.png
-      w1024_JPG: /assets/images/gallery/old_wizard/00/1024.jpg
-      w768_PNG: /assets/images/gallery/old_wizard/00/768.png
-      w768_JPG: /assets/images/gallery/old_wizard/00/768.jpg
-      w600_PNG: /assets/images/gallery/old_wizard/00/600.png
-      w600_JPG: /assets/images/gallery/old_wizard/00/600.jpg
-      w411_PNG: /assets/images/gallery/old_wizard/00/411.png
-      w411_JPG: /assets/images/gallery/old_wizard/00/411.jpg
-      w360_PNG: /assets/images/gallery/old_wizard/00/360.png
-      w360_JPG: /assets/images/gallery/old_wizard/00/360.jpg
-      w240_PNG: /assets/images/gallery/old_wizard/00/240.png
-      w240_JPG: /assets/images/gallery/old_wizard/00/240.jpg
+      full: https://lh3.googleusercontent.com/QG2hNX_BHFRPSAaEcSdJI7i2ORBP_eR6iTFWuaNpZcT6xHd238UDp_f57kWHhv82Wpq-DxzJNz841Gr8PURJsr5A08OfZ3Eo6A7_ieRIu097uAGasMFxfuF44kfjZUCI-5LTRzAAag=w1080-h1080
+      w1920_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w850
+      w1920_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w850
+      w1024_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w711
+      w1024_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w711
+      w768_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w533
+      w768_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w533
+      w600_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w416
+      w600_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w416
+      w411_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w285
+      w411_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w285
+      w360_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w250
+      w360_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w250
+      w240_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w166
+      w240_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w166
 ---

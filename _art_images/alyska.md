@@ -4,8 +4,8 @@ title: Alyska Portrait
 alt: Pixel art portrait of Alyska
 video: https://www.youtube.com/embed/rJyZMG6ichQ?rel=0
 thumbs:
-    w1920_PNG: https://lh3.googleusercontent.com/EQbiamx8ST5wtYdb1-wzDhwUa1lVBDrKKg-OkLYFYPHLMqKP-Wcm_koVZqW22IpUMZX3pYMKvDO3FwVn9grTjPbjSBeAErZNMgZpvze8vZ6aqujTbEoYD0WHOmDLj8t26VybkFh52w=w2400
-    w1920_JPG: https://lh3.googleusercontent.com/s-_Frt5fGO3dun0SXaYHG7W0M8zMsh7pF18eNvFlZg6EYbDpC3_-rJs2YEWsJPkpygE237xRvQYev_EX5t21YxjlqVpzdp7bfb6JhON6UpTx8ZqLZCINgHlKJvO0ymjU0ryTrWCSrA=w2400
+    w1920_PNG: https://lh3.googleusercontent.com/EQbiamx8ST5wtYdb1-wzDhwUa1lVBDrKKg-OkLYFYPHLMqKP-Wcm_koVZqW22IpUMZX3pYMKvDO3FwVn9grTjPbjSBeAErZNMgZpvze8vZ6aqujTbEoYD0WHOmDLj8t26VybkFh52w=w355
+    w1920_JPG: https://lh3.googleusercontent.com/s-_Frt5fGO3dun0SXaYHG7W0M8zMsh7pF18eNvFlZg6EYbDpC3_-rJs2YEWsJPkpygE237xRvQYev_EX5t21YxjlqVpzdp7bfb6JhON6UpTx8ZqLZCINgHlKJvO0ymjU0ryTrWCSrA=w355
     w1024_PNG: https://lh3.googleusercontent.com/EQbiamx8ST5wtYdb1-wzDhwUa1lVBDrKKg-OkLYFYPHLMqKP-Wcm_koVZqW22IpUMZX3pYMKvDO3FwVn9grTjPbjSBeAErZNMgZpvze8vZ6aqujTbEoYD0WHOmDLj8t26VybkFh52w=w284
     w1024_JPG: https://lh3.googleusercontent.com/s-_Frt5fGO3dun0SXaYHG7W0M8zMsh7pF18eNvFlZg6EYbDpC3_-rJs2YEWsJPkpygE237xRvQYev_EX5t21YxjlqVpzdp7bfb6JhON6UpTx8ZqLZCINgHlKJvO0ymjU0ryTrWCSrA=w284
     w768_PNG: https://lh3.googleusercontent.com/EQbiamx8ST5wtYdb1-wzDhwUa1lVBDrKKg-OkLYFYPHLMqKP-Wcm_koVZqW22IpUMZX3pYMKvDO3FwVn9grTjPbjSBeAErZNMgZpvze8vZ6aqujTbEoYD0WHOmDLj8t26VybkFh52w=w213
@@ -22,8 +22,8 @@ images:
     - label: Final Version
       caption: Fully rendered, earring corrected.
       full: https://lh3.googleusercontent.com/MV5KNDDZLuhYnKL9Uyjx2QDy3XwZSYJUkCCHrVm8SVIn6bVaaN4vBymrt0BztO46iiVyeUwwRHNMVd3OQ3a-otbEWGR-6m3gU0YXvfNyJ6aExKrnThgsCC5OmgO9E_yQ24k23uWsmA=w2400
-      w1920_PNG: https://lh3.googleusercontent.com/B_o2o-VeOE4rfAbmgvPQIA9-kepzCsQVzpQPP7DCmoPDyehCyhIzEReKIHQyb4U6xIWZLlsreGasq_dxYjc5dqBdtFYivqvOaWDIS3Gfo8AYDkCWJT_4U-km4E1mihGwCQ0qQofTrQ=w2400
-      w1920_JPG: https://lh3.googleusercontent.com/tz6gHpQ4V1s-DsT9ZaF991DXCPUQMDfVh7KMr4mvsZSBswtkeeM6nq3_GkWOfx02_tl5ZAJHFV1nOkl1sOo_FUaKOAOL-IfhFlQhpMDl0oS475OT1U8B78KTrpurAxl4cYtSX37iTQ=w2400
+      w1920_PNG: https://lh3.googleusercontent.com/B_o2o-VeOE4rfAbmgvPQIA9-kepzCsQVzpQPP7DCmoPDyehCyhIzEReKIHQyb4U6xIWZLlsreGasq_dxYjc5dqBdtFYivqvOaWDIS3Gfo8AYDkCWJT_4U-km4E1mihGwCQ0qQofTrQ=w850
+      w1920_JPG: https://lh3.googleusercontent.com/tz6gHpQ4V1s-DsT9ZaF991DXCPUQMDfVh7KMr4mvsZSBswtkeeM6nq3_GkWOfx02_tl5ZAJHFV1nOkl1sOo_FUaKOAOL-IfhFlQhpMDl0oS475OT1U8B78KTrpurAxl4cYtSX37iTQ=w850
       w1024_PNG: https://lh3.googleusercontent.com/B_o2o-VeOE4rfAbmgvPQIA9-kepzCsQVzpQPP7DCmoPDyehCyhIzEReKIHQyb4U6xIWZLlsreGasq_dxYjc5dqBdtFYivqvOaWDIS3Gfo8AYDkCWJT_4U-km4E1mihGwCQ0qQofTrQ=w711
       w1024_JPG: https://lh3.googleusercontent.com/tz6gHpQ4V1s-DsT9ZaF991DXCPUQMDfVh7KMr4mvsZSBswtkeeM6nq3_GkWOfx02_tl5ZAJHFV1nOkl1sOo_FUaKOAOL-IfhFlQhpMDl0oS475OT1U8B78KTrpurAxl4cYtSX37iTQ=w711
       w768_PNG: https://lh3.googleusercontent.com/B_o2o-VeOE4rfAbmgvPQIA9-kepzCsQVzpQPP7DCmoPDyehCyhIzEReKIHQyb4U6xIWZLlsreGasq_dxYjc5dqBdtFYivqvOaWDIS3Gfo8AYDkCWJT_4U-km4E1mihGwCQ0qQofTrQ=w533
@@ -39,8 +39,8 @@ images:
     - label: First Version
       caption: Just the line art and basic values.
       full: https://lh3.googleusercontent.com/Y4eizyjG0XVxhWTxasivrGa4XgMozD2pt02k-pNaGV2KbvNTkpi2sI7FAaiHbtcaqiB9K63Z86knWk0e6KYLxhHkcTVA3KpoKpD-oICkBGW06ihXepUSlYOItfZVURGWLFg3Ks4dQg=w2400
-      w1920_PNG: https://lh3.googleusercontent.com/o8C-OCmyjrwMdsMEiJ9bphN8aK9L-jqT3kz0abajbHBTlgchAjMfD_bpogABeEqGBRWfuWJ8jk5Xmo8Ng9V2D7QdeoS3py8kwau7JlYk-_-7Sz-1Dp0LnBsMOI_S2winQSrsnUf7eg=w2400
-      w1920_JPG: https://lh3.googleusercontent.com/VvIGnEVEJjRaQTrwKu8yTiEnMGTbV8rGlfr6heyq9NpunXcP0P9l0Uo1iLK8oVeqUkVd2X9tIIXFT1bGQAzhtyy13laZbpTFEizb2qHV3wAaTEJh4HoPpRo-QW_6s41NFoqAqJswYA=w2400
+      w1920_PNG: https://lh3.googleusercontent.com/o8C-OCmyjrwMdsMEiJ9bphN8aK9L-jqT3kz0abajbHBTlgchAjMfD_bpogABeEqGBRWfuWJ8jk5Xmo8Ng9V2D7QdeoS3py8kwau7JlYk-_-7Sz-1Dp0LnBsMOI_S2winQSrsnUf7eg=w850
+      w1920_JPG: https://lh3.googleusercontent.com/VvIGnEVEJjRaQTrwKu8yTiEnMGTbV8rGlfr6heyq9NpunXcP0P9l0Uo1iLK8oVeqUkVd2X9tIIXFT1bGQAzhtyy13laZbpTFEizb2qHV3wAaTEJh4HoPpRo-QW_6s41NFoqAqJswYA=w850
       w1024_PNG: https://lh3.googleusercontent.com/o8C-OCmyjrwMdsMEiJ9bphN8aK9L-jqT3kz0abajbHBTlgchAjMfD_bpogABeEqGBRWfuWJ8jk5Xmo8Ng9V2D7QdeoS3py8kwau7JlYk-_-7Sz-1Dp0LnBsMOI_S2winQSrsnUf7eg=w711
       w1024_JPG: https://lh3.googleusercontent.com/VvIGnEVEJjRaQTrwKu8yTiEnMGTbV8rGlfr6heyq9NpunXcP0P9l0Uo1iLK8oVeqUkVd2X9tIIXFT1bGQAzhtyy13laZbpTFEizb2qHV3wAaTEJh4HoPpRo-QW_6s41NFoqAqJswYA=w711
       w768_PNG: https://lh3.googleusercontent.com/o8C-OCmyjrwMdsMEiJ9bphN8aK9L-jqT3kz0abajbHBTlgchAjMfD_bpogABeEqGBRWfuWJ8jk5Xmo8Ng9V2D7QdeoS3py8kwau7JlYk-_-7Sz-1Dp0LnBsMOI_S2winQSrsnUf7eg=w533
@@ -56,8 +56,8 @@ images:
     - label: Second Version
       caption: Basic shading added to the hair.
       full: https://lh3.googleusercontent.com/e-lqXlVk561oxy0biMeVCqkWhvILlgphpvFTCz-gDLVZ9guFDUKupm6OQXYGxnU3WwrU7vbshbpfguO9BQmqxjLApGlg7EHtVUliD9pTebSh-YFXbI8Sn6CHsUVsA6ZAMf4qEsST1g=w2400
-      w1920_PNG: https://lh3.googleusercontent.com/5kwDl9tO3Sv3yabnc9zIWEl05H6g0n0yIelOlzvbujsgtuo9jT8dWMqjWAK_esmdsbr93QDEe7IRkCJ4N-3MbQTOZortrQZ5dSaHOzBPIMeshKM5vJOB94ekMz6y4g5h3oOSTThoyw=w2400
-      w1920_JPG: https://lh3.googleusercontent.com/Rn_kmHUjQEMVj7koAO9yqpY4d_P6i89ISMIIcs7pcRmQPbRGFNIY6BFxUuxPv3b7-NQFBvIC4w5Z-pEkgXM-bZWo7LjchpXmxAlUvoJJEXQhE_MJiKFhlR19E5JdgFHGuPX9Cy-e6Q=w2400
+      w1920_PNG: https://lh3.googleusercontent.com/5kwDl9tO3Sv3yabnc9zIWEl05H6g0n0yIelOlzvbujsgtuo9jT8dWMqjWAK_esmdsbr93QDEe7IRkCJ4N-3MbQTOZortrQZ5dSaHOzBPIMeshKM5vJOB94ekMz6y4g5h3oOSTThoyw=w850
+      w1920_JPG: https://lh3.googleusercontent.com/Rn_kmHUjQEMVj7koAO9yqpY4d_P6i89ISMIIcs7pcRmQPbRGFNIY6BFxUuxPv3b7-NQFBvIC4w5Z-pEkgXM-bZWo7LjchpXmxAlUvoJJEXQhE_MJiKFhlR19E5JdgFHGuPX9Cy-e6Q=w850
       w1024_PNG: https://lh3.googleusercontent.com/5kwDl9tO3Sv3yabnc9zIWEl05H6g0n0yIelOlzvbujsgtuo9jT8dWMqjWAK_esmdsbr93QDEe7IRkCJ4N-3MbQTOZortrQZ5dSaHOzBPIMeshKM5vJOB94ekMz6y4g5h3oOSTThoyw=w711
       w1024_JPG: https://lh3.googleusercontent.com/Rn_kmHUjQEMVj7koAO9yqpY4d_P6i89ISMIIcs7pcRmQPbRGFNIY6BFxUuxPv3b7-NQFBvIC4w5Z-pEkgXM-bZWo7LjchpXmxAlUvoJJEXQhE_MJiKFhlR19E5JdgFHGuPX9Cy-e6Q=w711
       w768_PNG: https://lh3.googleusercontent.com/5kwDl9tO3Sv3yabnc9zIWEl05H6g0n0yIelOlzvbujsgtuo9jT8dWMqjWAK_esmdsbr93QDEe7IRkCJ4N-3MbQTOZortrQZ5dSaHOzBPIMeshKM5vJOB94ekMz6y4g5h3oOSTThoyw=w533
@@ -73,8 +73,8 @@ images:
     - label: Third Version
       caption: Basic colors added and shading on the face.
       full: https://lh3.googleusercontent.com/E7AZTVIGfB2-kEhbwf2CHg55WaklcQB1N71KwqT-nNIxRRKZipdIV7a_IEEBrgNepRoXTxZRrMhlzmyFkDTC8GHFPHlPr4YTFNfYN07xZ5W5zWAwFFwCj1HVOXDiPbYp8vOpr2Qe3A=w2400
-      w1920_PNG: https://lh3.googleusercontent.com/R4n9jNetom3PLBs6xXfXjcA7DgyN367V4NGwb5MZiebEeK7ibMrUYoSKgp8HctjGbtZq3lCBP8xuZe6GMTNXIvFaVCrwLu1-LoPM8IZ2TKOSnHy5sxPS1prtkp3dXkNOaNFuYpr-Ng=w2400
-      w1920_JPG: https://lh3.googleusercontent.com/ggJ2QeFV6Tr_MpH-T3MZvWX9_FAYgOBSVsdHdc7znIuRWTxkzMhDAD3tHlpftVWOYd8kydVRhg1zmxrt2bY4Azo6v5hib86VbR329wl88fSQzS2PwWpATISWLbz_lHWq1dZH3X3ceA=w2400
+      w1920_PNG: https://lh3.googleusercontent.com/R4n9jNetom3PLBs6xXfXjcA7DgyN367V4NGwb5MZiebEeK7ibMrUYoSKgp8HctjGbtZq3lCBP8xuZe6GMTNXIvFaVCrwLu1-LoPM8IZ2TKOSnHy5sxPS1prtkp3dXkNOaNFuYpr-Ng=w850
+      w1920_JPG: https://lh3.googleusercontent.com/ggJ2QeFV6Tr_MpH-T3MZvWX9_FAYgOBSVsdHdc7znIuRWTxkzMhDAD3tHlpftVWOYd8kydVRhg1zmxrt2bY4Azo6v5hib86VbR329wl88fSQzS2PwWpATISWLbz_lHWq1dZH3X3ceA=w850
       w1024_PNG: https://lh3.googleusercontent.com/R4n9jNetom3PLBs6xXfXjcA7DgyN367V4NGwb5MZiebEeK7ibMrUYoSKgp8HctjGbtZq3lCBP8xuZe6GMTNXIvFaVCrwLu1-LoPM8IZ2TKOSnHy5sxPS1prtkp3dXkNOaNFuYpr-Ng=w711
       w1024_JPG: https://lh3.googleusercontent.com/ggJ2QeFV6Tr_MpH-T3MZvWX9_FAYgOBSVsdHdc7znIuRWTxkzMhDAD3tHlpftVWOYd8kydVRhg1zmxrt2bY4Azo6v5hib86VbR329wl88fSQzS2PwWpATISWLbz_lHWq1dZH3X3ceA=w711
       w768_PNG: https://lh3.googleusercontent.com/R4n9jNetom3PLBs6xXfXjcA7DgyN367V4NGwb5MZiebEeK7ibMrUYoSKgp8HctjGbtZq3lCBP8xuZe6GMTNXIvFaVCrwLu1-LoPM8IZ2TKOSnHy5sxPS1prtkp3dXkNOaNFuYpr-Ng=w533
@@ -90,8 +90,8 @@ images:
     - label: Fourth Version
       caption: Shading added to the rest of the skin.
       full: https://lh3.googleusercontent.com/l5VBJsIytE4V-tJEJ40e7N_THOT28Mt-6WyEe0abp_JV6aafwbv5APeIc5wzb3Jibr2Rkx0b59Fkw38s0M_OCHaQpJ8w1MQbkp1mzdWfYW40_wmfYAA3MOym-M53ojh4nGP5oEvaiQ=w2400
-      w1920_PNG: https://lh3.googleusercontent.com/612FzWNocECf5ziqrOxtatZsqeApP2I9vbN0Z6JSN-QP3NGvPWttFpFzBIKWcse2qJVFb6VSiNf_AhMixpNQ8QCALUFfCFY4yb8VhhHj6LYXg6xYIJgPmhw52Yql0msVQU-70ZlrPQ=w2400
-      w1920_JPG: https://lh3.googleusercontent.com/HT14Ak3C7WGz_6EuGuJXJ4nUgpFt5-aBdVqzOM_8QQIZCpUU7_smNTHBf6pT_0yLk9kcEv-q1Ss-7IgkDgzsNx_M-TdhqFY0G82p1mf9y22eEM4-hKWIqSHco8qoVPxGBDQqEG0LHQ=w2400
+      w1920_PNG: https://lh3.googleusercontent.com/612FzWNocECf5ziqrOxtatZsqeApP2I9vbN0Z6JSN-QP3NGvPWttFpFzBIKWcse2qJVFb6VSiNf_AhMixpNQ8QCALUFfCFY4yb8VhhHj6LYXg6xYIJgPmhw52Yql0msVQU-70ZlrPQ=w850
+      w1920_JPG: https://lh3.googleusercontent.com/HT14Ak3C7WGz_6EuGuJXJ4nUgpFt5-aBdVqzOM_8QQIZCpUU7_smNTHBf6pT_0yLk9kcEv-q1Ss-7IgkDgzsNx_M-TdhqFY0G82p1mf9y22eEM4-hKWIqSHco8qoVPxGBDQqEG0LHQ=w850
       w1024_PNG: https://lh3.googleusercontent.com/612FzWNocECf5ziqrOxtatZsqeApP2I9vbN0Z6JSN-QP3NGvPWttFpFzBIKWcse2qJVFb6VSiNf_AhMixpNQ8QCALUFfCFY4yb8VhhHj6LYXg6xYIJgPmhw52Yql0msVQU-70ZlrPQ=w711
       w1024_JPG: https://lh3.googleusercontent.com/HT14Ak3C7WGz_6EuGuJXJ4nUgpFt5-aBdVqzOM_8QQIZCpUU7_smNTHBf6pT_0yLk9kcEv-q1Ss-7IgkDgzsNx_M-TdhqFY0G82p1mf9y22eEM4-hKWIqSHco8qoVPxGBDQqEG0LHQ=w711
       w768_PNG: https://lh3.googleusercontent.com/612FzWNocECf5ziqrOxtatZsqeApP2I9vbN0Z6JSN-QP3NGvPWttFpFzBIKWcse2qJVFb6VSiNf_AhMixpNQ8QCALUFfCFY4yb8VhhHj6LYXg6xYIJgPmhw52Yql0msVQU-70ZlrPQ=w533
@@ -107,8 +107,8 @@ images:
     - label: Fifth Version
       caption: Shading and highlights completed.
       full: https://lh3.googleusercontent.com/AJ504pHeOm7tnNEGnUs5BYMdhIFhIXpZqXPX4-iCvJI7jdaXlPb4mUNjRBYXOi1hzMvFuDSEDZ4179RiJfPYs9dSu6lwzjotKNvnURL6sBN7E2-du6FrlQlMqOD7dBrd3ahI0Z6YpA=w2400
-      w1920_PNG: https://lh3.googleusercontent.com/DHsZhl8yHxXvnX2Ksk2a8PVza0Ikuvg8uQUSutKGlDxHY0Uc7mkNHur3uCkrFElsn4T1hbRHLKl86BEua1cOs3_z2YmSGJegmLbr6WpPtP1NHbaKofgE2CxDTLw_Z8Ssa8lo6DYvig=w2400
-      w1920_JPG: https://lh3.googleusercontent.com/NvUn373MTrMk-wRWu0XrlRn1Z1Q3c6zToprMGH-790nULst88UtxjAyXYMA0WyQGCdwDpIAuWqxgDIKP6Nouux629WgcwrCl_ZcfNHDvqPXCBuKuTXLXkw5mkhpFEb9tDch6Wk2-Ew=w2400
+      w1920_PNG: https://lh3.googleusercontent.com/DHsZhl8yHxXvnX2Ksk2a8PVza0Ikuvg8uQUSutKGlDxHY0Uc7mkNHur3uCkrFElsn4T1hbRHLKl86BEua1cOs3_z2YmSGJegmLbr6WpPtP1NHbaKofgE2CxDTLw_Z8Ssa8lo6DYvig=w850
+      w1920_JPG: https://lh3.googleusercontent.com/NvUn373MTrMk-wRWu0XrlRn1Z1Q3c6zToprMGH-790nULst88UtxjAyXYMA0WyQGCdwDpIAuWqxgDIKP6Nouux629WgcwrCl_ZcfNHDvqPXCBuKuTXLXkw5mkhpFEb9tDch6Wk2-Ew=w850
       w1024_PNG: https://lh3.googleusercontent.com/DHsZhl8yHxXvnX2Ksk2a8PVza0Ikuvg8uQUSutKGlDxHY0Uc7mkNHur3uCkrFElsn4T1hbRHLKl86BEua1cOs3_z2YmSGJegmLbr6WpPtP1NHbaKofgE2CxDTLw_Z8Ssa8lo6DYvig=w711
       w1024_JPG: https://lh3.googleusercontent.com/NvUn373MTrMk-wRWu0XrlRn1Z1Q3c6zToprMGH-790nULst88UtxjAyXYMA0WyQGCdwDpIAuWqxgDIKP6Nouux629WgcwrCl_ZcfNHDvqPXCBuKuTXLXkw5mkhpFEb9tDch6Wk2-Ew=w711
       w768_PNG: https://lh3.googleusercontent.com/DHsZhl8yHxXvnX2Ksk2a8PVza0Ikuvg8uQUSutKGlDxHY0Uc7mkNHur3uCkrFElsn4T1hbRHLKl86BEua1cOs3_z2YmSGJegmLbr6WpPtP1NHbaKofgE2CxDTLw_Z8Ssa8lo6DYvig=w533

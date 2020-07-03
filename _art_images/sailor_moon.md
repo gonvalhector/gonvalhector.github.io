@@ -3,53 +3,53 @@ short_name: sailor_moon
 title: Sailor Moon DTIYS
 alt: Pixel art of Sailor Moon
 thumbs:
-    w1920_PNG: /assets/images/gallery/thumbs/sailor_moon/1920.png
-    w1920_JPG: /assets/images/gallery/thumbs/sailor_moon/1920.jpg
-    w1024_PNG: /assets/images/gallery/thumbs/sailor_moon/1024.png
-    w1024_JPG: /assets/images/gallery/thumbs/sailor_moon/1024.jpg
-    w768_PNG: /assets/images/gallery/thumbs/sailor_moon/768.png
-    w768_JPG: /assets/images/gallery/thumbs/sailor_moon/768.jpg
-    w600_PNG: /assets/images/gallery/thumbs/sailor_moon/600.png
-    w600_JPG: /assets/images/gallery/thumbs/sailor_moon/600.jpg
-    w411_PNG: /assets/images/gallery/thumbs/sailor_moon/411.png
-    w411_JPG: /assets/images/gallery/thumbs/sailor_moon/411.jpg
-    w360_PNG: /assets/images/gallery/thumbs/sailor_moon/360.png
-    w360_JPG: /assets/images/gallery/thumbs/sailor_moon/360.jpg
-    w240_PNG: /assets/images/gallery/thumbs/sailor_moon/240.png
-    w240_JPG: /assets/images/gallery/thumbs/sailor_moon/240.jpg
+    w1920_PNG: https://lh3.googleusercontent.com/0E7EQBavfo2FVkwheuc09wZbUae57FRhaaHn3-C1TSyQUXmFhTJtAhEp1WAzm7iPPLohhDQETJ6EJ1_RXMOOhUuLszmjshsY56DRFVZViGzmhm7JjXGHtGxBPdcsFOji9G8oVoyu0g=w355
+    w1920_JPG: https://lh3.googleusercontent.com/Hnm9X6KC1Hw3KsyPvOIRi5AAAQEifWTUOidBSFvnY1vCUCtr6Q1GvjXcOXQHOr22yubmUxv0O2tDCGNhXHu8MVtZMhr5IA-BpBnTYRenRTcqEXbK1pq1izdNbrLDs0AfXWmOYL1EEw=w355
+    w1024_PNG: https://lh3.googleusercontent.com/0E7EQBavfo2FVkwheuc09wZbUae57FRhaaHn3-C1TSyQUXmFhTJtAhEp1WAzm7iPPLohhDQETJ6EJ1_RXMOOhUuLszmjshsY56DRFVZViGzmhm7JjXGHtGxBPdcsFOji9G8oVoyu0g=w284
+    w1024_JPG: https://lh3.googleusercontent.com/Hnm9X6KC1Hw3KsyPvOIRi5AAAQEifWTUOidBSFvnY1vCUCtr6Q1GvjXcOXQHOr22yubmUxv0O2tDCGNhXHu8MVtZMhr5IA-BpBnTYRenRTcqEXbK1pq1izdNbrLDs0AfXWmOYL1EEw=w284
+    w768_PNG: https://lh3.googleusercontent.com/0E7EQBavfo2FVkwheuc09wZbUae57FRhaaHn3-C1TSyQUXmFhTJtAhEp1WAzm7iPPLohhDQETJ6EJ1_RXMOOhUuLszmjshsY56DRFVZViGzmhm7JjXGHtGxBPdcsFOji9G8oVoyu0g=w213
+    w768_JPG: https://lh3.googleusercontent.com/Hnm9X6KC1Hw3KsyPvOIRi5AAAQEifWTUOidBSFvnY1vCUCtr6Q1GvjXcOXQHOr22yubmUxv0O2tDCGNhXHu8MVtZMhr5IA-BpBnTYRenRTcqEXbK1pq1izdNbrLDs0AfXWmOYL1EEw=w213
+    w600_PNG: https://lh3.googleusercontent.com/0E7EQBavfo2FVkwheuc09wZbUae57FRhaaHn3-C1TSyQUXmFhTJtAhEp1WAzm7iPPLohhDQETJ6EJ1_RXMOOhUuLszmjshsY56DRFVZViGzmhm7JjXGHtGxBPdcsFOji9G8oVoyu0g=w166
+    w600_JPG: https://lh3.googleusercontent.com/Hnm9X6KC1Hw3KsyPvOIRi5AAAQEifWTUOidBSFvnY1vCUCtr6Q1GvjXcOXQHOr22yubmUxv0O2tDCGNhXHu8MVtZMhr5IA-BpBnTYRenRTcqEXbK1pq1izdNbrLDs0AfXWmOYL1EEw=w166
+    w411_PNG: https://lh3.googleusercontent.com/0E7EQBavfo2FVkwheuc09wZbUae57FRhaaHn3-C1TSyQUXmFhTJtAhEp1WAzm7iPPLohhDQETJ6EJ1_RXMOOhUuLszmjshsY56DRFVZViGzmhm7JjXGHtGxBPdcsFOji9G8oVoyu0g=w114
+    w411_JPG: https://lh3.googleusercontent.com/Hnm9X6KC1Hw3KsyPvOIRi5AAAQEifWTUOidBSFvnY1vCUCtr6Q1GvjXcOXQHOr22yubmUxv0O2tDCGNhXHu8MVtZMhr5IA-BpBnTYRenRTcqEXbK1pq1izdNbrLDs0AfXWmOYL1EEw=w114
+    w360_PNG: https://lh3.googleusercontent.com/0E7EQBavfo2FVkwheuc09wZbUae57FRhaaHn3-C1TSyQUXmFhTJtAhEp1WAzm7iPPLohhDQETJ6EJ1_RXMOOhUuLszmjshsY56DRFVZViGzmhm7JjXGHtGxBPdcsFOji9G8oVoyu0g=w100
+    w360_JPG: https://lh3.googleusercontent.com/Hnm9X6KC1Hw3KsyPvOIRi5AAAQEifWTUOidBSFvnY1vCUCtr6Q1GvjXcOXQHOr22yubmUxv0O2tDCGNhXHu8MVtZMhr5IA-BpBnTYRenRTcqEXbK1pq1izdNbrLDs0AfXWmOYL1EEw=w100
+    w240_PNG: https://lh3.googleusercontent.com/0E7EQBavfo2FVkwheuc09wZbUae57FRhaaHn3-C1TSyQUXmFhTJtAhEp1WAzm7iPPLohhDQETJ6EJ1_RXMOOhUuLszmjshsY56DRFVZViGzmhm7JjXGHtGxBPdcsFOji9G8oVoyu0g=w66
+    w240_JPG: https://lh3.googleusercontent.com/Hnm9X6KC1Hw3KsyPvOIRi5AAAQEifWTUOidBSFvnY1vCUCtr6Q1GvjXcOXQHOr22yubmUxv0O2tDCGNhXHu8MVtZMhr5IA-BpBnTYRenRTcqEXbK1pq1izdNbrLDs0AfXWmOYL1EEw=w66
 images:
     - label: Final Version
       caption: Had to do it.
-      full: /assets/images/gallery/sailor_moon/00/full.png
-      w1920_PNG: /assets/images/gallery/sailor_moon/00/1920.png
-      w1920_JPG: /assets/images/gallery/sailor_moon/00/1920.jpg
-      w1024_PNG: /assets/images/gallery/sailor_moon/00/1024.png
-      w1024_JPG: /assets/images/gallery/sailor_moon/00/1024.jpg
-      w768_PNG: /assets/images/gallery/sailor_moon/00/768.png
-      w768_JPG: /assets/images/gallery/sailor_moon/00/768.jpg
-      w600_PNG: /assets/images/gallery/sailor_moon/00/600.png
-      w600_JPG: /assets/images/gallery/sailor_moon/00/600.jpg
-      w411_PNG: /assets/images/gallery/sailor_moon/00/411.png
-      w411_JPG: /assets/images/gallery/sailor_moon/00/411.jpg
-      w360_PNG: /assets/images/gallery/sailor_moon/00/360.png
-      w360_JPG: /assets/images/gallery/sailor_moon/00/360.jpg
-      w240_PNG: /assets/images/gallery/sailor_moon/00/240.png
-      w240_JPG: /assets/images/gallery/sailor_moon/00/240.jpg
+      full: https://lh3.googleusercontent.com/LY6n5ZypYW2nAcaLZAizIi8DCHAfyHxFLw03HBIbeC8TqGzE2-pPuUwBBqS8tsyAkg_PVylqxRfmP04BMUfYYY13GvdBh72d-fhiTiBe751n_M6jmv0vkhCdvFbo97vCEKXdFYkY9Q=w1080-h1080
+      w1920_PNG: https://lh3.googleusercontent.com/zB_SJlEeqb7JHYwz83kLlMqxJd7QAyvh6fIrjLC_kIKYNZSRlgVVKefMKHdATSms-abz9gPhx1rCAUdVTPF2qwPNosaL7XOBqi63iKJCGH0dU06GiWH2u9QAkV66cZnCl08vjz9ZtQ=w850
+      w1920_JPG: https://lh3.googleusercontent.com/mMv0iSS-75Vx5MCgDB6JLshb1ZRlvj1niewFBUvp834hZlRlE2Guvx98PAWx4HnJtuGltykoSvCNqXB0E1Z8Y1K9kiSOgZ73Woko80mjmvzyT0XGOYD_YCXrKqAKv1ED2xafmaNW1A=w850
+      w1024_PNG: https://lh3.googleusercontent.com/zB_SJlEeqb7JHYwz83kLlMqxJd7QAyvh6fIrjLC_kIKYNZSRlgVVKefMKHdATSms-abz9gPhx1rCAUdVTPF2qwPNosaL7XOBqi63iKJCGH0dU06GiWH2u9QAkV66cZnCl08vjz9ZtQ=w711
+      w1024_JPG: https://lh3.googleusercontent.com/mMv0iSS-75Vx5MCgDB6JLshb1ZRlvj1niewFBUvp834hZlRlE2Guvx98PAWx4HnJtuGltykoSvCNqXB0E1Z8Y1K9kiSOgZ73Woko80mjmvzyT0XGOYD_YCXrKqAKv1ED2xafmaNW1A=w711
+      w768_PNG: https://lh3.googleusercontent.com/zB_SJlEeqb7JHYwz83kLlMqxJd7QAyvh6fIrjLC_kIKYNZSRlgVVKefMKHdATSms-abz9gPhx1rCAUdVTPF2qwPNosaL7XOBqi63iKJCGH0dU06GiWH2u9QAkV66cZnCl08vjz9ZtQ=w533
+      w768_JPG: https://lh3.googleusercontent.com/mMv0iSS-75Vx5MCgDB6JLshb1ZRlvj1niewFBUvp834hZlRlE2Guvx98PAWx4HnJtuGltykoSvCNqXB0E1Z8Y1K9kiSOgZ73Woko80mjmvzyT0XGOYD_YCXrKqAKv1ED2xafmaNW1A=w533
+      w600_PNG: https://lh3.googleusercontent.com/zB_SJlEeqb7JHYwz83kLlMqxJd7QAyvh6fIrjLC_kIKYNZSRlgVVKefMKHdATSms-abz9gPhx1rCAUdVTPF2qwPNosaL7XOBqi63iKJCGH0dU06GiWH2u9QAkV66cZnCl08vjz9ZtQ=w416
+      w600_JPG: https://lh3.googleusercontent.com/mMv0iSS-75Vx5MCgDB6JLshb1ZRlvj1niewFBUvp834hZlRlE2Guvx98PAWx4HnJtuGltykoSvCNqXB0E1Z8Y1K9kiSOgZ73Woko80mjmvzyT0XGOYD_YCXrKqAKv1ED2xafmaNW1A=w416
+      w411_PNG: https://lh3.googleusercontent.com/zB_SJlEeqb7JHYwz83kLlMqxJd7QAyvh6fIrjLC_kIKYNZSRlgVVKefMKHdATSms-abz9gPhx1rCAUdVTPF2qwPNosaL7XOBqi63iKJCGH0dU06GiWH2u9QAkV66cZnCl08vjz9ZtQ=w285
+      w411_JPG: https://lh3.googleusercontent.com/mMv0iSS-75Vx5MCgDB6JLshb1ZRlvj1niewFBUvp834hZlRlE2Guvx98PAWx4HnJtuGltykoSvCNqXB0E1Z8Y1K9kiSOgZ73Woko80mjmvzyT0XGOYD_YCXrKqAKv1ED2xafmaNW1A=w285
+      w360_PNG: https://lh3.googleusercontent.com/zB_SJlEeqb7JHYwz83kLlMqxJd7QAyvh6fIrjLC_kIKYNZSRlgVVKefMKHdATSms-abz9gPhx1rCAUdVTPF2qwPNosaL7XOBqi63iKJCGH0dU06GiWH2u9QAkV66cZnCl08vjz9ZtQ=w250
+      w360_JPG: https://lh3.googleusercontent.com/mMv0iSS-75Vx5MCgDB6JLshb1ZRlvj1niewFBUvp834hZlRlE2Guvx98PAWx4HnJtuGltykoSvCNqXB0E1Z8Y1K9kiSOgZ73Woko80mjmvzyT0XGOYD_YCXrKqAKv1ED2xafmaNW1A=w250
+      w240_PNG: https://lh3.googleusercontent.com/zB_SJlEeqb7JHYwz83kLlMqxJd7QAyvh6fIrjLC_kIKYNZSRlgVVKefMKHdATSms-abz9gPhx1rCAUdVTPF2qwPNosaL7XOBqi63iKJCGH0dU06GiWH2u9QAkV66cZnCl08vjz9ZtQ=w166
+      w240_JPG: https://lh3.googleusercontent.com/mMv0iSS-75Vx5MCgDB6JLshb1ZRlvj1niewFBUvp834hZlRlE2Guvx98PAWx4HnJtuGltykoSvCNqXB0E1Z8Y1K9kiSOgZ73Woko80mjmvzyT0XGOYD_YCXrKqAKv1ED2xafmaNW1A=w166
     - label: Final Version
-      caption: As it was originally made.
-      full: /assets/images/gallery/sailor_moon/01/full.png
-      w1920_PNG: /assets/images/gallery/sailor_moon/01/1920.png
-      w1920_JPG: /assets/images/gallery/sailor_moon/01/1920.jpg
-      w1024_PNG: /assets/images/gallery/sailor_moon/01/1024.png
-      w1024_JPG: /assets/images/gallery/sailor_moon/01/1024.jpg
-      w768_PNG: /assets/images/gallery/sailor_moon/01/768.png
-      w768_JPG: /assets/images/gallery/sailor_moon/01/768.jpg
-      w600_PNG: /assets/images/gallery/sailor_moon/01/600.png
-      w600_JPG: /assets/images/gallery/sailor_moon/01/600.jpg
-      w411_PNG: /assets/images/gallery/sailor_moon/01/411.png
-      w411_JPG: /assets/images/gallery/sailor_moon/01/411.jpg
-      w360_PNG: /assets/images/gallery/sailor_moon/01/360.png
-      w360_JPG: /assets/images/gallery/sailor_moon/01/360.jpg
-      w240_PNG: /assets/images/gallery/sailor_moon/01/240.png
-      w240_JPG: /assets/images/gallery/sailor_moon/01/240.jpg
+      caption: As it was originally.
+      full: https://lh3.googleusercontent.com/68EQiHbTSAOKSnEdFLqtZZSsLVWp2wAsMYPr2ZShEnZGKH1CMx4LjjbX6iTblu-xShlCX4GN8lLEWl7jNtVXYMEsCFWQFCSvX8W9MyNLnA79wlO4yOhkm3XCGDCf5SNVyWjI84ElXQ=w1080-h1080
+      w1920_PNG: https://lh3.googleusercontent.com/CLwg1rT-5yzMPT9_4002hBz1fs70XoMRx8Y_Kd4DRRKzRi_fQz8aukvw0-jBSbomBnQu9nYgF9sYJ-_2yZLtPaQrhw6arUlcvM9PEKYprQaEk_s84Iy07ew8F_i5zcnwD72GRRGwDg=w850
+      w1920_JPG: https://lh3.googleusercontent.com/wTbD4Aqa37mgHNU4g-00GnEb0ZgjCQCvGBluni4cdBi_ofJGEDEsxSqhu9Jd85oXPROQQy0Bp64C1rMiZJ-EUoRhhzuPDPEeCpZPoKEvcO0RYw8cIBjxiVAVRb442yI-Y2ZslGauaQ=w850
+      w1024_PNG: https://lh3.googleusercontent.com/CLwg1rT-5yzMPT9_4002hBz1fs70XoMRx8Y_Kd4DRRKzRi_fQz8aukvw0-jBSbomBnQu9nYgF9sYJ-_2yZLtPaQrhw6arUlcvM9PEKYprQaEk_s84Iy07ew8F_i5zcnwD72GRRGwDg=w711
+      w1024_JPG: https://lh3.googleusercontent.com/wTbD4Aqa37mgHNU4g-00GnEb0ZgjCQCvGBluni4cdBi_ofJGEDEsxSqhu9Jd85oXPROQQy0Bp64C1rMiZJ-EUoRhhzuPDPEeCpZPoKEvcO0RYw8cIBjxiVAVRb442yI-Y2ZslGauaQ=w711
+      w768_PNG: https://lh3.googleusercontent.com/CLwg1rT-5yzMPT9_4002hBz1fs70XoMRx8Y_Kd4DRRKzRi_fQz8aukvw0-jBSbomBnQu9nYgF9sYJ-_2yZLtPaQrhw6arUlcvM9PEKYprQaEk_s84Iy07ew8F_i5zcnwD72GRRGwDg=w533
+      w768_JPG: https://lh3.googleusercontent.com/wTbD4Aqa37mgHNU4g-00GnEb0ZgjCQCvGBluni4cdBi_ofJGEDEsxSqhu9Jd85oXPROQQy0Bp64C1rMiZJ-EUoRhhzuPDPEeCpZPoKEvcO0RYw8cIBjxiVAVRb442yI-Y2ZslGauaQ=w533
+      w600_PNG: https://lh3.googleusercontent.com/CLwg1rT-5yzMPT9_4002hBz1fs70XoMRx8Y_Kd4DRRKzRi_fQz8aukvw0-jBSbomBnQu9nYgF9sYJ-_2yZLtPaQrhw6arUlcvM9PEKYprQaEk_s84Iy07ew8F_i5zcnwD72GRRGwDg=w416
+      w600_JPG: https://lh3.googleusercontent.com/wTbD4Aqa37mgHNU4g-00GnEb0ZgjCQCvGBluni4cdBi_ofJGEDEsxSqhu9Jd85oXPROQQy0Bp64C1rMiZJ-EUoRhhzuPDPEeCpZPoKEvcO0RYw8cIBjxiVAVRb442yI-Y2ZslGauaQ=w416
+      w411_PNG: https://lh3.googleusercontent.com/CLwg1rT-5yzMPT9_4002hBz1fs70XoMRx8Y_Kd4DRRKzRi_fQz8aukvw0-jBSbomBnQu9nYgF9sYJ-_2yZLtPaQrhw6arUlcvM9PEKYprQaEk_s84Iy07ew8F_i5zcnwD72GRRGwDg=w285
+      w411_JPG: https://lh3.googleusercontent.com/wTbD4Aqa37mgHNU4g-00GnEb0ZgjCQCvGBluni4cdBi_ofJGEDEsxSqhu9Jd85oXPROQQy0Bp64C1rMiZJ-EUoRhhzuPDPEeCpZPoKEvcO0RYw8cIBjxiVAVRb442yI-Y2ZslGauaQ=w285
+      w360_PNG: https://lh3.googleusercontent.com/CLwg1rT-5yzMPT9_4002hBz1fs70XoMRx8Y_Kd4DRRKzRi_fQz8aukvw0-jBSbomBnQu9nYgF9sYJ-_2yZLtPaQrhw6arUlcvM9PEKYprQaEk_s84Iy07ew8F_i5zcnwD72GRRGwDg=w250
+      w360_JPG: https://lh3.googleusercontent.com/wTbD4Aqa37mgHNU4g-00GnEb0ZgjCQCvGBluni4cdBi_ofJGEDEsxSqhu9Jd85oXPROQQy0Bp64C1rMiZJ-EUoRhhzuPDPEeCpZPoKEvcO0RYw8cIBjxiVAVRb442yI-Y2ZslGauaQ=w250
+      w240_PNG: https://lh3.googleusercontent.com/CLwg1rT-5yzMPT9_4002hBz1fs70XoMRx8Y_Kd4DRRKzRi_fQz8aukvw0-jBSbomBnQu9nYgF9sYJ-_2yZLtPaQrhw6arUlcvM9PEKYprQaEk_s84Iy07ew8F_i5zcnwD72GRRGwDg=w166
+      w240_JPG: https://lh3.googleusercontent.com/wTbD4Aqa37mgHNU4g-00GnEb0ZgjCQCvGBluni4cdBi_ofJGEDEsxSqhu9Jd85oXPROQQy0Bp64C1rMiZJ-EUoRhhzuPDPEeCpZPoKEvcO0RYw8cIBjxiVAVRb442yI-Y2ZslGauaQ=w166
 ---

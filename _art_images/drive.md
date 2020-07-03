@@ -3,36 +3,36 @@ short_name: drive
 title: Drive Fan Art
 alt: Pixel art of the movie Drive
 thumbs:
-    w1920_PNG: /assets/images/gallery/thumbs/drive/1920.png
-    w1920_JPG: /assets/images/gallery/thumbs/drive/1920.jpg
-    w1024_PNG: /assets/images/gallery/thumbs/drive/1024.png
-    w1024_JPG: /assets/images/gallery/thumbs/drive/1024.jpg
-    w768_PNG: /assets/images/gallery/thumbs/drive/768.png
-    w768_JPG: /assets/images/gallery/thumbs/drive/768.jpg
-    w600_PNG: /assets/images/gallery/thumbs/drive/600.png
-    w600_JPG: /assets/images/gallery/thumbs/drive/600.jpg
-    w411_PNG: /assets/images/gallery/thumbs/drive/411.png
-    w411_JPG: /assets/images/gallery/thumbs/drive/411.jpg
-    w360_PNG: /assets/images/gallery/thumbs/drive/360.png
-    w360_JPG: /assets/images/gallery/thumbs/drive/360.jpg
-    w240_PNG: /assets/images/gallery/thumbs/drive/240.png
-    w240_JPG: /assets/images/gallery/thumbs/drive/240.jpg
+    w1920_PNG: https://lh3.googleusercontent.com/1yBKFKG_TnOkWDsPIYXAGKZzz3zRXDaa0GHRxjG6nd0rZcy-9eXhLjl03wQyz1C22ffcDoF40sSWIi4w4GL2IuuQe1MPsN4qqEw32SBOER5hnUyDMA5yLXyIUCr8i-05un8XSWRDlw=w355
+    w1920_JPG: https://lh3.googleusercontent.com/9jVqXmEhTnbZplVMnwyP9rCAT9ixC3d6lupG2SKhQIqJgX1cOGRQ26S33dvjeLx7PSMT02QWNau4ip68m03Ap3kctkB0wPoipdxLUfXIScYMLi1JlOHVbVz4QPKviqPDL0dufTa2Rg=w355
+    w1024_PNG: https://lh3.googleusercontent.com/1yBKFKG_TnOkWDsPIYXAGKZzz3zRXDaa0GHRxjG6nd0rZcy-9eXhLjl03wQyz1C22ffcDoF40sSWIi4w4GL2IuuQe1MPsN4qqEw32SBOER5hnUyDMA5yLXyIUCr8i-05un8XSWRDlw=w284
+    w1024_JPG: https://lh3.googleusercontent.com/9jVqXmEhTnbZplVMnwyP9rCAT9ixC3d6lupG2SKhQIqJgX1cOGRQ26S33dvjeLx7PSMT02QWNau4ip68m03Ap3kctkB0wPoipdxLUfXIScYMLi1JlOHVbVz4QPKviqPDL0dufTa2Rg=w284
+    w768_PNG: https://lh3.googleusercontent.com/1yBKFKG_TnOkWDsPIYXAGKZzz3zRXDaa0GHRxjG6nd0rZcy-9eXhLjl03wQyz1C22ffcDoF40sSWIi4w4GL2IuuQe1MPsN4qqEw32SBOER5hnUyDMA5yLXyIUCr8i-05un8XSWRDlw=w213
+    w768_JPG: https://lh3.googleusercontent.com/9jVqXmEhTnbZplVMnwyP9rCAT9ixC3d6lupG2SKhQIqJgX1cOGRQ26S33dvjeLx7PSMT02QWNau4ip68m03Ap3kctkB0wPoipdxLUfXIScYMLi1JlOHVbVz4QPKviqPDL0dufTa2Rg=w213
+    w600_PNG: https://lh3.googleusercontent.com/1yBKFKG_TnOkWDsPIYXAGKZzz3zRXDaa0GHRxjG6nd0rZcy-9eXhLjl03wQyz1C22ffcDoF40sSWIi4w4GL2IuuQe1MPsN4qqEw32SBOER5hnUyDMA5yLXyIUCr8i-05un8XSWRDlw=w166
+    w600_JPG: https://lh3.googleusercontent.com/9jVqXmEhTnbZplVMnwyP9rCAT9ixC3d6lupG2SKhQIqJgX1cOGRQ26S33dvjeLx7PSMT02QWNau4ip68m03Ap3kctkB0wPoipdxLUfXIScYMLi1JlOHVbVz4QPKviqPDL0dufTa2Rg=w166
+    w411_PNG: https://lh3.googleusercontent.com/1yBKFKG_TnOkWDsPIYXAGKZzz3zRXDaa0GHRxjG6nd0rZcy-9eXhLjl03wQyz1C22ffcDoF40sSWIi4w4GL2IuuQe1MPsN4qqEw32SBOER5hnUyDMA5yLXyIUCr8i-05un8XSWRDlw=w114
+    w411_JPG: https://lh3.googleusercontent.com/9jVqXmEhTnbZplVMnwyP9rCAT9ixC3d6lupG2SKhQIqJgX1cOGRQ26S33dvjeLx7PSMT02QWNau4ip68m03Ap3kctkB0wPoipdxLUfXIScYMLi1JlOHVbVz4QPKviqPDL0dufTa2Rg=w114
+    w360_PNG: https://lh3.googleusercontent.com/1yBKFKG_TnOkWDsPIYXAGKZzz3zRXDaa0GHRxjG6nd0rZcy-9eXhLjl03wQyz1C22ffcDoF40sSWIi4w4GL2IuuQe1MPsN4qqEw32SBOER5hnUyDMA5yLXyIUCr8i-05un8XSWRDlw=w100
+    w360_JPG: https://lh3.googleusercontent.com/9jVqXmEhTnbZplVMnwyP9rCAT9ixC3d6lupG2SKhQIqJgX1cOGRQ26S33dvjeLx7PSMT02QWNau4ip68m03Ap3kctkB0wPoipdxLUfXIScYMLi1JlOHVbVz4QPKviqPDL0dufTa2Rg=w100
+    w240_PNG: https://lh3.googleusercontent.com/1yBKFKG_TnOkWDsPIYXAGKZzz3zRXDaa0GHRxjG6nd0rZcy-9eXhLjl03wQyz1C22ffcDoF40sSWIi4w4GL2IuuQe1MPsN4qqEw32SBOER5hnUyDMA5yLXyIUCr8i-05un8XSWRDlw=w66
+    w240_JPG: https://lh3.googleusercontent.com/9jVqXmEhTnbZplVMnwyP9rCAT9ixC3d6lupG2SKhQIqJgX1cOGRQ26S33dvjeLx7PSMT02QWNau4ip68m03Ap3kctkB0wPoipdxLUfXIScYMLi1JlOHVbVz4QPKviqPDL0dufTa2Rg=w66
 images:
     - label: Final Version
       caption: Done in 2012 after watching the movie for the first time.
-      full: /assets/images/gallery/drive/00/full.png
-      w1920_PNG: /assets/images/gallery/drive/00/1920.png
-      w1920_JPG: /assets/images/gallery/drive/00/1920.jpg
-      w1024_PNG: /assets/images/gallery/drive/00/1024.png
-      w1024_JPG: /assets/images/gallery/drive/00/1024.jpg
-      w768_PNG: /assets/images/gallery/drive/00/768.png
-      w768_JPG: /assets/images/gallery/drive/00/768.jpg
-      w600_PNG: /assets/images/gallery/drive/00/600.png
-      w600_JPG: /assets/images/gallery/drive/00/600.jpg
-      w411_PNG: /assets/images/gallery/drive/00/411.png
-      w411_JPG: /assets/images/gallery/drive/00/411.jpg
-      w360_PNG: /assets/images/gallery/drive/00/360.png
-      w360_JPG: /assets/images/gallery/drive/00/360.jpg
-      w240_PNG: /assets/images/gallery/drive/00/240.png
-      w240_JPG: /assets/images/gallery/drive/00/240.jpg
+      full: https://lh3.googleusercontent.com/8aRZh1kY3Zq2e9vCrMZKeKTaGNxt7VtB05tuqlhRfdF454A9SKdQV9kVBWUOaI6YETRsvSbIT48Iz4k28C9pZ3k10a_01wKYqrIc2zjimnceT9y4oW5p0Sprzf7H0rklbs_mfzinvA=w1080-h1080
+      w1920_PNG: https://lh3.googleusercontent.com/s-vFJeJIg0c2kOiW3H4SOIi_hcF1g8Of7OIhUC-_09W5e5TvXqXsRvD5GjXe-nPCHwkX0Tv9FKPzKlsdCN126adsNlKdYNfe3x_O2Tj-AO3jjM3-tK5iNJDSAaMkLEyflzZ1efSDTA=w850
+      w1920_JPG: https://lh3.googleusercontent.com/4zv1YRf_-d7LnPiS-Oed-Q554skHQY51GFf8NFXUcptDlR6021XWHBy3DpQDsyKRQoSmgvbBTtydAVvKX9acRKB5KW5Y2ePY9qwxYa7JZTHMqdx1f-zYLtv4ZdUv70d5eWeFQ9_bDg=w850
+      w1024_PNG: https://lh3.googleusercontent.com/s-vFJeJIg0c2kOiW3H4SOIi_hcF1g8Of7OIhUC-_09W5e5TvXqXsRvD5GjXe-nPCHwkX0Tv9FKPzKlsdCN126adsNlKdYNfe3x_O2Tj-AO3jjM3-tK5iNJDSAaMkLEyflzZ1efSDTA=w711
+      w1024_JPG: https://lh3.googleusercontent.com/4zv1YRf_-d7LnPiS-Oed-Q554skHQY51GFf8NFXUcptDlR6021XWHBy3DpQDsyKRQoSmgvbBTtydAVvKX9acRKB5KW5Y2ePY9qwxYa7JZTHMqdx1f-zYLtv4ZdUv70d5eWeFQ9_bDg=w711
+      w768_PNG: https://lh3.googleusercontent.com/s-vFJeJIg0c2kOiW3H4SOIi_hcF1g8Of7OIhUC-_09W5e5TvXqXsRvD5GjXe-nPCHwkX0Tv9FKPzKlsdCN126adsNlKdYNfe3x_O2Tj-AO3jjM3-tK5iNJDSAaMkLEyflzZ1efSDTA=w533
+      w768_JPG: https://lh3.googleusercontent.com/4zv1YRf_-d7LnPiS-Oed-Q554skHQY51GFf8NFXUcptDlR6021XWHBy3DpQDsyKRQoSmgvbBTtydAVvKX9acRKB5KW5Y2ePY9qwxYa7JZTHMqdx1f-zYLtv4ZdUv70d5eWeFQ9_bDg=w533
+      w600_PNG: https://lh3.googleusercontent.com/s-vFJeJIg0c2kOiW3H4SOIi_hcF1g8Of7OIhUC-_09W5e5TvXqXsRvD5GjXe-nPCHwkX0Tv9FKPzKlsdCN126adsNlKdYNfe3x_O2Tj-AO3jjM3-tK5iNJDSAaMkLEyflzZ1efSDTA=w416
+      w600_JPG: https://lh3.googleusercontent.com/4zv1YRf_-d7LnPiS-Oed-Q554skHQY51GFf8NFXUcptDlR6021XWHBy3DpQDsyKRQoSmgvbBTtydAVvKX9acRKB5KW5Y2ePY9qwxYa7JZTHMqdx1f-zYLtv4ZdUv70d5eWeFQ9_bDg=w416
+      w411_PNG: https://lh3.googleusercontent.com/s-vFJeJIg0c2kOiW3H4SOIi_hcF1g8Of7OIhUC-_09W5e5TvXqXsRvD5GjXe-nPCHwkX0Tv9FKPzKlsdCN126adsNlKdYNfe3x_O2Tj-AO3jjM3-tK5iNJDSAaMkLEyflzZ1efSDTA=w285
+      w411_JPG: https://lh3.googleusercontent.com/4zv1YRf_-d7LnPiS-Oed-Q554skHQY51GFf8NFXUcptDlR6021XWHBy3DpQDsyKRQoSmgvbBTtydAVvKX9acRKB5KW5Y2ePY9qwxYa7JZTHMqdx1f-zYLtv4ZdUv70d5eWeFQ9_bDg=w285
+      w360_PNG: https://lh3.googleusercontent.com/s-vFJeJIg0c2kOiW3H4SOIi_hcF1g8Of7OIhUC-_09W5e5TvXqXsRvD5GjXe-nPCHwkX0Tv9FKPzKlsdCN126adsNlKdYNfe3x_O2Tj-AO3jjM3-tK5iNJDSAaMkLEyflzZ1efSDTA=w250
+      w360_JPG: https://lh3.googleusercontent.com/4zv1YRf_-d7LnPiS-Oed-Q554skHQY51GFf8NFXUcptDlR6021XWHBy3DpQDsyKRQoSmgvbBTtydAVvKX9acRKB5KW5Y2ePY9qwxYa7JZTHMqdx1f-zYLtv4ZdUv70d5eWeFQ9_bDg=w250
+      w240_PNG: https://lh3.googleusercontent.com/s-vFJeJIg0c2kOiW3H4SOIi_hcF1g8Of7OIhUC-_09W5e5TvXqXsRvD5GjXe-nPCHwkX0Tv9FKPzKlsdCN126adsNlKdYNfe3x_O2Tj-AO3jjM3-tK5iNJDSAaMkLEyflzZ1efSDTA=w166
+      w240_JPG: https://lh3.googleusercontent.com/4zv1YRf_-d7LnPiS-Oed-Q554skHQY51GFf8NFXUcptDlR6021XWHBy3DpQDsyKRQoSmgvbBTtydAVvKX9acRKB5KW5Y2ePY9qwxYa7JZTHMqdx1f-zYLtv4ZdUv70d5eWeFQ9_bDg=w166
 ---

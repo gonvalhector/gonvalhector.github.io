@@ -3,53 +3,53 @@ short_name: girl_on_a_swing
 title: Girl on a Swing
 alt: Watercolor sketch of a little girl on a swing
 thumbs:
-    w1920_PNG: /assets/images/gallery/thumbs/girl_on_a_swing/1920.png
-    w1920_JPG: /assets/images/gallery/thumbs/girl_on_a_swing/1920.jpg
-    w1024_PNG: /assets/images/gallery/thumbs/girl_on_a_swing/1024.png
-    w1024_JPG: /assets/images/gallery/thumbs/girl_on_a_swing/1024.jpg
-    w768_PNG: /assets/images/gallery/thumbs/girl_on_a_swing/768.png
-    w768_JPG: /assets/images/gallery/thumbs/girl_on_a_swing/768.jpg
-    w600_PNG: /assets/images/gallery/thumbs/girl_on_a_swing/600.png
-    w600_JPG: /assets/images/gallery/thumbs/girl_on_a_swing/600.jpg
-    w411_PNG: /assets/images/gallery/thumbs/girl_on_a_swing/411.png
-    w411_JPG: /assets/images/gallery/thumbs/girl_on_a_swing/411.jpg
-    w360_PNG: /assets/images/gallery/thumbs/girl_on_a_swing/360.png
-    w360_JPG: /assets/images/gallery/thumbs/girl_on_a_swing/360.jpg
-    w240_PNG: /assets/images/gallery/thumbs/girl_on_a_swing/240.png
-    w240_JPG: /assets/images/gallery/thumbs/girl_on_a_swing/240.jpg
+    w1920_PNG: https://lh3.googleusercontent.com/y6s54H1obfNquxhUMiZnm0KQXPX_FO00XeZ8nEbNbPbvwDWXFEIW7Vr6_lo7EpKwGYe1_lVycKpFFZAtk7CsL18NnA08ewgQSRUMPV3EjS4BESQNxJW5GnmpXkRUbG7uaelunXetfQ=w355
+    w1920_JPG: https://lh3.googleusercontent.com/YwRQ0t7im5vSIz2YW5bW_u8AjJ-SFU6hIzHoFNx3feUCYFet6T7zqzJzznaS85533S9kpV2mY9QfnVUkEe0zlo1n4o-j-4RY_We95QitFHpwTXeAm813kjeib_PoO9B7irlQYM3oKw=w355
+    w1024_PNG: https://lh3.googleusercontent.com/y6s54H1obfNquxhUMiZnm0KQXPX_FO00XeZ8nEbNbPbvwDWXFEIW7Vr6_lo7EpKwGYe1_lVycKpFFZAtk7CsL18NnA08ewgQSRUMPV3EjS4BESQNxJW5GnmpXkRUbG7uaelunXetfQ=w284
+    w1024_JPG: https://lh3.googleusercontent.com/YwRQ0t7im5vSIz2YW5bW_u8AjJ-SFU6hIzHoFNx3feUCYFet6T7zqzJzznaS85533S9kpV2mY9QfnVUkEe0zlo1n4o-j-4RY_We95QitFHpwTXeAm813kjeib_PoO9B7irlQYM3oKw=w284
+    w768_PNG: https://lh3.googleusercontent.com/y6s54H1obfNquxhUMiZnm0KQXPX_FO00XeZ8nEbNbPbvwDWXFEIW7Vr6_lo7EpKwGYe1_lVycKpFFZAtk7CsL18NnA08ewgQSRUMPV3EjS4BESQNxJW5GnmpXkRUbG7uaelunXetfQ=w213
+    w768_JPG: https://lh3.googleusercontent.com/YwRQ0t7im5vSIz2YW5bW_u8AjJ-SFU6hIzHoFNx3feUCYFet6T7zqzJzznaS85533S9kpV2mY9QfnVUkEe0zlo1n4o-j-4RY_We95QitFHpwTXeAm813kjeib_PoO9B7irlQYM3oKw=w213
+    w600_PNG: https://lh3.googleusercontent.com/y6s54H1obfNquxhUMiZnm0KQXPX_FO00XeZ8nEbNbPbvwDWXFEIW7Vr6_lo7EpKwGYe1_lVycKpFFZAtk7CsL18NnA08ewgQSRUMPV3EjS4BESQNxJW5GnmpXkRUbG7uaelunXetfQ=w166
+    w600_JPG: https://lh3.googleusercontent.com/YwRQ0t7im5vSIz2YW5bW_u8AjJ-SFU6hIzHoFNx3feUCYFet6T7zqzJzznaS85533S9kpV2mY9QfnVUkEe0zlo1n4o-j-4RY_We95QitFHpwTXeAm813kjeib_PoO9B7irlQYM3oKw=w166
+    w411_PNG: https://lh3.googleusercontent.com/y6s54H1obfNquxhUMiZnm0KQXPX_FO00XeZ8nEbNbPbvwDWXFEIW7Vr6_lo7EpKwGYe1_lVycKpFFZAtk7CsL18NnA08ewgQSRUMPV3EjS4BESQNxJW5GnmpXkRUbG7uaelunXetfQ=w114
+    w411_JPG: https://lh3.googleusercontent.com/YwRQ0t7im5vSIz2YW5bW_u8AjJ-SFU6hIzHoFNx3feUCYFet6T7zqzJzznaS85533S9kpV2mY9QfnVUkEe0zlo1n4o-j-4RY_We95QitFHpwTXeAm813kjeib_PoO9B7irlQYM3oKw=w114
+    w360_PNG: https://lh3.googleusercontent.com/y6s54H1obfNquxhUMiZnm0KQXPX_FO00XeZ8nEbNbPbvwDWXFEIW7Vr6_lo7EpKwGYe1_lVycKpFFZAtk7CsL18NnA08ewgQSRUMPV3EjS4BESQNxJW5GnmpXkRUbG7uaelunXetfQ=w100
+    w360_JPG: https://lh3.googleusercontent.com/YwRQ0t7im5vSIz2YW5bW_u8AjJ-SFU6hIzHoFNx3feUCYFet6T7zqzJzznaS85533S9kpV2mY9QfnVUkEe0zlo1n4o-j-4RY_We95QitFHpwTXeAm813kjeib_PoO9B7irlQYM3oKw=w100
+    w240_PNG: https://lh3.googleusercontent.com/y6s54H1obfNquxhUMiZnm0KQXPX_FO00XeZ8nEbNbPbvwDWXFEIW7Vr6_lo7EpKwGYe1_lVycKpFFZAtk7CsL18NnA08ewgQSRUMPV3EjS4BESQNxJW5GnmpXkRUbG7uaelunXetfQ=w66
+    w240_JPG: https://lh3.googleusercontent.com/YwRQ0t7im5vSIz2YW5bW_u8AjJ-SFU6hIzHoFNx3feUCYFet6T7zqzJzznaS85533S9kpV2mY9QfnVUkEe0zlo1n4o-j-4RY_We95QitFHpwTXeAm813kjeib_PoO9B7irlQYM3oKw=w66
 images:
     - label: Final Version Close Up
       caption: Fun.
-      full: /assets/images/gallery/girl_on_a_swing/00/full.png
-      w1920_PNG: /assets/images/gallery/girl_on_a_swing/00/1920.png
-      w1920_JPG: /assets/images/gallery/girl_on_a_swing/00/1920.jpg
-      w1024_PNG: /assets/images/gallery/girl_on_a_swing/00/1024.png
-      w1024_JPG: /assets/images/gallery/girl_on_a_swing/00/1024.jpg
-      w768_PNG: /assets/images/gallery/girl_on_a_swing/00/768.png
-      w768_JPG: /assets/images/gallery/girl_on_a_swing/00/768.jpg
-      w600_PNG: /assets/images/gallery/girl_on_a_swing/00/600.png
-      w600_JPG: /assets/images/gallery/girl_on_a_swing/00/600.jpg
-      w411_PNG: /assets/images/gallery/girl_on_a_swing/00/411.png
-      w411_JPG: /assets/images/gallery/girl_on_a_swing/00/411.jpg
-      w360_PNG: /assets/images/gallery/girl_on_a_swing/00/360.png
-      w360_JPG: /assets/images/gallery/girl_on_a_swing/00/360.jpg
-      w240_PNG: /assets/images/gallery/girl_on_a_swing/00/240.png
-      w240_JPG: /assets/images/gallery/girl_on_a_swing/00/240.jpg
+      full: https://lh3.googleusercontent.com/zKPA63LsE3gWtOfsk9KyVt3LLe2_3sVkooXA0KAgpfjGiz5yP8SBpMkm2abMgXOtfnk21Y98hmusVdu2JZFVue_mHOrppsY547Ky97CIKQaJcnaNYdeK9yw63A11Xt-lniyBP7g2Lw=w1080-h1080
+      w1920_PNG: https://lh3.googleusercontent.com/ZzYdCFka84sYIt4ynY_u3M_dGymuGUqxsNHU9sv4t3IT2xxrZdovGUtTUls7vF--VmVMcUjUq9amseIeYSS_iAmYwvZCRFbvoiueuDUqN7F_LFI3T4t4RLbDmE60J6dLq_teN-xcgg=w850
+      w1920_JPG: https://lh3.googleusercontent.com/M24jJQyitpHOw062xM9M2LsZvpz5bECzDOiNT2ooiNqwzqW_RiIccGBQK4jBmIbBLuA_QtfXk2CH6DMg7c4hX-81uPGEQAJNvpPX_w5tLi1pWx1mubZJ46PCARu4CZ5GO2_6Co-2Qw=w850
+      w1024_PNG: https://lh3.googleusercontent.com/ZzYdCFka84sYIt4ynY_u3M_dGymuGUqxsNHU9sv4t3IT2xxrZdovGUtTUls7vF--VmVMcUjUq9amseIeYSS_iAmYwvZCRFbvoiueuDUqN7F_LFI3T4t4RLbDmE60J6dLq_teN-xcgg=w711
+      w1024_JPG: https://lh3.googleusercontent.com/M24jJQyitpHOw062xM9M2LsZvpz5bECzDOiNT2ooiNqwzqW_RiIccGBQK4jBmIbBLuA_QtfXk2CH6DMg7c4hX-81uPGEQAJNvpPX_w5tLi1pWx1mubZJ46PCARu4CZ5GO2_6Co-2Qw=w711
+      w768_PNG: https://lh3.googleusercontent.com/ZzYdCFka84sYIt4ynY_u3M_dGymuGUqxsNHU9sv4t3IT2xxrZdovGUtTUls7vF--VmVMcUjUq9amseIeYSS_iAmYwvZCRFbvoiueuDUqN7F_LFI3T4t4RLbDmE60J6dLq_teN-xcgg=w533
+      w768_JPG: https://lh3.googleusercontent.com/M24jJQyitpHOw062xM9M2LsZvpz5bECzDOiNT2ooiNqwzqW_RiIccGBQK4jBmIbBLuA_QtfXk2CH6DMg7c4hX-81uPGEQAJNvpPX_w5tLi1pWx1mubZJ46PCARu4CZ5GO2_6Co-2Qw=w533
+      w600_PNG: https://lh3.googleusercontent.com/ZzYdCFka84sYIt4ynY_u3M_dGymuGUqxsNHU9sv4t3IT2xxrZdovGUtTUls7vF--VmVMcUjUq9amseIeYSS_iAmYwvZCRFbvoiueuDUqN7F_LFI3T4t4RLbDmE60J6dLq_teN-xcgg=w416
+      w600_JPG: https://lh3.googleusercontent.com/M24jJQyitpHOw062xM9M2LsZvpz5bECzDOiNT2ooiNqwzqW_RiIccGBQK4jBmIbBLuA_QtfXk2CH6DMg7c4hX-81uPGEQAJNvpPX_w5tLi1pWx1mubZJ46PCARu4CZ5GO2_6Co-2Qw=w416
+      w411_PNG: https://lh3.googleusercontent.com/ZzYdCFka84sYIt4ynY_u3M_dGymuGUqxsNHU9sv4t3IT2xxrZdovGUtTUls7vF--VmVMcUjUq9amseIeYSS_iAmYwvZCRFbvoiueuDUqN7F_LFI3T4t4RLbDmE60J6dLq_teN-xcgg=w285
+      w411_JPG: https://lh3.googleusercontent.com/M24jJQyitpHOw062xM9M2LsZvpz5bECzDOiNT2ooiNqwzqW_RiIccGBQK4jBmIbBLuA_QtfXk2CH6DMg7c4hX-81uPGEQAJNvpPX_w5tLi1pWx1mubZJ46PCARu4CZ5GO2_6Co-2Qw=w285
+      w360_PNG: https://lh3.googleusercontent.com/ZzYdCFka84sYIt4ynY_u3M_dGymuGUqxsNHU9sv4t3IT2xxrZdovGUtTUls7vF--VmVMcUjUq9amseIeYSS_iAmYwvZCRFbvoiueuDUqN7F_LFI3T4t4RLbDmE60J6dLq_teN-xcgg=w250
+      w360_JPG: https://lh3.googleusercontent.com/M24jJQyitpHOw062xM9M2LsZvpz5bECzDOiNT2ooiNqwzqW_RiIccGBQK4jBmIbBLuA_QtfXk2CH6DMg7c4hX-81uPGEQAJNvpPX_w5tLi1pWx1mubZJ46PCARu4CZ5GO2_6Co-2Qw=w250
+      w240_PNG: https://lh3.googleusercontent.com/ZzYdCFka84sYIt4ynY_u3M_dGymuGUqxsNHU9sv4t3IT2xxrZdovGUtTUls7vF--VmVMcUjUq9amseIeYSS_iAmYwvZCRFbvoiueuDUqN7F_LFI3T4t4RLbDmE60J6dLq_teN-xcgg=w166
+      w240_JPG: https://lh3.googleusercontent.com/M24jJQyitpHOw062xM9M2LsZvpz5bECzDOiNT2ooiNqwzqW_RiIccGBQK4jBmIbBLuA_QtfXk2CH6DMg7c4hX-81uPGEQAJNvpPX_w5tLi1pWx1mubZJ46PCARu4CZ5GO2_6Co-2Qw=w166
     - label: Final Version Full Height
       caption: I tried, I guess.
-      full: /assets/images/gallery/girl_on_a_swing/01/full.png
-      w1920_PNG: /assets/images/gallery/girl_on_a_swing/01/1920.png
-      w1920_JPG: /assets/images/gallery/girl_on_a_swing/01/1920.jpg
-      w1024_PNG: /assets/images/gallery/girl_on_a_swing/01/1024.png
-      w1024_JPG: /assets/images/gallery/girl_on_a_swing/01/1024.jpg
-      w768_PNG: /assets/images/gallery/girl_on_a_swing/01/768.png
-      w768_JPG: /assets/images/gallery/girl_on_a_swing/01/768.jpg
-      w600_PNG: /assets/images/gallery/girl_on_a_swing/01/600.png
-      w600_JPG: /assets/images/gallery/girl_on_a_swing/01/600.jpg
-      w411_PNG: /assets/images/gallery/girl_on_a_swing/01/411.png
-      w411_JPG: /assets/images/gallery/girl_on_a_swing/01/411.jpg
-      w360_PNG: /assets/images/gallery/girl_on_a_swing/01/360.png
-      w360_JPG: /assets/images/gallery/girl_on_a_swing/01/360.jpg
-      w240_PNG: /assets/images/gallery/girl_on_a_swing/01/240.png
-      w240_JPG: /assets/images/gallery/girl_on_a_swing/01/240.jpg
+      full: https://lh3.googleusercontent.com/ai_7Rw0goObkZJMYTUpHlMlnbugLBtIZS7rsgjkn2OkyMo-PkVEYLZy5m-yV7Ujd4P-0mHRUMaoj73gj75ArQgw7w2dziZpiTwsKmEMN9vB2LHvRRUAKX-opfb2AE7Ct8NsZCHT8pA=w1080-h1080
+      w1920_PNG: https://lh3.googleusercontent.com/SRxudq6t_eykRHg7hJTV6TkhKlDbJfywceZ4yD6GAGK-PKyUmZh9XFBRW0qocSSqF07vR7FxlwD--JU6E2Vs6unGQfEvoXbUHPE0EyvazHus3bau-P7swfZfL914vNq4PwyyiaSbJQ=w850
+      w1920_JPG: https://lh3.googleusercontent.com/9i-hgxxJluiaX7NMDAKgeVcTO767fXkZeJhtR_otRGP8F9fTTYPv2Hv62S14ZmcXmpI0j5uJo0sEx9VEuv0S_Jkkr1qsO4HENMGuGn3IDnPweWztSa2UOuxdMeg05Bne5HUOjkEyYw=w850
+      w1024_PNG: https://lh3.googleusercontent.com/SRxudq6t_eykRHg7hJTV6TkhKlDbJfywceZ4yD6GAGK-PKyUmZh9XFBRW0qocSSqF07vR7FxlwD--JU6E2Vs6unGQfEvoXbUHPE0EyvazHus3bau-P7swfZfL914vNq4PwyyiaSbJQ=w711
+      w1024_JPG: https://lh3.googleusercontent.com/9i-hgxxJluiaX7NMDAKgeVcTO767fXkZeJhtR_otRGP8F9fTTYPv2Hv62S14ZmcXmpI0j5uJo0sEx9VEuv0S_Jkkr1qsO4HENMGuGn3IDnPweWztSa2UOuxdMeg05Bne5HUOjkEyYw=w711
+      w768_PNG: https://lh3.googleusercontent.com/SRxudq6t_eykRHg7hJTV6TkhKlDbJfywceZ4yD6GAGK-PKyUmZh9XFBRW0qocSSqF07vR7FxlwD--JU6E2Vs6unGQfEvoXbUHPE0EyvazHus3bau-P7swfZfL914vNq4PwyyiaSbJQ=w533
+      w768_JPG: https://lh3.googleusercontent.com/9i-hgxxJluiaX7NMDAKgeVcTO767fXkZeJhtR_otRGP8F9fTTYPv2Hv62S14ZmcXmpI0j5uJo0sEx9VEuv0S_Jkkr1qsO4HENMGuGn3IDnPweWztSa2UOuxdMeg05Bne5HUOjkEyYw=w533
+      w600_PNG: https://lh3.googleusercontent.com/SRxudq6t_eykRHg7hJTV6TkhKlDbJfywceZ4yD6GAGK-PKyUmZh9XFBRW0qocSSqF07vR7FxlwD--JU6E2Vs6unGQfEvoXbUHPE0EyvazHus3bau-P7swfZfL914vNq4PwyyiaSbJQ=w416
+      w600_JPG: https://lh3.googleusercontent.com/9i-hgxxJluiaX7NMDAKgeVcTO767fXkZeJhtR_otRGP8F9fTTYPv2Hv62S14ZmcXmpI0j5uJo0sEx9VEuv0S_Jkkr1qsO4HENMGuGn3IDnPweWztSa2UOuxdMeg05Bne5HUOjkEyYw=w416
+      w411_PNG: https://lh3.googleusercontent.com/SRxudq6t_eykRHg7hJTV6TkhKlDbJfywceZ4yD6GAGK-PKyUmZh9XFBRW0qocSSqF07vR7FxlwD--JU6E2Vs6unGQfEvoXbUHPE0EyvazHus3bau-P7swfZfL914vNq4PwyyiaSbJQ=w285
+      w411_JPG: https://lh3.googleusercontent.com/9i-hgxxJluiaX7NMDAKgeVcTO767fXkZeJhtR_otRGP8F9fTTYPv2Hv62S14ZmcXmpI0j5uJo0sEx9VEuv0S_Jkkr1qsO4HENMGuGn3IDnPweWztSa2UOuxdMeg05Bne5HUOjkEyYw=w285
+      w360_PNG: https://lh3.googleusercontent.com/SRxudq6t_eykRHg7hJTV6TkhKlDbJfywceZ4yD6GAGK-PKyUmZh9XFBRW0qocSSqF07vR7FxlwD--JU6E2Vs6unGQfEvoXbUHPE0EyvazHus3bau-P7swfZfL914vNq4PwyyiaSbJQ=w250
+      w360_JPG: https://lh3.googleusercontent.com/9i-hgxxJluiaX7NMDAKgeVcTO767fXkZeJhtR_otRGP8F9fTTYPv2Hv62S14ZmcXmpI0j5uJo0sEx9VEuv0S_Jkkr1qsO4HENMGuGn3IDnPweWztSa2UOuxdMeg05Bne5HUOjkEyYw=w250
+      w240_PNG: https://lh3.googleusercontent.com/SRxudq6t_eykRHg7hJTV6TkhKlDbJfywceZ4yD6GAGK-PKyUmZh9XFBRW0qocSSqF07vR7FxlwD--JU6E2Vs6unGQfEvoXbUHPE0EyvazHus3bau-P7swfZfL914vNq4PwyyiaSbJQ=w166
+      w240_JPG: https://lh3.googleusercontent.com/9i-hgxxJluiaX7NMDAKgeVcTO767fXkZeJhtR_otRGP8F9fTTYPv2Hv62S14ZmcXmpI0j5uJo0sEx9VEuv0S_Jkkr1qsO4HENMGuGn3IDnPweWztSa2UOuxdMeg05Bne5HUOjkEyYw=w166
 ---

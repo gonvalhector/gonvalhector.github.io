@@ -3,36 +3,36 @@ short_name: ezio
 title: Ezio Auditore Fan Art
 alt: Pixel art of Ezio Auditore
 thumbs:
-    w1920_PNG: /assets/images/gallery/thumbs/ezio/1920.png
-    w1920_JPG: /assets/images/gallery/thumbs/ezio/1920.jpg
-    w1024_PNG: /assets/images/gallery/thumbs/ezio/1024.png
-    w1024_JPG: /assets/images/gallery/thumbs/ezio/1024.jpg
-    w768_PNG: /assets/images/gallery/thumbs/ezio/768.png
-    w768_JPG: /assets/images/gallery/thumbs/ezio/768.jpg
-    w600_PNG: /assets/images/gallery/thumbs/ezio/600.png
-    w600_JPG: /assets/images/gallery/thumbs/ezio/600.jpg
-    w411_PNG: /assets/images/gallery/thumbs/ezio/411.png
-    w411_JPG: /assets/images/gallery/thumbs/ezio/411.jpg
-    w360_PNG: /assets/images/gallery/thumbs/ezio/360.png
-    w360_JPG: /assets/images/gallery/thumbs/ezio/360.jpg
-    w240_PNG: /assets/images/gallery/thumbs/ezio/240.png
-    w240_JPG: /assets/images/gallery/thumbs/ezio/240.jpg
+    w1920_PNG: https://lh3.googleusercontent.com/Q3iEmsfhIaFEKDnWBINrxlWERrq5rkdXq6jeTeJxd1zh677iedxHPqXinjRTwKap9ULEkCIX3n8oE8R7XmeFpbClrtePhretI6DlQTfMGsd5jGbQgXXwVEygeP0zuSSr2429-_Z18A=w355
+    w1920_JPG: https://lh3.googleusercontent.com/6h1MLOK70RM0jyveQHyCKvU2pk3Bo3sbHeTzs2490vm5zcz7vPrM2ervu1cyFc34wKFRVHUM9o1UU2c3wxNsOKEA7phM9fREDh_9ZGAmd7XfgIqeVwE-sywWrtZE74x74Q_If46OZA=w355
+    w1024_PNG: https://lh3.googleusercontent.com/Q3iEmsfhIaFEKDnWBINrxlWERrq5rkdXq6jeTeJxd1zh677iedxHPqXinjRTwKap9ULEkCIX3n8oE8R7XmeFpbClrtePhretI6DlQTfMGsd5jGbQgXXwVEygeP0zuSSr2429-_Z18A=w284
+    w1024_JPG: https://lh3.googleusercontent.com/6h1MLOK70RM0jyveQHyCKvU2pk3Bo3sbHeTzs2490vm5zcz7vPrM2ervu1cyFc34wKFRVHUM9o1UU2c3wxNsOKEA7phM9fREDh_9ZGAmd7XfgIqeVwE-sywWrtZE74x74Q_If46OZA=w284
+    w768_PNG: https://lh3.googleusercontent.com/Q3iEmsfhIaFEKDnWBINrxlWERrq5rkdXq6jeTeJxd1zh677iedxHPqXinjRTwKap9ULEkCIX3n8oE8R7XmeFpbClrtePhretI6DlQTfMGsd5jGbQgXXwVEygeP0zuSSr2429-_Z18A=w213
+    w768_JPG: https://lh3.googleusercontent.com/6h1MLOK70RM0jyveQHyCKvU2pk3Bo3sbHeTzs2490vm5zcz7vPrM2ervu1cyFc34wKFRVHUM9o1UU2c3wxNsOKEA7phM9fREDh_9ZGAmd7XfgIqeVwE-sywWrtZE74x74Q_If46OZA=w213
+    w600_PNG: https://lh3.googleusercontent.com/Q3iEmsfhIaFEKDnWBINrxlWERrq5rkdXq6jeTeJxd1zh677iedxHPqXinjRTwKap9ULEkCIX3n8oE8R7XmeFpbClrtePhretI6DlQTfMGsd5jGbQgXXwVEygeP0zuSSr2429-_Z18A=w166
+    w600_JPG: https://lh3.googleusercontent.com/6h1MLOK70RM0jyveQHyCKvU2pk3Bo3sbHeTzs2490vm5zcz7vPrM2ervu1cyFc34wKFRVHUM9o1UU2c3wxNsOKEA7phM9fREDh_9ZGAmd7XfgIqeVwE-sywWrtZE74x74Q_If46OZA=w166
+    w411_PNG: https://lh3.googleusercontent.com/Q3iEmsfhIaFEKDnWBINrxlWERrq5rkdXq6jeTeJxd1zh677iedxHPqXinjRTwKap9ULEkCIX3n8oE8R7XmeFpbClrtePhretI6DlQTfMGsd5jGbQgXXwVEygeP0zuSSr2429-_Z18A=w114
+    w411_JPG: https://lh3.googleusercontent.com/6h1MLOK70RM0jyveQHyCKvU2pk3Bo3sbHeTzs2490vm5zcz7vPrM2ervu1cyFc34wKFRVHUM9o1UU2c3wxNsOKEA7phM9fREDh_9ZGAmd7XfgIqeVwE-sywWrtZE74x74Q_If46OZA=w114
+    w360_PNG: https://lh3.googleusercontent.com/Q3iEmsfhIaFEKDnWBINrxlWERrq5rkdXq6jeTeJxd1zh677iedxHPqXinjRTwKap9ULEkCIX3n8oE8R7XmeFpbClrtePhretI6DlQTfMGsd5jGbQgXXwVEygeP0zuSSr2429-_Z18A=w100
+    w360_JPG: https://lh3.googleusercontent.com/6h1MLOK70RM0jyveQHyCKvU2pk3Bo3sbHeTzs2490vm5zcz7vPrM2ervu1cyFc34wKFRVHUM9o1UU2c3wxNsOKEA7phM9fREDh_9ZGAmd7XfgIqeVwE-sywWrtZE74x74Q_If46OZA=w100
+    w240_PNG: https://lh3.googleusercontent.com/Q3iEmsfhIaFEKDnWBINrxlWERrq5rkdXq6jeTeJxd1zh677iedxHPqXinjRTwKap9ULEkCIX3n8oE8R7XmeFpbClrtePhretI6DlQTfMGsd5jGbQgXXwVEygeP0zuSSr2429-_Z18A=w66
+    w240_JPG: https://lh3.googleusercontent.com/6h1MLOK70RM0jyveQHyCKvU2pk3Bo3sbHeTzs2490vm5zcz7vPrM2ervu1cyFc34wKFRVHUM9o1UU2c3wxNsOKEA7phM9fREDh_9ZGAmd7XfgIqeVwE-sywWrtZE74x74Q_If46OZA=w66
 images:
     - label: Final Version
       caption: Done around 2010/2011 based on his AC Brotherhood appearance.
-      full: /assets/images/gallery/ezio/00/full.png
-      w1920_PNG: /assets/images/gallery/ezio/00/1920.png
-      w1920_JPG: /assets/images/gallery/ezio/00/1920.jpg
-      w1024_PNG: /assets/images/gallery/ezio/00/1024.png
-      w1024_JPG: /assets/images/gallery/ezio/00/1024.jpg
-      w768_PNG: /assets/images/gallery/ezio/00/768.png
-      w768_JPG: /assets/images/gallery/ezio/00/768.jpg
-      w600_PNG: /assets/images/gallery/ezio/00/600.png
-      w600_JPG: /assets/images/gallery/ezio/00/600.jpg
-      w411_PNG: /assets/images/gallery/ezio/00/411.png
-      w411_JPG: /assets/images/gallery/ezio/00/411.jpg
-      w360_PNG: /assets/images/gallery/ezio/00/360.png
-      w360_JPG: /assets/images/gallery/ezio/00/360.jpg
-      w240_PNG: /assets/images/gallery/ezio/00/240.png
-      w240_JPG: /assets/images/gallery/ezio/00/240.jpg
+      full: https://lh3.googleusercontent.com/pNV0qXZ5EEdzLGQ8JKobtPRvvUsvLjBg5kcN0cbSsyCzmDy8_dBcTbN2WLNu4XoQ_NeQznZHW0Tb8Kf6Dg8qJ1RI99pn91qOfn-VW2MG1T-Imt-nIEFcRq-91M182A-YhAGvzxpj1w=w1080-h1080
+      w1920_PNG: https://lh3.googleusercontent.com/7KfkKpw4no4P6H4QLKxlTtaVWb9xmhEhUp8PgyWaVMs3k0xFC6DbhH8PxrSt28DgYt6D0OKc4u9fZP3VMjRy6ROBtn2tHfTkBA5sHR6G4EgneXJCa129__6CS_vcbrzYmYKMlNfxag=w850
+      w1920_JPG: https://lh3.googleusercontent.com/Zi-lkOHXzZ5dO7a_amQpV9pmD4GoKIv3QetLr7LkYmMgzu0Z4HEMsKSsos4frPf61WHR8C0Bz8zP4hQQTNYy2HyJkCtNnPNjlDUye5oB_jaQSJXWX1TZsbcZfcji9TN2BetYe9Xvcg=w850
+      w1024_PNG: https://lh3.googleusercontent.com/7KfkKpw4no4P6H4QLKxlTtaVWb9xmhEhUp8PgyWaVMs3k0xFC6DbhH8PxrSt28DgYt6D0OKc4u9fZP3VMjRy6ROBtn2tHfTkBA5sHR6G4EgneXJCa129__6CS_vcbrzYmYKMlNfxag=w711
+      w1024_JPG: https://lh3.googleusercontent.com/Zi-lkOHXzZ5dO7a_amQpV9pmD4GoKIv3QetLr7LkYmMgzu0Z4HEMsKSsos4frPf61WHR8C0Bz8zP4hQQTNYy2HyJkCtNnPNjlDUye5oB_jaQSJXWX1TZsbcZfcji9TN2BetYe9Xvcg=w711
+      w768_PNG: https://lh3.googleusercontent.com/7KfkKpw4no4P6H4QLKxlTtaVWb9xmhEhUp8PgyWaVMs3k0xFC6DbhH8PxrSt28DgYt6D0OKc4u9fZP3VMjRy6ROBtn2tHfTkBA5sHR6G4EgneXJCa129__6CS_vcbrzYmYKMlNfxag=w533
+      w768_JPG: https://lh3.googleusercontent.com/Zi-lkOHXzZ5dO7a_amQpV9pmD4GoKIv3QetLr7LkYmMgzu0Z4HEMsKSsos4frPf61WHR8C0Bz8zP4hQQTNYy2HyJkCtNnPNjlDUye5oB_jaQSJXWX1TZsbcZfcji9TN2BetYe9Xvcg=w533
+      w600_PNG: https://lh3.googleusercontent.com/7KfkKpw4no4P6H4QLKxlTtaVWb9xmhEhUp8PgyWaVMs3k0xFC6DbhH8PxrSt28DgYt6D0OKc4u9fZP3VMjRy6ROBtn2tHfTkBA5sHR6G4EgneXJCa129__6CS_vcbrzYmYKMlNfxag=w416
+      w600_JPG: https://lh3.googleusercontent.com/Zi-lkOHXzZ5dO7a_amQpV9pmD4GoKIv3QetLr7LkYmMgzu0Z4HEMsKSsos4frPf61WHR8C0Bz8zP4hQQTNYy2HyJkCtNnPNjlDUye5oB_jaQSJXWX1TZsbcZfcji9TN2BetYe9Xvcg=w416
+      w411_PNG: https://lh3.googleusercontent.com/7KfkKpw4no4P6H4QLKxlTtaVWb9xmhEhUp8PgyWaVMs3k0xFC6DbhH8PxrSt28DgYt6D0OKc4u9fZP3VMjRy6ROBtn2tHfTkBA5sHR6G4EgneXJCa129__6CS_vcbrzYmYKMlNfxag=w285
+      w411_JPG: https://lh3.googleusercontent.com/Zi-lkOHXzZ5dO7a_amQpV9pmD4GoKIv3QetLr7LkYmMgzu0Z4HEMsKSsos4frPf61WHR8C0Bz8zP4hQQTNYy2HyJkCtNnPNjlDUye5oB_jaQSJXWX1TZsbcZfcji9TN2BetYe9Xvcg=w285
+      w360_PNG: https://lh3.googleusercontent.com/7KfkKpw4no4P6H4QLKxlTtaVWb9xmhEhUp8PgyWaVMs3k0xFC6DbhH8PxrSt28DgYt6D0OKc4u9fZP3VMjRy6ROBtn2tHfTkBA5sHR6G4EgneXJCa129__6CS_vcbrzYmYKMlNfxag=w250
+      w360_JPG: https://lh3.googleusercontent.com/Zi-lkOHXzZ5dO7a_amQpV9pmD4GoKIv3QetLr7LkYmMgzu0Z4HEMsKSsos4frPf61WHR8C0Bz8zP4hQQTNYy2HyJkCtNnPNjlDUye5oB_jaQSJXWX1TZsbcZfcji9TN2BetYe9Xvcg=w250
+      w240_PNG: https://lh3.googleusercontent.com/7KfkKpw4no4P6H4QLKxlTtaVWb9xmhEhUp8PgyWaVMs3k0xFC6DbhH8PxrSt28DgYt6D0OKc4u9fZP3VMjRy6ROBtn2tHfTkBA5sHR6G4EgneXJCa129__6CS_vcbrzYmYKMlNfxag=w166
+      w240_JPG: https://lh3.googleusercontent.com/Zi-lkOHXzZ5dO7a_amQpV9pmD4GoKIv3QetLr7LkYmMgzu0Z4HEMsKSsos4frPf61WHR8C0Bz8zP4hQQTNYy2HyJkCtNnPNjlDUye5oB_jaQSJXWX1TZsbcZfcji9TN2BetYe9Xvcg=w166
 ---
