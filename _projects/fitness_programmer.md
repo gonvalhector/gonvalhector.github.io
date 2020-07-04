@@ -2,22 +2,22 @@
 short_name: fitness_programmer
 title: Fitness Programmer
 alt: Logo of the Fitness Programmer web app
-video: https://www.youtube.com/embed/hF-qanTC6pA
+video: https://www.youtube.com/embed/hF-qanTC6pA?rel=0
 thumbs:
-    w1920_PNG: /assets/images/projects/thumbs/fitness_programmer/1920.png
-    w1920_JPG: /assets/images/projects/thumbs/fitness_programmer/1920.jpg
-    w1024_PNG: /assets/images/projects/thumbs/fitness_programmer/1024.png
-    w1024_JPG: /assets/images/projects/thumbs/fitness_programmer/1024.jpg
-    w768_PNG: /assets/images/projects/thumbs/fitness_programmer/768.png
-    w768_JPG: /assets/images/projects/thumbs/fitness_programmer/768.jpg
-    w600_PNG: /assets/images/projects/thumbs/fitness_programmer/600.png
-    w600_JPG: /assets/images/projects/thumbs/fitness_programmer/600.jpg
-    w411_PNG: /assets/images/projects/thumbs/fitness_programmer/411.png
-    w411_JPG: /assets/images/projects/thumbs/fitness_programmer/411.jpg
-    w360_PNG: /assets/images/projects/thumbs/fitness_programmer/360.png
-    w360_JPG: /assets/images/projects/thumbs/fitness_programmer/360.jpg
-    w240_PNG: /assets/images/projects/thumbs/fitness_programmer/240.png
-    w240_JPG: /assets/images/projects/thumbs/fitness_programmer/240.jpg
+    w1920_PNG: https://lh3.googleusercontent.com/Dl0OtMbLRNodlIf2CEjj6jfSR4-DaUd8ilvoBo9KNvKRtOByyLhlu_imZg1HJ0OQeOxTLyplyoR7W-2IoKIyfD1ydn56YVC_Ek16KDIov4ePvIFZuGy5xyeKi32eO8tfNA5XBv4OSQ=w355
+    w1920_JPG: https://lh3.googleusercontent.com/OIJDym7SphHcKsWqjk_2gnmajEoSn9PaATxI7x7w3SoMj3wuS_jndplaF9kiInweh-RavfsagkVGN7G1oXKQ-9YUuTu6bqtexUv35Wrh_HA9RsRmZ3ysHsCJwfjNvp4vJsVhKqCyEQ=w355
+    w1024_PNG: https://lh3.googleusercontent.com/Dl0OtMbLRNodlIf2CEjj6jfSR4-DaUd8ilvoBo9KNvKRtOByyLhlu_imZg1HJ0OQeOxTLyplyoR7W-2IoKIyfD1ydn56YVC_Ek16KDIov4ePvIFZuGy5xyeKi32eO8tfNA5XBv4OSQ=w284
+    w1024_JPG: https://lh3.googleusercontent.com/OIJDym7SphHcKsWqjk_2gnmajEoSn9PaATxI7x7w3SoMj3wuS_jndplaF9kiInweh-RavfsagkVGN7G1oXKQ-9YUuTu6bqtexUv35Wrh_HA9RsRmZ3ysHsCJwfjNvp4vJsVhKqCyEQ=w284
+    w768_PNG: https://lh3.googleusercontent.com/Dl0OtMbLRNodlIf2CEjj6jfSR4-DaUd8ilvoBo9KNvKRtOByyLhlu_imZg1HJ0OQeOxTLyplyoR7W-2IoKIyfD1ydn56YVC_Ek16KDIov4ePvIFZuGy5xyeKi32eO8tfNA5XBv4OSQ=w213
+    w768_JPG: https://lh3.googleusercontent.com/OIJDym7SphHcKsWqjk_2gnmajEoSn9PaATxI7x7w3SoMj3wuS_jndplaF9kiInweh-RavfsagkVGN7G1oXKQ-9YUuTu6bqtexUv35Wrh_HA9RsRmZ3ysHsCJwfjNvp4vJsVhKqCyEQ=w213
+    w600_PNG: https://lh3.googleusercontent.com/Dl0OtMbLRNodlIf2CEjj6jfSR4-DaUd8ilvoBo9KNvKRtOByyLhlu_imZg1HJ0OQeOxTLyplyoR7W-2IoKIyfD1ydn56YVC_Ek16KDIov4ePvIFZuGy5xyeKi32eO8tfNA5XBv4OSQ=w166
+    w600_JPG: https://lh3.googleusercontent.com/OIJDym7SphHcKsWqjk_2gnmajEoSn9PaATxI7x7w3SoMj3wuS_jndplaF9kiInweh-RavfsagkVGN7G1oXKQ-9YUuTu6bqtexUv35Wrh_HA9RsRmZ3ysHsCJwfjNvp4vJsVhKqCyEQ=w166
+    w411_PNG: https://lh3.googleusercontent.com/Dl0OtMbLRNodlIf2CEjj6jfSR4-DaUd8ilvoBo9KNvKRtOByyLhlu_imZg1HJ0OQeOxTLyplyoR7W-2IoKIyfD1ydn56YVC_Ek16KDIov4ePvIFZuGy5xyeKi32eO8tfNA5XBv4OSQ=w114
+    w411_JPG: https://lh3.googleusercontent.com/OIJDym7SphHcKsWqjk_2gnmajEoSn9PaATxI7x7w3SoMj3wuS_jndplaF9kiInweh-RavfsagkVGN7G1oXKQ-9YUuTu6bqtexUv35Wrh_HA9RsRmZ3ysHsCJwfjNvp4vJsVhKqCyEQ=w114
+    w360_PNG: https://lh3.googleusercontent.com/Dl0OtMbLRNodlIf2CEjj6jfSR4-DaUd8ilvoBo9KNvKRtOByyLhlu_imZg1HJ0OQeOxTLyplyoR7W-2IoKIyfD1ydn56YVC_Ek16KDIov4ePvIFZuGy5xyeKi32eO8tfNA5XBv4OSQ=w100
+    w360_JPG: https://lh3.googleusercontent.com/OIJDym7SphHcKsWqjk_2gnmajEoSn9PaATxI7x7w3SoMj3wuS_jndplaF9kiInweh-RavfsagkVGN7G1oXKQ-9YUuTu6bqtexUv35Wrh_HA9RsRmZ3ysHsCJwfjNvp4vJsVhKqCyEQ=w100
+    w240_PNG: https://lh3.googleusercontent.com/Dl0OtMbLRNodlIf2CEjj6jfSR4-DaUd8ilvoBo9KNvKRtOByyLhlu_imZg1HJ0OQeOxTLyplyoR7W-2IoKIyfD1ydn56YVC_Ek16KDIov4ePvIFZuGy5xyeKi32eO8tfNA5XBv4OSQ=w66
+    w240_JPG: https://lh3.googleusercontent.com/OIJDym7SphHcKsWqjk_2gnmajEoSn9PaATxI7x7w3SoMj3wuS_jndplaF9kiInweh-RavfsagkVGN7G1oXKQ-9YUuTu6bqtexUv35Wrh_HA9RsRmZ3ysHsCJwfjNvp4vJsVhKqCyEQ=w66
 ---
 # {{ page.title }}
 
