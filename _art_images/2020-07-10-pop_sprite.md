@@ -1,0 +1,38 @@
+---
+short_name: pop_sprite
+title: Prince of Persia Sprite
+alt: Pixel art sprite of the Prince of Persia
+thumbs:
+    w1920_PNG: https://lh3.googleusercontent.com/d6UsUmUF4s914MUk5hImiA_-0-IYXY2MyqY7CtuqMBF8JXuS9LjYAfdrmhMuOn48Ua1MqwtfVBK2BNL96ngjEzZbGRxcf1rEj3MlvzD6oL-WB-WmHADWdUxt6I9GFKaSV32liYZjZQ=w355
+    w1920_JPG: https://lh3.googleusercontent.com/PKwQpDIHUtOKoWVNI7TF7IV6gDiMlPm-DS5YPYqfGfuO8-2FlEZkNtyUDApXdJL_M-PZcHCm2qhXOoCgLx12jUHLpeJvFiA_JmLq8tf_6BNSo1wBrzRqQCBT33OXIvT-4KXCa6VDBw=w355
+    w1024_PNG: https://lh3.googleusercontent.com/d6UsUmUF4s914MUk5hImiA_-0-IYXY2MyqY7CtuqMBF8JXuS9LjYAfdrmhMuOn48Ua1MqwtfVBK2BNL96ngjEzZbGRxcf1rEj3MlvzD6oL-WB-WmHADWdUxt6I9GFKaSV32liYZjZQ=w284
+    w1024_JPG: https://lh3.googleusercontent.com/PKwQpDIHUtOKoWVNI7TF7IV6gDiMlPm-DS5YPYqfGfuO8-2FlEZkNtyUDApXdJL_M-PZcHCm2qhXOoCgLx12jUHLpeJvFiA_JmLq8tf_6BNSo1wBrzRqQCBT33OXIvT-4KXCa6VDBw=w284
+    w768_PNG: https://lh3.googleusercontent.com/d6UsUmUF4s914MUk5hImiA_-0-IYXY2MyqY7CtuqMBF8JXuS9LjYAfdrmhMuOn48Ua1MqwtfVBK2BNL96ngjEzZbGRxcf1rEj3MlvzD6oL-WB-WmHADWdUxt6I9GFKaSV32liYZjZQ=w213
+    w768_JPG: https://lh3.googleusercontent.com/PKwQpDIHUtOKoWVNI7TF7IV6gDiMlPm-DS5YPYqfGfuO8-2FlEZkNtyUDApXdJL_M-PZcHCm2qhXOoCgLx12jUHLpeJvFiA_JmLq8tf_6BNSo1wBrzRqQCBT33OXIvT-4KXCa6VDBw=w213
+    w600_PNG: https://lh3.googleusercontent.com/d6UsUmUF4s914MUk5hImiA_-0-IYXY2MyqY7CtuqMBF8JXuS9LjYAfdrmhMuOn48Ua1MqwtfVBK2BNL96ngjEzZbGRxcf1rEj3MlvzD6oL-WB-WmHADWdUxt6I9GFKaSV32liYZjZQ=w166
+    w600_JPG: https://lh3.googleusercontent.com/PKwQpDIHUtOKoWVNI7TF7IV6gDiMlPm-DS5YPYqfGfuO8-2FlEZkNtyUDApXdJL_M-PZcHCm2qhXOoCgLx12jUHLpeJvFiA_JmLq8tf_6BNSo1wBrzRqQCBT33OXIvT-4KXCa6VDBw=w166
+    w411_PNG: https://lh3.googleusercontent.com/d6UsUmUF4s914MUk5hImiA_-0-IYXY2MyqY7CtuqMBF8JXuS9LjYAfdrmhMuOn48Ua1MqwtfVBK2BNL96ngjEzZbGRxcf1rEj3MlvzD6oL-WB-WmHADWdUxt6I9GFKaSV32liYZjZQ=w114
+    w411_JPG: https://lh3.googleusercontent.com/PKwQpDIHUtOKoWVNI7TF7IV6gDiMlPm-DS5YPYqfGfuO8-2FlEZkNtyUDApXdJL_M-PZcHCm2qhXOoCgLx12jUHLpeJvFiA_JmLq8tf_6BNSo1wBrzRqQCBT33OXIvT-4KXCa6VDBw=w114
+    w360_PNG: https://lh3.googleusercontent.com/d6UsUmUF4s914MUk5hImiA_-0-IYXY2MyqY7CtuqMBF8JXuS9LjYAfdrmhMuOn48Ua1MqwtfVBK2BNL96ngjEzZbGRxcf1rEj3MlvzD6oL-WB-WmHADWdUxt6I9GFKaSV32liYZjZQ=w100
+    w360_JPG: https://lh3.googleusercontent.com/PKwQpDIHUtOKoWVNI7TF7IV6gDiMlPm-DS5YPYqfGfuO8-2FlEZkNtyUDApXdJL_M-PZcHCm2qhXOoCgLx12jUHLpeJvFiA_JmLq8tf_6BNSo1wBrzRqQCBT33OXIvT-4KXCa6VDBw=w100
+    w240_PNG: https://lh3.googleusercontent.com/d6UsUmUF4s914MUk5hImiA_-0-IYXY2MyqY7CtuqMBF8JXuS9LjYAfdrmhMuOn48Ua1MqwtfVBK2BNL96ngjEzZbGRxcf1rEj3MlvzD6oL-WB-WmHADWdUxt6I9GFKaSV32liYZjZQ=w66
+    w240_JPG: https://lh3.googleusercontent.com/PKwQpDIHUtOKoWVNI7TF7IV6gDiMlPm-DS5YPYqfGfuO8-2FlEZkNtyUDApXdJL_M-PZcHCm2qhXOoCgLx12jUHLpeJvFiA_JmLq8tf_6BNSo1wBrzRqQCBT33OXIvT-4KXCa6VDBw=w66
+images:
+    - label: Final Version
+      caption: Based on a Sword of Mana sprite and the Sands of Time trilogy's version of the character.
+      full: https://lh3.googleusercontent.com/IRw-SJBtda7cD9paHw1zg3MCTFG_pucPxH4NDmpljU5XThoNso-OM96qy6RH-doNamw_w9QQMMiwlfxnpdUldH4fs9mvI3ottVBitgPDUBnyMbcyv-sVX_xyHKEUM5T6RkjNrglYeQ=w1080-h1080
+      w1920_PNG: https://lh3.googleusercontent.com/_i8D3lVeaZEA6fffxA0VSW992QFBYhYXCOItY5OolCmWnD30SqoibTSnZFyUAD_AYzEiGv81wi03feOzpRbP9kCRhVKqMy3kUjF4MZXP25GGUT1c89OWZ29E4DhClumNEA4YglvDvw=w850
+      w1920_JPG: https://lh3.googleusercontent.com/tU0qGEfXU_TFehHfKPP_1Zvx_GqjJNC2krxvbNz3r03ZUplQJhYs4eOC-m_Q-Fay2oHIUlXg42yyrZvJrs0o6i4XN3XzsadbqzxcJuAdnLZ2zpOf8BhfJCL5sNFwgJ0qBxhM75pqwg=w850
+      w1024_PNG: https://lh3.googleusercontent.com/_i8D3lVeaZEA6fffxA0VSW992QFBYhYXCOItY5OolCmWnD30SqoibTSnZFyUAD_AYzEiGv81wi03feOzpRbP9kCRhVKqMy3kUjF4MZXP25GGUT1c89OWZ29E4DhClumNEA4YglvDvw=w711
+      w1024_JPG: https://lh3.googleusercontent.com/tU0qGEfXU_TFehHfKPP_1Zvx_GqjJNC2krxvbNz3r03ZUplQJhYs4eOC-m_Q-Fay2oHIUlXg42yyrZvJrs0o6i4XN3XzsadbqzxcJuAdnLZ2zpOf8BhfJCL5sNFwgJ0qBxhM75pqwg=w711
+      w768_PNG: https://lh3.googleusercontent.com/_i8D3lVeaZEA6fffxA0VSW992QFBYhYXCOItY5OolCmWnD30SqoibTSnZFyUAD_AYzEiGv81wi03feOzpRbP9kCRhVKqMy3kUjF4MZXP25GGUT1c89OWZ29E4DhClumNEA4YglvDvw=w533
+      w768_JPG: https://lh3.googleusercontent.com/tU0qGEfXU_TFehHfKPP_1Zvx_GqjJNC2krxvbNz3r03ZUplQJhYs4eOC-m_Q-Fay2oHIUlXg42yyrZvJrs0o6i4XN3XzsadbqzxcJuAdnLZ2zpOf8BhfJCL5sNFwgJ0qBxhM75pqwg=w533
+      w600_PNG: https://lh3.googleusercontent.com/_i8D3lVeaZEA6fffxA0VSW992QFBYhYXCOItY5OolCmWnD30SqoibTSnZFyUAD_AYzEiGv81wi03feOzpRbP9kCRhVKqMy3kUjF4MZXP25GGUT1c89OWZ29E4DhClumNEA4YglvDvw=w416
+      w600_JPG: https://lh3.googleusercontent.com/tU0qGEfXU_TFehHfKPP_1Zvx_GqjJNC2krxvbNz3r03ZUplQJhYs4eOC-m_Q-Fay2oHIUlXg42yyrZvJrs0o6i4XN3XzsadbqzxcJuAdnLZ2zpOf8BhfJCL5sNFwgJ0qBxhM75pqwg=w416
+      w411_PNG: https://lh3.googleusercontent.com/_i8D3lVeaZEA6fffxA0VSW992QFBYhYXCOItY5OolCmWnD30SqoibTSnZFyUAD_AYzEiGv81wi03feOzpRbP9kCRhVKqMy3kUjF4MZXP25GGUT1c89OWZ29E4DhClumNEA4YglvDvw=w285
+      w411_JPG: https://lh3.googleusercontent.com/tU0qGEfXU_TFehHfKPP_1Zvx_GqjJNC2krxvbNz3r03ZUplQJhYs4eOC-m_Q-Fay2oHIUlXg42yyrZvJrs0o6i4XN3XzsadbqzxcJuAdnLZ2zpOf8BhfJCL5sNFwgJ0qBxhM75pqwg=w285
+      w360_PNG: https://lh3.googleusercontent.com/_i8D3lVeaZEA6fffxA0VSW992QFBYhYXCOItY5OolCmWnD30SqoibTSnZFyUAD_AYzEiGv81wi03feOzpRbP9kCRhVKqMy3kUjF4MZXP25GGUT1c89OWZ29E4DhClumNEA4YglvDvw=w250
+      w360_JPG: https://lh3.googleusercontent.com/tU0qGEfXU_TFehHfKPP_1Zvx_GqjJNC2krxvbNz3r03ZUplQJhYs4eOC-m_Q-Fay2oHIUlXg42yyrZvJrs0o6i4XN3XzsadbqzxcJuAdnLZ2zpOf8BhfJCL5sNFwgJ0qBxhM75pqwg=w250
+      w240_PNG: https://lh3.googleusercontent.com/_i8D3lVeaZEA6fffxA0VSW992QFBYhYXCOItY5OolCmWnD30SqoibTSnZFyUAD_AYzEiGv81wi03feOzpRbP9kCRhVKqMy3kUjF4MZXP25GGUT1c89OWZ29E4DhClumNEA4YglvDvw=w166
+      w240_JPG: https://lh3.googleusercontent.com/tU0qGEfXU_TFehHfKPP_1Zvx_GqjJNC2krxvbNz3r03ZUplQJhYs4eOC-m_Q-Fay2oHIUlXg42yyrZvJrs0o6i4XN3XzsadbqzxcJuAdnLZ2zpOf8BhfJCL5sNFwgJ0qBxhM75pqwg=w166
+---
