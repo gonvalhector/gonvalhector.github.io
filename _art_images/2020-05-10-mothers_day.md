@@ -1,6 +1,7 @@
 ---
+category: art_gallery
 short_name: mothers_day
-title: Mother's Day 2020
+title: Mother's Day
 alt: Watercolor painting of a cup of coffee
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/hNE7QIENTcNu7KeQrJO8pYMEapewzFrhpuHQDwFAbz_qrD9sBzN3tN9eN-f3VmxjdNvQ-GwSf4Wr0sxdOmRTVPo6eS1U6Kijwfs4Sfme1P40WH7Ndyyr2M7fAcVAfQKlh306Dwvqyw=w355
@@ -121,3 +122,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/5_m1C3P8qzkeXz6olr7Wr3lXh6eFgTU33CpvLkUXsAD6aHeyKzDZmJrDdlRVqa6rAKU1Uor25mEJuEvvkPZKo_Bmbvengmw6Ljcj2UuKgzrJqp1aieCBG6Oqry_nFY6plYp5cueoOA=w166
       w240_JPG: https://lh3.googleusercontent.com/nYTlyr6-05MDrqWEihoFE55J4SBPIuWCJhDRi1kj5JPcP4EBilqDEWNJSVewmFNAcWuhUJbP9yl8gN39sYuWODQNj1YPH9P0VyU3uLrjah-p0jiihRJDoRiMnLfmBc7zfs_VUuWEZQ=w166
 ---
+
+Better late than never, I guess... Happy (belated) Mother's Day to my mom and all other mothers!  
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

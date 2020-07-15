@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: batman_sprite
 title: Batman Sprite
 alt: Pixel Art Sprite of Batman
@@ -19,7 +20,7 @@ thumbs:
     w240_JPG: https://lh3.googleusercontent.com/8Fp1oyU7G9yPPG7CuADrRupp4vCNwBUraNPzfC15LMaStu9WxmAjoRjLBbrJ0fdvbaTupNK-x-0rJBJsd9nWlUgUdXGS7hWJ_GdOGyKNaHdDRnSjnTHgMqMXiyEwbxMl10f-C_SKmA=w66
 images:
     - label: Final Version
-      caption: Based on the Megaman X sprite and the BvS interpretation of Batman.
+      caption: Fully rendered.
       full: https://lh3.googleusercontent.com/v2O4UAG7vJGsNnfbWh0zJDzf4tYXJYZ3HTjX2LVYXZDmTSm9Lxq8FG2sPfOTgz7ZINECs2Q5t1f-HFPbsXzV4zL7WC2JiMP7FOO5Z9uKMr3JauNAAL_i_7O8dmJRdTklOYaRVfmHCg=w1080-h1080
       w1920_PNG: https://lh3.googleusercontent.com/wj0S5s7vpkc6Nv_4MCyguuEQ8Eu8zdWuXiHNQjM2um224LIinRM9EseYDnfah9zBc5KllOjGNCa7y3di7o-3JM_h1G6whFJVVSM44mjptbcLLdvBCEXSkA-EwRpPRO3-OoomIUcTuQ=w850
       w1920_JPG: https://lh3.googleusercontent.com/x4fhMKahPmJHZmP7J7CYtNXt-jvYjUKAVMb7AirgRwHYhQSlrIwnDfT_PSziZfYqFszawesF14HFm7noC4k7d3Yy_8SWOPXBueHa292N9e0y74NIkvU2nuGCLJNCD_l1pYaZCrSynA=w850
@@ -36,3 +37,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/wj0S5s7vpkc6Nv_4MCyguuEQ8Eu8zdWuXiHNQjM2um224LIinRM9EseYDnfah9zBc5KllOjGNCa7y3di7o-3JM_h1G6whFJVVSM44mjptbcLLdvBCEXSkA-EwRpPRO3-OoomIUcTuQ=w166
       w240_JPG: https://lh3.googleusercontent.com/x4fhMKahPmJHZmP7J7CYtNXt-jvYjUKAVMb7AirgRwHYhQSlrIwnDfT_PSziZfYqFszawesF14HFm7noC4k7d3Yy_8SWOPXBueHa292N9e0y74NIkvU2nuGCLJNCD_l1pYaZCrSynA=w166
 ---
+
+A little **Batman** sprite based on the **Megaman X** sprite and the **DCEU** interpretation of the character.  
+Done in **Graphics Gale**.

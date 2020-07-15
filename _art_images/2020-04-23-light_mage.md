@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: light_mage
 title: Light Mage
 alt: Watercolor painting of a light mage
@@ -19,7 +20,7 @@ thumbs:
     w240_JPG: https://lh3.googleusercontent.com/S_Ri5xNOC5MfQrWR1eLAgvACou3QswoLP8jlz5fwtH6Spbgn806leMK3J_SJcNTPv9HvYzjCFeA5lIxxfL9pXDEQ4SqsaYKsamTUe9EhpyoRW2Wc6zDfUHi6Lr4qwDy3J9OD0i8pTA=w66
 images:
     - label: Final Version
-      caption: A young light mage.
+      caption: Fully rendered.
       full: https://lh3.googleusercontent.com/KzTjwyuJJqxZbp5rfT4Gz_aWZtnORZ2MykXrqBq_5Ys8rCmsvg69CtHKk-swCmsdM7Q7FYzu7HRUfvwAdA-azuK-R2I3unk-klw3hmLGGXGpAhBCqnGcri7045B8mOcy_gseYV4d6Q=w1080-h1080
       w1920_PNG: https://lh3.googleusercontent.com/a08rohbA7uUrzj0qMUQKcB-dmLq6T6pxP_o0tRezHqFdRyaoK9YOnCEtoOeHLbChsyf5LmPDzkKoffJi0_ss2poewnPUirQYHG6nkSNObf2I4B-FGJxKt_hBelM2epMrXnmpzuZXZQ=w850
       w1920_JPG: https://lh3.googleusercontent.com/AsyzkrZ1BGk4Y45GrM4rPm_E9SWE-55ABaLVwoVEYg3J-GuA5hpJLaKYASnQnuzMcyo1_A5cdMxbpYFfPVgkLSRGJN9dAsqrMsss_LBhSIDMso9w_v_TJ9WInJSL1-4IRgeyCWP6Rg=w850
@@ -138,3 +139,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/sir0GlnzGZmJq-MYFuE6uYWZ40cVjqdZg-tduIM6QsW0whDVaOIXeK-L0IMMR44H288FMDJoiZ64wlbS-TpA9DXenxIQlE04O0WDPKHWs4jrfmnaRgwC6jGbxB70Po-RNTbQDW0RIg=w166
       w240_JPG: https://lh3.googleusercontent.com/wUe5NGBayQveSaOPylzX4c0LEATkiVobb7xtZzPVQkJh3GSCvWs_To4YsAqcD_vfSVc2BA2_0PpEAhaTHBe4vfq7eBjdgemcU7fP1SlTqbzXIj2BoJIDoCNLWG91IOrfVVvVGg8K6w=w166
 ---
+
+**"Young Light Mage"**, a quick watercolor and ink sketch.  
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

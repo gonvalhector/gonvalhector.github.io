@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: pop_sprite
 title: Prince of Persia Sprite
 alt: Pixel art sprite of the Prince of Persia
@@ -19,7 +20,7 @@ thumbs:
     w240_JPG: https://lh3.googleusercontent.com/PKwQpDIHUtOKoWVNI7TF7IV6gDiMlPm-DS5YPYqfGfuO8-2FlEZkNtyUDApXdJL_M-PZcHCm2qhXOoCgLx12jUHLpeJvFiA_JmLq8tf_6BNSo1wBrzRqQCBT33OXIvT-4KXCa6VDBw=w66
 images:
     - label: Final Version
-      caption: Based on a Sword of Mana sprite and the Sands of Time trilogy's version of the character.
+      caption: Fully rendered.
       full: https://lh3.googleusercontent.com/IRw-SJBtda7cD9paHw1zg3MCTFG_pucPxH4NDmpljU5XThoNso-OM96qy6RH-doNamw_w9QQMMiwlfxnpdUldH4fs9mvI3ottVBitgPDUBnyMbcyv-sVX_xyHKEUM5T6RkjNrglYeQ=w1080-h1080
       w1920_PNG: https://lh3.googleusercontent.com/_i8D3lVeaZEA6fffxA0VSW992QFBYhYXCOItY5OolCmWnD30SqoibTSnZFyUAD_AYzEiGv81wi03feOzpRbP9kCRhVKqMy3kUjF4MZXP25GGUT1c89OWZ29E4DhClumNEA4YglvDvw=w850
       w1920_JPG: https://lh3.googleusercontent.com/tU0qGEfXU_TFehHfKPP_1Zvx_GqjJNC2krxvbNz3r03ZUplQJhYs4eOC-m_Q-Fay2oHIUlXg42yyrZvJrs0o6i4XN3XzsadbqzxcJuAdnLZ2zpOf8BhfJCL5sNFwgJ0qBxhM75pqwg=w850
@@ -36,3 +37,7 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/_i8D3lVeaZEA6fffxA0VSW992QFBYhYXCOItY5OolCmWnD30SqoibTSnZFyUAD_AYzEiGv81wi03feOzpRbP9kCRhVKqMy3kUjF4MZXP25GGUT1c89OWZ29E4DhClumNEA4YglvDvw=w166
       w240_JPG: https://lh3.googleusercontent.com/tU0qGEfXU_TFehHfKPP_1Zvx_GqjJNC2krxvbNz3r03ZUplQJhYs4eOC-m_Q-Fay2oHIUlXg42yyrZvJrs0o6i4XN3XzsadbqzxcJuAdnLZ2zpOf8BhfJCL5sNFwgJ0qBxhM75pqwg=w166
 ---
+
+**Prince of Persia** sprite based on a **Sword of Mana** sprite and the **Sands of Time** trilogy's version of the *Prince*. I find it funny how he always managed to go shirtless by the end of the game.
+
+Done in **Graphics Gale**.

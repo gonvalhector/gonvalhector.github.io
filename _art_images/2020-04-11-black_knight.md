@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: black_knight
 title: Black Knight
 alt: Pixel art of a Black Knight from Dark Souls
@@ -155,3 +156,7 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/ztZtUquYumYDGIHT24wxheP_o_L-xnwC0fcYNK5o-nDoQloIr22oCX8uxyqk7GxHyFrsfyWMvyEI4S96QAv8UtQQRdEQO-rwd5hRYzAWzC3qiIf51Mqmt_pLM4Ohx4ebL8d9bbZzYw=w166
       w240_JPG: https://lh3.googleusercontent.com/75nFbiNNzd69xlXkuMNxMkG34kcHT6Skr3d8E3mvCWwnt3HsQsFX1mZaKpZ-rodqgELaYiH4ie8GwKlNVfTsZ0zx4hnDGyp4j9j-WeFE5zya3WJxicDuYHsVOJGdtoIIQIHArx1tLQ=w166
 ---
+
+Made this based on the artwork of a **Black Knight** from **Dark Souls** for a friend a couple of months ago.
+Monochromatic version made with the [oil 6](https://lospec.com/palette-list/oil-6) palette by [GrafxKid](https://grafxkid.tumblr.com/palettes) from [Lospec](https://lospec.com/).  
+Done in **Graphics Gale**.

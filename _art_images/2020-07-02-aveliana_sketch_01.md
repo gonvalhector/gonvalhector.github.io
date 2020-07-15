@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: aveliana_sketch_01
 title: Sketch of Aveliana
 alt: Watercolor and Ink sketch of Aveliana
@@ -19,7 +20,7 @@ thumbs:
     w240_JPG: https://lh3.googleusercontent.com/sV9L5Ic9Xp6p5vpe0mNSnNNNIluR6yARPiAoHZjoo2mIqO3pYKpa8U9TZe-XlPcu5bqTfJPFwOW0qHZrdScT70Kn-5emglOD_dLdUjOBpZSIRAP1rK39UhXsZynJ0JGrY8nG5HT4_w=w66
 images:
     - label: Final Version
-      caption: Quick sketch of Aveliana and the Fox with watercolor and ink.
+      caption: Fully rendered.
       full: https://lh3.googleusercontent.com/Dj5EuXvOMaRMh4zJ2yGADbQryEyux8_cgMViZQtydbW-VASzim8S3_mr2N27-lwDJ_w8wzLvX0sYbwBevOeuUz2H7Tr8SKANQKwLCGjRY_f27qhmkhgK2-hfOAmPGxYQAYx7rgBFTw=w1080-h1080
       w1920_PNG: https://lh3.googleusercontent.com/ydZsgSa95GZDjx0wCosDgIbEFn0ow2Q6oL9cAE2FRQJMlq6jmbKQiFOHXBzG4tPDQI3RXW1wHmDXd5gw3rPQ2fuLb92zCKVfxNcNGUqqnCHc2LqG7pei9JHquPP9lQ71PfKY88ElDQ=w850
       w1920_JPG: https://lh3.googleusercontent.com/ydNvGOrRWNyg1j6EUvVxyrJPGtn2C4BBqj2QiYXYBmhOGIoVNZMRKyEmM7FkDxYyrVgDzdUKxrWEkTPl6tCgFe6BcnHZj9mhpayyEzgwG79Wf8hE6JzFueBpeRStfv2idNAfdKz95Q=w850
@@ -36,3 +37,7 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/ydZsgSa95GZDjx0wCosDgIbEFn0ow2Q6oL9cAE2FRQJMlq6jmbKQiFOHXBzG4tPDQI3RXW1wHmDXd5gw3rPQ2fuLb92zCKVfxNcNGUqqnCHc2LqG7pei9JHquPP9lQ71PfKY88ElDQ=w166
       w240_JPG: https://lh3.googleusercontent.com/ydNvGOrRWNyg1j6EUvVxyrJPGtn2C4BBqj2QiYXYBmhOGIoVNZMRKyEmM7FkDxYyrVgDzdUKxrWEkTPl6tCgFe6BcnHZj9mhpayyEzgwG79Wf8hE6JzFueBpeRStfv2idNAfdKz95Q=w166
 ---
+
+A quick watercolor and ink sketch of [Aveliana](https://gamejolt.com/games/Aveliana/500900) by [The French Dev](https://www.instagram.com/thefrenchdev/) in preparation for my entry of his **DTIYS** challenge.
+I wanted to get a quick practice sketch done before tackling what I really want to do for the challenge.  
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

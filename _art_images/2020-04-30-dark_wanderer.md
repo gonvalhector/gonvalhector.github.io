@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: dark_wanderer
 title: Dark Wanderer
 alt: Ink sketch of a dark wanderer
@@ -36,3 +37,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/18cF5s0TDqa932_Kb0mR15yuu_ygH2gjpRrQA-v-dh4uVWJQ4-_mYgpCGByJoGwHo4Gu_3mENqZAIjzQnpW2XiOeZ0Z9z5MJEMtM1FcXw7pE5bLlqjfLv99p_g3cTub64Vuf41U_wA=w166
       w240_JPG: https://lh3.googleusercontent.com/vzocqZLPC2svRv5huYG2ESWN981IR_R-0p37q0kyMl9p-tNLkn5zdQ29VA7loSf_2k9Dk0h0V1yPDoIdjByYbh_USgUY3OtKJJlCaVkh4PPoi0VrNITiFdE_jgOHFikB3dDQtKA2ew=w166
 ---
+
+**"The Dark Wanderer"**, an ink sketch I made around *August of 2019*.  
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

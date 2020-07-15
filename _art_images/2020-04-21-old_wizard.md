@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: old_wizard
 title: Old Wizard and his Projection
 alt: Watercolor painting of an old wizard and his projection
@@ -36,3 +37,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w166
       w240_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w166
 ---
+
+**"An Old Wizard and his Projection"**, a watercolor and ink sketch I made around *September of 2019*.  
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

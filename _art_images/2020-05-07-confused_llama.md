@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: confused_llama
 title: Confused Llama
 alt: Ink sketch of a confused llama
@@ -53,3 +54,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/Y2akIWvgLhKa6U3qfBvKlElPrNrxsh-c9PBE0EHKwp6AE7F4V4T8CVSi-52ajXcptFna99EGFeqE9C2m4MdMTv3k45l30UiFYG0WjTehCFdqg6VKn8rlNcbiVodAYjDvOYqJ4g5ygg=w166
       w240_JPG: https://lh3.googleusercontent.com/Un0kHzgU6KpOpdXvGigPcLiRTIU9NMYBigYSx3N9iKAsj_ndKzWjEGaHxB6-pfi73ZF7vak3w7KqZc4DFcIMCLVmhYiaHfPOLzsPsrAoEXJ91faJxYDIPGGwLh270R_NdnXylHgwJg=w166
 ---
+
+**"Confused Llama"**, an ink sketch I made around *September of 2019*.
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

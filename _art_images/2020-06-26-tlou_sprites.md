@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: tlou_sprites
 title: The Last of Us Sprites
 alt: Pixel Art Sprite of The Last of Us main characters
@@ -20,7 +21,7 @@ thumbs:
     w240_JPG: https://lh3.googleusercontent.com/jShdqoeT68gN5FPD4gx6MjX_y7JraESmRzU6zqWQUeF46uVTB-Zf1mN07oF22i6du5tgpZSn7j5gVCWhFsM_GpFcD4DI9nh74GCrKb76h3vYdsIWxkp0JkAU0XTlelmLtOVf09PSmQ=w66
 images:
     - label: Final Version
-      caption: Ellie & Joel, fully rendered.
+      caption: Fully rendered.
       full: https://lh3.googleusercontent.com/w3CmFNff9il9nERmEGMdcdao1a8fwYzbLm4IyBCQ4owRraiN-jsCFFH_xpaqGLGsz2djBGlGdaiZ-PtLebcn2pvyANPqyLIgHBadzbdeQzGjZwv9BXGJMaUOYfrNoAGZT-KQOARanw=w1080-h1080
       w1920_PNG: https://lh3.googleusercontent.com/slNJ6oWl57ub2K95C8kscw4FStY29BESb6emLDz6znj2_TSxmHur3XDfC3XFO0DtAAehm8tjQZ04raXBskCSf_ZtF2njwlyPC7rF1XEmKEcCZR4pmZxXEJnbMCvTbudSiUkQvDWu6w=w850
       w1920_JPG: https://lh3.googleusercontent.com/EW_jfdFwI7uvFC5H01ESTP1LbTNKyZN3kuQ1ReH7Qf-MOqorEeJL5BvVhtJjfSTtVElMw51TWpefGsfVUe6U7LuOy65IkDiL7vTOZmhGE6NlasDnFPCpLzR1Exl7apHsFs3GVTz4YQ=w850
@@ -54,7 +55,7 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/Ke5Au4i8lfwQ1WItcUfs5X4d5jbvZ-ME1lRq8e0NXru108eGw_BvTmFPdlEOTbXctUHawETYDCt4ffpp5ciI9TgIY3xzTChrMkgo_fW-L86SmC_d2U2-kL-CRwyA4rlB7cGjsB5VDg=w166
       w240_JPG: https://lh3.googleusercontent.com/4o-SQmtY6BHXY7Afjtg1J27R4IgHBiS9zGaTvnbNlOzc08gPQhluBG2WYCy-hMPCfheUjzjKaMkqOObIqzvx7ViyM2FjrtIFwUsFxxLWFe4LCTEV14eUAEiidw47yKvFI9g3udfguQ=w166
     - label: Second Version
-      caption: Shadows implemented. Joel face corrected.
+      caption: Shadows implemented. Joel's face corrected.
       full: https://lh3.googleusercontent.com/H7FYcnHdCafk7d-Q6DDOLc4IelNNZUb3fHHzsDR9sCa7WiTH65D0kTyShkrawWwtOfh1pguX_f7G1wu3cWydLoxeVGZw_hsFzyyDuR6EyBSJyRvR3M01GnttcwQ15eGDsXkg_kLYEw=w1080-h1080
       w1920_PNG: https://lh3.googleusercontent.com/yNNaqQVyAIIN9awMGKxvKLOwuWiJH3ELATfgk4NEd3Ac_F7dQCj1gfyajT46aUzlNhYRg5GLZr8ESio3-MKtQ5ZUd1G9T4iadZ63NNftEWbHjFeQwTHCfJ59_m3T994aELLaqJYI_g=w850
       w1920_JPG: https://lh3.googleusercontent.com/hcbap08JD7TAv1cdDTWk_2CqyLk-uz7ElnlvYMg6c5VxR4aUd0cZ6Ax8EQk3fg5gaj-44AgKOqTI-5T3QnvL_IX_iHENXrj88T65PhwuxEK_9r-SIx9eWsGftsaB9RXTlpLtFydt-A=w850
@@ -88,3 +89,7 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/MiOMroaG0xWYq2s1pMAushcyfjBXaTQsnmTSKYk0kBlk9TmlVlGUtDmGEiC2dFZB3LsbopALHjSZAns6TfDG8WOICv0KvyN51_rVmVUKvptHZ4E6pwkIPGOLOsSAiYFKizI-shUowQ=w166
       w240_JPG: https://lh3.googleusercontent.com/HR5Y7-5XXxgXq00Ej1Wh6FHIo9P3fLD8j0z27A2vHQr6py1qEWY39EyeO1bgtPMncG3Hl8HL2TkSjYxWn8SQpQkJObdL3hkGfOFBI42-xdlqShq8WmfNgN5whl-jK3EheT3-3vL-7w=w166
 ---
+
+**Ellie** & **Joel** from **The Last of Us**.  
+[Journey](https://lospec.com/palette-list/journey) palette by [PineappleOnPizza](https://lospec.com/pinetreepizza) (aka [pinetreeonpizza](https://www.instagram.com/pinetreeonpizza/)) from [Lospec](https://lospec.com/).  
+Done in **Graphics Gale**.

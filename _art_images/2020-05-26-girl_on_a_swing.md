@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: girl_on_a_swing
 title: Girl on a Swing
 alt: Watercolor sketch of a little girl on a swing
@@ -18,8 +19,8 @@ thumbs:
     w240_PNG: https://lh3.googleusercontent.com/y6s54H1obfNquxhUMiZnm0KQXPX_FO00XeZ8nEbNbPbvwDWXFEIW7Vr6_lo7EpKwGYe1_lVycKpFFZAtk7CsL18NnA08ewgQSRUMPV3EjS4BESQNxJW5GnmpXkRUbG7uaelunXetfQ=w66
     w240_JPG: https://lh3.googleusercontent.com/YwRQ0t7im5vSIz2YW5bW_u8AjJ-SFU6hIzHoFNx3feUCYFet6T7zqzJzznaS85533S9kpV2mY9QfnVUkEe0zlo1n4o-j-4RY_We95QitFHpwTXeAm813kjeib_PoO9B7irlQYM3oKw=w66
 images:
-    - label: Final Version Close Up
-      caption: Fun.
+    - label: Final Version
+      caption: Fully rendered. Close up.
       full: https://lh3.googleusercontent.com/zKPA63LsE3gWtOfsk9KyVt3LLe2_3sVkooXA0KAgpfjGiz5yP8SBpMkm2abMgXOtfnk21Y98hmusVdu2JZFVue_mHOrppsY547Ky97CIKQaJcnaNYdeK9yw63A11Xt-lniyBP7g2Lw=w1080-h1080
       w1920_PNG: https://lh3.googleusercontent.com/ZzYdCFka84sYIt4ynY_u3M_dGymuGUqxsNHU9sv4t3IT2xxrZdovGUtTUls7vF--VmVMcUjUq9amseIeYSS_iAmYwvZCRFbvoiueuDUqN7F_LFI3T4t4RLbDmE60J6dLq_teN-xcgg=w850
       w1920_JPG: https://lh3.googleusercontent.com/M24jJQyitpHOw062xM9M2LsZvpz5bECzDOiNT2ooiNqwzqW_RiIccGBQK4jBmIbBLuA_QtfXk2CH6DMg7c4hX-81uPGEQAJNvpPX_w5tLi1pWx1mubZJ46PCARu4CZ5GO2_6Co-2Qw=w850
@@ -35,8 +36,8 @@ images:
       w360_JPG: https://lh3.googleusercontent.com/M24jJQyitpHOw062xM9M2LsZvpz5bECzDOiNT2ooiNqwzqW_RiIccGBQK4jBmIbBLuA_QtfXk2CH6DMg7c4hX-81uPGEQAJNvpPX_w5tLi1pWx1mubZJ46PCARu4CZ5GO2_6Co-2Qw=w250
       w240_PNG: https://lh3.googleusercontent.com/ZzYdCFka84sYIt4ynY_u3M_dGymuGUqxsNHU9sv4t3IT2xxrZdovGUtTUls7vF--VmVMcUjUq9amseIeYSS_iAmYwvZCRFbvoiueuDUqN7F_LFI3T4t4RLbDmE60J6dLq_teN-xcgg=w166
       w240_JPG: https://lh3.googleusercontent.com/M24jJQyitpHOw062xM9M2LsZvpz5bECzDOiNT2ooiNqwzqW_RiIccGBQK4jBmIbBLuA_QtfXk2CH6DMg7c4hX-81uPGEQAJNvpPX_w5tLi1pWx1mubZJ46PCARu4CZ5GO2_6Co-2Qw=w166
-    - label: Final Version Full Height
-      caption: I tried, I guess.
+    - label: Final Version
+      caption: Fully rendered. Full height.
       full: https://lh3.googleusercontent.com/ai_7Rw0goObkZJMYTUpHlMlnbugLBtIZS7rsgjkn2OkyMo-PkVEYLZy5m-yV7Ujd4P-0mHRUMaoj73gj75ArQgw7w2dziZpiTwsKmEMN9vB2LHvRRUAKX-opfb2AE7Ct8NsZCHT8pA=w1080-h1080
       w1920_PNG: https://lh3.googleusercontent.com/SRxudq6t_eykRHg7hJTV6TkhKlDbJfywceZ4yD6GAGK-PKyUmZh9XFBRW0qocSSqF07vR7FxlwD--JU6E2Vs6unGQfEvoXbUHPE0EyvazHus3bau-P7swfZfL914vNq4PwyyiaSbJQ=w850
       w1920_JPG: https://lh3.googleusercontent.com/9i-hgxxJluiaX7NMDAKgeVcTO767fXkZeJhtR_otRGP8F9fTTYPv2Hv62S14ZmcXmpI0j5uJo0sEx9VEuv0S_Jkkr1qsO4HENMGuGn3IDnPweWztSa2UOuxdMeg05Bne5HUOjkEyYw=w850
@@ -53,3 +54,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/SRxudq6t_eykRHg7hJTV6TkhKlDbJfywceZ4yD6GAGK-PKyUmZh9XFBRW0qocSSqF07vR7FxlwD--JU6E2Vs6unGQfEvoXbUHPE0EyvazHus3bau-P7swfZfL914vNq4PwyyiaSbJQ=w166
       w240_JPG: https://lh3.googleusercontent.com/9i-hgxxJluiaX7NMDAKgeVcTO767fXkZeJhtR_otRGP8F9fTTYPv2Hv62S14ZmcXmpI0j5uJo0sEx9VEuv0S_Jkkr1qsO4HENMGuGn3IDnPweWztSa2UOuxdMeg05Bne5HUOjkEyYw=w166
 ---
+
+A quick watercolor and ink sketch of a **Little Girl on a Tree Swing**.  
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

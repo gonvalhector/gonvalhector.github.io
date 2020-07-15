@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: ben_jensen_chibi
 title: Ben Jensen Chibi
 alt: Drawing of a chibi style character
@@ -53,3 +54,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/8lXEDTVKSWlM-ocra4zTybqWUOA7DjG_ErE-Q9b56-tyWn9q4Wwb1iwqfZ11IeVU2Iy2zLsSxSg3md8dpuSEmdDHBNSIbhMH7I3S-fbXx2wzJzp1tG5sESUnwV1emjR9Kivu28iNBA=w166
       w240_JPG: https://lh3.googleusercontent.com/BTcqgu87UfR87NVB3VnLDh9Vi0mT8BoracZkL8LiZqD8EWpaAqwJsDZM_ZxM-qf2RG0fkFOqsFYWA3el-w4cO2kCppJhOWSQBN0DPgZEmeyrtybYsXXiKI4m9C95QyoKSxWriMuTPw=w166
 ---
+
+I made this ink and colored pencils chibi character around *2008*.  
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/), as always.

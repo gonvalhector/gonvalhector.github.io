@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: antlers_girl
 title: Antlers Girl
 alt: Digital painting of a girl with antlers
@@ -70,3 +71,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/PBxqj1uE-A245jBg39TZ_73fpXPkUh3bJXa3aBOdj687lWZC4au34QU26VkS3kY1gIEE6fJb7a90p9yB12FJTCHJ4djEnqficPP4Kj2gAFg9po2GcnoHMyo1-J_4qy6EqQMZ6TMGZw=w166
       w240_JPG: https://lh3.googleusercontent.com/vAHwbkrdsh5_iyFoTq9ubYMEcEA5f7nUnNf3WQJ8kM8M-rlN2SRPs5EK8Luy-uXu0meftPf89gNElxAAhgzlq1Lh1k0o4IRRmO7FPO9bOpXQbdG4765vWlQ_s0NlnWJ_xweEffQ2fg=w166
 ---
+
+**"Antlers Girl"**, a digital painting and ink sketch I made around *August of last year* of a girl with a broken antler.  
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

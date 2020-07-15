@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: jl_rpg_maker_xp
 title: Justice League Sprites
 alt: Pixel Art Sprites of the Justice League
@@ -19,7 +20,7 @@ thumbs:
     w240_JPG: https://lh3.googleusercontent.com/5wMZ_41OPLDOS44ha-oH0joFgL8zS0U3eg8uVbHpKkz25_OcftJP-_ddnCsVbrUUHwk52oXnCc-r3YzE2vPA9mH61sfSrxcGfoGtTgLCCM1rrSX_N5YNbflWmUOnBh0gIpUgVxO4PQ=w66
 images:
     - label: Final Version
-      caption: I used and modified an RPG Maker XP character set template. Cyborg & Aquaman were never finished.
+      caption: Fully rendered.
       full: https://lh3.googleusercontent.com/q6dy4FXMiubsE0cXONawn-LIy_D-FEhIdRzUfKAHqa01aByYyULjyPfC-eltRgEVGLCSJOMmgnJryyi8yur5qD__MQxQDnD9VIPKNAiZTbHUuLxSFZY1yR2xaD5yDneleNOT-n-qlA=w1080-h1080
       w1920_PNG: https://lh3.googleusercontent.com/-puw65Zn9yzVOdZ7_wuhBFpJFfNHXwEwoVfLDmjOvZtaeyu-xkaqLEOaO3w6KrJy0WpIl5WHtpcDdyd1WFDQf-AnA1_iCb4NXGpYGGJp1tZh-m5rwzrIYXuHS2K-x3SuuYxg26ahgA=w850
       w1920_JPG: https://lh3.googleusercontent.com/AdSuhBhzUPljU08JEy9A0EW_actDB4ZrS5fiUdgqbLSHppWbUtLMN2HsHu0HWIUIFA5KUNBRf4rJNI6WreoYBGzCKvU4B7u5MF2KrXsrEGoJ1CGbw9jgL2uN0Gzc9SU61w4vGNePSQ=w850
@@ -36,3 +37,10 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/-puw65Zn9yzVOdZ7_wuhBFpJFfNHXwEwoVfLDmjOvZtaeyu-xkaqLEOaO3w6KrJy0WpIl5WHtpcDdyd1WFDQf-AnA1_iCb4NXGpYGGJp1tZh-m5rwzrIYXuHS2K-x3SuuYxg26ahgA=w166
       w240_JPG: https://lh3.googleusercontent.com/AdSuhBhzUPljU08JEy9A0EW_actDB4ZrS5fiUdgqbLSHppWbUtLMN2HsHu0HWIUIFA5KUNBRf4rJNI6WreoYBGzCKvU4B7u5MF2KrXsrEGoJ1CGbw9jgL2uN0Gzc9SU61w4vGNePSQ=w166
 ---
+
+So it's finally been announced, **Zack Snyder**'s **Justice League** will be released in *2021*.
+I thought these sprites would just gather dust inside my hard drive forever.
+I never even got around to drawing **Aquaman** and **Cyborg**.
+I'll do a proper **Justice League** from the ground up to celebrate!  
+Based on a **RPG Maker XP** *characterset template*.  
+Done in **Graphics Gale**.

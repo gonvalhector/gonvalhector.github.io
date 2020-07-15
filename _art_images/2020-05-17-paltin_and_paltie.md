@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: paltin_and_paltie
 title: Paltin & Paltie
 alt: Watercolor painting of two avocado halves
@@ -70,3 +71,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/lZCbxxK6PU2gZfUwiswyO24zU983L_yQZVFf5reCPeml3O1kje380KFV3h6YlIYH0yAza1Of7tdHsv0e9Hs0mOgsv9sutO18QRpZMIbPGUK9VGDz4NkpRxQjU1J-TMnBjuV43qzf2w=w166
       w240_JPG: https://lh3.googleusercontent.com/lnE-27NQJacxc6mbx9ExFgbx5JMB494X11YSDRyVkd855cRDdDiK5wL8AufjxJ1e222emClyUuNyx6zvyg2dgMY65dOYgLrahf7KNGFQTFAowsJkLwztOZF4JObnB6Z1ZqsTdwkOdA=w166
 ---
+
+**"Paltin & Paltie"**, a watercolor and ink sketch I made around *September of 2019*.  
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

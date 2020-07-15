@@ -1,4 +1,5 @@
 ---
+category: art_gallery
 short_name: childish_harpy
 title: Childish Harpy
 alt: Watercolor painting of a childish harpy
@@ -70,3 +71,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/7VUYesIaTD6DMvXvtMf2P10dnXzfAbcyWtb4HDLpIQFjtzm1mDNpp2ejeiuFiDcuzApeQEyTqH1V-bv6lydVQBOoYJq95s5pygrGu1xfJtGK8Ewe8GGPBkQ5h2XZeHEZhvxsUnhcLw=w166
       w240_JPG: https://lh3.googleusercontent.com/ET604XxAhkMmSrxg20pFbnfZSXiTHJ9z9v8FFZlRFPECVZrLejIiNWZ5bZG33WRlw-VNfr4_Rza-coTciAnLsiVQjpbx7HZpSXbvCKamu375ltEG-g68hOgF01hJkL24pxiMWM_PhQ=w166
 ---
+
+Watercolor and ink sketch I made around *September of last year* of a **"Childish Harpy"**.  
+Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).
