@@ -38,6 +38,5 @@ images:
       w240_JPG: https://lh3.googleusercontent.com/tU0qGEfXU_TFehHfKPP_1Zvx_GqjJNC2krxvbNz3r03ZUplQJhYs4eOC-m_Q-Fay2oHIUlXg42yyrZvJrs0o6i4XN3XzsadbqzxcJuAdnLZ2zpOf8BhfJCL5sNFwgJ0qBxhM75pqwg=w166
 ---
 
-**Prince of Persia** sprite based on a **Sword of Mana** sprite and the **Sands of Time** trilogy's version of the *Prince*. I find it funny how he always managed to go shirtless by the end of the game.
-
+**Prince of Persia** sprite based on a **Sword of Mana** sprite and the **Sands of Time** trilogy's version of the *Prince*. I find it funny how he always managed to go shirtless by the end of the game.  
 Done in **Graphics Gale**.

@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>{{ page.title }}</title>
+        <title>{{ page.title }} - gonvalhector</title>
         <link rel="shortcut icon" href="/assets/images/icons/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/assets/images/icons/favicon.ico" type="image/x-icon">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -25,13 +25,17 @@
             {% include navigation.html %}
         </header>
         <main>
+            <div id="top"></div>
             {{ content }}
+            <div id="bottom"></div>
         </main>
         <footer class="pt-3">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col">
                         {% include return.html %}
+                        <span><a href="#bottom" class="item-link"><img src="/assets/images/icons/bottom.svg" class="item-icon mx-2 float-right" alt="go to the bottom icon" title="Bottom"></a></span>
+                        <span><a href="#top" class="item-link"><img src="/assets/images/icons/top.svg" class="item-icon mx-2 float-right" alt="go to the top icon" title="Top"></a></span>
                     </div>
                 </div>
                 <div class="row contact">

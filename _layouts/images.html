@@ -76,8 +76,17 @@ layout: regular
     </a>
 </div>
 
-{% if content %}
-    <div class="text-center my-4">{{ content }}</div>
+{% if page.category == "blog_pictures" %}
+    {% for post in site.posts %}
+        {% if post.title == page.title %}
+            {% assign mypost = post %}
+        {% endif %}
+    {% endfor %}
+    <div class="text-center my-4">From <a href="{{ mypost.url }}">{{ mypost.title }}</a>.</div>
+{% else %}
+    {% if content %}
+        <div class="text-center my-4">{{ content }}</div>
+    {% endif %}
 {% endif %}
 
 {% if page.video %}

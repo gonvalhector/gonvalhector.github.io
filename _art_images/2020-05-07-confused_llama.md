@@ -55,5 +55,5 @@ images:
       w240_JPG: https://lh3.googleusercontent.com/Un0kHzgU6KpOpdXvGigPcLiRTIU9NMYBigYSx3N9iKAsj_ndKzWjEGaHxB6-pfi73ZF7vak3w7KqZc4DFcIMCLVmhYiaHfPOLzsPsrAoEXJ91faJxYDIPGGwLh270R_NdnXylHgwJg=w166
 ---
 
-**"Confused Llama"**, an ink sketch I made around *September of 2019*.
+**"Confused Llama"**, an ink sketch I made around *September of 2019*.  
 Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

@@ -64,7 +64,7 @@ categories:
                                 <source media="(min-width: 240px)" srcset="{{ images[n].thumbs.w240_GIF }}">
                             {% endif %}
                             <source media="(min-width: 240px)" srcset="{{ images[n].thumbs.w240_PNG }}">
-                            <img src="{{ images[n].thumbs.w240_JPG }}" alt="{{ images[n].alt }}" title="{{ images[n].title }}">
+                            <img src="{{ images[n].thumbs.w240_JPG }}" alt="{{ images[n].alt }}" title="{{ images[n].title }}" class="rounded">
                         </picture></a>
                     </div>
                     {% assign n = n | plus: 1 %}

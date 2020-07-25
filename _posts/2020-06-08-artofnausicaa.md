@@ -33,7 +33,7 @@ I don't know much about **Hayao Miyazaki**, even after reading his commentary on
 He comes across as not being particularly proud of his work creating **Nausicaä**. Most of the time he doesn't remember when he made a certain painting or drawing, and some of the things I like the most about his artwork, like the combination of watercolor and ink, he doesn't like at all. He likes his watercolor paintings to look like regular paintings, with no defined lines. Hell, he drew the manga with pencils because at the time he didn't know how to use a manga pen. All of this was mind blowing to me.  
 A man who has made so many people happy with his stories, characters and artwork is lukewarm about his creations and some he even actively hates. His attitude towards his work reminded me a bit of myself.
 Maybe it's just my inexperience doing art and low skill levels, but when I finish some artwork, whether I use digital or traditional means, most of the time I'm just glad it's over. And if people like it, then I'm happy about it, but it quite often happens that the things I do that I either hate or I don't feel are the most representative of my skills, creativity and/or effort get the most attention.  
-It was also fascinating to see the creative process behind the beginnings of **Nausicaä** and the influences and stories that shaped all of that and how some of the narrative themes came to be. Seeing how **Miyazaki** added a bit of painting to his sketches just to make them pop up made me want to get more loose with the way I approach painting my own sketches.  
+It was also fascinating to see the creative process behind the beginnings of **Nausicaä** and the influences and stories that shaped all of that and how some of the narrative themes came to be. Seeing how **Miyazaki** added a bit of watercolor paint to his sketches just to make them pop up made me want to get more loose with the way I approach painting my own sketches.  
 
 
 <a href="https://lh3.googleusercontent.com/VkbutDtxhsn7Jf0NP0SNjFRs1aQz08xulXN9Z0o4nRKkSDkHs-9Wn9e1C4JVOCXSyAEYoOYtp5wPDacC7ocskkr27pGaqSGMl-B0uhtSVmh1F2EqCm-ofb3Qjji7WoJK0fH7oL4OaQ=w2400"><picture>
@@ -54,7 +54,7 @@ It was also fascinating to see the creative process behind the beginnings of **N
 </picture></a>
 
 
-All in all, I really liked it. The quality of the pictures was very good, just like the book itself, and the interviews were fun to read. The commentaries on each picture were not as insightful as I thought they would be, since quite **a lot** of them were "I don't remember this one". They did manage to offer a better glimpse of the man himself, though.
+All in all, I really liked it. The picture quality was very good, just like the book itself, and the interviews were fun to read. The commentaries on each picture were not as insightful as I thought they would be, since quite **a lot** of them were "I don't remember this one", to my utmost surprise. They did manage to offer a better glimpse of the man himself, though.
 I feel like this will be one of those books I'll browse once in a while, when craving inspiration. I hope there are more books like this for the other **Studio Ghibli** works.
 
 <a href="https://lh3.googleusercontent.com/zVHdLJLdn_PRo_n5teAjqkC-eFB3XQQGcbLp0C1faMB8kM9tlyi_R957KdoNkZ21dGZkHmV9qGG0xt2ZQ9ZiUUJNKYY43zHYfWKFv1qT6KdVoHIFwB-PgIAplwZWjEWSmvHUZmgQiw=w2400"><picture>
