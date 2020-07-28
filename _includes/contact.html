@@ -1,5 +1,5 @@
 <address class="text-center pt-2">
     {% for item in site.data.contact %}
-        <span><a href="{{ item.link }}" class="item-link"><img src="{{ item.icon }}" class="item-icon mr-3" alt="icon" title="{{ item.name }}"></a></span>
+        <span><a href="{% if item.name == "Email" %}mailto:{{ item.link | encode_email }}{% else %}{{ item.link }}{% endif %}" class="item-link"><img src="{{ item.icon }}" class="item-icon mr-3" alt="icon" title="{{ item.name }}"></a></span>
     {% endfor %}
 </address>
