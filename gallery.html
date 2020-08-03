@@ -2,21 +2,16 @@
 layout: default
 title: gallery
 columns: 3
-categories:
-    - name: Art Gallery
-      category: art_gallery
-    - name: Blog Pictures
-      category: blog_pictures
 ---
 
-{% for category in page.categories %}
+{% for category in site.data.categories %}
     <div class="container">
         <div class="row">
             <div class="col">
                 <h1>{{ category.name }}</h1>
             </div>
         </div>
-        {% assign images = site.art_images | where: "category", category.category  | sort: "date" | reverse %}
+        {% assign images = site.art_images | where: "category", category.short_name  | sort: "date" | reverse %}
         {% assign total = images | size %}
         {% assign columns = page.columns %}
         {% assign rows = total | divided_by: columns %}
