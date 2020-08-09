@@ -1,0 +1,23 @@
+---
+layout: regular
+---
+
+<h1>{{ page.title }}</h1>
+{% if page.repository %}
+    <div class="text-left my-2">
+        <b>Repository:</b> <a href="{{ page.repository.link }}">On {{ page.repository.host }}</a>
+    </div>
+{% endif %}
+{% if page.demo %}
+    <div class="text-left my-2">
+        <b>Live Demo:</b> <a href="{{ page.demo.link }}">On {{ page.demo.host }}</a>
+    </div>
+{% endif %}
+
+{{ content }}
+
+{% if page.video %}
+    <div class="embed-responsive embed-responsive-16by9 my-3">
+        <iframe class="embed-responsive-item" src="{{ page.video }}" allowfullscreen></iframe>
+    </div>
+{% endif %}

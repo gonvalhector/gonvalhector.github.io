@@ -38,7 +38,7 @@ columns: 3
                             <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.w360_PNG }}">
                             <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.w360_JPG }}">
                             <source media="(min-width: 240px)" srcset="{{ projects[n].thumbs.w240_PNG }}">
-                            <img src="{{ projects[n].thumbs.w240_JPG }}" alt="{{ projects[n].alt }}" title="{{ projects[n].title }}">
+                            <img src="{{ projects[n].thumbs.w240_JPG }}" alt="{{ projects[n].alt }}" title="{{ projects[n].title }}" class="rounded-lg">
                         </picture></a>
                     </div>
                     {% assign n = n | plus: 1 %}

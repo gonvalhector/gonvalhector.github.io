@@ -6,7 +6,7 @@ plugins:
 permalink: pretty
 
 collections:
-  art_images:
+  gallery:
     output: true
     permalink: /:collection/:title
   projects:
@@ -21,12 +21,12 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "regular"
+      layout: "project"
   - scope:
       path: ""
-      type: "art_images"
+      type: "gallery"
     values:
-      layout: "images"
+      layout: "image"
   - scope:
       path: ""
       type: "posts"

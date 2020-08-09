@@ -23,7 +23,7 @@ title: home
 
 <h1>New in Gallery</h1>
 
-{% assign images = site.art_images | sort: "date" | reverse | slice: 0, 3 %}
+{% assign images = site.gallery | sort: "date" | reverse | slice: 0, 3 %}
 <div class="row mr-1 my-5">
     {% for image in images %}
         <div class="col-4">

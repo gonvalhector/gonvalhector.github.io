@@ -11,7 +11,7 @@ columns: 3
                 <h1>{{ category.name }}</h1>
             </div>
         </div>
-        {% assign images = site.art_images | where: "category", category.short_name  | sort: "date" | reverse %}
+        {% assign images = site.gallery | where: "category", category.short_name  | sort: "date" | reverse %}
         {% assign total = images | size %}
         {% assign columns = page.columns %}
         {% assign rows = total | divided_by: columns %}
