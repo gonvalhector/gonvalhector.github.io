@@ -73,5 +73,5 @@ images:
       w240_JPG: https://lh3.googleusercontent.com/icy_LLx-91Ij2JOKDwO8BCf9_3W7wUgBAhqVec_KZJ3Ld2ZBwsUwADNEDFxV2nOTNL64Q4gQW5mMZCMSNQDT50ceeG4PJnU8bOnX-22OKtvx073nqSkuq6yyVWBsYCubfBwaH0kNqA=w166
 ---
 
-Continuing the **Dark Souls** quick sprites series; here comes a **Hollow Soldier**! Or **Undead Soldier**, depending on who you ask... 
+Continuing the **Dark Souls** quick sprites series; here comes a **Hollow Soldier**! Or **Undead Soldier**, depending on who you ask...  
 Done in **Graphics Gale**.
