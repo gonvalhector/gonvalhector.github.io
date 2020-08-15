@@ -10,7 +10,7 @@ title: home
     Feel free to browse around, check my <a href="{{ site.baseurl }}{% link blog.html %}" title="My blog">blog posts</a>, <a href="{{ site.baseurl }}{% link projects.html %}" title="My Projects">projects</a> and <a href="{{ site.baseurl }}{% link gallery.html %}" title="My Gallery">gallery</a>.
 </p>
 
-<h1>Newest Post in Blog</h1>
+<h2><img src="assets/images/icons/new.svg" class="static-icon" alt="stars icon"> Newest Post in Blog</h2>
 
 <ul>
     {% for post in site.posts limit: 1 %}
@@ -21,12 +21,59 @@ title: home
     {% endfor %}
 </ul>
 
-<h1>New in Gallery</h1>
+<h2><img src="assets/images/icons/new.svg" class="static-icon" alt="stars icon"> New Projects</h2>
+
+{% assign projects = site.projects | sort: "date" | reverse | slice: 0, 3 %}
+<div class="row mr-1 my-5">
+    {% for project in projects %}
+        <div class="col">
+            <a href="{{ project.url }}"><picture>
+                {% if project.thumbs.w1920_GIF %}
+                    <source media="(min-width: 1920px)" srcset="{{ project.thumbs.w1920_GIF }}">
+                {% endif %}
+                <source media="(min-width: 1920px)" srcset="{{ project.thumbs.w1920_PNG }}">
+                <source media="(min-width: 1920px)" srcset="{{ project.thumbs.w1920_JPG }}">
+                {% if project.thumbs.w1024_GIF %}
+                    <source media="(min-width: 1024px)" srcset="{{ project.thumbs.w1024_GIF }}">
+                {% endif %}
+                <source media="(min-width: 1024px)" srcset="{{ project.thumbs.w1024_PNG }}">
+                <source media="(min-width: 1024px)" srcset="{{ project.thumbs.w1024_JPG }}">
+                {% if project.thumbs.w768_GIF %}
+                    <source media="(min-width: 768px)" srcset="{{ project.thumbs.w768_GIF }}">
+                {% endif %}
+                <source media="(min-width: 768px)" srcset="{{ projects.thumbs.w768_PNG }}">
+                <source media="(min-width: 768px)" srcset="{{ projects.thumbs.w768_JPG }}">
+                {% if project.thumbs.w600_GIF %}
+                    <source media="(min-width: 600px)" srcset="{{ project.thumbs.w600_GIF }}">
+                {% endif %}
+                <source media="(min-width: 600px)" srcset="{{ project.thumbs.w600_PNG }}">
+                <source media="(min-width: 600px)" srcset="{{ project.thumbs.w600_JPG }}">
+                {% if project.thumbs.w411_GIF %}
+                    <source media="(min-width: 411px)" srcset="{{ project.thumbs.w411_GIF }}">
+                {% endif %}
+                <source media="(min-width: 411px)" srcset="{{ project.thumbs.w411_PNG }}">
+                <source media="(min-width: 411px)" srcset="{{ project.thumbs.w411_JPG }}">
+                {% if project.thumbs.w360_GIF %}
+                    <source media="(min-width: 360px)" srcset="{{ project.thumbs.w360_GIF }}">
+                {% endif %}
+                <source media="(min-width: 360px)" srcset="{{ project.thumbs.w360_PNG }}">
+                <source media="(min-width: 360px)" srcset="{{ project.thumbs.w360_JPG }}">
+                {% if project.thumbs.w240_GIF %}
+                    <source media="(min-width: 240px)" srcset="{{ project.thumbs.w240_GIF }}">
+                {% endif %}
+                <source media="(min-width: 240px)" srcset="{{ project.thumbs.w240_PNG }}">
+                <img src="{{ project.thumbs.w240_JPG }}" alt="{{ project.alt }}" title="{{ project.title }}" class="rounded-lg mx-auto d-block">
+            </picture></a>
+        </div>
+    {% endfor %}
+</div>
+
+<h2><img src="assets/images/icons/new.svg" class="static-icon" alt="stars icon"> New in Gallery</h2>
 
 {% assign images = site.gallery | sort: "date" | reverse | slice: 0, 3 %}
 <div class="row mr-1 my-5">
     {% for image in images %}
-        <div class="col-4">
+        <div class="col">
             <a href="{{ image.url }}"><picture>
                 {% if image.thumbs.w1920_GIF %}
                     <source media="(min-width: 1920px)" srcset="{{ image.thumbs.w1920_GIF }}">
@@ -62,7 +109,7 @@ title: home
                     <source media="(min-width: 240px)" srcset="{{ image.thumbs.w240_GIF }}">
                 {% endif %}
                 <source media="(min-width: 240px)" srcset="{{ image.thumbs.w240_PNG }}">
-                <img src="{{ image.thumbs.w240_JPG }}" alt="{{ image.alt }}" title="{{ image.title }}" class="rounded-circle">
+                <img src="{{ image.thumbs.w240_JPG }}" alt="{{ image.alt }}" title="{{ image.title }}" class="rounded-circle mx-auto d-block">
             </picture></a>
         </div>
     {% endfor %}

@@ -30,6 +30,6 @@ thumbs:
 
 More information on the original version down below.
 
-# Older Version
+## Older Version
 
 Originally developed as [Project 1](https://docs.cs50.net/ocw/web/projects/1/project1.html) for the [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2018/) course, it was a web application made using Flask and a PostgreSQL database.

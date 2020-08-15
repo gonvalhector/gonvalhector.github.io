@@ -29,6 +29,6 @@ routines, record their training sessions and keep track of their progress.
 
 More information on the original version down below.
 
-# Older Version
+## Older Version
 
 Originally developed as a final project for the [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2020/notes/0/) course, it was a web application made using Flask and a PostgreSQL database.
