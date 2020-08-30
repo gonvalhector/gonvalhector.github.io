@@ -1,6 +1,7 @@
 ---
 title: Revisiting the Harry Potter video games
 author: gonvalhector
+series: revisiting-hp-games
 ---
 
 Back when I was a kid, like a lot of kids from my generation, I was obsessed with [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter).  

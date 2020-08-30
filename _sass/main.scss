@@ -102,6 +102,12 @@ body {
         .static-icon {
             filter: $fltrtxt3;
         }
+        .series-icon {
+            filter: $fltrtxt3;
+        }
+        .series-icon:hover {
+            filter: $fltrtxt2;
+        }
     }
 
     footer {

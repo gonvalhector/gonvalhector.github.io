@@ -2,11 +2,21 @@
 layout: default
 ---
 
+{% for item in site.data.post_series %}
+    {% if page.series == item.short_name %}
+        {%  assign series = item %}
+        {% assign posts = site.posts | where: "series", series.short_name | sort: "date" %}
+    {% endif %}
+{% endfor %}
+
 <div class="container">
     <div class="row">
         <div class="col">
+            {% if series %}
+                <h4 class="mb-4">This post is part of the "{{ series.name }}" series.</h4>
+            {% endif %}
             <h1>{{ page.title }}</h1>
-            <p><a href="/about"><img src="/assets/images/avatar.png" class="avatar rounded-circle" alt="image"> {{ page.author | upcase }}</a> - {{ page.date | date: "%A, %B %d, %Y" }}</p>
+            <p><a href="/about"><img src="/assets/images/avatar.png" class="avatar rounded-circle" alt="image"> <strong>{{ page.author }}</strong></a> - {{ page.date | date: "%A, %B %d, %Y" }}</p>
             {{ content }}
         </div>
     </div>
