@@ -89,9 +89,9 @@ layout: regular
     {% endif %}
 {% endif %}
 
-{% if page.video %}
-    <h1>Speedpaint Video</h1>
+{% for video in page.video %}
+    <h1>{{ video.type }} Video</h1>
     <div class="embed-responsive embed-responsive-16by9 my-3">
-        <iframe class="embed-responsive-item" src="{{ page.video }}" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="{{ video.url }}" allowfullscreen></iframe>
     </div>
-{% endif %}
+{% endfor %}

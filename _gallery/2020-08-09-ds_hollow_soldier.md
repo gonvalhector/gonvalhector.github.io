@@ -3,7 +3,9 @@ category: art_gallery
 short_name: ds_hollow_soldier
 title: Dark Souls "Hollow Soldier"
 alt: Pixel art sprite of a hollow soldier
-video: https://www.youtube.com/embed/OpBNncJwrws?rel=0
+video:
+    - type: Speedpaint
+      url: https://www.youtube.com/embed/OpBNncJwrws?rel=0
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/BvehPUXunWoI1dgnjrakIOiUiQGC9ilcyBkydu0nViVeKJZzR8gqXuTYFKWBCVZ--iQo_fMz81ifTggrSxSaTRf3yEkgt_iMNuMLe9kUhMAlPpWIEzj_gIAY7-d-nFooiUj7JI2WLA=w355
     w1920_JPG: https://lh3.googleusercontent.com/XrrcjDtFKnDXlnpi7V8KnhpxjXkJo9j0wJZw2DfADCNbcup0ufhZdhY_AyhbWZNB80X9sseHj0mjcn8g7B6oKvAhlMXaPUEOd39gLRQC9CD0H_4XIHhcpiIOp67XYoE6Hh-3uxzHZg=w355

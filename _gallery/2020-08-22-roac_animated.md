@@ -3,7 +3,9 @@ category: art_gallery
 short_name: roac_animated
 title: Ruins of a Church Animated
 alt: Animated pixel art painting of a church in ruins
-video: https://www.youtube.com/embed/LioP2bn03sY?rel=0
+video:
+    - type: Animation
+      url: https://www.youtube.com/embed/LioP2bn03sY?rel=0
 thumbs:
     w1920_GIF: https://lh3.googleusercontent.com/EjOigOr7PUy-RWeaWzv9wz2smQ85gVGd3X1eFz2xnaFdTfxV1LcRqHgIxWEF-T5atmDl5BUlOyrRT7GaOtm3BB87hvCWpcPiklYJ4jBjJfWiA_pdkGIH0g211kErkh1iJVLhfjsX4g=w355
     w1920_PNG: https://lh3.googleusercontent.com/2I36YJta0nWbrxgAAlvhETtL1FuzxIYVUUEnk3shEowoOeIAj6zJXXcHAYqCKEHYmQQM-ddblgujztRw3wDyZMk5n-yeA5u752oP7ZFtY0HPX2Tx26FDjWRUzcnoOkfohZ_s3Ny-2A=w355

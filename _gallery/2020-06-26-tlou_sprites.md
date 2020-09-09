@@ -3,7 +3,9 @@ category: art_gallery
 short_name: tlou_sprites
 title: The Last of Us Sprites
 alt: Pixel Art Sprite of The Last of Us main characters
-video: https://www.youtube.com/embed/y86u9rUYYAw?rel=0
+video:
+    - type: Speedpaint
+      url: https://www.youtube.com/embed/y86u9rUYYAw?rel=0
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/50zhc4EhMkSUUSuL87RWm7lcZMii7EsZ9NxXSC3X1-f2BkOmzUhYiH62P5TWQUP6P1M_Btul5n9ddyUiJlvTXc9uiwsio6_H7zvrH9x-zFse7_sIzXZKIUK6_XWK7-PvmTzhkmls2w=w355
     w1920_JPG: https://lh3.googleusercontent.com/jShdqoeT68gN5FPD4gx6MjX_y7JraESmRzU6zqWQUeF46uVTB-Zf1mN07oF22i6du5tgpZSn7j5gVCWhFsM_GpFcD4DI9nh74GCrKb76h3vYdsIWxkp0JkAU0XTlelmLtOVf09PSmQ=w355
