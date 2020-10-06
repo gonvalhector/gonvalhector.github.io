@@ -4,7 +4,7 @@ author: gonvalhector
 ---
 
 I didn't grow up watching **Studio Ghibli** films; I actually managed to evade them until a few years ago.
-I knew of them, obviously, and knew some of the characters by looks and by name, but I never watched any of the movies.
+I knew of them, obviously, and knew some of the characters by looks and by name, I just never watched any of the movies.  
 But that changed when I wanted to get back into art and sketching in 2018. After many years without drawing a single line of anything I had completely forgotten any sort of "style" I once had,
 so in order to get back on track I decided I should get an art education through books, online classes and tutorials, because not even art can get me to leave the house.  
 I started buying what are now a handful of art books; both educational and otherwise. One of those books was [The Art of Nausicaä of the Valley of the Wind: Watercolor Impressions](https://www.goodreads.com/book/show/766111.The_Art_of_Nausica_of_the_Valley_of_the_Wind).

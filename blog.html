@@ -20,13 +20,13 @@ title: blog
     {% for series in site.data.post_series %}
         <div id="{{ series.short_name }}">
             <h2>{{ series.name }}</h2>
-            <ul>
             {% assign post_series = site.posts | where: "series", series.short_name | sort: "date" %}
-            {% for post in post_series %}
-                <li>
-                    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                </li>
-            {% endfor %}
+            <ul>
+                {% for post in post_series %}
+                    <li>
+                        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                    </li>
+                {% endfor %}
             </ul>
         </div>
     {% endfor %}
