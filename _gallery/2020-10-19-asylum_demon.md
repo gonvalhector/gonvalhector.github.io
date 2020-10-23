@@ -1,11 +1,17 @@
 ---
 category: art_gallery
-short_name: asylum_demon
+short_name: ds_asylum_demon
 title: Asylum Demon
-alt: Pixel art sprite of the Asylum Demon
+alt: Pixel art sprite of the Asylum Demon from Dark Souls
 video:
     - type: Speedpaint
       url: https://www.youtube.com/embed/2BBrPs8-me8?rel=0
+palette: DS-34
+mirrors:
+    - caption: Zip File
+      link: /assets/downloads/palettes/ds-34 palette.zip
+    - caption: Gdrive Folder
+      link: https://drive.google.com/drive/folders/1YiqZw9xL5o2c5XOdpNKhVUp9QVWIPloV?usp=sharing
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fat1sEHvVs9ufsaoOjiDBmNNJnMB2m73ZtiH-uPJu4xMg5_oFtq8Md73UHDKhEF5EuucBzviUFn4_8evPRYcIZmvW5Spe0cSW_FcLI3tqnSaFF-7-OWk18E3fzVrOV8KCVfB-tz-SjDC1Q_H2HZsj8=w355
     w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3eT9uTTq6ww8l2f_z5xnGaSl4p5yf45kTAZer4d1KhtycOHbX4Tgoxyxg-MF7TUkCHxv27dyGZkjnRVg25vbG1Er7PtuLjajf4gY09xG_azpwPfF8bI-8rduhwSRVRh1qF8VYjbt90jgdJnpf7Z0g5q=w355

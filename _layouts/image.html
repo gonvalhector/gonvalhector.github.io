@@ -6,6 +6,12 @@ layout: regular
 <div class="text-left">
     <b>Posted on:</b> {{ page.date | date: "%A, %B %d, %Y" }}
 </div>
+{% if page.palette %}
+    {% assign length = page.mirrors | size | minus: 1 %}
+    <div class="text-left">
+        <b>Download the "{{ page.palette }}" Palette:</b> {% for i in (0..length) %}<span><a href="{{ page.mirrors[i].link }}">{{ page.mirrors[i].caption }}</a></span>{% if i != length %}, {% endif %}{% endfor %}
+    </div>
+{% endif %}
 <div id="carouselCaptions" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         {% assign indicators = page.images | size | minus: 1 %}
