@@ -9,7 +9,7 @@ layout: regular
 {% if page.palette %}
     {% assign length = page.mirrors | size | minus: 1 %}
     <div class="text-left">
-        <b>Download the "{{ page.palette }}" Palette:</b> {% for i in (0..length) %}<span><a href="{{ page.mirrors[i].link }}">{{ page.mirrors[i].caption }}</a></span>{% if i != length %}, {% endif %}{% endfor %}
+        <b>Download the "{{ page.palette }}" Palette:</b> {% for i in (0..length) %}<span><a href="{{ page.mirrors[i].url }}">{{ page.mirrors[i].caption }}</a></span>{% if i != length %}, {% endif %}{% endfor %}
     </div>
 {% endif %}
 <div id="carouselCaptions" class="carousel slide" data-ride="carousel">

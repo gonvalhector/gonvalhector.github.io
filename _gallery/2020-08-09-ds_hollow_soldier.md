@@ -9,9 +9,9 @@ video:
 palette: DS-34
 mirrors:
     - caption: Zip File
-      link: /assets/downloads/palettes/ds-34 palette.zip
+      url: /assets/downloads/palettes/ds-34 palette.zip
     - caption: Gdrive Folder
-      link: https://drive.google.com/drive/folders1YiqZw9xL5o2c5XOdpNKhVUp9QVWIPloV?usp=sharing
+      url: https://drive.google.com/drive/folders1YiqZw9xL5o2c5XOdpNKhVUp9QVWIPloV?usp=sharing
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/BvehPUXunWoI1dgnjrakIOiUiQGC9ilcyBkydu0nViVeKJZzR8gqXuTYFKWBCVZ--iQo_fMz81ifTggrSxSaTRf3yEkgt_iMNuMLe9kUhMAlPpWIEzj_gIAY7-d-nFooiUj7JI2WLA=w355
     w1920_JPG: https://lh3.googleusercontent.com/XrrcjDtFKnDXlnpi7V8KnhpxjXkJo9j0wJZw2DfADCNbcup0ufhZdhY_AyhbWZNB80X9sseHj0mjcn8g7B6oKvAhlMXaPUEOd39gLRQC9CD0H_4XIHhcpiIOp67XYoE6Hh-3uxzHZg=w355
