@@ -3,6 +3,12 @@ category: art_gallery
 short_name: dwarwen_warrior
 title: Dwarven Warrior
 alt: Watercolor sketch of a dwarven warrior
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CE-66M3n9Np/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/a-dwarven-warrior-in-watercolor-and-ink-paper-texture-by-the-wonde-frg33nj9
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/mgWMlj1tIPdYyAt4yuBcdWhgF_EqDs_Cvn030F9wNiVsx7OfLK8fUzTBWJCDIuA978MVn1x8HJy9h_7a7gVwv0Fmz92jDAlomZsEc5L5hiKbcd9FUj63FVBUSwQYU4kq6PkjGCeNfA=w355
     w1920_JPG: https://lh3.googleusercontent.com/ttEwNuVq_ZOv8xEDrEF0X3o71wakRODvckHqBULdWH0tCp9CyvzMc4B3v63qd108d-8TzbJ3CUNo65GsjtbD-jST-fsiCZlxyyaChDGJbaD8p94WIW261TmHo3Q-EOpn_7ZWA1w8rQ=w355

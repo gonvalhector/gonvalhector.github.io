@@ -3,6 +3,12 @@ category: art_gallery
 short_name: antlers_girl
 title: Antlers Girl
 alt: Digital painting of a girl with antlers
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/B_hvQXinP0U/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/antlers-girl-a-digital-painting-and-ink-sketch-i-made-around-huipkhc8
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/t7YCxUfupRhiIo8dFh75smWG9hppPdMG9o02DgnFup2rF0VDq6QuMjAqWSNwJnGMiGMhN1ZVa9zc5xz1glU2enRFwsWK1hILMMDljXesEefUWMqMAE4Qj8PXP4NrXTH_FL7rdJOyBA=w2400
     w1920_JPG: https://lh3.googleusercontent.com/tvOkTDRYElQBb_8wDWuuyf6fzAgD7_UYHhEAQ8SNqLN6xRKG021BerLlLYkGaVBngKyyV79ZEji5wg0T4YPzc2T2NkzKUFyHA5A-dwdBJ6fMs9auBdxMe5ksu15ksDt0YxZloh4i8A=w2400

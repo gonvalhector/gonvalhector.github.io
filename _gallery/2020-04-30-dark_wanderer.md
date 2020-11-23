@@ -3,6 +3,12 @@ category: art_gallery
 short_name: dark_wanderer
 title: Dark Wanderer
 alt: Ink sketch of a dark wanderer
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/B_m6DmajlNh/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/the-dark-wanderer-an-ink-sketch-i-made-around-august-of-201-wy77v9jd
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/ykoAxIpsXzjO54w16WBNYlOBKqbm_bsKVItMW-o2OUyeI06K_3KfcK7KC6nDme3qiUxy1WziAyFoQjlWLrIIELMdLqubCrtme1-VvwqdefSN_QbjwEQd6YmMwe6qV6IxgOpWs4xt_g=w355
     w1920_JPG: https://lh3.googleusercontent.com/HTodK9mkZS71pKTaESQ85X8D1avsMcO1lJlmwayOKefRiBf9VcXYwZ7pNlG0EOO-JXaWtfCbaQCv-NaLersYSU7pOIH5zvbybmWzzL7KFuFlVFDgG6dAYnyJiIKPqHDB4clX541KUg=w355

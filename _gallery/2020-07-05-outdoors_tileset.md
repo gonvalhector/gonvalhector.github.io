@@ -3,6 +3,14 @@ category: art_gallery
 short_name: outdoors_tileset
 title: Outdoors Tileset
 alt: Animated image demonstrating an outdoors tileset
+external:
+    - caption: Open Game Art
+      url: https://opengameart.org/content/outdoors-tileset
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CCRhUzHHdym/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/a-little-animated-demo-of-an-outdoors-tileset-i-made-for-rpg-maker-i4kjeq7j
 thumbs:
     w1920_GIF: https://lh3.googleusercontent.com/HfPi2GX9cQfC6gJdH35bWeo2jShltSXEeiboRKlk1DodJCPcjTrfjNDwz8bVBm26aNP081UQ7ulwL3Jjmz_boDaXyS1AbGqhWvosKe8ajcP41_cZ5l7-Jid6AatEbivZRWETVGj4Lw=w355
     w1920_PNG: https://lh3.googleusercontent.com/tLORhEIUbUghNPspW3WyL4STBUrJ2YLu9zZ2WwUUII4WzDtB2wvQvQElmb97FDWeKw9CBWbviQTQg7dNV508fNYkXyyZIfXZxFxBJqxoTubW4jmiI-pD7gvQgERZYEd-OGMXunS5Bw=w355

@@ -3,6 +3,12 @@ category: art_gallery
 short_name: lofi_girl_halloween_2020
 title: LoFi Girl Halloween 2020
 alt: Pixel art sprite of the lofi girl
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CG5JjeLnIdF/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/my-entry-for-the-lofigirlhalloween-drawing-contest-on-instagram-ksr3maax
 video:
    - type: Speedpaint
      url: https://www.youtube.com/embed/KdbKl80JN9s?rel=0

@@ -3,6 +3,12 @@ category: art_gallery
 short_name: pop_sprite
 title: Prince of Persia Sprite
 alt: Pixel art sprite of the Prince of Persia
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CCepjEXnSB_/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/-xrejfr6x
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/d6UsUmUF4s914MUk5hImiA_-0-IYXY2MyqY7CtuqMBF8JXuS9LjYAfdrmhMuOn48Ua1MqwtfVBK2BNL96ngjEzZbGRxcf1rEj3MlvzD6oL-WB-WmHADWdUxt6I9GFKaSV32liYZjZQ=w355
     w1920_JPG: https://lh3.googleusercontent.com/PKwQpDIHUtOKoWVNI7TF7IV6gDiMlPm-DS5YPYqfGfuO8-2FlEZkNtyUDApXdJL_M-PZcHCm2qhXOoCgLx12jUHLpeJvFiA_JmLq8tf_6BNSo1wBrzRqQCBT33OXIvT-4KXCa6VDBw=w355

@@ -3,6 +3,12 @@ category: art_gallery
 short_name: storyteller
 title: The Storyteller
 alt: Sketch of an old lady sitting on a chair
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CDSs_vyH1fl/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/the-storyteller-a-quick-watercolor-and-ink-sketch-k4ngwusu
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/cXa9uL0t_x_t_ZpWxIlQ43uz2kme7sV0qs9WU5jCxx5tEwzMzSRMix1AtpxnlELgBTgTFVSs8a1_vj66fCdMMgrixXXbV4p4xWL5kchh4vyJWew1dZ-1sDWc1MYHGIn0PBfpUaNbnQ=w355
     w1920_JPG: https://lh3.googleusercontent.com/zNVv8RwiYAxTzp-HTcx8Peu5OtcBraJHoPafXUsPTxR3ZYZrpa1Kr_kb-ZMrqoFKzCyXSSYMHUQhaSoTJ0Zmg9c-uWupWsCmGeBXOQGt_7vEIoQ9LMyZXn7RuxFQxhUPrDfUwEjdwA=w355

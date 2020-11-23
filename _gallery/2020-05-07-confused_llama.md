@@ -3,6 +3,12 @@ category: art_gallery
 short_name: confused_llama
 title: Confused Llama
 alt: Ink sketch of a confused llama
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/B_5-xongJ-s/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/confused-llama-an-ink-sketch-i-made-around-september-of-zac9dqwp
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/1Qjly1yJcKzbiCTbNOrPLj_W1niCrdGwNagy6zi-Xm9115_zjbPqf3mxQrFlo4_oRVt3OCzOlIRHGcBEHQu5N1B_Jmh3eGuADLnxx0dvBFD0XTqoUQYtGFzuSSRXJK-G3ZB8mtE-GA=w355
     w1920_JPG: https://lh3.googleusercontent.com/dSfhssDoQxX87p2cwS7o4pwRJd3kSzBdTImjRjsa3B5eahhN4r0nzfKNXjgX0P_f7_O9CQ7J-lzxJjsCt_Nfp7JMsPbpVmNEoSStb1b0H8yB99huwpnDIvuJtPQIve-alylfm10m-A=w355

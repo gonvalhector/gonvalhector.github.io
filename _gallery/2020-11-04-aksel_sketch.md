@@ -3,6 +3,12 @@ category: art_gallery
 short_name: aksel_sketch
 title: Sketch of Aksel
 alt: Watercolor sketch of Aksel
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CHLqLBfHCKA/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/a-watercolor-and-ink-sketch-of-aksel-from-claws-and-tears-by-atmi-vu8yvrvu
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fTTovx9O2Z3gOSNF5nBH42QvJIeHzrsJmCv1gX5ayo0N9mj4PClYXmlb_RP-RzHQi4sOF4SaJxi_p27peG7wClnyTRY43VRkUN_XZ7FVbbGFz09PtkCy_to48C_1YkbR_EgJx8ZN5yKps_4EQw8hro=w355
     w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dqSR-2_dTbQ87IUeTap8brbmtcKaRFwpYN9V7B1e6LUy_fWeX_lq6_FT-ByH-6_56-UcNXuVkhG6rYaIRbtSeRBdzX9Qzn2HXyWY4jSRHEm-ifShUqrEq2URCqkknvCOudafGph3lRvqsB2eiW7dfx=w355

@@ -1,27 +1,27 @@
 // Background Colors
-// Oxford Blue
-$bgd1: #03223D;
-// Royal Blue
-$bgd2: #082A63;
-// Dark Cornflower Blue
-$bgd3: #34609D;
+// Rich Black
+$bgd1: #141019;
+// Xiketic
+$bgd2: #2F243A;
+// Cultured
+$bgd3: #F4F3F6;
 
 // Text Color
-// Lavender
-$txt1: #DDDCF2;
-// Sinopia
-$txt2: #CA3B02;
-// Maize (Crayola)
-$txt3: #E6B365;
+// Cultured (Regular text)
+$txt1: #F4F3F6;
+// Cultured (Link hover)
+$txt2: #F4F3F6;
+// Manatee (Link)
+$txt3: #9A97A1;
 
 // Drop Shadow
-// Rich Black
-$shadow: #061019;
+// Xiketic
+$shadow: #0F0C13;
 
 // Filter
-$fltrtxt2: invert(40%) sepia(85%) saturate(7481%) hue-rotate(23deg) brightness(97%) contrast(98%);
-$fltrtxt3: invert(82%) sepia(17%) saturate(1373%) hue-rotate(339deg) brightness(95%) contrast(90%);
-$fltrbgd1: invert(48%) sepia(32%) saturate(4165%) hue-rotate(162deg) brightness(96%) contrast(101%);
+$fltrtxt2: invert(91%) sepia(11%) saturate(100%) hue-rotate(207deg) brightness(106%) contrast(93%);
+$fltrtxt3: invert(63%) sepia(3%) saturate(696%) hue-rotate(217deg) brightness(97%) contrast(89%);
+$fltrbgd1: invert(63%) sepia(3%) saturate(696%) hue-rotate(217deg) brightness(97%) contrast(89%);
 
 body {
     display: flex;
@@ -36,7 +36,7 @@ body {
         nav {
             .navbar-brand {
                 color: $txt2;
-                font-family: "sora";
+                font-family: "varela";
                 font-size: 3.5vh;
                 text-shadow: 1.5px 1.5px 1.5px $shadow;
             }
@@ -44,10 +44,11 @@ body {
                 color: $txt2;
             }
             .navbar-toggler-icon {
-                background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(52, 96, 157, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+                background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(244, 243, 246, 255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
             }
             .navbar-nav {
                 .nav-item {
+                    font-family: "Raleway", sans-serif;
                     color: $txt3;
                     .nav-icon {
                         filter: $fltrtxt3;
@@ -65,9 +66,11 @@ body {
 
     }
     main {
+        font-family: "Noto Sans JP", sans-serif;
         flex: 1;
         margin-top: 10px;
         h1, h2 {
+            font-family: "Raleway", sans-serif;
             color: $bgd3;
             text-shadow: 2px 2px 2px $shadow;
         }
@@ -133,6 +136,6 @@ body {
 }
 
 @font-face {
-    font-family: "sora";
-    src: local("sora"), url("../fonts/Sora/Sora-VariableFont_wght.ttf") format("truetype");
+    font-family: "varela";
+    src: local("varela"), url("../fonts/varela/Varela-Regular.ttf") format("truetype");
 }

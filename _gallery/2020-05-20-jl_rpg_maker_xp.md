@@ -3,6 +3,12 @@ category: art_gallery
 short_name: jl_rpg_maker_xp
 title: Justice League Sprites
 alt: Pixel Art Sprites of the Justice League
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CAbG3zaBSY3/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/a-bunch-of-justice-league-sprites-based-on-a-rpg-maker-xp-character-esssnvxd
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/TXJ9QWxOwSPO3M2OWpdI-B8bhOtgt33egV712grx_lVKn9a8LCAvDd3UeBMkwbF_YR1NL-8Yzpn81eVXnE2NDepQN2h6yvsv1nO42_SoAdgFIltsfM4pJINXfBd5cFzO7uQ13wiz6w=w355
     w1920_JPG: https://lh3.googleusercontent.com/5wMZ_41OPLDOS44ha-oH0joFgL8zS0U3eg8uVbHpKkz25_OcftJP-_ddnCsVbrUUHwk52oXnCc-r3YzE2vPA9mH61sfSrxcGfoGtTgLCCM1rrSX_N5YNbflWmUOnBh0gIpUgVxO4PQ=w355

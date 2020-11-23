@@ -3,6 +3,12 @@ category: art_gallery
 short_name: aveliana_sketch_01
 title: Sketch of Aveliana
 alt: Watercolor and Ink sketch of Aveliana
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CCJ5KlEnrTI/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/a-quick-watercolor-and-ink-sketch-that-i-did-of-aveliana-by-atthe-aftqygkb
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/WHzJmKY-JLx3zOizsyqqD-GBhv-wovuZwLNheSHCyUjOV3gYEY-yijzn4_x_KaBCI8FYPPoOaeIfti6eMCUdl2QlAvDh_w0ORHOaSNVUkekg5I_YsLC3Nn8LeJhdfKezr4HeV-_ZmQ=w355
     w1920_JPG: https://lh3.googleusercontent.com/sV9L5Ic9Xp6p5vpe0mNSnNNNIluR6yARPiAoHZjoo2mIqO3pYKpa8U9TZe-XlPcu5bqTfJPFwOW0qHZrdScT70Kn-5emglOD_dLdUjOBpZSIRAP1rK39UhXsZynJ0JGrY8nG5HT4_w=w355

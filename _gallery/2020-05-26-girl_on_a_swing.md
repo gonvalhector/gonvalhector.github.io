@@ -3,6 +3,12 @@ category: art_gallery
 short_name: girl_on_a_swing
 title: Girl on a Swing
 alt: Watercolor sketch of a little girl on a swing
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CAqMgM9HHMt/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/a-quick-watercolor-and-ink-sketch-of-a-little-girl-on-a-tree-swin-34eautsr
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/y6s54H1obfNquxhUMiZnm0KQXPX_FO00XeZ8nEbNbPbvwDWXFEIW7Vr6_lo7EpKwGYe1_lVycKpFFZAtk7CsL18NnA08ewgQSRUMPV3EjS4BESQNxJW5GnmpXkRUbG7uaelunXetfQ=w355
     w1920_JPG: https://lh3.googleusercontent.com/YwRQ0t7im5vSIz2YW5bW_u8AjJ-SFU6hIzHoFNx3feUCYFet6T7zqzJzznaS85533S9kpV2mY9QfnVUkEe0zlo1n4o-j-4RY_We95QitFHpwTXeAm813kjeib_PoO9B7irlQYM3oKw=w355

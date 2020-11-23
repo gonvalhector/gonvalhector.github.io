@@ -3,6 +3,12 @@ category: art_gallery
 short_name: tlou_sprites
 title: The Last of Us Sprites
 alt: Pixel Art Sprite of The Last of Us main characters
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CB400vgnBzi/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/ellie-joel-from-the-last-of-us-journey-palette-by-pineappl-nehgwsn8
 video:
     - type: Speedpaint
       url: https://www.youtube.com/embed/y86u9rUYYAw?rel=0

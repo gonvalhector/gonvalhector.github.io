@@ -3,6 +3,12 @@ category: art_gallery
 short_name: black_knight
 title: Black Knight
 alt: Pixel art of a Black Knight from Dark Souls
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/B-2PuTvheBw/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/a-black-knight-from-dark-souls-that-i-made-as-a-gift-for-a-friend-a-fc7gn344
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/X-X-qjEZer3-4Gbjl7T0mmBLjApsDHFXg3Dq81cSN7yy8AF9mfibAovkIPwVj23dhFE9rN121IzgQmZCRYC58jZXqq_sIxqcO845Q16JhTOPuc6N7PhNf4OitFO8_8XdkslXl0JP7A=w355
     w1920_JPG: https://lh3.googleusercontent.com/96mw2wLU2MRFhvtkaiTUJdnhgVg1tTsXbQ6HbObRUB1MOunJrLB-kgECmu1pp_nD-XaZP2JkzOc442Dtwg20bCOUmSoClW71C5zqWZfHqffjZaRowNkJzhA0Lmfh2Yb9jFwjDaXUXg=w355

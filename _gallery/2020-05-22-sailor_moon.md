@@ -3,6 +3,12 @@ category: art_gallery
 short_name: sailor_moon
 title: Sailor Moon DTIYS
 alt: Pixel art of Sailor Moon
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CAf7KG4HzAm/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/done-for-the-sailor-moon-dtiys-challenge-back-in-may-journey-pa-mxcdmkrw
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/0E7EQBavfo2FVkwheuc09wZbUae57FRhaaHn3-C1TSyQUXmFhTJtAhEp1WAzm7iPPLohhDQETJ6EJ1_RXMOOhUuLszmjshsY56DRFVZViGzmhm7JjXGHtGxBPdcsFOji9G8oVoyu0g=w355
     w1920_JPG: https://lh3.googleusercontent.com/Hnm9X6KC1Hw3KsyPvOIRi5AAAQEifWTUOidBSFvnY1vCUCtr6Q1GvjXcOXQHOr22yubmUxv0O2tDCGNhXHu8MVtZMhr5IA-BpBnTYRenRTcqEXbK1pq1izdNbrLDs0AfXWmOYL1EEw=w355

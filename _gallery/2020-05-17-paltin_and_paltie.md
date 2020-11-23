@@ -3,6 +3,12 @@ category: art_gallery
 short_name: paltin_and_paltie
 title: Paltin & Paltie
 alt: Watercolor painting of two avocado halves
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CAT7A_oBaxP/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/paltin-paltie-a-watercolor-and-ink-sketch-i-made-around-s-adrh7mzz
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/MUDq2IibGL4CCoZ7bMWcUtvwYw_WWsg0HQQ7zYm5H2bs5mRLT33qx0n7TmABBSKTJBhKYHUG2HQsFf-bk0URULAOeQUGUBfzaG-J4Q0NiihS7cfd-Wl8Vm_qz39sS8suGO_r_7M1QA=w355
     w1920_JPG: https://lh3.googleusercontent.com/dKNoBG0kT584bFoSGddlvIk_Qg9xeJUK_54KJ0zY9Kuln7SBUDjdZC9p7GfViwNucan6RiSp_y398HSb2oW0X5ARVJNkwcRk0z2Xjwu6fisgpSMLdM9ZSYvANlBqH6KQSu512JtF4w=w355

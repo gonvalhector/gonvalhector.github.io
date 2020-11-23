@@ -3,6 +3,12 @@ category: art_gallery
 short_name: temple_ruins
 title: Nordic Temple Ruins Landscape
 alt: Watercolor sketch of some temple ruins
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CFRMvcUnJb3/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/a-landscape-of-some-temple-ruins-done-with-watercolor-and-ink-pap-fqxcd4fv
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3f1oSSBB6I3aWTM2p4Jtbxow8DOZhaiv1AA8e_qs9NJuSuzDAVOVC7xuWuP8DIIknLBZgYoSPMeiRcjEpCbdqatH9Y-Xdw0RiI8qwzUtyesKWj4-d8nyVeB4LIkDJRArWQNQb6iA66qZhRmddu7mfhX=w355
     w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3daePn0VOlLF2z2lNnavjwJG_kSvvjS_5zA1DmdM3HoLkovuy66E3ja73Sr2wTz7JihBBLNfGVxTwDfe3oNQNo4AOMdqn0HJ_ZFaGUyS4RWC2JE6UcPbsqrlJFeOds2Tlxlk4QRMsFmpzJejwBuZzhJ=w355

@@ -3,6 +3,12 @@ category: art_gallery
 short_name: ds_hollow_soldier
 title: Dark Souls "Hollow Soldier"
 alt: Pixel art sprite of a Hollow Soldier from Dark Souls
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CDsjbUCHtIS/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/continuing-the-dark-souls-quick-sprites-series-here-comes-a-hollow-7f9vesx5
 video:
     - type: Speedpaint
       url: https://www.youtube.com/embed/OpBNncJwrws?rel=0

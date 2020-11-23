@@ -3,6 +3,12 @@ category: art_gallery
 short_name: childish_harpy
 title: Childish Harpy
 alt: Watercolor painting of a childish harpy
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/B_ADa2_j25S/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/watercolor-and-ink-sketch-i-made-last-year-of-a-childish-harpy-p-jucsubvq
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/6lVh-NMG5THdVu4DbX4ktw4F-9ClQptIjLpLTK-WumfOBctTypZfe5r4I_aJMzIwLjaT3VcHjQrh_zOnlU9w96zRmeoupy3NA_jAfgb9DLKutlbknQDY2H6Ak_sjRyXRM8Je5dHjyA=w355
     w1920_JPG: https://lh3.googleusercontent.com/S1ZOJJZgDQ2wICxUxrXL-35yJGe4WSBtaN3w2Lri0oJJykw9pFh_GOUxSsCQODfcdF6T8estNkXuv0bqkbm9DcSkIPqkAqfyKBhL26iWeWrYls7lbOmDFIRpeLhvlvjqLchF39iBBw=w355

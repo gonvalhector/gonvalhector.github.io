@@ -3,6 +3,12 @@ category: art_gallery
 short_name: strawberry_milkshake
 title: Strawberry Milkshake
 alt: Watercolor painting of a can of strawberry milkshake
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CHpDJinnCHR/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/strawberry-milkshake-in-a-can-nha4rhdk
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3dm82uHnY30ODqf8wAAKygPFDTQNBz9MgjLM9MfFqdot4ZXxi4Uo9IMnvU10OjalLHi2YamAXikeohzEks4kTxRV1_fXbMtX80xpNeJgWR1X_hVfjxoaMsRwsfPbBGdJXjMP8Tdzpg21qLItZF7yBuM=w355
     w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dLrk38eVIYhsR0k29CMpX05sS5rl99ffgCwVX15c5dExi3ohJLQ4MQjTocDOAEQmz6HU7uIqh4IzOEewtAuOhKSkKa3BsIBSPgHFNMYoqCKZlsHvP2dd--fiM2xs9eeXaneH8Wb5EcsityrluInZ8P=w355
@@ -55,5 +61,5 @@ images:
       w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3fV8cVbPIxunhENO21e9e6E-VD32cLqRBT-TPlEXD93Ufl0-P_EB7uYg96LfMibReTbZL2AELGkXI7qPpKle92JFYKzuK91ggYnoQ86X53PzNxdor2GiyBbtV4Zn4Gud1xiVzkJnM-E5KPBi3uNByP1=w166
 ---
 
-A strawberry milkshake in a can.
+A strawberry milkshake in a can.  
 Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).

@@ -1,5 +1,8 @@
 - title: Gallery
-  url: /gallery/
+  url: /art_gallery/
+  link: /gallery/
+- title: Gallery
+  url: /blog_pictures/
   link: /gallery/
 - title: Projects
   url: /project/

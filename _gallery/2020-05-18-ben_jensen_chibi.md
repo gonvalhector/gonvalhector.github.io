@@ -3,6 +3,12 @@ category: art_gallery
 short_name: ben_jensen_chibi
 title: Ben Jensen Chibi
 alt: Drawing of a chibi style character
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CAWoBTDAS0t/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/i-made-this-ink-and-colored-pencils-chibi-character-around-2008-p-dudnjtzh
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/g2b7yXYxzIBpxMIeH2xlH_sENiIj-3r9xI5ct7kgXkBttN3QZaWgBha0TXt-mzJ6A0ot8KRXaVQpRhxwxnSAGBQduFjWCmr5C2ZgxvXhUPCrICfJ6SiMmcT4NGOdtbx47IO-C_5zsQ=w355
     w1920_JPG: https://lh3.googleusercontent.com/9FyUvz5gGhNezzjqNBKt1V5vtzQfRSkL_71Bh1hcNRHqkbOPv5Hcb9qQr4luMKhFWHIJfn9JgEHGZYK5bTSuEVJF2xyZIxCb5PlYLTpUwyDQ0iE7YVU31NdqoB9jm9x5GH9J3q4dCA=w355

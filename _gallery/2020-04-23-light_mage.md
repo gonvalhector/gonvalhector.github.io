@@ -3,6 +3,12 @@ category: art_gallery
 short_name: light_mage
 title: Light Mage
 alt: Watercolor painting of a light mage
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/B_U81mqDkt0/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/young-light-mage-a-quick-watercolor-and-ink-sketch-paper-te-vrepksvx
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/F_tE6wrFGkljko_6Sz_o5cimWUG11EeU2EYQje0_j-v_1n7zIaSc37ige7gSltUfmUARZEX0EKKuFuN1LPMEJGbSXmKENHZh45bUYMU4U-ZfK-VBHouwdB-PJQJGZcVEBIG2wzdCTg=w355
     w1920_JPG: https://lh3.googleusercontent.com/S_Ri5xNOC5MfQrWR1eLAgvACou3QswoLP8jlz5fwtH6Spbgn806leMK3J_SJcNTPv9HvYzjCFeA5lIxxfL9pXDEQ4SqsaYKsamTUe9EhpyoRW2Wc6zDfUHi6Lr4qwDy3J9OD0i8pTA=w355

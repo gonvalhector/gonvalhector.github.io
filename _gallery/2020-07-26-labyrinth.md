@@ -3,6 +3,12 @@ category: art_gallery
 short_name: labyrinth
 title: Labyrinth/ラビリンス
 alt: Watercolor painting of a music video
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CDIm9WPHAmv/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/a-watercolor-painting-i-did-based-on-the-music-video-of-mondo-gross-q5a4u3mt
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/U9o6IF9C6ajfYRWGm6aliuEe0hGTMKs7bIqsTruzyvG5Zs3GIYIbGqo8VSJBH6opZ2lG1g5O9f8t5-1mK-eFbWNXO5j3sx3fVsHZRIyZDkla9WDXPcEY-_l-jsOrBUsIfC5O0sL3Nw=w355
     w1920_JPG: https://lh3.googleusercontent.com/jLlRPywZhzpkfmxyMejOI5Gpzw2xox3mm6vuRxqI4oI8lwqzQ32HZOl1FzQRR1VIdSE0X7OU8LjkUqezxwjplA_Y7IF-E9dMMBOEU2Oy1B432IejSXzHKAvN4-aHv_H20bdndxykqw=w355

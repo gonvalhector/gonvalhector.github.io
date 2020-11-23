@@ -3,6 +3,12 @@ category: art_gallery
 short_name: old_drawings
 title: Old Drawings
 alt: Picture of a drawing
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CDfOSDmHscf/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/a-bunch-of-drawings-from-2018-2019-that-i-may-or-may-not-repurpose-3av9cqf8
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/0ch0mFpHbn6ROSOQviu7VEe-xvWgtJ6DsrjgHT7JW_ubx-6ImNxDkZFKRhk1XbLDRFlpsHFTR0XfB_dDKks2LqysX04o7P6TEB7RzaErJOr0_63fOiCvOQkk7Wz7wPHd-jsxVGQK9g=w355
     w1920_JPG: https://lh3.googleusercontent.com/vrqHAPvh_VRhydMa17Szy4GYZfsG0l4cOiIeYXgz2WW9JGg-ee9vJZj7ELQLjHVh0PbRTe5C4YPaoC1UyBGVXf5EWcHKqeLZZ1JF-Zbfz02DBCcrn7ZxI49TMqWpsqctjOl-d3Cb3w=w355

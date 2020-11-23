@@ -3,6 +3,12 @@ category: art_gallery
 short_name: old_wizard
 title: Old Wizard and his Projection
 alt: Watercolor painting of an old wizard and his projection
+external:
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/B_PtX--DKEs/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/an-old-wizard-and-his-projection-a-watercolor-and-ink-sketch-ukzwpyxb
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w355
     w1920_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w355
