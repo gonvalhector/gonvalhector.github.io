@@ -2,6 +2,8 @@
 layout: default
 title: gallery
 columns: 3
+js:
+    - src: /assets/js/imgHover.js
 ---
 
 {% for category in site.data.categories %}
@@ -59,7 +61,7 @@ columns: 3
                                 <source media="(min-width: 240px)" srcset="{{ images[n].thumbs.w240_GIF }}">
                             {% endif %}
                             <source media="(min-width: 240px)" srcset="{{ images[n].thumbs.w240_PNG }}">
-                            <img src="{{ images[n].thumbs.w240_JPG }}" alt="{{ images[n].alt }}" title="{{ images[n].title }}" class="rounded">
+                            <img src="{{ images[n].thumbs.w240_JPG }}" alt="{{ images[n].alt }}" title="{{ images[n].title }}" class="rounded transform-in">
                         </picture></a>
                     </div>
                     {% assign n = n | plus: 1 %}

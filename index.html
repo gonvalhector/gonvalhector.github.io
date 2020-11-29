@@ -1,6 +1,8 @@
 ---
 layout: regular
 title: home
+js:
+    - src: /assets/js/imgHover.js
 ---
 
 <h1>Welcome!</h1>
@@ -62,7 +64,7 @@ title: home
                     <source media="(min-width: 240px)" srcset="{{ project.thumbs.w240_GIF }}">
                 {% endif %}
                 <source media="(min-width: 240px)" srcset="{{ project.thumbs.w240_PNG }}">
-                <img src="{{ project.thumbs.w240_JPG }}" alt="{{ project.alt }}" title="{{ project.title }}" class="rounded-lg mx-auto d-block">
+                <img src="{{ project.thumbs.w240_JPG }}" alt="{{ project.alt }}" title="{{ project.title }}" class="rounded-lg mx-auto d-block transform-in">
             </picture></a>
         </div>
     {% endfor %}
@@ -109,7 +111,7 @@ title: home
                     <source media="(min-width: 240px)" srcset="{{ image.thumbs.w240_GIF }}">
                 {% endif %}
                 <source media="(min-width: 240px)" srcset="{{ image.thumbs.w240_PNG }}">
-                <img src="{{ image.thumbs.w240_JPG }}" alt="{{ image.alt }}" title="{{ image.title }}" class="rounded-circle mx-auto d-block">
+                <img src="{{ image.thumbs.w240_JPG }}" alt="{{ image.alt }}" title="{{ image.title }}" class="rounded-circle mx-auto d-block transform-in">
             </picture></a>
         </div>
     {% endfor %}

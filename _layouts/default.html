@@ -21,6 +21,11 @@
 
             gtag('config', 'UA-166905054-1');
         </script>
+        {% if page.js %}
+            {% for script in page.js %}
+                <script src="{{ script.src }}"></script>
+            {% endfor %}
+        {% endif %}
     </head>
     <body>
         <header class="sticky-top">
