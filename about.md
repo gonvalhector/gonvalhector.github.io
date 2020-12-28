@@ -17,12 +17,14 @@ currently finishing the [CS50's Web Programming with Python and JavaScript] cour
 ## Courses
 
 - [x] [CS50's Introduction to Computer Science]
-- [ ] [CS50's Web Programming with Python and JavaScript]
+- [x] [CS50's Web Programming with Python and JavaScript]
 - [ ] [CS50’s Introduction to Game Development]
 
 ## Certificates
 
+- [CS50's Introduction to Computer Science from CS50]
 - [CS50's Introduction to Computer Science from edX]
+- [CS50's Web Programming with Python and JavaScript from CS50]
 
 # About the Site
 
@@ -43,8 +45,10 @@ Originally developed as [Project 0] of the [CS50's Web Programming with Python a
 
 
 [CS50's Introduction to Computer Science]: <https://cs50.harvard.edu/x/2019/>
+[CS50's Introduction to Computer Science from CS50]: <https://certificates.cs50.io/6a7ba948-b64d-44e2-941d-96bf0c264d3d.png?size=letter>
 [CS50's Introduction to Computer Science from edX]: <https://courses.edx.org/certificates/a456b9cac66248e389cc11cc73a952a2>
 [CS50's Web Programming with Python and JavaScript]: <https://cs50.harvard.edu/web/2018/>
+[CS50's Web Programming with Python and JavaScript from CS50]: <https://certificates.cs50.io/68fbe128-254d-42ef-a13c-a3c208bb3d2d.png?size=letter>
 [CS50’s Introduction to Game Development]: <https://cs50.harvard.edu/games/2018/>
 [Project 0]: <https://docs.cs50.net/ocw/web/projects/0/project0.html>
 [Jekyll]: <https://jekyllrb.com/>

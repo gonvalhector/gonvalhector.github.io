@@ -7,6 +7,9 @@ repository:
 demo:
     host: Heroku
     link: https://r8books.herokuapp.com/
+original:
+    label: CS50 Web Course
+    date: April 8th, 2020
 alt: Logo of the R8Books web app
 video: https://www.youtube.com/embed/5f4RT2_jStg?rel=0
 thumbs:
@@ -26,10 +29,10 @@ thumbs:
     w240_JPG: https://lh3.googleusercontent.com/WTQTUylhvqXTMMuzBcG5YmtqT7JV-E5YeLet5MrMFRSUWyvqVSod34fqphQ3I41Q2LYZ43rBurL_T6J482sWFr7zsZAou3ULTsyeKsc0qihylJX3Kp0NGxKZTdgLdLKZWOt-XCyqGg=w66
 ---
 
-**[{{ page.title }}]({{ page.demo.link }})** is a [Django](https://www.djangoproject.com/) web application that lets registered users look books up by their title, author or ISBN number, then rate and write reviews for them.
+**[{{ page.title }}]({{ page.demo.link }})** is a web application made using [Django](https://www.djangoproject.com/) and a [PostgreSQL](https://www.postgresql.org/) database that lets registered users look books up by their title, author or ISBN number, then rate and write reviews for them.  
 
 More information on the original version down below.
 
-## Older Version
+## {{ page.original.label }} Version
 
-Originally developed as [Project 1](https://docs.cs50.net/ocw/web/projects/1/project1.html) for the [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2018/) course, it was a web application made using Flask and a PostgreSQL database.
+Originally developed (and submitted on {{ page.original.date }}) as [Project 1](https://docs.cs50.net/ocw/web/projects/1/project1.html) for the [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2018/) course, it was a web application made using [Flask](https://flask.palletsprojects.com/en/1.1.x/) and a [SQLite3](https://sqlite.org/index.html) database.

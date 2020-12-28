@@ -4,6 +4,9 @@ title: Fitness Programmer
 repository:
     host: GitHub
     link: https://github.com/gonvalhector/fitness-programmer
+original:
+    label: CS50 Course
+    date: December 21st, 2019
 alt: Logo of the Fitness Programmer web app
 video: https://www.youtube.com/embed/hF-qanTC6pA?rel=0
 thumbs:
@@ -23,12 +26,11 @@ thumbs:
     w240_JPG: https://lh3.googleusercontent.com/OIJDym7SphHcKsWqjk_2gnmajEoSn9PaATxI7x7w3SoMj3wuS_jndplaF9kiInweh-RavfsagkVGN7G1oXKQ-9YUuTu6bqtexUv35Wrh_HA9RsRmZ3ysHsCJwfjNvp4vJsVhKqCyEQ=w66
 ---
 
-**Fitness Programmer** will be a [Heroku](https://www.heroku.com/) web application made
-with [Django](https://www.djangoproject.com/) that will allow users to add exercise
-routines, record their training sessions and keep track of their progress.
+**{{ page.title }}** will be a web application made using [Django](https://www.djangoproject.com/) that will allow users to add exercise
+routines, record their training sessions and keep track of their progress.  
 
 More information on the original version down below.
 
-## Older Version
+## {{ page.original.label }} Version
 
-Originally developed as a final project for the [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2020/notes/0/) course, it was a web application made using Flask and a PostgreSQL database.
+Originally developed (and submitted on {{ page.original.date }}) as a [Final Project](https://cs50.harvard.edu/x/2020/project/) for the [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2020/notes/0/) course, it was a web application made using [Flask](https://flask.palletsprojects.com/en/1.1.x/) and a [SQLite3](https://sqlite.org/index.html) database.
