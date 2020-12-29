@@ -40,7 +40,7 @@ body {
                 font-size: 3.5vh;
                 text-shadow: 1.5px 1.5px 1.5px $shadow;
                 #logo {
-                    border: 2px solid $bgd3 !important;
+                    border: 3px solid $bgd3 !important;
                     box-shadow: 1.5px 1.5px 1.5px $shadow;
                 }
             }
@@ -51,7 +51,7 @@ body {
                 background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(244, 243, 246, 255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
             }
             .navbar-nav {
-                .nav-item {
+                .nav-item:not(.active) {
                     animation: txtColorChangeOut 0.75s;
                     font-family: "Raleway", sans-serif;
                     color: $txt3;
@@ -60,7 +60,7 @@ body {
                         filter: $fltrtxt3;
                     }
                 }
-                .nav-item:hover {
+                .nav-item:hover:not(.active) {
                     animation: txtColorChangeIn 0.5s;
                     .nav-icon {
                         animation: iconColorChangeIn 0.5s;
@@ -87,11 +87,11 @@ body {
             color: $bgd3;
             text-shadow: 2px 2px 2px $shadow;
         }
-        a {
+        a:not(.list-group-item) {
             color: $txt3;
             animation: txtColorChangeOut 0.75s;
         }
-        a:hover {
+        a:hover:not(.list-group-item) {
             color: $txt2;
             text-decoration: none;
             animation: txtColorChangeIn 0.5s;
@@ -130,12 +130,36 @@ body {
             animation: iconColorChangeIn 0.5s;
         }
         .transform-out {
-            animation: imgTransformOut 0.75s;
-            transform: scale(1);
+            @media (min-width: 240px) {
+                animation: imgTransformOut 0.75s;
+                transform: scale(1);
+            }
+            @media (min-width: 1920px) {
+                animation: bigImgTransformOut 0.75s;
+                transform: scale(1);
+            }
         }
         .transform-in:hover {
-            animation: imgTransformIn 0.5s;
-            transform: scale(1.1);
+            @media (min-width: 240px) {
+                animation: imgTransformIn 0.5s;
+                transform: scale(1.1);
+            }
+            @media (min-width: 1920px) {
+                animation: bigImgTransformIn 0.5s;
+                transform: scale(1.04);
+            }
+        }
+        .list-group-item {
+            border-width: 2px !important;
+            font-weight: normal;
+            background-color: $bgd1;
+            border-color: $bgd3;
+            color: $bgd3;
+        }
+        .list-group-item:hover {
+            background-color: $bgd3;
+            color: $bgd1;
+            font-weight: bold;
         }
     }
 
@@ -195,5 +219,14 @@ body {
 
 @keyframes imgTransformOut {
     from {transform: scale(1.1);}
+    to {transform: scale(1);}
+}
+@keyframes bigImgTransformIn {
+    from {transform: scale(1);}
+    to {transform: scale(1.04);}
+}
+
+@keyframes bigImgTransformOut {
+    from {transform: scale(1.04);}
     to {transform: scale(1);}
 }
