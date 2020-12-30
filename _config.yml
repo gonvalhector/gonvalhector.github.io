@@ -36,3 +36,5 @@ defaults:
       path: ""
     values:
       layout: "regular"
+
+name: gonvalhector.com
