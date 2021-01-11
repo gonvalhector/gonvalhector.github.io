@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: lofi_girl_halloween_2020
 title: LoFi Girl Halloween 2020
+image: https://lh3.googleusercontent.com/pw/ACtC-3c4moGeO3GkG7YCHjYS-yMBQrB10lCfRjpnKeGgyreoxNEzECe6sV-eGAJerVkWfLU1sLeQpE7h22sm00ou6dn9_JORaERuA3Q-FV6paoL2JgTohynRG8uzTkd3OIdc55M0iKGqhyWM2-WEw0h-8hl4=w1200-h630-no?authuser=0
 alt: Pixel art sprite of the lofi girl
 external:
     - caption: Instagram

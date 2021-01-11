@@ -1,6 +1,7 @@
 ---
 short_name: r8books
 title: R8Books
+image: https://lh3.googleusercontent.com/pw/ACtC-3cukyGJWD7ei-wTVujnK7I0SCv_gfm47JLDwuuwkq3s_7XU13lcDSyZoyny32SebnmymoVVlIYT9tJgSDs5eqGfCcwldxbFUkAVYC1Gkb-npHLsrHep88i1Ox866sRk6C3zMXHsKYlYEk60-lnvSwDh=w1200-h630-no?authuser=0
 repository:
     host: GitHub
     link: https://github.com/gonvalhector/r8books

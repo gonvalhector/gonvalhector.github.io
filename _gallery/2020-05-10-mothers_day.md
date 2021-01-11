@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: mothers_day
 title: Mother's Day
+image: https://lh3.googleusercontent.com/pw/ACtC-3csZdO8AbgmaP_hoPSOUwfRjMD-jF3jEzm30_E7EtxNWgMmrVGgaH6kCZMtn2feQ2PYnnL-O0X-mfu4NvB7EUyY9rvh95SFp6w_At6LtDn87GxRw-aTI31ZYqrk_2huDfVXxiycjCikw7AlVzXlAmPM=w1200-h630-no?authuser=0
 alt: Watercolor painting of a cup of coffee
 external:
     - caption: Instagram

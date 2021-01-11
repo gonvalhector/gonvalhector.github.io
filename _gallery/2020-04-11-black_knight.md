@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: black_knight
 title: Black Knight
+image: https://lh3.googleusercontent.com/pw/ACtC-3exRpZ3n4PTDMDf5ytS3VPryVY-jW9MVQCDJtyQ1ZKNQSzaE_KdUjXaGR5zBHMXtgFvSsZpk8kj6btiZiVxWyHFZ9xQfIHS1gkGQhxctEUrRrrkuACojOP-b53sLK1Kv0GmiCrNx4qYhO_wXPL5xNan=w1200-h630-no?authuser=0
 alt: Pixel art of a Black Knight from Dark Souls
 external:
     - caption: Instagram

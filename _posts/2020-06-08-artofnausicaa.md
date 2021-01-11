@@ -1,6 +1,7 @@
 ---
 title: The Art of Nausicaä Watercolor Impressions - Mini Review
 author: gonvalhector
+image: https://lh3.googleusercontent.com/pw/ACtC-3ePd0VNlLJCzioDmZfbQbr9UyXLkr6adNsD1k66povEP1BNYNETxmLLaC8qHCfLuu_DIQwXyFb_JaT4V6weSdnoJhyj9f4AKb1gFW3LjcDdM2rzHWn82ROtU-85CwkebN0CCY-GMj2s_9ikDYmWXWtf=w1200-h630-no?authuser=0
 ---
 
 I didn't grow up watching **Studio Ghibli** films; I actually managed to evade them until a few years ago.

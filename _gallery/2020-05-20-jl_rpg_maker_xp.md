@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: jl_rpg_maker_xp
 title: Justice League Sprites
+image: https://lh3.googleusercontent.com/pw/ACtC-3fGLBCUH8dUxlYgaeOpgs9_28h_7SlMXSAvymacS6AjmuYmYGvVJd-c6txb9a-9UHbepgnsSD3Hi0goC06LJgRfVIyUlVTiYHesws_VnXtj4TAfF7rTf62zTb1maTAKv95m5zDPgtpaGJ0hY9NOxx3v=w1200-h630-no?authuser=0
 alt: Pixel Art Sprites of the Justice League
 external:
     - caption: Instagram

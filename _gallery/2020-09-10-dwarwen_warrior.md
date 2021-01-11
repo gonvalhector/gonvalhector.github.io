@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: dwarwen_warrior
 title: Dwarven Warrior
+image: https://lh3.googleusercontent.com/pw/ACtC-3eKKMI3NCj3LQAKwobP45lVXW8BakdPVPIcEMa5hzvtpj1hAhvsXcWHs5xfi0JXYEt5KZF5bE5jhHNFV3awm8jQSe4Kz-_ak5Tggs4gdZ32xYoAYRcv1KbSfXdbxHoYh_CNWovKNIr4twdQm5qp6a1z=w1200-h630-no?authuser=0
 alt: Watercolor sketch of a dwarven warrior
 external:
     - caption: Instagram

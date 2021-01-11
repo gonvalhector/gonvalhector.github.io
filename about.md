@@ -1,6 +1,7 @@
 ---
 layout: regular
-title: about
+title: About gonvalhector.com
+image: https://lh3.googleusercontent.com/pw/ACtC-3d0dRsCe5ru27jacyXbmwKWJYc8Btb6E29SB-63mTFGv0nXUdqiSgAZf5E5oFiefFrPb_MT6QoRhPkzhOQeTPbSWrmSL6-Ss2ByAIT_F3okP5-7_WQGoHagNNaQwDqN2z17Q73tK6jDgB3gd1R_cS5j=w1200-h630-no?authuser=0
 ---
 
 # About Me
@@ -25,6 +26,8 @@ currently finishing the [CS50's Web Programming with Python and JavaScript] cour
 - [CS50's Introduction to Computer Science from CS50]
 - [CS50's Introduction to Computer Science from edX]
 - [CS50's Web Programming with Python and JavaScript from CS50]
+- [CS50's Web Programming with Python and JavaScript from edx]
+- [Computer Science for Web Programming Professional Certificate from edX]
 
 # About the Site
 
@@ -46,9 +49,11 @@ Originally developed as [Project 0] of the [CS50's Web Programming with Python a
 
 [CS50's Introduction to Computer Science]: <https://cs50.harvard.edu/x/2019/>
 [CS50's Introduction to Computer Science from CS50]: <https://certificates.cs50.io/6a7ba948-b64d-44e2-941d-96bf0c264d3d.png?size=letter>
-[CS50's Introduction to Computer Science from edX]: <https://courses.edx.org/certificates/a456b9cac66248e389cc11cc73a952a2>
+[CS50's Introduction to Computer Science from edX]: <https://courses.edx.org/certificates/0eb091cad05f4ed3a7d014bb8f3ab120>
 [CS50's Web Programming with Python and JavaScript]: <https://cs50.harvard.edu/web/2018/>
 [CS50's Web Programming with Python and JavaScript from CS50]: <https://certificates.cs50.io/68fbe128-254d-42ef-a13c-a3c208bb3d2d.png?size=letter>
+[CS50's Web Programming with Python and JavaScript from edx]: <https://courses.edx.org/certificates/d931bbd176bf45919b2228eb9d115be6>
+[Computer Science for Web Programming Professional Certificate from edX]: <https://credentials.edx.org/credentials/387810e955f7483f8e4e63933acd16e5/>
 [CS50’s Introduction to Game Development]: <https://cs50.harvard.edu/games/2018/>
 [Project 0]: <https://docs.cs50.net/ocw/web/projects/0/project0.html>
 [Jekyll]: <https://jekyllrb.com/>

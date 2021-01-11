@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: temple_ruins
 title: Nordic Temple Ruins Landscape
+image: https://lh3.googleusercontent.com/pw/ACtC-3e-Br0BpXNsT5EDgxJajLXRPMZJrl6vni5MTMDGtmf4ade8wMrQxnxoSUJe3GF2wwXjAnCBLGzBpGJc1dL17EP_Cy7i2gryPQMAB57GV2qv1uKEYjp5ikTmtPnHcZG9D7MsJ1NTNSI8SYWz2XV088AD=w1200-h630-no?authuser=0
 alt: Watercolor sketch of some temple ruins
 external:
     - caption: Instagram

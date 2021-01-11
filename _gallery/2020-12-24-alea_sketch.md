@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: alea_sketch
 title: Sketch of Alea
+image: https://lh3.googleusercontent.com/pw/ACtC-3eR3gXra1W8KCy77XDntvRI8GCjxsF4D50MjaULuFKCp-BDMLL3z0fHLNbd_0ZnMRr6e50V92TS_TzVDuU64xtMS_EBwnohv8_k51Bauxsv1peZ9FpQCTBS7CgUJ48iHSfOnv5Q2SgKtfCjkCU5rhNS=w1200-h630-no?authuser=0
 alt: Ink sketch of a hooded alien woman.
 external:
  - caption: Instagram

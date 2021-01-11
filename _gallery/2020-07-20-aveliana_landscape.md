@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: aveliana_landscape
 title: Aveliana Watercolor Landscape
+image: https://lh3.googleusercontent.com/pw/ACtC-3fY-cU_T3KvT0wTChD84wos_6RkU9kcX1EKtWhn6fColHQXzu8xwOz0qMZJYN0SNvMrdjXf0qJlok8OM17Rw6y68dNA9-n3hZOWXnOEYIuuMyr4AzjNT4rUy7HMQs9kMFZfXnPE6oZGUvd-uVfTUtY4=w1200-h630-no?authuser=0
 alt: Watercolor painting of Aveliana
 external:
     - caption: Instagram

@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: pop_sprite
 title: Prince of Persia Sprite
+image: https://lh3.googleusercontent.com/pw/ACtC-3eFgDkjemKNW763bViugM9u3cLaGuK9AYyL4HFZo6TO51JpO0Ez9jWhQK9Az2n3hwQjkCrtlwEw9Uk2hGltbO-N5Dof6cYH7wqnX6nMdeVqQtNQeuF93RAmE2sd9oZu4QcUBmd7L-L0UkorcidRb2Db=w1200-h630-no?authuser=0
 alt: Pixel art sprite of the Prince of Persia
 external:
     - caption: Instagram

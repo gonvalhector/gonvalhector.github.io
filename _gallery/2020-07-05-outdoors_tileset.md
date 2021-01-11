@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: outdoors_tileset
 title: Outdoors Tileset
+image: https://lh3.googleusercontent.com/pw/ACtC-3fKOYPyKHoFpmbLfwR4IfQw8tB72oT72xb-v7uJcfvHx9ACgDem-4dM1H_kPZGedqe5DRxKjmiMiuYf6pIzjYtH7HaO9yO29tnn_7a-tqH17w25qoqb8LEL0Fm9Ov5vr8wPSLiYmtWq3vgzQrJaoyyf=w1200-h630-no?authuser=0
 alt: Animated image demonstrating an outdoors tileset
 external:
     - caption: Open Game Art

@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: aksel_sketch
 title: Sketch of Aksel
+image: https://lh3.googleusercontent.com/pw/ACtC-3czTpZTOq5BZzCorivhW-X091lCuNkkcUSmUoJhnxUl7UaCDeFBevwu_LizS8VhjUWFjVqPblf6QwfvNqGsXrak2bnP5paxS5HUblzVdgA-wcf4vbswaPSQpsRHtFxFkVjuRKBB2uDuyZbMqbJ0LprF=w1200-h630-no?authuser=0
 alt: Watercolor sketch of Aksel
 external:
     - caption: Instagram

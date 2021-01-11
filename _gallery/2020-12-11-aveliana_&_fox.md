@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: aveliana_&_fox
 title: Aveliana & the Fox
+image: https://lh3.googleusercontent.com/pw/ACtC-3cdn3QyWXR6pdvbqZc_5KIuXXVeMmAPEbysJThTlY8mnlKRrezwdGbNlIgISmRtQofvJcIV8UPNp5dkA4oUHvKpdF_IKUlSUUQlYlQFpd3vKuecWG6wxL_EjMTAW8XtYylXFSUrgbrIck5D9S0IWjvu=w1200-h630-no?authuser=0
 alt: Pixel art sprites of a woman and a fox
 external:
  - caption: Instagram

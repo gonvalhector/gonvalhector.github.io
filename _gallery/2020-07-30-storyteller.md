@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: storyteller
 title: The Storyteller
+image: https://lh3.googleusercontent.com/pw/ACtC-3fHYlMuci5edkoBflxDK4FUVbLto7651c-rRh2h5JPSmZpqglYrK0wcXJdiVWC7gNOStZInn7wZcsGSQxo9N3eiGnbMfT7xYhG4v-eo_p8VX4IloZnHDSVPmwgiuTd0mO11XdbvLo8peO-tmebLXPFV=w1200-h630-no?authuser=0
 alt: Sketch of an old lady sitting on a chair
 external:
     - caption: Instagram

@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: dark_wanderer
 title: Dark Wanderer
+image: https://lh3.googleusercontent.com/pw/ACtC-3dCl-eHBh8S0W4FkDrjQ1vIgWfLABoekgs2YavkEgEZapufuRT-92XvFNT5SE6LCAJIsH-zWZRTCC8domIOg4dPKJWSfVe6RbxQyiQYNlGFiZ9OaCY8TNNfmdMP4DBBRnBAAE6G2S_U0p-LfLFfzayL=w1200-h630-no?authuser=0
 alt: Ink sketch of a dark wanderer
 external:
     - caption: Instagram

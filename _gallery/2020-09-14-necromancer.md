@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: necromancer
 title: The Necromancer
+image: https://lh3.googleusercontent.com/pw/ACtC-3e4pMDDlWjbP5mg-PjmeofhBRXg6fynQjhqSdSEf3qGDR4Xzo1Czxe7M2ujXqfrn3KfDvNqDSeGDEf_oM0HvHuO8xrlSgMOCy53s5FgSVjov7NQb-Qj7AwzV7d7sNIwox46emOxWazK9kg_ERRbJDVB=w1200-h630-no?authuser=0
 alt: Watercolor sketch of a necromancer
 external:
     - caption: Instagram

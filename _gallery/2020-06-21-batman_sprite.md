@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: batman_sprite
 title: Batman Sprite
+image: https://lh3.googleusercontent.com/pw/ACtC-3dhfg76HfxmJLgrEQPjaCOUalergtVxzcN9F6mun3H_KYNbPjxfpFf-i2jlqOf1WumfgJwk5oHtntXX9Iwk_cYOw1Pmo5MWY-VveEWwwAKf0o_Z5i7J4drQ9iQty7XGvld-Krf9bsgkZ2QGbUao-_eA=w1200-h630-no?authuser=0
 alt: Pixel Art Sprite of Batman
 external:
     - caption: Instagram

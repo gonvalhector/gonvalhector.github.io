@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: ds_asylum_demon
 title: Asylum Demon
+image: https://lh3.googleusercontent.com/pw/ACtC-3dKvBLHI819Plg_sUyIwGEN9ByKUc1pj4oId-Xo3mMEbOw87Ev9ZuZtWb6ZI4s2JsrQ8wF1W01ltloRVKcFvaPrWOyngQPctZANzrUfynO1N0_5IEYm0ls9YfWVis4pKL6eESz4ZaIQpwGPBGa2VUt3=w1200-h630-no?authuser=0
 alt: Pixel art sprite of the Asylum Demon from Dark Souls
 external:
     - caption: Instagram

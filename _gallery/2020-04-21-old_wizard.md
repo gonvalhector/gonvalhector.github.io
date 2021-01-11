@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: old_wizard
 title: Old Wizard and his Projection
+image: https://lh3.googleusercontent.com/pw/ACtC-3cS5UWVd1yUOCX88SI46HfDK-KnjVZGernas7JStEzu95byNRAc3du5P0CkFs8F17WEPj_L-2mmBXo0d7_8cDnv4-KWu2tZtbnMTBwM8cAWyO1Tz9D8ekuEc-tI-uJrhdNt9FAsfDHhRuyzdb-N7Fik=w1200-h630-no?authuser=0
 alt: Watercolor painting of an old wizard and his projection
 external:
     - caption: Instagram

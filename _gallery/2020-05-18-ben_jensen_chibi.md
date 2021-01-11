@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: ben_jensen_chibi
 title: Ben Jensen Chibi
+image: https://lh3.googleusercontent.com/pw/ACtC-3cef21xZSGAxoffQvpQ7t6Dsjm-oay4SS8zsqVWRsn1ht0aG22CykfBGh3jj_VmaLaJTjKUvlYtbG2Fj9lUJtVnCURib1-ZTRLY3mB7E8NaPPHNE2aymcPW4UQh0Jm9lrXUQ3Or4gbp2IdmYzxVAcGm=w1200-h630-no?authuser=0
 alt: Drawing of a chibi style character
 external:
     - caption: Instagram

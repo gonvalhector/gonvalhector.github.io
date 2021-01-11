@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: ds_hollow_soldier
 title: Dark Souls "Hollow Soldier"
+image: https://lh3.googleusercontent.com/pw/ACtC-3cx_jBkFOXlBr6rJ9_wPAtD_ztudGByQJnU3amaBBRcQR8TD9fzJ6yMAqmX4AoxRKKrTekWS5C6uUMdRllmHtpqNx11Nr-AGo0Y_x3VzHKxpRKBCzHvmxRzcCkOzKyrOibLdB94gHXvHKByYreP1P77=w1200-h630-no?authuser=0
 alt: Pixel art sprite of a Hollow Soldier from Dark Souls
 external:
     - caption: Instagram

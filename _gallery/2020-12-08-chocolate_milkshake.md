@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: chocolate_milkshake
 title: Chocolate Milkshake
+image: https://lh3.googleusercontent.com/pw/ACtC-3eB1GJsuWqBzdWJsE8jEe4na7CNpNRPjzXT6anlZKIDy7QqbHfu8sf7g9XK_LCVeKz9MD84ScQ3sBHLdr8yS2wQiu9pv4VN_oVDKXqdNh3qrCIvl8dlBv6zcwT4Zg1OC_1WPlOloWx4JaIEhls4U-p3=w1200-h630-no?authuser=0
 alt: Watercolor painting of a milkshake can
 external:
     - caption: Instagram

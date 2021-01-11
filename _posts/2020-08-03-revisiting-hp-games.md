@@ -1,6 +1,7 @@
 ---
 title: Revisiting the Harry Potter video games
 author: gonvalhector
+image: https://lh3.googleusercontent.com/pw/ACtC-3dYDPlmX-NXnyU7NEgVTXNBWzwN-ijsC0Ec4se-u7gQBfkwbzBNCG10Zk4Tvxh2JiyWaFbarukSkLN9cfEMnFUZQlnkVdRiOQwBShQTVDZmnG3ywgIsW5Dp-1A5U-quM0QilIt91AnqaoIEj48eRqhi=w1200-h630-no?authuser=0
 series: revisiting-hp-games
 ---
 

@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: strawberry_milkshake
 title: Strawberry Milkshake
+image: https://lh3.googleusercontent.com/pw/ACtC-3e3IaN2o4cuLATH9YW6YVSiHTaK8LEJB0qdJeEgleJazWJUYkFmhDd61VwhWqzbjsE9RcAu-NwiNmie0YLkIVjt3kZFQ-YzM739wmVqr7IxhkUEuo8wMC5tusuGyJiEoaq-O3JIYir-ZvXdRU9Uj1AA=w1200-h630-no?authuser=0
 alt: Watercolor painting of a can of strawberry milkshake
 external:
     - caption: Instagram

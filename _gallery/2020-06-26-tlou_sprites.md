@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: tlou_sprites
 title: The Last of Us Sprites
+image: https://lh3.googleusercontent.com/pw/ACtC-3f4NtWj_DcO_osjlyrwbu7cqCXstJ8kx6XzE9xgn9WBwYVwzJJfIbKPMz_TyGSDzGzV2QO5IQGKJjwtiTlpcBhDkQBi4b5LN9o6SyN4xOHSUKiE6zy48IkjnB-QtT3mIgymm43EbKMDQEdFKQuw5heR=w1200-h630-no?authuser=0
 alt: Pixel Art Sprite of The Last of Us main characters
 external:
     - caption: Instagram

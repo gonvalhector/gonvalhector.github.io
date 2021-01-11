@@ -2,6 +2,7 @@
 category: blog_pictures
 short_name: artofnausicaa
 title: The Art of Nausicaä Watercolor Impressions - Mini Review
+image: https://lh3.googleusercontent.com/pw/ACtC-3ePd0VNlLJCzioDmZfbQbr9UyXLkr6adNsD1k66povEP1BNYNETxmLLaC8qHCfLuu_DIQwXyFb_JaT4V6weSdnoJhyj9f4AKb1gFW3LjcDdM2rzHWn82ROtU-85CwkebN0CCY-GMj2s_9ikDYmWXWtf=w1200-h630-no?authuser=0
 alt: Pictures from the blog
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/-vgNTlYS7KBnojghcgDp9XpwYl0XLm1oLSVWZdJMnEq_AoPLrJ5aEKrx_iu6YiTEyGvJOmDy9ROTRVPlqAWJLviErehfMglNqLCDrix0aiI7k3WyQuBPyWA1xgVcaB78ukAo2Ooofg=w355

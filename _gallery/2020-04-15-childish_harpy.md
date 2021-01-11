@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: childish_harpy
 title: Childish Harpy
+image: https://lh3.googleusercontent.com/pw/ACtC-3f4COmr24OyfTTDPRhQtAS6vRIPX1FhMn9Y_BFcyfH49fBQWkQs1RuZljMK9ugSyUZELPa2-ss_u-CYl-WZ4nAiRyNBc7A-Aimrov_4NNc1YzOdI4yWApt7SPcTXbYczWgzAuvE39eafRP3TBZEBOpQ=w1200-h630-no?authuser=0
 alt: Watercolor painting of a childish harpy
 external:
     - caption: Instagram

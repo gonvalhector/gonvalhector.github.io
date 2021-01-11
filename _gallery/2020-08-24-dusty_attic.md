@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: dusty_attic
 title: Dusty Attic
+image: https://lh3.googleusercontent.com/pw/ACtC-3dW9OX2YFg7XeNPUIiPptzIjRJs-LN6dLRc8R8sIAo4tO8fQVs167hS-dG53Ye6XK-fkZApXBrLc5FuKPb029vTk9ZP_wTpKZIfQh2lScNYw2oP7zA8NefTIJ6HQA5rHyPSIeqE0VYi1VjTQJV0ZRmV=w1200-h630-no?authuser=0
 alt: Watercolor painting of a dusty attic
 external:
     - caption: Instagram

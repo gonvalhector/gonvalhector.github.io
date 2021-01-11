@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: light_mage
 title: Light Mage
+image: https://lh3.googleusercontent.com/pw/ACtC-3dTqazmEfqQyjUmCAw-QWjGVAvVk5rIoYdGuVNbsmCyFqoURQA-Qh4Kx1iOm5bdpVZStTdMhKRdQ2lGZqSXzHm69rl64vKMbE0ZZc1zqu_evioR2HYYVZ3WiT6aCjs7okOAqGSXkHeDS4saVw24dwqN=w1200-h630-no?authuser=0
 alt: Watercolor painting of a light mage
 external:
     - caption: Instagram

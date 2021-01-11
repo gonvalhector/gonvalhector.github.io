@@ -1,6 +1,7 @@
 ---
 title: My final project for CS50 Web - A TasksDaily Postmortem
 author: gonvalhector
+image: https://lh3.googleusercontent.com/pw/ACtC-3dOBrnWCZSTxLn5GlfY1ollOQCMusoZ6khWnBKoDK9rzHg5oYWnzT7GrW5t-CjkqC-JqcfLU5FHZcgH5y5uUhfkjW7rMgNfmtfo1MPsbfsbOch1w3c4n9GOvDZ8aNdCdxwuqNcHYOvPsjL50V6xrtC2=w1200-h630-no?authuser=0
 ---
 
 ## The original idea

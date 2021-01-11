@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: sailor_moon
 title: Sailor Moon DTIYS
+image: https://lh3.googleusercontent.com/pw/ACtC-3fI1qXlrORhfvkqFnOoBWpEV-4aL0QS2nHpJccrDV_qQ37so2FBoElefmPi7FPSgU7sLiZk6KmTWJQ5kT-qgbMcWg5Wv88GoyZKeI6_Gf2R2vszmzXjWkwBowxleg2O00YdXhuMdYZ9pXrWQDG0hmfA=w1200-h630-no?authuser=0
 alt: Pixel art of Sailor Moon
 external:
     - caption: Instagram

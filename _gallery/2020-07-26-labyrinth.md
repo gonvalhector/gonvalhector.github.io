@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: labyrinth
 title: Labyrinth/ラビリンス
+image: https://lh3.googleusercontent.com/pw/ACtC-3dQ-r0mbUJfnW9WAAsWghT2nXAay6_18t2xRyyStKY-hIdPBfqGy_Dlt0qQuuYo9Ic-oNu-MyO-xBIdLv6_-0iCQO_F5lNof0wkft22o9nm8IhVVoVUkY_dgU-OyGgJrGCjnuYHQACIZKxw0AhXEnT9=w1200-h630-no?authuser=0
 alt: Watercolor painting of a music video
 external:
     - caption: Instagram

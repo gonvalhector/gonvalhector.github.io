@@ -1,6 +1,7 @@
 ---
 short_name: fitness_programmer
 title: Fitness Programmer
+image: https://lh3.googleusercontent.com/pw/ACtC-3ftPLHIvFfexmNT6UV618n_gTSP9Qjd1LodoTrO7uz4YkvN7hMDBp0k0gLYpV5ZpLX6W0XNtw4wk8pONMa-mVum-x_oS_tyuxZm93GVjez2DwQyUcv1CkBjzBW50nV3X1XKkHcLfTi5WfciwBRLzjZt=w1200-h630-no?authuser=0
 repository:
     host: GitHub
     link: https://github.com/gonvalhector/fitness-programmer

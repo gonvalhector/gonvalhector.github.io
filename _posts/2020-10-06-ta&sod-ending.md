@@ -1,6 +1,7 @@
 ---
 title: The Art & Science of Drawing - Ending the series
 author: gonvalhector
+image: https://lh3.googleusercontent.com/pw/ACtC-3f_4gKzYmt3wCpoIkhx9YRJTIWZ-nnekV0vJG7O4SslitjX1Yzxx4txHvOIacmXbfu5cios9g8RqTYXvTaiMBI7yUBVYdxNWGnIJIWu9qjZQhbJQS5N07dJWNjWzehaZ9n7265aCzbfzaHNJ_n3VNEE=w1200-h630-no?authuser=0
 series: ta&sod
 ---
 

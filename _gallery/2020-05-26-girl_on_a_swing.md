@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: girl_on_a_swing
 title: Girl on a Swing
+image: https://lh3.googleusercontent.com/pw/ACtC-3dzGBji0JwyF1-cyJ6E3ZP0n5OT6Py-orvYpJwkQ4qCPWJ99nFviW1WNQVxfuPsE9vnDEoPmfuQ90RlxguZwnowACMsYOMqzoCcmzdicrilOS5MBZr1Q8yys3lkg7JToEQnzMZTgjKKYQPdD2y-xqup=w1200-h630-no?authuser=0
 alt: Watercolor sketch of a little girl on a swing
 external:
     - caption: Instagram

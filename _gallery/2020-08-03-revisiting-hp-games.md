@@ -2,6 +2,7 @@
 category: blog_pictures
 short_name: revisiting-hp-games
 title: Revisiting the Harry Potter video games
+image: https://lh3.googleusercontent.com/pw/ACtC-3dYDPlmX-NXnyU7NEgVTXNBWzwN-ijsC0Ec4se-u7gQBfkwbzBNCG10Zk4Tvxh2JiyWaFbarukSkLN9cfEMnFUZQlnkVdRiOQwBShQTVDZmnG3ywgIsW5Dp-1A5U-quM0QilIt91AnqaoIEj48eRqhi=w1200-h630-no?authuser=0
 alt: Picture of Harry Potter videogames
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/XQpgmkBp15voR7Y-XTo8jMit4G9uZBcfDPQptq3XLVXc2tG3Yrh8ehSt59HQfNaplQtL7MfTftUM5bohb3dVjXx1RYCfGZXRRqltpHS_qrYb_YAPFTATu_QdWk-F9_I_StQHg_Pb-w=w355

@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: antlers_girl
 title: Antlers Girl
+image: https://lh3.googleusercontent.com/pw/ACtC-3crxFCLJbKGDFtXdMPxST_f5nYHDETl13dEwIxg90_lt8oJsbwtRWQphwnnA3mhRGX3q3rtNSkdkK3IrbYvrA5NAmkqlkzbZ2m902PkxJ7lgLIbLpBcYuzbSwHH2vLBrhGGv0oyGRBFVSahCAFEPTwB=w1200-h630-no?authuser=0
 alt: Digital painting of a girl with antlers
 external:
     - caption: Instagram

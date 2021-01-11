@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: old_drawings
 title: Old Drawings
+image: https://lh3.googleusercontent.com/pw/ACtC-3ftQspd7b3qfmcZlEYo2zqcDViv3rIAxDoMr6O4CuLvdCduARiGlo3DCi_crSySYDRt1n7n6yY_ef9LCaQw-zCmv11441LKhMtyhvPYBQwfHzVCNq39SpDDbZbxcM2X7ICZ9vWEl0UTIbEv6n4jD02e=w1200-h630-no?authuser=0
 alt: Picture of a drawing
 external:
     - caption: Instagram

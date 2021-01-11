@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: aveliana_sketch_01
 title: Sketch of Aveliana
+image: https://lh3.googleusercontent.com/pw/ACtC-3ff9GccunCttM3WI1yzR_w9UiJyo8Crr-JSTfLEv-3D2fSD6PaqcIKxSQL77iJmgej24cN40UnEWLiYmshzbR62ZSAJOMYJbVDsUAZemwinYScqANqLCnBEhlIEUy26AFdUmEDHcqZOOyZjVEcACmEm=w1200-h630-no?authuser=0
 alt: Watercolor and Ink sketch of Aveliana
 external:
     - caption: Instagram

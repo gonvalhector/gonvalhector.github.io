@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: vanilla_milkshake
 title: Vanilla Milkshake
+image: https://lh3.googleusercontent.com/pw/ACtC-3dkE8OoKfx-lPmzuyGoHHU4URJ1bHHFy1TLrzfY6fUbQtYs7HscSbzdyGWy4KlBTWFHUMcupJoQTQNislIJUpz7UNjwJVZYmxFKKXZvj0CqJX3Du0HBKej40zJwzaaA51W5nmmcCQ2PiIjt9G8gkxul=w1200-h630-no?authuser=0
 alt: Watercolor painting of a vanilla milkshake in a can
 external:
  - caption: Instagram

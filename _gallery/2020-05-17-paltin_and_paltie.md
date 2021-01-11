@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: paltin_and_paltie
 title: Paltin & Paltie
+image: https://lh3.googleusercontent.com/pw/ACtC-3eDZXuTExrDJoke83VRdEBrC-Ppj069aBCGY5o8V5Q-FO6UT0dpzqMuGqVm6qaj3B9QjAr40RqySN1jzdI9DjS3KHG_nfibpA73OCn74Eim__GRTkWHWi1I6uSeFaNdK33D5VtsxLoqJ-9zHuxSGVWx=w1200-h630-no?authuser=0
 alt: Watercolor painting of two avocado halves
 external:
     - caption: Instagram

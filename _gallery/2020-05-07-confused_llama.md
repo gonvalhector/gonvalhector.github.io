@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: confused_llama
 title: Confused Llama
+image: https://lh3.googleusercontent.com/pw/ACtC-3eg9T3It9ZIso4TM4tEFz-ZoKIAM1BqAlDkmChS9dNMs-n9g47fyovD-beElrRDgLtQ0hSPhrnVpPkIovmEw45q-XY2g9M0_TXH9YOsvKj26yJWTUl0fPYRV-nUWwGfQ0BliyiMTzj8hY5WJYeVaa5-=w1200-h630-no?authuser=0
 alt: Ink sketch of a confused llama
 external:
     - caption: Instagram

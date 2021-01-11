@@ -2,6 +2,7 @@
 category: art_gallery
 short_name: viking_warrior
 title: Viking Warrior
+image: https://lh3.googleusercontent.com/pw/ACtC-3f96qcja2lQKJXPL3FLiBxXkMaDI9nJV75ohG6_8k9orA3ShbRl71pnX5Ro3_NTUkbfF3QCAVxSAVWCBlsafVFp6WrfQ-s7UFt2cFaXMvyfPNfzBWhZxK1HQeCu8eGP-IZxBOWt_lfxKYf_qecn7gIq=w1200-h630-no?authuser=0
 alt: Watercolor sketch of a viking warrior
 external:
     - caption: Instagram

@@ -2,6 +2,7 @@
 category: blog_pictures
 short_name: tasksdaily-postmortem
 title: My final project for CS50 Web - A TasksDaily Postmortem
+image: https://lh3.googleusercontent.com/pw/ACtC-3dOBrnWCZSTxLn5GlfY1ollOQCMusoZ6khWnBKoDK9rzHg5oYWnzT7GrW5t-CjkqC-JqcfLU5FHZcgH5y5uUhfkjW7rMgNfmtfo1MPsbfsbOch1w3c4n9GOvDZ8aNdCdxwuqNcHYOvPsjL50V6xrtC2=w1200-h630-no?authuser=0
 alt: Photos of a bullet journal
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3ftI7KEQga-hwHFQzUMv8ipFbkqcSK7oluF5rEoIUrJMkcy4wQKIZIeFVa_pqp8Lp15V7UISoOdrsWjNmMCcUgyAUGFut9jtWYTL6Y9wgC6iNz4sNzWzveIL3BFax1IYFrYANCAGzZ6sV_RZkPcfN3d=w355
