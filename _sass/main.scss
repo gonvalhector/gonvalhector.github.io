@@ -42,6 +42,15 @@ body {
                 #logo {
                     border: 3px solid $bgd3 !important;
                     box-shadow: 1.5px 1.5px 1.5px $shadow;
+                    @media (min-width: 240px) {
+                        height: 8vw;
+                    }
+                    @media (min-width: 600px) {
+                        height: 6vw;
+                    }
+                    @media (min-width: 1920px) {
+                        height: 4vw;
+                    }
                 }
             }
             .navbar-brand:hover {
@@ -51,9 +60,11 @@ body {
                 background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(244, 243, 246, 255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
             }
             .navbar-nav {
+                .nav-item {
+                    font-family: "Raleway", sans-serif;
+                }
                 .nav-item:not(.active) {
                     animation: txtColorChangeOut 0.75s;
-                    font-family: "Raleway", sans-serif;
                     color: $txt3;
                     .nav-icon {
                         animation: iconColorChangeOut 0.75s;
