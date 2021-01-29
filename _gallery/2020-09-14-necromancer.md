@@ -10,6 +10,10 @@ external:
       embed: https://www.instagram.com/p/CFG43VqnBmx/?utm_source=ig_embed&amp;utm_campaign=loading
     - caption: GameJolt
       url: https://gamejolt.com/p/a-necromancer-in-watercolor-and-ink-paper-texture-by-the-wonderful-3e4nrfub
+    - caption: Photo Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Ogre-and-Necromancer-868648254
+    - caption: Scanned Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Necromancer-868436128
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/ftpKf9HBZJPM6dnzs125MaDuRuQGH4T9urTJlXF4r6S_NWeqZsnSxwgWQekznioZnTfH9VAilZt-VQ3sLiMLl-BDDRUrVy-8dpD06spJKOISz0Uqj2Qe4xQOqzJZzKyVtnUu8Pan0A=w355
     w1920_JPG: https://lh3.googleusercontent.com/Lm3HVig8MJuk8NxKcdcvd5zrxBHtAben-qg-QaD5dCdvq0kTlg8zeXdJPAPFLRk_wtG_UHS-RbnnWZHAzGD4GXxVc42w70xL-WqwiM-BmJqtcRYiEqesiega6O-0M5zlG-sWyph5sA=w355

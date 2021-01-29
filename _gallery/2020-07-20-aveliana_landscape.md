@@ -10,6 +10,10 @@ external:
       embed: https://www.instagram.com/p/CC2xu8HndQ_/?utm_source=ig_embed&amp;utm_campaign=loading
     - caption: GameJolt
       url: https://gamejolt.com/p/my-entry-for-the-second-aveliana-dtiys-challenge-by-atthefrenchdev-ap7mhhyi
+    - caption: Photo Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Aveliana-Watercolor-Landscape-868180209
+    - caption: Scanned Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Aveliana-Watercolor-Landscape-868153638
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/h_FgWqLHMmFAjTzms2fP38NYw8S-oqjWVgHpQ-92Kkk7eqdMqIpcWPL9ZHXygbfmRcxgI_RIEKLuQdrPEIFvzCWOEvRiNP5TIMO-Q9WHbFBbMbATodAFi_3ZsT0lqf4MzkyM5RpEmw=w355
     w1920_JPG: https://lh3.googleusercontent.com/0iHah_Bjl_4zdhs6IjtMInIVBAweijsY6p3vSbug5FQbR8tQrdEOanXDR7n9oxQ8ViXK9yU0nWC8qLrhCJRvyGFZoKqzoTKZawezqS9OUMpM4lGbkszU2I8X8ZrDUdFYkL3C9_6ZEg=w355

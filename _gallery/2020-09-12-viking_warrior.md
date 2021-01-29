@@ -10,6 +10,10 @@ external:
       embed: https://www.instagram.com/p/CFCdteMnvuZ/?utm_source=ig_embed&amp;utm_campaign=loading
     - caption: GameJolt
       url: https://gamejolt.com/p/a-viking-warrior-in-watercolor-and-ink-paper-texture-by-catcoq-dkmbyyyb
+    - caption: Photo Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Viking-Warrior-868327786
+    - caption: Scanned Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Viking-Warrior-868271190
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/v_O4G3N_do6AmYO-2P-Wx5yAzXn5f0CtxH3dLmB_wF_Y9H3LwVMk47w6xNmhRuEVGiifJWglCNfBNe6pO6b7yqCtBTgHFrkK3amuuufAyrP4TGi0sxrkvU0DYlm5S2iJrkxZoiqI8Q=w355
     w1920_JPG: https://lh3.googleusercontent.com/rlUKI4N4wwjHQW_DX0bAU6wUpcdls5TyCijEAH6d5-doKiUX-PT5zjHdsxuLbw9GpnjpGvqO6m_Edzf_O_OsCTRculAv4-I1nIGQZoUhwHX9pqnonEkBKLA1QXwKESVN9tDHvLXzmA=w355
