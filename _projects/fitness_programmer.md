@@ -9,7 +9,6 @@ original:
     label: CS50 Course
     date: December 21st, 2019
 alt: Logo of the Fitness Programmer web app
-video: https://www.youtube.com/embed/hF-qanTC6pA?rel=0
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/Dl0OtMbLRNodlIf2CEjj6jfSR4-DaUd8ilvoBo9KNvKRtOByyLhlu_imZg1HJ0OQeOxTLyplyoR7W-2IoKIyfD1ydn56YVC_Ek16KDIov4ePvIFZuGy5xyeKi32eO8tfNA5XBv4OSQ=w355
     w1920_JPG: https://lh3.googleusercontent.com/OIJDym7SphHcKsWqjk_2gnmajEoSn9PaATxI7x7w3SoMj3wuS_jndplaF9kiInweh-RavfsagkVGN7G1oXKQ-9YUuTu6bqtexUv35Wrh_HA9RsRmZ3ysHsCJwfjNvp4vJsVhKqCyEQ=w355
