@@ -10,6 +10,10 @@ external:
       embed: https://www.instagram.com/p/CERrkFXHXCY/?utm_source=ig_embed&amp;utm_campaign=loading
     - caption: GameJolt
       url: https://gamejolt.com/p/dusty-attic-a-watercolor-and-ink-painting-paper-texture-by-the-vemb6k84
+    - caption: Photo Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Dusty-Attic-869074504
+    - caption: Scanned Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Dusty-Attic-868967196
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/7a6qAvIOlp0ied70Fv6ujiZUO191s9DMtAP5iO9yidxu1LtBqoYR5Vhctz4yImW8t4cHAbNJ-bH5yy8PiIB_GU0bi5XBT4-rCBI0bIytLnAw6xNmcAhVS4p_StQr5HXY-W5o2tHvKA=w355
     w1920_JPG: https://lh3.googleusercontent.com/O0M-YMrvs-3qkMnHsRwd-tSdB4rXVHfSxVUZIWo3Cuwre-ONI0jcim-azZCubLy2m9GjOLsA-wybfcaHwKYdCdosdPxJlAq7n6t4388wvgVDUwZ_AQMnwlkZ-drnRVbedDNYZ1sO8w=w355

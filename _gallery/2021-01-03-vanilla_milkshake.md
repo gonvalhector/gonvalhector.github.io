@@ -10,6 +10,8 @@ external:
    embed: https://www.instagram.com/p/CJnO1lqnKiI/
  - caption: GameJolt
    url: https://gamejolt.com/p/yet-another-type-of-milkshake-in-a-can-last-one-i-promise-paper-ku5ud4yd
+ - caption: Scanned Version in DeviantArt
+   url: https://www.deviantart.com/gonvalhector/art/Vanilla-Milkshake-Can-870568660
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3e_eYmKrSL84upuvfDS82_e0pC15sf-q03QyO6es0yckMf7ZF7rjxwwl_P5iciq-1PI0i_0tKhJ0y5SBhyHGdnIMWFjx_suIYxwPqc4JfXZ8UDefTn8JPVwN_RmTXCB7w68G-Oumxl5_F_QFKOhQm1W=w355
     w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3cjf3DkwYY4pRxe0BKvjLX-ileXV2uj9rxLpt_kKGtV2Fl6zXHkpGmf65nSbpSrip1JLnLRGNFWGVgkBoXalm37LUiPrq3i-GmCwqT46_A46Mn5xkfZytaINvMMghgtNWEgdOG8Y3BF_35YoSJMauTE=w355

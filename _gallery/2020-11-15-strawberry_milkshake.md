@@ -10,6 +10,10 @@ external:
       embed: https://www.instagram.com/p/CHpDJinnCHR/?utm_source=ig_embed&amp;utm_campaign=loading
     - caption: GameJolt
       url: https://gamejolt.com/p/strawberry-milkshake-in-a-can-nha4rhdk
+    - caption: Photo Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Strawberry-Milkshake-Can-870344345
+    - caption: Scanned Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Strawberry-Milkshake-Can-870219197
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3dm82uHnY30ODqf8wAAKygPFDTQNBz9MgjLM9MfFqdot4ZXxi4Uo9IMnvU10OjalLHi2YamAXikeohzEks4kTxRV1_fXbMtX80xpNeJgWR1X_hVfjxoaMsRwsfPbBGdJXjMP8Tdzpg21qLItZF7yBuM=w355
     w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dLrk38eVIYhsR0k29CMpX05sS5rl99ffgCwVX15c5dExi3ohJLQ4MQjTocDOAEQmz6HU7uIqh4IzOEewtAuOhKSkKa3BsIBSPgHFNMYoqCKZlsHvP2dd--fiM2xs9eeXaneH8Wb5EcsityrluInZ8P=w355

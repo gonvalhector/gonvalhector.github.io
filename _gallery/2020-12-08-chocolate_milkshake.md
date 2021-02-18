@@ -10,6 +10,8 @@ external:
       embed: https://www.instagram.com/p/CIkOfK4n9sM/?utm_source=ig_embed&amp;utm_campaign=loading
     - caption: GameJolt
       url: https://gamejolt.com/p/another-type-of-milkshake-in-a-can-paper-texture-by-the-wonderful-kem5qigf
+    - caption: Scanned Version in DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Chocolate-Milkshake-Can-870427069
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3e4b24OnD6pk3uSady4P5Sr98Q9-guvPjdps1i1wi7qvZl5dWmy8d1Rc2HIVZ3PSPf44TreNG9bVDCKhIZ4-RFiu-O2ROj-k_O3FKPl-t_eDuOTBHxfwlWNHWWXERH9srUlPNNilBybjvhmRT5PHXyG=w355
     w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dOOLmba-EAt5kuGNQ-5tqeKxJOB6tAGW85Kn0jZoWrdgTKrKBxnbLyIUD8sy2X8Y6X35TogiJSKIJhV1FyvvQceD_jEouSdG6uNjnT063sCMIJBM7vKAkin4vwgLgEwKqH_mF7uuGaQ05CYpoOxLX8=w355
