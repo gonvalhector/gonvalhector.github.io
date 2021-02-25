@@ -10,6 +10,8 @@ external:
       embed: https://www.instagram.com/p/CEMjnnMnwkh/?utm_source=ig_embed&amp;utm_campaign=loading
     - caption: GameJolt
       url: https://gamejolt.com/p/yay-for-videos-video-version-of-my-ruins-of-a-church-animated-pi-tqchpznm
+    - caption: DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Animated-Loop-Ruins-Of-A-Church-870756513
 video:
     - type: Animation
       url: https://www.youtube.com/embed/LioP2bn03sY?rel=0

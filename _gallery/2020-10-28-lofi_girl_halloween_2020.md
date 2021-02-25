@@ -10,6 +10,8 @@ external:
       embed: https://www.instagram.com/p/CG5JjeLnIdF/?utm_source=ig_embed&amp;utm_campaign=loading
     - caption: GameJolt
       url: https://gamejolt.com/p/my-entry-for-the-lofigirlhalloween-drawing-contest-on-instagram-ksr3maax
+    - caption: DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Lo-Fi-Girl-870966134
 video:
    - type: Speedpaint
      url: https://www.youtube.com/embed/KdbKl80JN9s?rel=0

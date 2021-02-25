@@ -10,6 +10,8 @@ external:
    embed: https://www.instagram.com/p/CIrsNGYHnKs/?utm_source=ig_embed&amp;utm_campaign=loading
  - caption: GameJolt
    url: https://gamejolt.com/p/rendition-of-a-chibi-aveliana-and-the-fox-by-atthefrenchdev-in-th-eae45q9u
+ - caption: DeviantArt
+   url: https://www.deviantart.com/gonvalhector/art/Aveliana-Chibi-870853547
 video:
    - type: Speedpaint
      url: https://www.youtube.com/embed/XdlncUYjGII?rel=0
