@@ -5,13 +5,16 @@ title: Yakuza Like A Dragon Mockup
 image: https://lh3.googleusercontent.com/pw/ACtC-3fxmsVczhI88L94W7ayR_pPGAOncybq_c56GR9FA3Voi9Ws_IVhOIRDpAkSdwUr-WdtOpgzNABBkr_BsvSSeqYfii3LkhFtsdhhyySk-OTs--QJH0GKrT5BYERLMWhXWmppqFnlj9FJl4Hc2X66pCmP=w1200-h630-no?authuser=0
 alt: Pixel art mockup of a 16 bit game.
 external:
- - caption: GameJolt
-   url: https://gamejolt.com/p/pixel-art-mockup-demake-of-yakuza-like-a-dragon-in-the-style-of-th-weixmgsd
- - caption: DeviantArt
-   url: https://www.deviantart.com/gonvalhector/art/Yakuza-Like-A-Dragon-Mockup-Demake-871389155
+    - caption: Instagram
+      url: ig
+      embed: https://www.instagram.com/p/CL_87m8HG3m/?utm_source=ig_embed&amp;utm_campaign=loading
+    - caption: GameJolt
+      url: https://gamejolt.com/p/pixel-art-mockup-demake-of-yakuza-like-a-dragon-in-the-style-of-th-weixmgsd
+    - caption: DeviantArt
+      url: https://www.deviantart.com/gonvalhector/art/Yakuza-Like-A-Dragon-Mockup-Demake-871389155
 video:
-   - type: Speedpaint
-     url: https://www.youtube.com/embed/KFwgkOAnnBU?rel=0
+    - type: Speedpaint
+      url: https://www.youtube.com/embed/KFwgkOAnnBU?rel=0
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3eXAqezZe9mRcOBxlAJGy7oHszxFHZNXR2872qPN5yfKjFGXDi7xp9zG2gOqC7C7Y3ZzpAgpkILv6zoHrCJbE2_Cf6UOHcn-tQhumtiRfAGZ5q7nHsPPM8dKlkxmrSAJI2wa5Zpzw6uORAIBNqQ8MaZ=w355
     w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3ceUDOCZf-yBYLjD6j8C-sHfgHFw3EWLXqTMu4PWvXCBGnaSNJvuoMImPWpq35ZbxFG1blCJv5gmvVyGXsm9obnYMFus6z_l2hoORUjWphsuv9wrzXoQnowavp8yTmibgDZBt3mYwxtP7NosWg2rnFH=w355
