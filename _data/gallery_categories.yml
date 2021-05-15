@@ -1,4 +1,10 @@
 - name: Art Gallery
   short_name: art_gallery
+- name: Pixel Art
+  short_name: pixel_art
+- name: Watercolor Art
+  short_name: watercolor_art
+- name: Digital Art
+  short_name: digital_art
 - name: Blog Pictures
   short_name: blog_pictures
