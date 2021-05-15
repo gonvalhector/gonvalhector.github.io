@@ -1,0 +1,4 @@
+- name: Web Apps
+  short_name: web_apps
+- name: Site Tools
+  short_name: site_tools

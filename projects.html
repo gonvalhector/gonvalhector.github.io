@@ -7,14 +7,14 @@ js:
     - src: /assets/js/imgHover.js
 ---
 
-<div class="container">
-    {% if site.projects  %}
+{% for category in site.data.projects_categories %}
+    <div class="container">
         <div class="row">
             <div class="col">
-                <h1>Web Apps</h1>
+                <h1>{{ category.name }}</h1>
             </div>
         </div>
-        {% assign projects = site.projects | sort: "date" | reverse %}
+        {% assign projects = site.projects | where: "category", category.short_name | sort: "date" | reverse %}
         {% assign total = projects | size %}
         {% assign columns = page.columns %}
         {% assign rows = total | divided_by: columns %}
@@ -48,5 +48,5 @@ js:
                 {% endfor %}
             </div>
         {% endfor %}
-    {% endif %}
-</div>
+    </div>
+{% endfor %}

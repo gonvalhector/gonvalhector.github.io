@@ -1,4 +1,5 @@
 ---
+category: web_apps
 short_name: tasksdaily
 title: TasksDaily
 image: https://lh3.googleusercontent.com/pw/ACtC-3c7WpNB9tqyWCAp4g25pT74OijcGcgiOAtONGGa4Xl4kZlpEQ6a4imJgVM7snso-6aRNZrkI1dOD--oD_7Bjk_vQ-MURKbWLAFW4M2OrWWB0JpAfx9ZSrxe6M_YyXXAWSmong8gZLXDKPqUP1cuBbG9=w1200-h630-no?authuser=0
