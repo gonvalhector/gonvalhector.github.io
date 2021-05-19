@@ -172,6 +172,30 @@ body {
             color: $bgd1;
             font-weight: bold;
         }
+        .Red {
+            filter: invert(36%) sepia(99%) saturate(7422%) hue-rotate(354deg) brightness(111%) contrast(101%);
+        }
+        .Blue {
+            filter: invert(16%) sepia(59%) saturate(4560%) hue-rotate(207deg) brightness(94%) contrast(101%);
+        }
+        .Green {
+            filter: invert(15%) sepia(94%) saturate(3057%) hue-rotate(147deg) brightness(113%) contrast(101%);
+        }
+        .Yellow {
+            filter: invert(71%) sepia(98%) saturate(278%) hue-rotate(356deg) brightness(105%) contrast(101%);
+        }
+        .Orange {
+            filter: invert(54%) sepia(96%) saturate(340%) hue-rotate(336deg) brightness(101%) contrast(101%);
+        }
+        .Purple {
+            filter: invert(31%) sepia(72%) saturate(1530%) hue-rotate(238deg) brightness(105%) contrast(103%);
+        }
+        .Cyan {
+            filter: invert(68%) sepia(89%) saturate(310%) hue-rotate(139deg) brightness(106%) contrast(80%);
+        }
+        .White {
+            filter: $fltrtxt2;
+        }
     }
 
     footer {
