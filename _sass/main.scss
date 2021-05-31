@@ -5,6 +5,8 @@ $bgd1: #141019;
 $bgd2: #2F243A;
 // Cultured
 $bgd3: #F4F3F6;
+// Code
+$bgd4: #0f0c13;
 
 // Text Color
 // Cultured (Regular text)
@@ -13,9 +15,12 @@ $txt1: #F4F3F6;
 $txt2: #F4F3F6;
 // Manatee (Link)
 $txt3: #9A97A1;
+// Code
+$txt4: #FEC369;
+
 
 // Drop Shadow
-// Xiketic
+// Rich Black
 $shadow: #0A080C;
 
 // Filter
@@ -195,6 +200,12 @@ body {
         }
         .White {
             filter: $fltrtxt2;
+        }
+        .language-plaintext {
+            background-color: $bgd4;
+        }
+        code {
+            color: $txt4;
         }
     }
 
