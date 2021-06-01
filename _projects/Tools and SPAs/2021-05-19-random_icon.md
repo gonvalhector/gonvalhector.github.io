@@ -22,6 +22,7 @@ thumbs:
 js:
     - src: /assets/js/randomIcon.js
 ---
+Get a random icon from the site with a random color.
 Made for the **Week 1** assignment of the [JavaScript](https://onemonth.com/courses/javascript) online course offered by [One Month](https://onemonth.com/).
 
 <h2 class="my-4">Random Icon</h2>
