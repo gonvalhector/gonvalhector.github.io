@@ -2,17 +2,47 @@
 layout: regular
 ---
 
+<!-- Title -->
 <h1>{{ page.title }}</h1>
+<!-- Date -->
+<div class="text-left my-2">
+    <b>Date of creation:</b> {{ page.date | date: "%B %d, %Y" }}
+</div>
+<!-- Repository -->
 {% if page.repository %}
     <div class="text-left my-2">
         <b>Repository:</b> <a href="{{ page.repository.link }}">On {{ page.repository.host }}</a>
     </div>
 {% endif %}
+<!-- Demo -->
 {% if page.demo %}
     <div class="text-left my-2">
         <b>Try {{ page.title }}:</b> <a href="{{ page.demo.link }}">On {{ page.demo.host }}</a>
     </div>
 {% endif %}
+<!-- Framework -->
+{% if page.framework %}
+    <div class="text-left my-2">
+        <b>{{ page.framework.type }} Framework:</b> <a href="{{ page.framework.link }}">{{ page.framework.name }}</a>
+    </div>
+{% endif %}
+<!-- Programming Language -->
+{% if page.pl %}
+    {% for language in page.pl %}
+        <div class="text-left my-2">
+            <b>{% unless language.type == "non-web" %}{{ language.type }} {% endunless %}Programming Language:</b> {{ language.name }}
+        </div>
+    {% endfor %}
+{% endif %}
+<!-- Database System -->
+{% if page.db %}
+    {% for database in page.db %}
+        <div class="text-left my-2">
+            <b>{{ database.type }} Database System:</b> {{ database.name }}
+        </div>
+    {% endfor %}
+{% endif %}
+<!-- Content -->
 <h2 class="mt-4">About</h2>
 
 {{ content }}

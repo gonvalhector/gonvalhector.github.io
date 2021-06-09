@@ -2,6 +2,9 @@
 category: spas
 short_name: random_icon
 title: Random Icon from the Site
+pl:
+    - type: Client-side
+      name: JavaScript
 image: https://lh3.googleusercontent.com/pw/ACtC-3cwLYNZbltgXHMBiiMZ-573cTdytEuzz6oaGNBBqy_swztqCwlWviOMAJw13Wj44MtG9ekTKr--jtla0Qeg0AQVeEJ-TZYGbyznCl9hCHMIL44HQpXXEETI8fRY_WhMUBCR-rIgJq5EP8aOgEW1LceB=w1200-h630-no?authuser=0
 alt: Logo of the Random Icon from the Site single-page app
 thumbs:

@@ -2,13 +2,27 @@
 category: web_apps
 short_name: fitness_programmer
 title: Fitness Programmer
-image: https://lh3.googleusercontent.com/pw/ACtC-3ftPLHIvFfexmNT6UV618n_gTSP9Qjd1LodoTrO7uz4YkvN7hMDBp0k0gLYpV5ZpLX6W0XNtw4wk8pONMa-mVum-x_oS_tyuxZm93GVjez2DwQyUcv1CkBjzBW50nV3X1XKkHcLfTi5WfciwBRLzjZt=w1200-h630-no?authuser=0
 repository:
     host: GitHub
     link: https://github.com/gonvalhector/fitness-programmer
+pl:
+    - type: Server-side
+      name: Python
+    - type: Client-side
+      name: JavaScript
+framework:
+    type: Web
+    name: Django
+    link: https://www.djangoproject.com/
+db:
+  - type: Local
+    name: SQLite3
+  - type: Remote
+    name: PostgreSQL
 original:
     label: CS50 Course
     date: December 21st, 2019
+image: https://lh3.googleusercontent.com/pw/ACtC-3ftPLHIvFfexmNT6UV618n_gTSP9Qjd1LodoTrO7uz4YkvN7hMDBp0k0gLYpV5ZpLX6W0XNtw4wk8pONMa-mVum-x_oS_tyuxZm93GVjez2DwQyUcv1CkBjzBW50nV3X1XKkHcLfTi5WfciwBRLzjZt=w1200-h630-no?authuser=0
 alt: Logo of the Fitness Programmer web app
 thumbs:
     w1920_PNG: https://lh3.googleusercontent.com/Dl0OtMbLRNodlIf2CEjj6jfSR4-DaUd8ilvoBo9KNvKRtOByyLhlu_imZg1HJ0OQeOxTLyplyoR7W-2IoKIyfD1ydn56YVC_Ek16KDIov4ePvIFZuGy5xyeKi32eO8tfNA5XBv4OSQ=w355
