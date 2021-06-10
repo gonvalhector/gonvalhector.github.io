@@ -5,50 +5,75 @@ layout: regular
 <!-- Title -->
 <h1>{{ page.title }}</h1>
 <!-- Date -->
-<div class="text-left my-2">
+<div id="projectDate" class="text-left my-2">
     <b>Date of creation:</b> {{ page.date | date: "%B %d, %Y" }}
 </div>
 <!-- Repository -->
 {% if page.repository %}
-    <div class="text-left my-2">
+    <div id="projectRepository" class="text-left my-2">
         <b>Repository:</b> <a href="{{ page.repository.link }}">On {{ page.repository.host }}</a>
     </div>
 {% endif %}
 <!-- Demo -->
 {% if page.demo %}
-    <div class="text-left my-2">
+    <div id="projectDemo" class="text-left my-2">
         <b>Try {{ page.title }}:</b> <a href="{{ page.demo.link }}">On {{ page.demo.host }}</a>
     </div>
 {% endif %}
 <!-- Framework -->
 {% if page.framework %}
-    <div class="text-left my-2">
+    <div id="projectFramework" class="text-left my-2">
         <b>{{ page.framework.type }} Framework:</b> <a href="{{ page.framework.link }}">{{ page.framework.name }}</a>
     </div>
 {% endif %}
 <!-- Programming Language -->
 {% if page.pl %}
-    {% for language in page.pl %}
-        <div class="text-left my-2">
-            <b>{% unless language.type == "non-web" %}{{ language.type }} {% endunless %}Programming Language:</b> {{ language.name }}
-        </div>
-    {% endfor %}
+    <div id="projectPL">
+        {% for language in page.pl %}
+            <div class="text-left my-2">
+                <b>{% unless language.type == "non-web" %}{{ language.type }} {% endunless %}Programming Language:</b> {{ language.name }}
+            </div>
+        {% endfor %}
+    </div>
 {% endif %}
 <!-- Database System -->
 {% if page.db %}
-    {% for database in page.db %}
-        <div class="text-left my-2">
-            <b>{{ database.type }} Database System:</b> {{ database.name }}
-        </div>
-    {% endfor %}
+    <div id="projectDB">
+        {% for database in page.db %}
+            <div class="text-left my-2">
+                <b>{{ database.type }} Database System:</b> {{ database.name }}
+            </div>
+        {% endfor %}
+    </div>
 {% endif %}
 <!-- Content -->
 <h2 class="mt-4">About</h2>
-
 {{ content }}
-
 {% if page.video %}
     <div class="embed-responsive embed-responsive-16by9 my-3">
         <iframe class="embed-responsive-item" src="{{ page.video }}" allowfullscreen></iframe>
+    </div>
+{% endif %}
+<!-- Credits -->
+{% if page.credits %}
+    <div id="projectCredits" class="mb-5">
+        <h2 class="mt-4">Credits and Attributions</h2>
+        <ul>
+            {% for credit in page.credits %}
+                <li>
+                {% if credit.type == "Image" %}
+                    <a href="{{ credit.link }}">
+                        {% if credit.textBefore %}
+                            {{ credit.textBefore }}
+                        {% endif %}
+                        <img src="{{ credit.src }}" alt="{{ credit.alt}}" class="{% if credit.class %}series-icon{% endif %}">
+                        {% if credit.textAfter %}
+                            {{ credit.textAfter }}
+                        {% endif %}
+                    </a>
+                {% endif %}
+            {% endfor %}
+            </li>
+        </ul>
     </div>
 {% endif %}

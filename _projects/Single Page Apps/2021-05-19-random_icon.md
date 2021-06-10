@@ -24,6 +24,13 @@ thumbs:
     w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dJcJHlyeDJ8MTD8szp0nc0k7l4pURous96OfGKNZPfk-9nA1-8KcF9O68690C2AY11GYhnM_YD4EHHRJlNNzuMoxjekicDMq-l42F8VnmGueaQmHxJdy1NTk8FffxE0sVFQyl4W-FSI0CJaZnE2GOM=w66
 js:
     - src: /assets/js/randomIcon.js
+credits:
+    - type: Image
+      src: /assets/images/attribution/iconmonstr-logo-1.svg
+      alt: iconmonstr logo
+      class: true
+      link: https://iconmonstr.com/
+      textBefore: Icons by
 ---
 Get a random icon from the site with a random color.
 Made for the **Week 1** assignment of the [JavaScript](https://onemonth.com/courses/javascript) online course offered by [One Month](https://onemonth.com/).

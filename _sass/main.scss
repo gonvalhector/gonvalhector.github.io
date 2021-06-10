@@ -165,14 +165,14 @@ body {
                 transform: scale(1.04);
             }
         }
-        .list-group-item {
+        .quick_link {
             border-width: 2px !important;
             font-weight: normal;
             background-color: $bgd1;
             border-color: $bgd3;
             color: $bgd3;
         }
-        .list-group-item:hover {
+        .quick_link:hover {
             background-color: $bgd3;
             color: $bgd1;
             font-weight: bold;
