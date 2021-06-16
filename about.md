@@ -20,6 +20,7 @@ currently finishing the [CS50's Web Programming with Python and JavaScript] cour
 - [x] [CS50's Introduction to Computer Science]
 - [x] [CS50's Web Programming with Python and JavaScript]
 - [ ] [CS50’s Introduction to Game Development]
+- [x] [One Month's JavaScript Online Course]
 
 ## Certificates
 
@@ -28,6 +29,7 @@ currently finishing the [CS50's Web Programming with Python and JavaScript] cour
 - [CS50's Web Programming with Python and JavaScript from CS50]
 - [CS50's Web Programming with Python and JavaScript from edx]
 - [Computer Science for Web Programming Professional Certificate from edX]
+- [One Month's JavaScript Certification]
 
 # About the Site
 
@@ -38,7 +40,7 @@ Originally developed as [Project 0] of the [CS50's Web Programming with Python a
 - **Pixel Art Tools, Tutorials and Palettes:** [Lospec]
 - **Learn to Draw:** [Brent Eviston's "The Art & Science of Drawing" Master Class]
 
-## Credits
+## Credits & Attributions
 
 - **Static Site Generator:** [Jekyll]
 - **CSS Library:** [Bootstrap 4]
@@ -64,3 +66,5 @@ Originally developed as [Project 0] of the [CS50's Web Programming with Python a
 [CSS Filter Generator]: <https://codepen.io/sosuke/pen/Pjoqqp>
 [Lospec]: <https://lospec.com/>
 [Brent Eviston's "The Art & Science of Drawing" Master Class]: <https://www.skillshare.com/user/artandscienceofdrawing>
+[One Month's JavaScript Online Course]: <https://onemonth.com/courses/javascript>
+[One Month's JavaScript Certification]: <https://onemonth.com/certificates/v9RXaTVKaiEHpbpVQrKe>
