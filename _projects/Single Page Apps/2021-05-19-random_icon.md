@@ -32,6 +32,7 @@ credits:
       link: https://iconmonstr.com/
       textBefore: Icons by
 ---
+
 Get a random icon from the site with a random color.
 Made for the **Week 1** assignment of the [JavaScript](https://onemonth.com/courses/javascript) online course offered by [One Month](https://onemonth.com/).
 
