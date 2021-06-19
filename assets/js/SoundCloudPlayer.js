@@ -19,7 +19,7 @@ UI.enterPress = function() {
 UI.enterPress();
 // When the search icon is clicked on
 UI.submitClick = function() {
-    document.querySelector('#search-button').addEventListener('click', function(e) {
+    document.querySelector('#search-button').addEventListener('click', function() {
         UI.clearTracks();
         input = document.querySelector('#search-input').value;
         SoundCloudAPI.getTrack(input);
@@ -58,24 +58,23 @@ SoundCloudAPI.renderTracks = function(tracks) {
         card.appendChild(row);
         // Image
         var imageDiv = document.createElement('div');
-        imageDiv.classList.add('col');
+        imageDiv.classList.add('col-md-1');
         var image_img = document.createElement('img');
         image_img.classList.add('image_img');
         image_img.src = track.artwork_url || 'http://lorempixel.com/100/100/abstract/';
         image_img.alt = 'Track #' + track.id + '\'s artwork';
-        console.log(track);
         imageDiv.appendChild(image_img);
         row.appendChild(imageDiv);
         // Content
         var content = document.createElement('div');
-        content.classList.add('col');
+        content.classList.add('col-md');
         var body = document.createElement('div');
         body.classList.add('card-body');
         content.appendChild(body);
         // Title
         var header = document.createElement('h5');
         header.classList.add('card-title');
-        header.innerHTML = '<a href="' + track.permalink_url + '" target="_blank">' + track.title + '</a>';
+        header.innerHTML = '<a href="' + track.permalink_url + '" target="_blank" class="soundcloud-title">' + track.title + '</a>';
         body.appendChild(header);
         // User
         var user = document.createElement('p');
@@ -85,7 +84,7 @@ SoundCloudAPI.renderTracks = function(tracks) {
         row.appendChild(content);
         // Button
         var button = document.createElement('div');
-        button.classList.add('col-md-1');
+        button.classList.add('col-md-2');
         var icon = document.createElement('img');
         icon.src = '/assets/images/icons/play.svg';
         icon.alt = 'Play Icon'

@@ -18,15 +18,25 @@ $txt3: #9A97A1;
 // Code
 $txt4: #FEC369;
 
-
 // Drop Shadow
 // Rich Black
 $shadow: #0A080C;
 
+// SoundCloudPlayer Colors
+// Regular
+$sc1: #FE4521;
+// Hover
+$sc2: #FF8222;
+
 // Filter
+$fltrtxt1: invert(91%) sepia(4%) saturate(99%) hue-rotate(219deg) brightness(107%) contrast(95%);
 $fltrtxt2: invert(91%) sepia(11%) saturate(100%) hue-rotate(207deg) brightness(106%) contrast(93%);
 $fltrtxt3: invert(63%) sepia(3%) saturate(696%) hue-rotate(217deg) brightness(97%) contrast(89%);
 $fltrbgd1: invert(63%) sepia(3%) saturate(696%) hue-rotate(217deg) brightness(97%) contrast(89%);
+$fltrbgd2: invert(13%) sepia(14%) saturate(1527%) hue-rotate(227deg) brightness(94%) contrast(92%);
+$fltrsc1: invert(31%) sepia(59%) saturate(2406%) hue-rotate(348deg) brightness(102%) contrast(99%);
+$fltrsc2: invert(57%) sepia(90%) saturate(1910%) hue-rotate(344deg) brightness(102%) contrast(101%);
+
 
 body {
     display: flex;
@@ -103,11 +113,11 @@ body {
             color: $bgd3;
             text-shadow: 2px 2px 2px $shadow;
         }
-        a:not(.list-group-item) {
+        a:not(.list-group-item, .soundcloud-title) {
             color: $txt3;
             animation: txtColorChangeOut 0.75s;
         }
-        a:hover:not(.list-group-item) {
+        a:hover:not(.list-group-item, .soundcloud-title) {
             color: $txt2;
             text-decoration: none;
             animation: txtColorChangeIn 0.5s;
@@ -228,6 +238,46 @@ body {
             }
             @media (min-width: 1920px) {
                 height: 355px;
+            }
+        }
+        .input-group {
+            .btn {
+                background-color: $sc1;
+                border-color: $sc1;
+                img {
+                    filter: $fltrbgd2;
+                }
+            }
+            .btn:hover {
+                background-color: $sc2;
+                border-color: $sc2;
+                img {
+                    filter: $fltrtxt1;
+                }
+            }
+        }
+        #search-results {
+            .card {
+                background-color: $bgd3;
+                .card-body {
+                    .card-title {
+                        a {
+                            color: $bgd1;
+                        }
+                        a:hover {
+                            color: $sc2;
+                        }
+                    }
+                }
+                .play-button {
+                    width: 4vh;
+                    filter: $fltrsc1;
+                    margin-top: 1.25em;
+                    margin-left: 5em;
+                }
+                .play-button:hover {
+                    filter: $fltrsc2;
+                }
             }
         }
     }
