@@ -147,6 +147,10 @@ body {
         .static-icon {
             filter: $fltrtxt3;
         }
+        .external-icon {
+            filter: $fltrtxt1;
+            width: 1.8vh;
+        }
         .series-icon {
             filter: $fltrtxt3;
             animation: iconColorChangeOut 0.75s;
@@ -186,6 +190,9 @@ body {
             background-color: $bgd3;
             color: $bgd1;
             font-weight: bold;
+            .external-icon {
+                filter: $fltrbgd2;
+            }
         }
         .Red {
             filter: invert(36%) sepia(99%) saturate(7422%) hue-rotate(354deg) brightness(111%) contrast(101%);

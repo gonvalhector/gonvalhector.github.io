@@ -16,7 +16,7 @@ js:
 <div class="list-group mb-3" id="quick_links">
     <h2><img src="assets/images/icons/url.svg" class="static-icon" alt="chain link icon"> Quick Links</h2>
         {% for item in site.data.quick_links %}
-            <a {% if item.in-page %}href="#{{ item.url }}"{% else %}href="{{ item.url }}"{% endif %} class="list-group-item list-group-item-action quick_link text-center my-2">{{ item.label }}</a>
+            <a {% if item.in-page %}href="#{{ item.url }}"{% else %}href="{{ item.url }}"{% endif %} class="list-group-item list-group-item-action quick_link text-center my-2">{{ item.label }}{% unless item.in-page %} <img src="assets/images/icons/external.svg" class="external-icon" alt="External Link">{% endunless %}</a>
         {% endfor %}
 </div>
 
