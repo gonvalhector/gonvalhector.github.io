@@ -6,20 +6,20 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3dOBrnWCZSTxLn5GlfY1ollOQCMusoZ
 
 ## The original idea
 
-I started my [Final Project] for the [CS50’s Web Programming with Python and JavaScript] course with the intention of remaking my [Fitness Programmer] web app, which was my final project for the last course ([CS50's Introduction to Computer Science]), within the [Django] framework.  
+I started my [Final Project <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] for the [CS50’s Web Programming with Python and JavaScript <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] course with the intention of remaking my [Fitness Programmer] web app, which was my final project for the last course ([CS50's Introduction to Computer Science <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]), within the [Django <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] framework.  
 I wanted to submit the project before the second half of 2020 and I had the goals of putting the app online so that people could finally use it, and of adding many features which would have made the app much more accessible, customizable and simple.  
 
 <div class="embed-responsive embed-responsive-16by9 my-3">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hF-qanTC6pA?rel=0" allowfullscreen=""></iframe>
 </div>
 
-I got as far as setting up a [GitHub] repository with the [Django] project before I realized just how much time it would take me to remake the original project with no prior experience porting apps from [Flask] to [Django]. So, since I still had time before the deadline I had set for myself, I decided to teach myself how to do that with an easier project, one of the previous project sets I submitted, [R8Books].  
+I got as far as setting up a [GitHub <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] repository with the [Django <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] project before I realized just how much time it would take me to remake the original project with no prior experience porting apps from [Flask <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] to [Django <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]. So, since I still had time before the deadline I had set for myself, I decided to teach myself how to do that with an easier project, one of the previous project sets I submitted, [R8Books].  
 After successfully putting that one online, I got caught up trying to balance other endeavors, which made me miss the original deadline.
 Now, knowing just how skillful I became at missing deadlines, I had to settle for a new, simpler idea for the final project.
 
 ## The simpler idea
 
-Trying to balance all these things within my schedule, led me to create a daily objectives list of sorts in one of my [bullet journal]s in order to improve my productivity and accountability. At the time, I wasn't using that particular journal for bullet journaling, so I didn't exactly follow the proper syntax when writing my daily objectives. I really only needed a simple checklist with my daily tasks and to check them if I successfully completed them.  
+Trying to balance all these things within my schedule, led me to create a daily objectives list of sorts in one of my [bullet journal <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]s in order to improve my productivity and accountability. At the time, I wasn't using that particular journal for bullet journaling, so I didn't exactly follow the proper syntax when writing my daily objectives. I really only needed a simple checklist with my daily tasks and to check them if I successfully completed them.  
 As I missed some days here and there, I realized just how much of a difference it made using the list. I was considerably more productive and much more likely to meet my goals the days I'd go over it.  
 So that was it, the new idea was to turn paper into app.
 
@@ -105,9 +105,9 @@ As I began putting together the idea for TasksDaily, I realized I needed to make
 
 ### What went right
 
-I think I did a good job of making sure I supported many viewport sizes for the mobile compatibility required in the project's specifications. [Bootstrap] came in handy, but I ended up overwriting it for some elements, like cards. Granted, it's not perfect and some viewport sizes may not enjoy as much functionality as others.  
-Teaching myself how to implement the [calendar] and [datetime] [Python] modules with [Django] to provide important functionality to some views was a big highlight.  
-And lastly, though limited, I think I made good use of the [Google Charts]'s [Column Charts](https://developers.google.com/chart/interactive/docs/gallery/columnchart) within the ***Progress*** view.  
+I think I did a good job of making sure I supported many viewport sizes for the mobile compatibility required in the project's specifications. [Bootstrap <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] came in handy, but I ended up overwriting it for some elements, like cards. Granted, it's not perfect and some viewport sizes may not enjoy as much functionality as others.  
+Teaching myself how to implement the [calendar <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] and [datetime <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] [Python <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] modules with [Django <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] to provide important functionality to some views was a big highlight.  
+And lastly, though limited, I think I made good use of the [Google Charts <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]'s [Column Charts <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://developers.google.com/chart/interactive/docs/gallery/columnchart) within the ***Progress*** view.  
 I also made sure that users that disable scripts on their browser could fully enjoy the functionality of the app, despite their less interactive user experience.
 
 ### What went wrong
@@ -115,12 +115,12 @@ I also made sure that users that disable scripts on their browser could fully en
 The biggest challenges I faced during development were external. I tried to handle multiple other things at once and develop other projects simultaneously, which resulted in very, very slow development.
 Sometimes unexpected things would pop up which would reduce progression to a halt. Two that I clearly remember are:
 
-- The version of the [CS50’s Web Programming with Python and JavaScript] course I was doing was updated and a new project set was added. I decided to complete the new assignment before moving forward with the development of TasksDaily.
+- The version of the [CS50’s Web Programming with Python and JavaScript <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] course I was doing was updated and a new project set was added. I decided to complete the new assignment before moving forward with the development of TasksDaily.
 - The HDD dedicated to my files started failing and I had to back all its data and replace it.
 
 These two stopped progress for about a week, each, which is not that bad. The biggest hurdle was getting back on track right after.  
 Another thing that made progression slower than it should have been was the fact that the design of the web app was not set in stone from the beginning. I didn't plan ahead all the views or all the models I would use as clearly as I needed to. This meant that whenever I got an idea for a more convenient way of doing things or for a new view that would improve the user experience or functionality of the app, I would end up wasting considerable time developing the new feature instead of testing the previous feature properly. Which lead to one of the biggest mistakes I made.  
-I failed to implement the principles of Continuous Integration and Continuous Delivery and I didn't make testing automatic with each new feature implemented. Even if I take into consideration that I was making all the development locally, I could have taken advantage of [Django]'s testing features, which I did not, as I was testing everything manually. Allocating a bit of time to develop automatic testing functions that integrate with [Django] would have saved me a lot of time in the end.  
+I failed to implement the principles of Continuous Integration and Continuous Delivery and I didn't make testing automatic with each new feature implemented. Even if I take into consideration that I was making all the development locally, I could have taken advantage of [Django <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]'s testing features, which I did not, as I was testing everything manually. Allocating a bit of time to develop automatic testing functions that integrate with [Django <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] would have saved me a lot of time in the end.  
 As the end of the year was approaching I ultimately decided to scrap some features and simplify others in order to prioritize functionality over compatibility and convenience. Some of these were:
 
 - JavaScript code that is compatible with most browsers
@@ -131,30 +131,30 @@ As the end of the year was approaching I ultimately decided to scrap some featur
 
 ### Lessons learned
 
-I think for any new application or project I develop, going forward, I'll take CI/CD practices to heart and I'll make sure to have a concise idea of the design. I'll try to make my code less repetitive and convoluted, since there always is a better way. And since taking advantage of the features included with the framework by reading the documentation was extremely helpful, I'd like to get more acquainted with [Django] (or other frameworks) in order to better implement things.
+I think for any new application or project I develop, going forward, I'll take CI/CD practices to heart and I'll make sure to have a concise idea of the design. I'll try to make my code less repetitive and convoluted, since there always is a better way. And since taking advantage of the features included with the framework by reading the documentation was extremely helpful, I'd like to get more acquainted with [Django <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] (or other frameworks) in order to better implement things.
 
 ### The future of TasksDaily
 
-As of right now, with the course over, having received a passing grade and a nice [new certificate], the next step is to iron out the issues that may hurt compatibility across browsers in order to make TasksDaily available to people.
+As of right now, with the course over, having received a passing grade and a nice [new certificate <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">], the next step is to iron out the issues that may hurt compatibility across browsers in order to make TasksDaily available to people.
 Then I'd like to implement the other missing features and any other suggested through feedback, so long as they do not considerably change the purpose and functionality of the app. Also, I'd like to make a version in Spanish.
 With what I've learned with this app I'd ultimately like to make (someday) a user defined rewards system, as suggested by a friend, and that may integrate with either TasksDaily or a new, more fleshed out web app.  
 This is it for TasksDaily. Thanks for reading.
 
 
 
-[Final Project]: <https://cs50.harvard.edu/web/2020/projects/final/capstone/>
-[CS50's Introduction to Computer Science]: <https://cs50.harvard.edu/x/2020/notes/0/>
+[Final Project <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://cs50.harvard.edu/web/2020/projects/final/capstone/>
+[CS50's Introduction to Computer Science <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://cs50.harvard.edu/x/2020/notes/0/>
 [Fitness Programmer]: <{{site.projects[0].url }}>
 [R8Books]: <{{site.projects[1].url }}>
-[CS50’s Web Programming with Python and JavaScript]: <https://cs50.harvard.edu/web/2018/>
-[Django]: <https://www.djangoproject.com/>
-[Flask]: <https://flask.palletsprojects.com/en/1.1.x/>
-[GitHub]: <https://github.com/>
-[bullet journal]: <https://bulletjournal.com/>
-[new certificate]: <https://certificates.cs50.io/68fbe128-254d-42ef-a13c-a3c208bb3d2d.png?size=letter>
-[Bootstrap]: <https://getbootstrap.com/>
-[Google Charts]: <https://developers.google.com/chart>
-[Column Charts]: <https://developers.google.com/chart/interactive/docs/gallery/columnchart>
-[Python]: <https://www.python.org/>
-[calendar]: <https://docs.python.org/3/library/calendar.html?highlight=calendar#module-calendar>
-[datetime]: <https://docs.python.org/3/library/datetime.html?highlight=datetime#module-datetime>
+[CS50’s Web Programming with Python and JavaScript <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://cs50.harvard.edu/web/2018/>
+[Django <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://www.djangoproject.com/>
+[Flask <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://flask.palletsprojects.com/en/1.1.x/>
+[GitHub <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://github.com/>
+[bullet journal <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://bulletjournal.com/>
+[new certificate <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://certificates.cs50.io/68fbe128-254d-42ef-a13c-a3c208bb3d2d.png?size=letter>
+[Bootstrap <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://getbootstrap.com/>
+[Google Charts <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://developers.google.com/chart>
+[Column Charts <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://developers.google.com/chart/interactive/docs/gallery/columnchart>
+[Python <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://www.python.org/>
+[calendar <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://docs.python.org/3/library/calendar.html?highlight=calendar#module-calendar>
+[datetime <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://docs.python.org/3/library/datetime.html?highlight=datetime#module-datetime>

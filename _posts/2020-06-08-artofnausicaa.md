@@ -8,7 +8,7 @@ I didn't grow up watching **Studio Ghibli** films; I actually managed to evade t
 I knew of them, obviously, and knew some of the characters by looks and by name, I just never watched any of the movies.  
 But that changed when I wanted to get back into art and sketching in 2018. After many years without drawing a single line of anything I had completely forgotten any sort of "style" I once had,
 so in order to get back on track I decided I should get an art education through books, online classes and tutorials, because not even art can get me to leave the house.  
-I started buying what are now a handful of art books; both educational and otherwise. One of those books was [The Art of Nausicaä of the Valley of the Wind: Watercolor Impressions](https://www.goodreads.com/book/show/766111.The_Art_of_Nausica_of_the_Valley_of_the_Wind).
+I started buying what are now a handful of art books; both educational and otherwise. One of those books was [The Art of Nausicaä of the Valley of the Wind: Watercolor Impressions <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.goodreads.com/book/show/766111.The_Art_of_Nausica_of_the_Valley_of_the_Wind).
 
 
 <a href="https://lh3.googleusercontent.com/WbX_hUS5yDUp603i9gO-6m3s1DuIUVORibVG49lHUXUJaZAGXlWWDBRcEfumPR4PDm8tFo8l1-pWe4C0WuomiPyuLj3fnF3CXNrMMWFiFwn--gM44pP6rN8XSetNv-o-m6rWb2McSQ=w2400"><picture>
