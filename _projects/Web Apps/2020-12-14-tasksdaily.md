@@ -45,10 +45,10 @@ thumbs:
     w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3f1pHFxoAaXyNDoghcoi21eUno88grazQ6KhsTXDQVCIChFnnnVWLCbgaWm7lkW7qAD6ua4SNkFvXMyGvJ-zmdtw95fqnznVV-vVhwnTE9tcL-F03hbEoq7qvIXpnNkahzv3ApV0BgZYpg34-jtJWzQ=w66
 ---
 
-**[{{ page.title }}]({{ page.demo.link }})** is a web application made using [{{ page.framework.name }}]({{ page.framework.link }}) and a [PostgreSQL](https://www.postgresql.org/) database that lets registered users improve their habits by adding tasks, logging their status of completion daily and tracking their progress.  
+**[{{ page.title }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]({{ page.demo.link }})** is a web application made using [{{ page.framework.name }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]({{ page.framework.link }}) and a [PostgreSQL <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.postgresql.org/) database that lets registered users improve their habits by adding tasks, logging their status of completion daily and tracking their progress.  
 
 More information on the original version down below.
 
 ## {{ page.original.label }} Version
 
-Originally developed (and submitted on {{ page.original.date }}) as a [Final Project](https://cs50.harvard.edu/web/2020/projects/final/capstone/) for the [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2018/) course, it was a web application made using [Django](https://www.djangoproject.com/) and a [PostgreSQL](https://www.postgresql.org/) database.
+Originally developed (and submitted on {{ page.original.date }}) as a [Final Project <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://cs50.harvard.edu/web/2020/projects/final/capstone/) for the [CS50’s Web Programming with Python and JavaScript <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://cs50.harvard.edu/web/2018/) course, it was a web application made using [Django <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.djangoproject.com/) and a [PostgreSQL <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.postgresql.org/) database.

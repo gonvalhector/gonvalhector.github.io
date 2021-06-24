@@ -35,8 +35,8 @@ credits:
       textAfter: SoundCloud
 ---
 
-Search [SoundCloud](https://soundcloud.com/) for a song and plays it on an embedded player.  
-Made for the **Week 3** assignment of the [JavaScript](https://onemonth.com/courses/javascript) online course offered by [One Month](https://onemonth.com/).
+Search [SoundCloud <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://soundcloud.com/) for a song and plays it on an embedded player.  
+Made for the **Week 3** assignment of the [JavaScript <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://onemonth.com/courses/javascript) online course offered by [One Month <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://onemonth.com/).
 
 <div id="sub-content">
     <h2 class="my-4">{{ page.title }}</h2>

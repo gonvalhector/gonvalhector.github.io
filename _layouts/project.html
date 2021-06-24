@@ -11,19 +11,19 @@ layout: regular
 <!-- Repository -->
 {% if page.repository %}
     <div id="projectRepository" class="text-left my-2">
-        <b>Repository:</b> <a href="{{ page.repository.link }}">On {{ page.repository.host }}</a>
+        <b>Repository:</b> <a href="{{ page.repository.link }}">On {{ page.repository.host }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a>
     </div>
 {% endif %}
 <!-- Demo -->
 {% if page.demo %}
     <div id="projectDemo" class="text-left my-2">
-        <b>Try {{ page.title }}:</b> <a href="{{ page.demo.link }}">On {{ page.demo.host }}</a>
+        <b>Try {{ page.title }}:</b> <a href="{{ page.demo.link }}">On {{ page.demo.host }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a>
     </div>
 {% endif %}
 <!-- Framework -->
 {% if page.framework %}
     <div id="projectFramework" class="text-left my-2">
-        <b>{{ page.framework.type }} Framework:</b> <a href="{{ page.framework.link }}">{{ page.framework.name }}</a>
+        <b>{{ page.framework.type }} Framework:</b> <a href="{{ page.framework.link }}">{{ page.framework.name }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a>
     </div>
 {% endif %}
 <!-- Programming Language -->
