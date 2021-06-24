@@ -80,4 +80,4 @@ images:
 ---
 
 Watercolor and ink sketch I made around *September of last year* of a **"Childish Harpy"**.  
-Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).
+Paper texture by the wonderful [CatCoq <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/catcoq/).

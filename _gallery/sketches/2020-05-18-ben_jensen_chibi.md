@@ -63,4 +63,4 @@ images:
 ---
 
 I made this ink and colored pencils chibi character around *2008*.  
-Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/), as always.
+Paper texture by the wonderful [CatCoq <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/catcoq/), as always.

@@ -100,5 +100,5 @@ images:
       w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3f7Dd7lUPIy6x5OCoecGs3H-JeU4nAfojivrkZjCvHJr-1NWcccIIsd1NdWmnkZgXOb61aJTNw2XwwzyAvwm60-ESukPJpwHdPVLHhO7Vn7Ii6GnRlESvekMfC3DYIBIfrHxLdWTb9CUWHOffiITRQu=w166
 ---
 
-Sketch made with watercolors and ink of **Aksel** from **Claws and Tears** by [Lec Leofric Games](https://www.instagram.com/mister.alex.fernandes/).   
-Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).
+Sketch made with watercolors and ink of **Aksel** from **Claws and Tears** by [Lec Leofric Games <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/mister.alex.fernandes/).   
+Paper texture by the wonderful [CatCoq <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/catcoq/).

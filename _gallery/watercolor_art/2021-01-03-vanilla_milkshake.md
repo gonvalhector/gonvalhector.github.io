@@ -63,3 +63,6 @@ images:
       w240_PNG: https://lh3.googleusercontent.com/pw/ACtC-3cNbNUiLwO_DgeacbzfCr_VwBm-hqTyBgFkoNkNRCY-LQSjZonNURKwK74Vq8MLGlKbbXTyJIYqCtNxgS5SO6xifF5oaQOWHmWfZXfrbRspz6FW4Krdkn6fWJ8EuzCH_8FrVP2oZpluB6dDbf8H3Ond=w166
       w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3ftEcIvq2qdJUa_wrnn99Lhdz4o4KoTQv4Ra5LvR1he694muG7-aN1S9vAfM6iPx8aqGQkAnCcs2PelDxGxB3w_mskkq4SDifYha38ZVQVCZv2Y54qhrZ58peoNa-yUgkoUAMIOuby0fEcKpYaWF8eQ=w166
 ---
+
+Yet another type of milkshake in a can. Last one, I promise.  
+Paper texture by [CatCoq <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/catcoq/).

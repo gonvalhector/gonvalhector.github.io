@@ -100,5 +100,5 @@ images:
 ---
 
 **Ellie** & **Joel** from **The Last of Us**.  
-[Journey](https://lospec.com/palette-list/journey) palette by [PineappleOnPizza](https://lospec.com/pinetreepizza) (aka [pinetreeonpizza](https://www.instagram.com/pinetreeonpizza/)) from [Lospec](https://lospec.com/).  
+[Journey <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/palette-list/journey) palette by [PineappleOnPizza <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/pinetreepizza) (aka [pinetreeonpizza](https://www.instagram.com/pinetreeonpizza/)) from [Lospec <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/).  
 Done in **Graphics Gale**.

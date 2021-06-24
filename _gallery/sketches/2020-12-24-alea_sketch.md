@@ -45,5 +45,5 @@ images:
       w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dWU2AnsilhpEJWJnRWBQuQyyld6ClFgoyCFOSTR0Th5HzaNS3ddV1e8a1na434kcByoGhe-2aVflArN_j2dHGfBWSztWSc1cU6r92xrk15eLdyzZCD3p-PBJk-e5hF37XHs0y1hojLA1Pggq2d2IN0=w166
 ---
 
-Ink sketch of **Alea** from **Claws and Tears** by [Lec Leofric Games](https://www.instagram.com/mister.alex.fernandes/).   
-Paper texture by [CatCoq](https://www.instagram.com/catcoq/).
+Ink sketch of **Alea** from **Claws and Tears** by [Lec Leofric Games <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/mister.alex.fernandes/).   
+Paper texture by [CatCoq <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/catcoq/).

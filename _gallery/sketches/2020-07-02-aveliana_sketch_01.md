@@ -45,6 +45,6 @@ images:
       w240_JPG: https://lh3.googleusercontent.com/ydNvGOrRWNyg1j6EUvVxyrJPGtn2C4BBqj2QiYXYBmhOGIoVNZMRKyEmM7FkDxYyrVgDzdUKxrWEkTPl6tCgFe6BcnHZj9mhpayyEzgwG79Wf8hE6JzFueBpeRStfv2idNAfdKz95Q=w166
 ---
 
-A quick watercolor and ink sketch of [Aveliana](https://gamejolt.com/games/Aveliana/500900) by [The French Dev](https://www.instagram.com/thefrenchdev/) in preparation for my entry of his **DTIYS** challenge.
+A quick watercolor and ink sketch of [Aveliana <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://gamejolt.com/games/Aveliana/500900) by [The French Dev <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/thefrenchdev/) in preparation for my entry of his **DTIYS** challenge.
 I wanted to get a quick practice sketch done before tackling what I really want to do for the challenge.  
-Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).
+Paper texture by the wonderful [CatCoq <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/catcoq/).

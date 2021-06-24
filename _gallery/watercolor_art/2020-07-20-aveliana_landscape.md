@@ -151,5 +151,5 @@ images:
       w240_JPG: https://lh3.googleusercontent.com/Ilp-RlVyqV5yhOqM6-T_pKG3UPXPDSmwFMOupvh6dRrUT2aXJdwet-8RgJpm37_vJzmvg5eVDIVsZo-Y5NTZNhDQ3-D42TM7VRBvjDniN5ytCbR9SzJMgaf91ClZYfbDfDs21qhhSg=w166
 ---
 
-My entry for the second [Aveliana](https://gamejolt.com/games/Aveliana/500900) **DTIYS** challenge by [The French Dev](https://www.instagram.com/thefrenchdev/). Painting made with watercolors and ink.  
-Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).
+My entry for the second [Aveliana <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://gamejolt.com/games/Aveliana/500900) **DTIYS** challenge by [The French Dev <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/thefrenchdev/). Painting made with watercolors and ink.  
+Paper texture by the wonderful [CatCoq <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/catcoq/).

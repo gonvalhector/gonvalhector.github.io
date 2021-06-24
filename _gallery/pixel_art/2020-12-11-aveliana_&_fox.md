@@ -101,6 +101,6 @@ images:
       w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3fyHmHrS9g8GDPdRVHXREYqVTocWR6g3ECLMwUZN_g-XzB0xTH_VEegnsmdQTT1V0g8UOvzqkpClIL3wcrGOo1Rp9b-D4s6givnhDHJBPxrE58A2hiikWIWTuFDu8VHU_1DDfBVNVuRJnxeGn-dhgsS=w166
 ---
 
-**Aveliana & the Fox** pixel art sprites for the **7k** contest on *Instagram* by [The French Dev](https://www.instagram.com/thefrenchdev/).  
-[ARQ16](https://lospec.com/palette-list/arq16) palette by [ENDESGA](https://lospec.com/endesga) from [Lospec](https://lospec.com/).  
+**Aveliana & the Fox** pixel art sprites for the **7k** contest on *Instagram* by [The French Dev <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/thefrenchdev/).  
+[ARQ16 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/palette-list/arq16) palette by [ENDESGA <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/endesga) from [Lospec <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/).  
 Done in **Graphics Gale**.

@@ -12,59 +12,59 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3d0dRsCe5ru27jacyXbmwKWJYc8Btb6
 
 Hi! My name is Hector Gonzalez, I'm {{ age }} years old and I'm from Mexico.
 I'm studying to become a professional web developer and I also do [art] for fun.  
-So far I've completed the [CS50's Introduction to Computer Science] course and I'm
-currently finishing the [CS50's Web Programming with Python and JavaScript] course.
+So far I've completed the [CS50's Introduction to Computer Science <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] course and I'm
+currently finishing the [CS50's Web Programming with Python and JavaScript <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] course.
 
 ## Courses
 
-- [x] [CS50's Introduction to Computer Science]
-- [x] [CS50's Web Programming with Python and JavaScript]
-- [ ] [CS50’s Introduction to Game Development]
-- [x] [One Month's JavaScript Online Course]
+- [x] [CS50's Introduction to Computer Science <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- [x] [CS50's Web Programming with Python and JavaScript <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- [ ] [CS50’s Introduction to Game Development <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- [x] [One Month's JavaScript Online Course <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
 
 ## Certificates
 
-- [CS50's Introduction to Computer Science from CS50]
-- [CS50's Introduction to Computer Science from edX]
-- [CS50's Web Programming with Python and JavaScript from CS50]
-- [CS50's Web Programming with Python and JavaScript from edx]
-- [Computer Science for Web Programming Professional Certificate from edX]
-- [One Month's JavaScript Certification]
+- [CS50's Introduction to Computer Science from CS50 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- [CS50's Introduction to Computer Science from edX <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- [CS50's Web Programming with Python and JavaScript from CS50 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- [CS50's Web Programming with Python and JavaScript from edx <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- [Computer Science for Web Programming Professional Certificate from edX <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- [One Month's JavaScript Certification <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
 
 # About the Site
 
-Originally developed as [Project 0] of the [CS50's Web Programming with Python and JavaScript] course, the site is now developed using [Jekyll], the static site generator.
+Originally developed as [Project 0 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] of the [CS50's Web Programming with Python and JavaScript <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">] course, the site is now developed using [Jekyll <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">], the static site generator.
 
 ## Resources
 
-- **Pixel Art Tools, Tutorials and Palettes:** [Lospec]
-- **Learn to Draw:** [Brent Eviston's "The Art & Science of Drawing" Master Class]
+- **Pixel Art Tools, Tutorials and Palettes:** [Lospec <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- **Learn to Draw:** [Brent Eviston's "The Art & Science of Drawing" Master Class <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
 
 ## Credits & Attributions
 
-- **Static Site Generator:** [Jekyll]
-- **CSS Library:** [Bootstrap 4]
-- **Color Scheme:** [Coolors]
-- **Icons:** [Iconmonstr]
-- **Filter Generation:** [CSS Filter Generator]
+- **Static Site Generator:** [Jekyll <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- **CSS Library:** [Bootstrap 4 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- **Color Scheme:** [Coolors <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- **Icons:** [Iconmonstr <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
+- **Filter Generation:** [CSS Filter Generator <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]
 
 
-[CS50's Introduction to Computer Science]: <https://cs50.harvard.edu/x/2019/>
-[CS50's Introduction to Computer Science from CS50]: <https://certificates.cs50.io/6a7ba948-b64d-44e2-941d-96bf0c264d3d.png?size=letter>
-[CS50's Introduction to Computer Science from edX]: <https://courses.edx.org/certificates/0eb091cad05f4ed3a7d014bb8f3ab120>
-[CS50's Web Programming with Python and JavaScript]: <https://cs50.harvard.edu/web/2018/>
-[CS50's Web Programming with Python and JavaScript from CS50]: <https://certificates.cs50.io/68fbe128-254d-42ef-a13c-a3c208bb3d2d.png?size=letter>
-[CS50's Web Programming with Python and JavaScript from edx]: <https://courses.edx.org/certificates/d931bbd176bf45919b2228eb9d115be6>
-[Computer Science for Web Programming Professional Certificate from edX]: <https://credentials.edx.org/credentials/387810e955f7483f8e4e63933acd16e5/>
-[CS50’s Introduction to Game Development]: <https://cs50.harvard.edu/games/2018/>
-[Project 0]: <https://docs.cs50.net/ocw/web/projects/0/project0.html>
-[Jekyll]: <https://jekyllrb.com/>
+[CS50's Introduction to Computer Science <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://cs50.harvard.edu/x/2019/>
+[CS50's Introduction to Computer Science from CS50 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://certificates.cs50.io/6a7ba948-b64d-44e2-941d-96bf0c264d3d.png?size=letter>
+[CS50's Introduction to Computer Science from edX <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://courses.edx.org/certificates/0eb091cad05f4ed3a7d014bb8f3ab120>
+[CS50's Web Programming with Python and JavaScript <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://cs50.harvard.edu/web/2018/>
+[CS50's Web Programming with Python and JavaScript from CS50 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://certificates.cs50.io/68fbe128-254d-42ef-a13c-a3c208bb3d2d.png?size=letter>
+[CS50's Web Programming with Python and JavaScript from edx <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://courses.edx.org/certificates/d931bbd176bf45919b2228eb9d115be6>
+[Computer Science for Web Programming Professional Certificate from edX <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://credentials.edx.org/credentials/387810e955f7483f8e4e63933acd16e5/>
+[CS50’s Introduction to Game Development <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://cs50.harvard.edu/games/2018/>
+[Project 0 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://docs.cs50.net/ocw/web/projects/0/project0.html>
+[Jekyll <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://jekyllrb.com/>
 [art]: <{{ site.baseurl }}{% link gallery.html %}>
-[Bootstrap 4]: <https://getbootstrap.com/>
-[Coolors]: <https://coolors.co/>
-[Iconmonstr]: <https://iconmonstr.com/>
-[CSS Filter Generator]: <https://codepen.io/sosuke/pen/Pjoqqp>
-[Lospec]: <https://lospec.com/>
-[Brent Eviston's "The Art & Science of Drawing" Master Class]: <https://www.skillshare.com/user/artandscienceofdrawing>
-[One Month's JavaScript Online Course]: <https://onemonth.com/courses/javascript>
-[One Month's JavaScript Certification]: <https://onemonth.com/certificates/v9RXaTVKaiEHpbpVQrKe>
+[Bootstrap 4 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://getbootstrap.com/>
+[Coolors <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://coolors.co/>
+[Iconmonstr <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://iconmonstr.com/>
+[CSS Filter Generator <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://codepen.io/sosuke/pen/Pjoqqp>
+[Lospec <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://lospec.com/>
+[Brent Eviston's "The Art & Science of Drawing" Master Class <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://www.skillshare.com/user/artandscienceofdrawing>
+[One Month's JavaScript Online Course <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://onemonth.com/courses/javascript>
+[One Month's JavaScript Certification <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]: <https://onemonth.com/certificates/v9RXaTVKaiEHpbpVQrKe>

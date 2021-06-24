@@ -102,6 +102,6 @@ images:
 ---
 
 Pixel art mockup/demake of **Yakuza: Like a Dragon**.  
-[Silver](https://poppyworks.itch.io/silver) pixel art font by [Poppy Works](https://poppyworks.itch.io/).
-[ENDESGA36](https://lospec.com/palette-list/endesga-36) palette by [ENDESGA](https://lospec.com/endesga) from [Lospec](https://lospec.com/).  
+[Silver <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://poppyworks.itch.io/silver) pixel art font by [Poppy Works <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://poppyworks.itch.io/).
+[ENDESGA36 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/palette-list/endesga-36) palette by [ENDESGA <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/endesga) from [Lospec <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/).  
 Done in **Graphics Gale**.

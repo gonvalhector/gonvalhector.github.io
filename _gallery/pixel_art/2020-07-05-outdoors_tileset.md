@@ -107,6 +107,6 @@ Contains **3** *autotiles*; one for water with a simple two frame animation, one
 It includes a door *character set* with 4 frames that was meant to be animated in-game.  
 I will not be messing around with it or updating it anymore, so it's under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 If you want to modify it or use it for a project just credit me as **"Original version by gonvalhector."**
-The link to the download is over on [Open Game Art](https://opengameart.org/content/outdoors-tileset).  
+The link to the download is over on [Open Game Art <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://opengameart.org/content/outdoors-tileset).  
 The smoke animation is not mine, it's part of the **RPG Maker XP**'s **Run Time Package**.  
 Done in **Graphics Gale**.

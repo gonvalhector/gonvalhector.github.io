@@ -85,5 +85,5 @@ images:
 ---
 
 **Lo-Fi Girl** pixel art sprite for the **#lofigirlhalloween** contest on *Instagram*.
-[ARQ16](https://lospec.com/palette-list/arq16) palette by [ENDESGA](https://lospec.com/endesga) from [Lospec](https://lospec.com/).  
+[ARQ16 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/palette-list/arq16) palette by [ENDESGA <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/endesga) from [Lospec <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/).  
 Done in **Graphics Gale**.

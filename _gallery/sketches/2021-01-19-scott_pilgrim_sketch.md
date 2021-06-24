@@ -63,4 +63,4 @@ images:
 ---
 
 Sketch of **Scott Pilgrim** based on art from **Scott Pilgrim vs. the World: The Game** by **Ubisoft**, made with pencil and ink.  
-Paper texture by [CatCoq](https://www.instagram.com/catcoq/).
+Paper texture by [CatCoq <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/catcoq/).

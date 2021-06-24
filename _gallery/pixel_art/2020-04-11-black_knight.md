@@ -165,5 +165,5 @@ images:
 ---
 
 Made this based on the artwork of a **Black Knight** from **Dark Souls** for a friend a couple of months ago.
-Monochromatic version made with the [oil 6](https://lospec.com/palette-list/oil-6) palette by [GrafxKid](https://grafxkid.tumblr.com/palettes) from [Lospec](https://lospec.com/).  
+Monochromatic version made with the [oil 6 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/palette-list/oil-6) palette by [GrafxKid <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://grafxkid.tumblr.com/palettes) from [Lospec <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/).  
 Done in **Graphics Gale**.

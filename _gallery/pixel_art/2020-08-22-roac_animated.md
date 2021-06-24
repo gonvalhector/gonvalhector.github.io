@@ -65,7 +65,7 @@ images:
 ---
 
 
-Animated version of my "[Ruins of a Church]({% link _gallery/pixel_art/2020-07-15-roac.md %})" pixel art painting.  
-The wonderful music, sound effects and video editing were done by the brilliant [Jake Sanabria](https://jakesanabria.com/).   
-[AAP-64](https://lospec.com/palette-list/aap-64) palette by [Adigun A. Polack](https://lospec.com/adigunpolack) (aka [adigunpolack](https://twitter.com/AdigunPolack)) from [Lospec](https://lospec.com/).  
+Animated version of my "[Ruins of a Church <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]({% link _gallery/pixel_art/2020-07-15-roac.md %})" pixel art painting.  
+The wonderful music, sound effects and video editing were done by the brilliant [Jake Sanabria <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://jakesanabria.com/).   
+[AAP-64 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/palette-list/aap-64) palette by [Adigun A. Polack <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/adigunpolack) (aka [adigunpolack <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://twitter.com/AdigunPolack)) from [Lospec <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://lospec.com/).  
 Done in **Graphics Gale**.

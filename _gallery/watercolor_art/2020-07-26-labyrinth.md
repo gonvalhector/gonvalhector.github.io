@@ -185,5 +185,5 @@ images:
       w240_JPG: https://lh3.googleusercontent.com/evPXA8xRgIq8JQXlTChOeGgHn8JomlfKqabTpjQ8s1N9r0WSZdEENV54oVsYVio-y0sH2t1T8HYTl9oMmTcKt0IKxoCuBWgRR6wYhmrEtRLgOujw77aTV2g2Vy7JwdWVNXGymvbJ5w=w166
 ---
 
-A watercolor and ink painting based on the music video of [MONDO GROSSO](https://www.instagram.com/mondo_grosso/) (aka [Shinichi Osawa](https://www.instagram.com/shinichiosawa/) ) 's "**ラビリンス**"(Labyrinth), starring [Hikari Mitsushima](https://www.instagram.com/0o.mitsuhima.o0/).  
-Paper texture by [CatCoq](https://www.instagram.com/catcoq/).
+A watercolor and ink painting based on the music video of [MONDO GROSSO <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/mondo_grosso/) (aka [Shinichi Osawa <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/shinichiosawa/) ) 's "**ラビリンス**"(Labyrinth), starring [Hikari Mitsushima <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/0o.mitsuhima.o0/).  
+Paper texture by [CatCoq <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/catcoq/).

@@ -199,4 +199,4 @@ images:
 ---
 
 Drawings from 2018/2019 that I made based on art prompts.  
-Paper texture by the wonderful [CatCoq](https://www.instagram.com/catcoq/).
+Paper texture by the wonderful [CatCoq <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/catcoq/).
