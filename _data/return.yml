@@ -1,5 +1,14 @@
 - title: Gallery
-  url: /art_gallery/
+  url: /pixel_art/
+  link: /gallery/
+- title: Gallery
+  url: /watercolor_art/
+  link: /gallery/
+- title: Gallery
+  url: /digital_art/
+  link: /gallery/
+- title: Gallery
+  url: /sketches/
   link: /gallery/
 - title: Gallery
   url: /blog_pictures/
