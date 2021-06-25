@@ -28,6 +28,7 @@ js:
                 <div class="row mr-1 my-5">
                     {% for j in (1..columns) %}
                         <div class="col-{{ columns | plus: 1 }}">
+                            {% if projects[n] %}
                             <a href="{{ projects[n].url }}"><picture>
                                 <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.w1920_PNG }}">
                                 <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.w1920_JPG }}">
@@ -44,6 +45,7 @@ js:
                                 <source media="(min-width: 240px)" srcset="{{ projects[n].thumbs.w240_PNG }}">
                                 <img src="{{ projects[n].thumbs.w240_JPG }}" alt="{{ projects[n].alt }}" title="{{ projects[n].title }}" class="rounded-lg transform-in">
                             </picture></a>
+                            {% endif %}
                         </div>
                         {% assign n = n | plus: 1 %}
                     {% endfor %}

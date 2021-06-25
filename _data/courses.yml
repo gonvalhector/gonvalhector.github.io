@@ -1,0 +1,12 @@
+- name: CS50’s Introduction to Computer Science
+  url: https://cs50.harvard.edu/x/2019/
+  completed: true
+- name: CS50’s Web Programming with Python and JavaScript
+  url: https://cs50.harvard.edu/web/2018/
+  completed: true
+- name: CS50’s Introduction to Game Development
+  url: https://cs50.harvard.edu/games/2018/
+  completed: false
+- name: One Month’s JavaScript Online Course
+  url: https://onemonth.com/courses/javascript
+  completed: true

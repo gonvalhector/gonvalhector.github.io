@@ -1,0 +1,15 @@
+- title: Static Site Generator
+  name: Jekyll
+  url: https://jekyllrb.com/
+- title: CSS Library
+  name: Bootstrap 4
+  url: https://getbootstrap.com/
+- title: Color Scheme
+  name: Coolors
+  url: https://coolors.co/
+- title: Icons
+  name: Iconmonstr
+  url: https://iconmonstr.com/
+- title: Filter Generation
+  name: CSS Filter Generator
+  url: https://codepen.io/sosuke/pen/Pjoqqp

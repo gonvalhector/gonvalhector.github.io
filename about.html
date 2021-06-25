@@ -1,0 +1,103 @@
+---
+layout: regular
+title: About gonvalhector.com
+image: https://lh3.googleusercontent.com/pw/ACtC-3d0dRsCe5ru27jacyXbmwKWJYc8Btb6E29SB-63mTFGv0nXUdqiSgAZf5E5oFiefFrPb_MT6QoRhPkzhOQeTPbSWrmSL6-Ss2ByAIT_F3okP5-7_WQGoHagNNaQwDqN2z17Q73tK6jDgB3gd1R_cS5j=w1200-h630-no?authuser=0
+js:
+    - src: /assets/js/imgHover.js
+columns: 4
+---
+
+<div class="container">
+    <div class="row mx-auto">
+        <div class="col">
+            <h1 id="about-me">About Me</h1>
+            {% assign date_now = "now" | date: "%s" %}
+            {% assign date_birth = "July 16, 1993" | date: "%s" %}
+            {% assign age = date_now | minus: date_birth | divided_by: 31556926 %}
+            <p>
+                Hi! My name is Hector Gonzalez, I'm {{ age }} years old and I'm from Mexico.
+                I'm studying to become a professional web developer and I also do <a href="{{ site.baseurl }}{% link gallery.html %}">art</a> for fun.
+                <br>
+                So far I've completed the <a href="https://cs50.harvard.edu/x/2019/">CS50's Introduction to Computer Science <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a> course and I'm
+                currently finishing the <a href="https://cs50.harvard.edu/web/2018/">CS50's Web Programming with Python and JavaScript  <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a> course.
+            </p>
+        </div>
+    </div>
+    <div class="row mx-auto">
+        <div class="col">
+            <h2 id="courses"><img src="/assets/images/icons/course.svg" class="static-icon" alt="Open book icon"> Courses</h2>
+            <ul class="task-list">
+                {% for course in site.data.courses %}
+                <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" {% if course.completed %}checked="checked"{% endif %}> <a href="{{ course.url }}">{{ course.name }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <div class="row mx-auto">
+        <div class="col">
+            <h2 id="certificates"><img src="/assets/images/icons/certificate.svg" class="static-icon" alt="Certificate icon"> Certificates</h2>
+        </div>
+    </div>
+    {% assign certificates = site.data.certificates %}
+    {% assign total = certificates | size %}
+    {% assign columns = page.columns %}
+    {% assign rows = total | divided_by: columns %}
+    {% assign leftovers = total | modulo: columns %}
+    {% if leftovers > 0 %}
+        {% assign rows = rows | plus: 1 %}
+    {% endif %}
+    {% assign n = 0 %}
+    {% for i in (1..rows) %}
+        <div class="row mr-1 mb-4 mt-2">
+            {% for j in (1..columns) %}
+                <div class="col-3">
+                    {% if certificates[n] %}
+                    <a href="{{ certificates[n].url }}"><picture>
+                        <source media="(min-width: 1920px)" srcset="{{ certificates[n].thumbs.PNG }}=w250">
+                        <source media="(min-width: 1920px)" srcset="{{ certificates[n].thumbs.JPG }}=w250">
+                        <source media="(min-width: 1024px)" srcset="{{ certificates[n].thumbs.PNG }}=w200">
+                        <source media="(min-width: 1024px)" srcset="{{ certificates[n].thumbs.JPG }}=w200">
+                        <source media="(min-width: 768px)" srcset="{{ certificates[n].thumbs.PNG }}=w145">
+                        <source media="(min-width: 768px)" srcset="{{ certificates[n].thumbs.JPG }}=w145">
+                        <source media="(min-width: 600px)" srcset="{{ certificates[n].thumbs.PNG }}=w110">
+                        <source media="(min-width: 600px)" srcset="{{ certificates[n].thumbs.JPG }}=w110">
+                        <source media="(min-width: 411px)" srcset="{{ certificates[n].thumbs.PNG }}=w95">
+                        <source media="(min-width: 411px)" srcset="{{ certificates[n].thumbs.JPG }}=w95">
+                        <source media="(min-width: 360px)" srcset="{{ certificates[n].thumbs.PNG }}=w65">
+                        <source media="(min-width: 360px)" srcset="{{ certificates[n].thumbs.JPG }}=w65">
+                        <source media="(min-width: 240px)" srcset="{{ certificates[n].thumbs.PNG }}=w38">
+                        <img src="{{ certificates[n].thumbs.JPG }}=w38" alt="{{ certificates[n].alt }}" title="{{ certificates[n].title }}" class="rounded-lg transform-in">
+                    </picture></a>
+                    {% endif %}
+                </div>
+                {% assign n = n | plus: 1 %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+    <div class="row mx-auto">
+        <div class="col">
+            <h1 id="about-the-site">About the Site</h1>
+            <p>Originally developed as <a href="https://docs.cs50.net/ocw/web/projects/0/project0.html">Project 0 <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a> of the <a href="https://cs50.harvard.edu/web/2018/">CS50’s Web Programming with Python and JavaScript <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a> course, the site is now developed using <a href="https://jekyllrb.com/">Jekyll <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a>, the static site generator.</p>
+        </div>
+    </div>
+    <div class="row mx-auto">
+        <div class="col">
+            <h2 id="resources"><img src="/assets/images/icons/resources.svg" class="static-icon" alt="Tools icon"> Resources</h2>
+            <ul>
+                {% for resource in site.data.resources %}
+                    <li><strong>{{ resource.title }}:</strong> <a href="{{ resource.url }}">{{ resource.name }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <div class="row mx-auto">
+        <div class="col">
+            <h2 id="credits--attributions"><img src="/assets/images/icons/credits.svg" class="static-icon" alt="Tools icon"> Credits & Attributions</h2>
+            <ul>
+                {% for credit in site.data.credits %}
+                    <li><strong>{{ credit.title }}:</strong> <a href="{{ credit.url }}">{{ credit.name }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>

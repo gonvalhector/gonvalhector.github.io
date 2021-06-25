@@ -30,6 +30,7 @@ js:
                 <div class="row mr-1 my-5">
                     {% for j in (1..columns) %}
                         <div class="col-{{ columns | plus: 1 }}">
+                            {% if images[n] %}
                             <a href="{{ images[n].url }}"><picture>
                                 {% if images[n].thumbs.w1920_GIF %}
                                     <source media="(min-width: 1920px)" srcset="{{ images[n].thumbs.w1920_GIF }}">
@@ -67,6 +68,7 @@ js:
                                 <source media="(min-width: 240px)" srcset="{{ images[n].thumbs.w240_PNG }}">
                                 <img src="{{ images[n].thumbs.w240_JPG }}" alt="{{ images[n].alt }}" title="{{ images[n].title }}" class="rounded transform-in">
                             </picture></a>
+                            {% endif %}
                         </div>
                         {% assign n = n | plus: 1 %}
                     {% endfor %}
