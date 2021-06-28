@@ -71,6 +71,11 @@ layout: regular
                             {{ credit.textAfter }}
                         {% endif %}
                     </a>
+                {% else %}
+                    {% if credit.textBefore %}
+                        <strong>{{ credit.textBefore }}: </strong>
+                    {% endif %}
+                        <a href="{{ credit.url }}">{{ credit.name }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a>
                 {% endif %}
             {% endfor %}
             </li>
