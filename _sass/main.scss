@@ -45,6 +45,18 @@ body {
     margin-bottom: 56.77px;
     background-color: $bgd1;
     color: $txt1;
+    .linkChangeOut {
+        animation: txtColorChangeOut 0.75s;
+        .iconChangeOut {
+            animation: iconColorChangeOut 0.75s;
+        }
+    }
+    .linkChangeIn {
+        animation: txtColorChangeIn 0.5s;
+        .iconChangeIn {
+            animation: iconColorChangeIn 0.5s;
+        }
+    }
     header {
         background-color: $bgd2;
         box-shadow: 0px 2px 2px 0.5px $shadow;
@@ -79,17 +91,9 @@ body {
                     font-family: "Raleway", sans-serif;
                 }
                 .nav-item:not(.active) {
-                    animation: txtColorChangeOut 0.75s;
                     color: $txt3;
                     .nav-icon {
-                        animation: iconColorChangeOut 0.75s;
                         filter: $fltrtxt3;
-                    }
-                }
-                .nav-item:hover:not(.active) {
-                    animation: txtColorChangeIn 0.5s;
-                    .nav-icon {
-                        animation: iconColorChangeIn 0.5s;
                     }
                 }
                 .nav-item:hover, .active {
@@ -115,21 +119,17 @@ body {
         }
         a:not(.list-group-item, .soundcloud-title) {
             color: $txt3;
-            animation: txtColorChangeOut 0.75s;
             .external-icon {
                 filter: $fltrtxt3;
                 width: 1.5vh;
                 margin-bottom: 3px;
-                animation: iconColorChangeOut 0.75s;
             }
         }
         a:hover:not(.list-group-item, .soundcloud-title) {
             color: $txt2;
             text-decoration: none;
-            animation: txtColorChangeIn 0.5s;
             .external-icon {
                 filter: $fltrtxt2;
-                animation: iconColorChangeIn 0.75s;
             }
         }
         .avatar {
@@ -159,11 +159,9 @@ body {
         }
         .series-icon {
             filter: $fltrtxt3;
-            animation: iconColorChangeOut 0.75s;
         }
         .series-icon:hover {
             filter: $fltrtxt2;
-            animation: iconColorChangeIn 0.5s;
         }
         .transform-out {
             @media (min-width: 240px) {
@@ -312,13 +310,11 @@ body {
         .item-link {
             .item-icon {
                 filter: $fltrtxt3;
-                animation: iconColorChangeOut 0.75s;
             }
         }
         .item-link:hover {
             .item-icon {
                 filter: $fltrtxt2 drop-shadow(1px 1px 1px $shadow);
-                animation: iconColorChangeIn 0.5s;
             }
         }
     }
