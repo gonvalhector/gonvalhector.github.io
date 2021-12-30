@@ -8,20 +8,8 @@ pl:
 image: https://lh3.googleusercontent.com/pw/ACtC-3cJC8UJaH9sLH3PhbhCrvJ-rSIyo_VwWVjJlQ2wkz8l0YItLW6h0tfJ_iVMTz0CvPjsZX_2FHkHoGKVyvOICpJibXzhPCu6QX3ZILDEQCxCVwRii7SHIxCG0Lpu5A-xk153QpmUHGWP0bEJB2K2Ke9X=w1200-h630-no?authuser=0
 alt: Logo of the GiphyTV single-page app
 thumbs:
-    w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3djReVIIQDBveX33UFCzNyOsgfLPKUebouHS1R2UR_XwR7aczgZYqGcikN01zYZz2iNy6Jgpe0mNUWnNRD7flB8kLhzXhrVURwW0Wi36c2ea_wmJaLaS1P8Q7SOAzrmc2CXjODPrvevLRqIEB9wNPdD=w355
-    w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dHZMuhThg7jK4SZNfFibLPDFpF5zNmQgFc-vrlbL7TEcu4GqkwRYXC9XC4it1uVALPSjHxn6-5WShfGDcAVCfZNt9rMSEjqi7BXDkMocG7cdty5QpY3-Gmyn1uJQfAwIK9swRuI7Z_61l3Sfigmb-3=w355
-    w1024_PNG: https://lh3.googleusercontent.com/pw/ACtC-3djReVIIQDBveX33UFCzNyOsgfLPKUebouHS1R2UR_XwR7aczgZYqGcikN01zYZz2iNy6Jgpe0mNUWnNRD7flB8kLhzXhrVURwW0Wi36c2ea_wmJaLaS1P8Q7SOAzrmc2CXjODPrvevLRqIEB9wNPdD=w284
-    w1024_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dHZMuhThg7jK4SZNfFibLPDFpF5zNmQgFc-vrlbL7TEcu4GqkwRYXC9XC4it1uVALPSjHxn6-5WShfGDcAVCfZNt9rMSEjqi7BXDkMocG7cdty5QpY3-Gmyn1uJQfAwIK9swRuI7Z_61l3Sfigmb-3=w284
-    w768_PNG: https://lh3.googleusercontent.com/pw/ACtC-3djReVIIQDBveX33UFCzNyOsgfLPKUebouHS1R2UR_XwR7aczgZYqGcikN01zYZz2iNy6Jgpe0mNUWnNRD7flB8kLhzXhrVURwW0Wi36c2ea_wmJaLaS1P8Q7SOAzrmc2CXjODPrvevLRqIEB9wNPdD=w213
-    w768_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dHZMuhThg7jK4SZNfFibLPDFpF5zNmQgFc-vrlbL7TEcu4GqkwRYXC9XC4it1uVALPSjHxn6-5WShfGDcAVCfZNt9rMSEjqi7BXDkMocG7cdty5QpY3-Gmyn1uJQfAwIK9swRuI7Z_61l3Sfigmb-3=w213
-    w600_PNG: https://lh3.googleusercontent.com/pw/ACtC-3djReVIIQDBveX33UFCzNyOsgfLPKUebouHS1R2UR_XwR7aczgZYqGcikN01zYZz2iNy6Jgpe0mNUWnNRD7flB8kLhzXhrVURwW0Wi36c2ea_wmJaLaS1P8Q7SOAzrmc2CXjODPrvevLRqIEB9wNPdD=w166
-    w600_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dHZMuhThg7jK4SZNfFibLPDFpF5zNmQgFc-vrlbL7TEcu4GqkwRYXC9XC4it1uVALPSjHxn6-5WShfGDcAVCfZNt9rMSEjqi7BXDkMocG7cdty5QpY3-Gmyn1uJQfAwIK9swRuI7Z_61l3Sfigmb-3=w166
-    w411_PNG: https://lh3.googleusercontent.com/pw/ACtC-3djReVIIQDBveX33UFCzNyOsgfLPKUebouHS1R2UR_XwR7aczgZYqGcikN01zYZz2iNy6Jgpe0mNUWnNRD7flB8kLhzXhrVURwW0Wi36c2ea_wmJaLaS1P8Q7SOAzrmc2CXjODPrvevLRqIEB9wNPdD=w114
-    w411_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dHZMuhThg7jK4SZNfFibLPDFpF5zNmQgFc-vrlbL7TEcu4GqkwRYXC9XC4it1uVALPSjHxn6-5WShfGDcAVCfZNt9rMSEjqi7BXDkMocG7cdty5QpY3-Gmyn1uJQfAwIK9swRuI7Z_61l3Sfigmb-3=w114
-    w360_PNG: https://lh3.googleusercontent.com/pw/ACtC-3djReVIIQDBveX33UFCzNyOsgfLPKUebouHS1R2UR_XwR7aczgZYqGcikN01zYZz2iNy6Jgpe0mNUWnNRD7flB8kLhzXhrVURwW0Wi36c2ea_wmJaLaS1P8Q7SOAzrmc2CXjODPrvevLRqIEB9wNPdD=w100
-    w360_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dHZMuhThg7jK4SZNfFibLPDFpF5zNmQgFc-vrlbL7TEcu4GqkwRYXC9XC4it1uVALPSjHxn6-5WShfGDcAVCfZNt9rMSEjqi7BXDkMocG7cdty5QpY3-Gmyn1uJQfAwIK9swRuI7Z_61l3Sfigmb-3=w100
-    w240_PNG: https://lh3.googleusercontent.com/pw/ACtC-3djReVIIQDBveX33UFCzNyOsgfLPKUebouHS1R2UR_XwR7aczgZYqGcikN01zYZz2iNy6Jgpe0mNUWnNRD7flB8kLhzXhrVURwW0Wi36c2ea_wmJaLaS1P8Q7SOAzrmc2CXjODPrvevLRqIEB9wNPdD=w66
-    w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dHZMuhThg7jK4SZNfFibLPDFpF5zNmQgFc-vrlbL7TEcu4GqkwRYXC9XC4it1uVALPSjHxn6-5WShfGDcAVCfZNt9rMSEjqi7BXDkMocG7cdty5QpY3-Gmyn1uJQfAwIK9swRuI7Z_61l3Sfigmb-3=w66
+    PNG: https://lh3.googleusercontent.com/pw/ACtC-3djReVIIQDBveX33UFCzNyOsgfLPKUebouHS1R2UR_XwR7aczgZYqGcikN01zYZz2iNy6Jgpe0mNUWnNRD7flB8kLhzXhrVURwW0Wi36c2ea_wmJaLaS1P8Q7SOAzrmc2CXjODPrvevLRqIEB9wNPdD
+    JPG: https://lh3.googleusercontent.com/pw/ACtC-3dHZMuhThg7jK4SZNfFibLPDFpF5zNmQgFc-vrlbL7TEcu4GqkwRYXC9XC4it1uVALPSjHxn6-5WShfGDcAVCfZNt9rMSEjqi7BXDkMocG7cdty5QpY3-Gmyn1uJQfAwIK9swRuI7Z_61l3Sfigmb-3
 js:
     - src: https://connect.soundcloud.com/sdk/sdk-3.3.2.js
     - src: /assets/js/SoundCloudPlayer.js

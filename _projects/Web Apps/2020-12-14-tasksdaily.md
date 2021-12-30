@@ -29,20 +29,8 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3c7WpNB9tqyWCAp4g25pT74OijcGcgi
 alt: Logo of the TasksDaily web app
 video: https://www.youtube.com/embed/_XBB1yKDBd4?rel=0
 thumbs:
-    w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3dkefqu8oC3eC_4mjkAX6hgVjT4sw2DNgjeznpEBMMS7gEktFnjGrFzXZuCBgMMBG096j0-OVnBcQWuP_7SVxmBh-pkxGJxtdVpRp30YhrNTyOjFLaeaVjoMhNOMzwJQxHF8I4E9E6PSsVWgL_dPc1M=w355
-    w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3f1pHFxoAaXyNDoghcoi21eUno88grazQ6KhsTXDQVCIChFnnnVWLCbgaWm7lkW7qAD6ua4SNkFvXMyGvJ-zmdtw95fqnznVV-vVhwnTE9tcL-F03hbEoq7qvIXpnNkahzv3ApV0BgZYpg34-jtJWzQ=w355
-    w1024_PNG: https://lh3.googleusercontent.com/pw/ACtC-3dkefqu8oC3eC_4mjkAX6hgVjT4sw2DNgjeznpEBMMS7gEktFnjGrFzXZuCBgMMBG096j0-OVnBcQWuP_7SVxmBh-pkxGJxtdVpRp30YhrNTyOjFLaeaVjoMhNOMzwJQxHF8I4E9E6PSsVWgL_dPc1M=w284
-    w1024_JPG: https://lh3.googleusercontent.com/pw/ACtC-3f1pHFxoAaXyNDoghcoi21eUno88grazQ6KhsTXDQVCIChFnnnVWLCbgaWm7lkW7qAD6ua4SNkFvXMyGvJ-zmdtw95fqnznVV-vVhwnTE9tcL-F03hbEoq7qvIXpnNkahzv3ApV0BgZYpg34-jtJWzQ=w284
-    w768_PNG: https://lh3.googleusercontent.com/pw/ACtC-3dkefqu8oC3eC_4mjkAX6hgVjT4sw2DNgjeznpEBMMS7gEktFnjGrFzXZuCBgMMBG096j0-OVnBcQWuP_7SVxmBh-pkxGJxtdVpRp30YhrNTyOjFLaeaVjoMhNOMzwJQxHF8I4E9E6PSsVWgL_dPc1M=w213
-    w768_JPG: https://lh3.googleusercontent.com/pw/ACtC-3f1pHFxoAaXyNDoghcoi21eUno88grazQ6KhsTXDQVCIChFnnnVWLCbgaWm7lkW7qAD6ua4SNkFvXMyGvJ-zmdtw95fqnznVV-vVhwnTE9tcL-F03hbEoq7qvIXpnNkahzv3ApV0BgZYpg34-jtJWzQ=w213
-    w600_PNG: https://lh3.googleusercontent.com/pw/ACtC-3dkefqu8oC3eC_4mjkAX6hgVjT4sw2DNgjeznpEBMMS7gEktFnjGrFzXZuCBgMMBG096j0-OVnBcQWuP_7SVxmBh-pkxGJxtdVpRp30YhrNTyOjFLaeaVjoMhNOMzwJQxHF8I4E9E6PSsVWgL_dPc1M=w166
-    w600_JPG: https://lh3.googleusercontent.com/pw/ACtC-3f1pHFxoAaXyNDoghcoi21eUno88grazQ6KhsTXDQVCIChFnnnVWLCbgaWm7lkW7qAD6ua4SNkFvXMyGvJ-zmdtw95fqnznVV-vVhwnTE9tcL-F03hbEoq7qvIXpnNkahzv3ApV0BgZYpg34-jtJWzQ=w166
-    w411_PNG: https://lh3.googleusercontent.com/pw/ACtC-3dkefqu8oC3eC_4mjkAX6hgVjT4sw2DNgjeznpEBMMS7gEktFnjGrFzXZuCBgMMBG096j0-OVnBcQWuP_7SVxmBh-pkxGJxtdVpRp30YhrNTyOjFLaeaVjoMhNOMzwJQxHF8I4E9E6PSsVWgL_dPc1M=w114
-    w411_JPG: https://lh3.googleusercontent.com/pw/ACtC-3f1pHFxoAaXyNDoghcoi21eUno88grazQ6KhsTXDQVCIChFnnnVWLCbgaWm7lkW7qAD6ua4SNkFvXMyGvJ-zmdtw95fqnznVV-vVhwnTE9tcL-F03hbEoq7qvIXpnNkahzv3ApV0BgZYpg34-jtJWzQ=w114
-    w360_PNG: https://lh3.googleusercontent.com/pw/ACtC-3dkefqu8oC3eC_4mjkAX6hgVjT4sw2DNgjeznpEBMMS7gEktFnjGrFzXZuCBgMMBG096j0-OVnBcQWuP_7SVxmBh-pkxGJxtdVpRp30YhrNTyOjFLaeaVjoMhNOMzwJQxHF8I4E9E6PSsVWgL_dPc1M=w100
-    w360_JPG: https://lh3.googleusercontent.com/pw/ACtC-3f1pHFxoAaXyNDoghcoi21eUno88grazQ6KhsTXDQVCIChFnnnVWLCbgaWm7lkW7qAD6ua4SNkFvXMyGvJ-zmdtw95fqnznVV-vVhwnTE9tcL-F03hbEoq7qvIXpnNkahzv3ApV0BgZYpg34-jtJWzQ=w100
-    w240_PNG: https://lh3.googleusercontent.com/pw/ACtC-3dkefqu8oC3eC_4mjkAX6hgVjT4sw2DNgjeznpEBMMS7gEktFnjGrFzXZuCBgMMBG096j0-OVnBcQWuP_7SVxmBh-pkxGJxtdVpRp30YhrNTyOjFLaeaVjoMhNOMzwJQxHF8I4E9E6PSsVWgL_dPc1M=w66
-    w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3f1pHFxoAaXyNDoghcoi21eUno88grazQ6KhsTXDQVCIChFnnnVWLCbgaWm7lkW7qAD6ua4SNkFvXMyGvJ-zmdtw95fqnznVV-vVhwnTE9tcL-F03hbEoq7qvIXpnNkahzv3ApV0BgZYpg34-jtJWzQ=w66
+    PNG: https://lh3.googleusercontent.com/pw/ACtC-3dkefqu8oC3eC_4mjkAX6hgVjT4sw2DNgjeznpEBMMS7gEktFnjGrFzXZuCBgMMBG096j0-OVnBcQWuP_7SVxmBh-pkxGJxtdVpRp30YhrNTyOjFLaeaVjoMhNOMzwJQxHF8I4E9E6PSsVWgL_dPc1M
+    JPG: https://lh3.googleusercontent.com/pw/ACtC-3f1pHFxoAaXyNDoghcoi21eUno88grazQ6KhsTXDQVCIChFnnnVWLCbgaWm7lkW7qAD6ua4SNkFvXMyGvJ-zmdtw95fqnznVV-vVhwnTE9tcL-F03hbEoq7qvIXpnNkahzv3ApV0BgZYpg34-jtJWzQ
 ---
 
 **[{{ page.title }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]({{ page.demo.link }})** is a web application made using [{{ page.framework.name }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]({{ page.framework.link }}) and a [PostgreSQL <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.postgresql.org/) database that lets registered users improve their habits by adding tasks, logging their status of completion daily and tracking their progress.  

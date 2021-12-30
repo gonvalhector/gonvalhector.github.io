@@ -30,20 +30,20 @@ js:
                         <div class="col-{{ columns | plus: 1 }}">
                             {% if projects[n] %}
                             <a href="{{ projects[n].url }}"><picture>
-                                <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.w1920_PNG }}">
-                                <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.w1920_JPG }}">
-                                <source media="(min-width: 1024px)" srcset="{{ projects[n].thumbs.w1024_PNG }}">
-                                <source media="(min-width: 1024px)" srcset="{{ projects[n].thumbs.w1024_JPG }}">
-                                <source media="(min-width: 768px)" srcset="{{ projects[n].thumbs.w768_PNG }}">
-                                <source media="(min-width: 768px)" srcset="{{ projects[n].thumbs.w768_JPG }}">
-                                <source media="(min-width: 600px)" srcset="{{ projects[n].thumbs.w600_PNG }}">
-                                <source media="(min-width: 600px)" srcset="{{ projects[n].thumbs.w600_JPG }}">
-                                <source media="(min-width: 411px)" srcset="{{ projects[n].thumbs.w411_PNG }}">
-                                <source media="(min-width: 411px)" srcset="{{ projects[n].thumbs.w411_JPG }}">
-                                <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.w360_PNG }}">
-                                <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.w360_JPG }}">
-                                <source media="(min-width: 240px)" srcset="{{ projects[n].thumbs.w240_PNG }}">
-                                <img src="{{ projects[n].thumbs.w240_JPG }}" alt="{{ projects[n].alt }}" title="{{ projects[n].title }}" class="rounded-lg transform-in">
+                                <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.PNG }}=w355">
+                                <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.JPG }}=w355">
+                                <source media="(min-width: 1024px)" srcset="{{ projects[n].thumbs.PNG }}=w284">
+                                <source media="(min-width: 1024px)" srcset="{{ projects[n].thumbs.JPG }}=w284">
+                                <source media="(min-width: 768px)" srcset="{{ projects[n].thumbs.PNG }}=w213">
+                                <source media="(min-width: 768px)" srcset="{{ projects[n].thumbs.JPG }}=w213">
+                                <source media="(min-width: 600px)" srcset="{{ projects[n].thumbs.PNG }}=w166">
+                                <source media="(min-width: 600px)" srcset="{{ projects[n].thumbs.JPG }}=w166">
+                                <source media="(min-width: 411px)" srcset="{{ projects[n].thumbs.PNG }}=w114">
+                                <source media="(min-width: 411px)" srcset="{{ projects[n].thumbs.JPG }}=w114">
+                                <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.PNG }}=w100">
+                                <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.JPG }}=w100">
+                                <source media="(min-width: 240px)" srcset="{{ projects[n].thumbs.PNG }}=w66">
+                                <img src="{{ projects[n].thumbs.JPG }}=w66" alt="{{ projects[n].alt }}" title="{{ projects[n].title }}" class="rounded-lg transform-in">
                             </picture></a>
                             {% endif %}
                         </div>
