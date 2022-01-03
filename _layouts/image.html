@@ -33,44 +33,44 @@ layout: regular
             {% else %}
                 <div class="carousel-item">
             {% endif %}
-                    <a href="{{ image.full }}"><picture>
-                        {% if image.w1920_GIF %}
-                            <source media="(min-width: 1920px)" srcset="{{ image.w1920_GIF }}">
-                            <source media="(min-width: 1920px)" srcset="{{ image.w1920_PNG }}">
-                            <source media="(min-width: 1920px)" srcset="{{ image.w1920_JPG }}">
-                            <source media="(min-width: 1024px)" srcset="{{ image.w1024_GIF }}">
-                            <source media="(min-width: 1024px)" srcset="{{ image.w1024_PNG }}">
-                            <source media="(min-width: 1024px)" srcset="{{ image.w1024_JPG }}">
-                            <source media="(min-width: 768px)" srcset="{{ image.w768_GIF }}">
-                            <source media="(min-width: 768px)" srcset="{{ image.w768_PNG }}">
-                            <source media="(min-width: 768px)" srcset="{{ image.w768_JPG }}">
-                            <source media="(min-width: 600px)" srcset="{{ image.w600_GIF }}">
-                            <source media="(min-width: 600px)" srcset="{{ image.w600_PNG }}">
-                            <source media="(min-width: 600px)" srcset="{{ image.w600_JPG }}">
-                            <source media="(min-width: 411px)" srcset="{{ image.w411_GIF }}">
-                            <source media="(min-width: 411px)" srcset="{{ image.w411_PNG }}">
-                            <source media="(min-width: 411px)" srcset="{{ image.w411_JPG }}">
-                            <source media="(min-width: 360px)" srcset="{{ image.w360_GIF }}">
-                            <source media="(min-width: 360px)" srcset="{{ image.w360_PNG }}">
-                            <source media="(min-width: 360px)" srcset="{{ image.w360_JPG }}">
-                            <source media="(min-width: 240px)" srcset="{{ image.w240_GIF }}">
-                            <source media="(min-width: 240px)" srcset="{{ image.w240_PNG }}">
+                    <a href="{% if image.full %}{{ image.full }}{% else %}{{ page.images[0].full }}{% endif %}"><picture>
+                        {% if image.GIF %}
+                            <source media="(min-width: 1920px)" srcset="{{ image.GIF }}=w2400">
+                            <source media="(min-width: 1920px)" srcset="{{ image.PNG }}=w2400">
+                            <source media="(min-width: 1920px)" srcset="{{ image.JPG }}=w2400">
+                            <source media="(min-width: 1024px)" srcset="{{ image.GIF }}=w711">
+                            <source media="(min-width: 1024px)" srcset="{{ image.PNG }}=w711">
+                            <source media="(min-width: 1024px)" srcset="{{ image.JPG }}=w711">
+                            <source media="(min-width: 768px)" srcset="{{ image.GIF }}=w533">
+                            <source media="(min-width: 768px)" srcset="{{ image.PNG }}=w533">
+                            <source media="(min-width: 768px)" srcset="{{ image.JPG }}=w533">
+                            <source media="(min-width: 600px)" srcset="{{ image.GIF }}=w416">
+                            <source media="(min-width: 600px)" srcset="{{ image.PNG }}=w416">
+                            <source media="(min-width: 600px)" srcset="{{ image.JPG }}=w416">
+                            <source media="(min-width: 411px)" srcset="{{ image.GIF }}=w285">
+                            <source media="(min-width: 411px)" srcset="{{ image.PNG }}=w285">
+                            <source media="(min-width: 411px)" srcset="{{ image.JPG }}=w285">
+                            <source media="(min-width: 360px)" srcset="{{ image.GIF }}=w250">
+                            <source media="(min-width: 360px)" srcset="{{ image.PNG }}=w250">
+                            <source media="(min-width: 360px)" srcset="{{ image.JPG }}=w250">
+                            <source media="(min-width: 240px)" srcset="{{ image.GIF }}=w166">
+                            <source media="(min-width: 240px)" srcset="{{ image.PNG }}=w166">
                         {% else %}
-                            <source media="(min-width: 1920px)" srcset="{{ image.w1920_PNG }}">
-                            <source media="(min-width: 1920px)" srcset="{{ image.w1920_JPG }}">
-                            <source media="(min-width: 1024px)" srcset="{{ image.w1024_PNG }}">
-                            <source media="(min-width: 1024px)" srcset="{{ image.w1024_JPG }}">
-                            <source media="(min-width: 768px)" srcset="{{ image.w768_PNG }}">
-                            <source media="(min-width: 768px)" srcset="{{ image.w768_JPG }}">
-                            <source media="(min-width: 600px)" srcset="{{ image.w600_PNG }}">
-                            <source media="(min-width: 600px)" srcset="{{ image.w600_JPG }}">
-                            <source media="(min-width: 411px)" srcset="{{ image.w411_PNG }}">
-                            <source media="(min-width: 411px)" srcset="{{ image.w411_JPG }}">
-                            <source media="(min-width: 360px)" srcset="{{ image.w360_PNG }}">
-                            <source media="(min-width: 360px)" srcset="{{ image.w360_JPG }}">
-                            <source media="(min-width: 240px)" srcset="{{ image.w240_PNG }}">
+                            <source media="(min-width: 1920px)" srcset="{{ image.PNG }}=w2400">
+                            <source media="(min-width: 1920px)" srcset="{{ image.JPG }}=w2400">
+                            <source media="(min-width: 1024px)" srcset="{{ image.PNG }}=w711">
+                            <source media="(min-width: 1024px)" srcset="{{ image.JPG }}=w711">
+                            <source media="(min-width: 768px)" srcset="{{ image.PNG }}=w533">
+                            <source media="(min-width: 768px)" srcset="{{ image.JPG }}=w533">
+                            <source media="(min-width: 600px)" srcset="{{ image.PNG }}=w416">
+                            <source media="(min-width: 600px)" srcset="{{ image.JPG }}=w416">
+                            <source media="(min-width: 411px)" srcset="{{ image.PNG }}=w285">
+                            <source media="(min-width: 411px)" srcset="{{ image.JPG }}=w285">
+                            <source media="(min-width: 360px)" srcset="{{ image.PNG }}=w250">
+                            <source media="(min-width: 360px)" srcset="{{ image.JPG }}=w250">
+                            <source media="(min-width: 240px)" srcset="{{ image.PNG }}=w166">
                         {% endif %}
-                        <img class="my-3 mx-auto d-block" src="{{ image.w240_JPG }}" alt="{{ page.alt }}" title="{{ page.title }}">
+                        <img class="my-3 mx-auto d-block" src="{{ image.JPG }}=w166" alt="{{ page.alt }}" title="{{ page.title }}">
                     </picture></a>
                     <div class="carousel-caption d-none d-md-block">
                         <h5><b>{{ image.label }}</b></h5>

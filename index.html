@@ -39,41 +39,41 @@ js:
         {% for project in projects %}
             <div class="col-4">
                 <a href="{{ project.url }}"><picture>
-                    {% if project.thumbs.w1920_GIF %}
-                        <source media="(min-width: 1920px)" srcset="{{ project.thumbs.w1920_GIF }}">
+                    {% if project.thumbs.GIF %}
+                        <source media="(min-width: 1920px)" srcset="{{ project.thumbs.GIF }}=w355">
                     {% endif %}
-                    <source media="(min-width: 1920px)" srcset="{{ project.thumbs.w1920_PNG }}">
-                    <source media="(min-width: 1920px)" srcset="{{ project.thumbs.w1920_JPG }}">
-                    {% if project.thumbs.w1024_GIF %}
-                        <source media="(min-width: 1024px)" srcset="{{ project.thumbs.w1024_GIF }}">
+                    <source media="(min-width: 1920px)" srcset="{{ project.thumbs.PNG }}=w355">
+                    <source media="(min-width: 1920px)" srcset="{{ project.thumbs.JPG }}=w355">
+                    {% if project.thumbs.GIF %}
+                        <source media="(min-width: 1024px)" srcset="{{ project.thumbs.GIF }}=w284">
                     {% endif %}
-                    <source media="(min-width: 1024px)" srcset="{{ project.thumbs.w1024_PNG }}">
-                    <source media="(min-width: 1024px)" srcset="{{ project.thumbs.w1024_JPG }}">
-                    {% if project.thumbs.w768_GIF %}
-                        <source media="(min-width: 768px)" srcset="{{ project.thumbs.w768_GIF }}">
+                    <source media="(min-width: 1024px)" srcset="{{ project.thumbs.PNG }}=w284">
+                    <source media="(min-width: 1024px)" srcset="{{ project.thumbs.JPG }}=w284">
+                    {% if project.thumbs.GIF %}
+                        <source media="(min-width: 768px)" srcset="{{ project.thumbs.GIF }}=w213">
                     {% endif %}
-                    <source media="(min-width: 768px)" srcset="{{ projects.thumbs.w768_PNG }}">
-                    <source media="(min-width: 768px)" srcset="{{ projects.thumbs.w768_JPG }}">
-                    {% if project.thumbs.w600_GIF %}
-                        <source media="(min-width: 600px)" srcset="{{ project.thumbs.w600_GIF }}">
+                    <source media="(min-width: 768px)" srcset="{{ projects.thumbs.PNG }}=w213">
+                    <source media="(min-width: 768px)" srcset="{{ projects.thumbs.JPG }}=w213">
+                    {% if project.thumbs.GIF %}
+                        <source media="(min-width: 600px)" srcset="{{ project.thumbs.GIF }}=w166">
                     {% endif %}
-                    <source media="(min-width: 600px)" srcset="{{ project.thumbs.w600_PNG }}">
-                    <source media="(min-width: 600px)" srcset="{{ project.thumbs.w600_JPG }}">
-                    {% if project.thumbs.w411_GIF %}
-                        <source media="(min-width: 411px)" srcset="{{ project.thumbs.w411_GIF }}">
+                    <source media="(min-width: 600px)" srcset="{{ project.thumbs.PNG }}=w166">
+                    <source media="(min-width: 600px)" srcset="{{ project.thumbs.JPG }}=w166">
+                    {% if project.thumbs.GIF %}
+                        <source media="(min-width: 411px)" srcset="{{ project.thumbs.GIF }}=w114">
                     {% endif %}
-                    <source media="(min-width: 411px)" srcset="{{ project.thumbs.w411_PNG }}">
-                    <source media="(min-width: 411px)" srcset="{{ project.thumbs.w411_JPG }}">
-                    {% if project.thumbs.w360_GIF %}
-                        <source media="(min-width: 360px)" srcset="{{ project.thumbs.w360_GIF }}">
+                    <source media="(min-width: 411px)" srcset="{{ project.thumbs.PNG }}=w114">
+                    <source media="(min-width: 411px)" srcset="{{ project.thumbs.JPG }}=w114">
+                    {% if project.thumbs.GIF %}
+                        <source media="(min-width: 360px)" srcset="{{ project.thumbs.GIF }}=w100">
                     {% endif %}
-                    <source media="(min-width: 360px)" srcset="{{ project.thumbs.w360_PNG }}">
-                    <source media="(min-width: 360px)" srcset="{{ project.thumbs.w360_JPG }}">
-                    {% if project.thumbs.w240_GIF %}
-                        <source media="(min-width: 240px)" srcset="{{ project.thumbs.w240_GIF }}">
+                    <source media="(min-width: 360px)" srcset="{{ project.thumbs.PNG }}=w100">
+                    <source media="(min-width: 360px)" srcset="{{ project.thumbs.JPG }}=w100">
+                    {% if project.thumbs.GIF %}
+                        <source media="(min-width: 240px)" srcset="{{ project.thumbs.GIF }}=w66">
                     {% endif %}
-                    <source media="(min-width: 240px)" srcset="{{ project.thumbs.w240_PNG }}">
-                    <img src="{{ project.thumbs.w240_JPG }}" alt="{{ project.alt }}" title="{{ project.title }}" class="rounded-lg mx-auto d-block transform-in">
+                    <source media="(min-width: 240px)" srcset="{{ project.thumbs.PNG }}=w66">
+                    <img src="{{ project.thumbs.JPG }}=w66" alt="{{ project.alt }}" title="{{ project.title }}" class="rounded-lg mx-auto d-block transform-in">
                 </picture></a>
             </div>
         {% endfor %}
@@ -87,41 +87,41 @@ js:
         {% for image in images %}
             <div class="col-4">
                 <a href="{{ image.url }}"><picture>
-                    {% if image.thumbs.w1920_GIF %}
-                        <source media="(min-width: 1920px)" srcset="{{ image.thumbs.w1920_GIF }}">
+                    {% if image.thumbs.GIF %}
+                        <source media="(min-width: 1920px)" srcset="{{ image.thumbs.GIF }}=w355">
                     {% endif %}
-                    <source media="(min-width: 1920px)" srcset="{{ image.thumbs.w1920_PNG }}">
-                    <source media="(min-width: 1920px)" srcset="{{ image.thumbs.w1920_JPG }}">
-                    {% if image.thumbs.w1024_GIF %}
-                        <source media="(min-width: 1024px)" srcset="{{ image.thumbs.w1024_GIF }}">
+                    <source media="(min-width: 1920px)" srcset="{{ image.thumbs.PNG }}=w355">
+                    <source media="(min-width: 1920px)" srcset="{{ image.thumbs.JPG }}=w355">
+                    {% if image.thumbs.GIF %}
+                        <source media="(min-width: 1024px)" srcset="{{ image.thumbs.GIF }}=w284">
                     {% endif %}
-                    <source media="(min-width: 1024px)" srcset="{{ image.thumbs.w1024_PNG }}">
-                    <source media="(min-width: 1024px)" srcset="{{ image.thumbs.w1024_JPG }}">
-                    {% if image.thumbs.w768_GIF %}
-                        <source media="(min-width: 768px)" srcset="{{ image.thumbs.w768_GIF }}">
+                    <source media="(min-width: 1024px)" srcset="{{ image.thumbs.PNG }}=w284">
+                    <source media="(min-width: 1024px)" srcset="{{ image.thumbs.PG }}=w284">
+                    {% if image.thumbs.GIF %}
+                        <source media="(min-width: 768px)" srcset="{{ image.thumbs.GIF }}=w213">
                     {% endif %}
-                    <source media="(min-width: 768px)" srcset="{{ images.thumbs.w768_PNG }}">
-                    <source media="(min-width: 768px)" srcset="{{ images.thumbs.w768_JPG }}">
-                    {% if image.thumbs.w600_GIF %}
-                        <source media="(min-width: 600px)" srcset="{{ image.thumbs.w600_GIF }}">
+                    <source media="(min-width: 768px)" srcset="{{ images.thumbs.PNG }}=w213">
+                    <source media="(min-width: 768px)" srcset="{{ images.thumbs.JPG }}=w213">
+                    {% if image.thumbs.GIF %}
+                        <source media="(min-width: 600px)" srcset="{{ image.thumbs.GIF }}=w166">
                     {% endif %}
-                    <source media="(min-width: 600px)" srcset="{{ image.thumbs.w600_PNG }}">
-                    <source media="(min-width: 600px)" srcset="{{ image.thumbs.w600_JPG }}">
-                    {% if image.thumbs.w411_GIF %}
-                        <source media="(min-width: 411px)" srcset="{{ image.thumbs.w411_GIF }}">
+                    <source media="(min-width: 600px)" srcset="{{ image.thumbs.PNG }}=w166">
+                    <source media="(min-width: 600px)" srcset="{{ image.thumbs.JPG }}=w166">
+                    {% if image.thumbs.GIF %}
+                        <source media="(min-width: 411px)" srcset="{{ image.thumbs.GIF }}=w114">
                     {% endif %}
-                    <source media="(min-width: 411px)" srcset="{{ image.thumbs.w411_PNG }}">
-                    <source media="(min-width: 411px)" srcset="{{ image.thumbs.w411_JPG }}">
-                    {% if image.thumbs.w360_GIF %}
-                        <source media="(min-width: 360px)" srcset="{{ image.thumbs.w360_GIF }}">
+                    <source media="(min-width: 411px)" srcset="{{ image.thumbs.PNG }}=w114">
+                    <source media="(min-width: 411px)" srcset="{{ image.thumbs.PG }}=w114">
+                    {% if image.thumbs.GIF %}
+                        <source media="(min-width: 360px)" srcset="{{ image.thumbs.GIF }}=w100">
                     {% endif %}
-                    <source media="(min-width: 360px)" srcset="{{ image.thumbs.w360_PNG }}">
-                    <source media="(min-width: 360px)" srcset="{{ image.thumbs.w360_JPG }}">
-                    {% if image.thumbs.w240_GIF %}
-                        <source media="(min-width: 240px)" srcset="{{ image.thumbs.w240_GIF }}">
+                    <source media="(min-width: 360px)" srcset="{{ image.thumbs.PNG }}=w100">
+                    <source media="(min-width: 360px)" srcset="{{ image.thumbs.JPG }}=w100">
+                    {% if image.thumbs.GIF %}
+                        <source media="(min-width: 240px)" srcset="{{ image.thumbs.GIF }}=w66">
                     {% endif %}
-                    <source media="(min-width: 240px)" srcset="{{ image.thumbs.w240_PNG }}">
-                    <img src="{{ image.thumbs.w240_JPG }}" alt="{{ image.alt }}" title="{{ image.title }}" class="rounded-circle mx-auto d-block transform-in">
+                    <source media="(min-width: 240px)" srcset="{{ image.thumbs.PNG }}=w66">
+                    <img src="{{ image.thumbs.JPG }}=w66" alt="{{ image.alt }}" title="{{ image.title }}" class="rounded-circle mx-auto d-block transform-in">
                 </picture></a>
             </div>
         {% endfor %}

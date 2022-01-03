@@ -11,38 +11,14 @@ external:
  - caption: GameJolt
    url: https://gamejolt.com/p/a-sketch-of-the-character-alea-from-the-game-claws-and-tears-by-ffexkdfz
 thumbs:
-    w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fW7Bq_Hr4Th_pOwHuA632XzVZsZ5rMmvfFfJYzusWOGDs3aqI0Wud99hH1llreQxkqQPfdYDD3YqZ5PkDG9jK8lI6Xn7Utz71ZauJCtZYhSCHm_U8FMqtzafwIspyRpB46Dps-us6ctaAp4DbX4xWt=w355
-    w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3fNWYgsdG0WoGz_tekZpkphuZd9czpNK8p_sYNkoEhlige_gqo9OeHEwJJZcUMZkgpNkxuyvcUzt8sgQ22U5stmsWSyD_puQIMNxTXld0cc8EOpFYYUFpUqcL-8N2qlNqQ7LDGGHNzMSeCiH3lgL-po=w355
-    w1024_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fW7Bq_Hr4Th_pOwHuA632XzVZsZ5rMmvfFfJYzusWOGDs3aqI0Wud99hH1llreQxkqQPfdYDD3YqZ5PkDG9jK8lI6Xn7Utz71ZauJCtZYhSCHm_U8FMqtzafwIspyRpB46Dps-us6ctaAp4DbX4xWt=w284
-    w1024_JPG: https://lh3.googleusercontent.com/pw/ACtC-3fNWYgsdG0WoGz_tekZpkphuZd9czpNK8p_sYNkoEhlige_gqo9OeHEwJJZcUMZkgpNkxuyvcUzt8sgQ22U5stmsWSyD_puQIMNxTXld0cc8EOpFYYUFpUqcL-8N2qlNqQ7LDGGHNzMSeCiH3lgL-po=w284
-    w768_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fW7Bq_Hr4Th_pOwHuA632XzVZsZ5rMmvfFfJYzusWOGDs3aqI0Wud99hH1llreQxkqQPfdYDD3YqZ5PkDG9jK8lI6Xn7Utz71ZauJCtZYhSCHm_U8FMqtzafwIspyRpB46Dps-us6ctaAp4DbX4xWt=w213
-    w768_JPG: https://lh3.googleusercontent.com/pw/ACtC-3fNWYgsdG0WoGz_tekZpkphuZd9czpNK8p_sYNkoEhlige_gqo9OeHEwJJZcUMZkgpNkxuyvcUzt8sgQ22U5stmsWSyD_puQIMNxTXld0cc8EOpFYYUFpUqcL-8N2qlNqQ7LDGGHNzMSeCiH3lgL-po=w213
-    w600_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fW7Bq_Hr4Th_pOwHuA632XzVZsZ5rMmvfFfJYzusWOGDs3aqI0Wud99hH1llreQxkqQPfdYDD3YqZ5PkDG9jK8lI6Xn7Utz71ZauJCtZYhSCHm_U8FMqtzafwIspyRpB46Dps-us6ctaAp4DbX4xWt=w166
-    w600_JPG: https://lh3.googleusercontent.com/pw/ACtC-3fNWYgsdG0WoGz_tekZpkphuZd9czpNK8p_sYNkoEhlige_gqo9OeHEwJJZcUMZkgpNkxuyvcUzt8sgQ22U5stmsWSyD_puQIMNxTXld0cc8EOpFYYUFpUqcL-8N2qlNqQ7LDGGHNzMSeCiH3lgL-po=w166
-    w411_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fW7Bq_Hr4Th_pOwHuA632XzVZsZ5rMmvfFfJYzusWOGDs3aqI0Wud99hH1llreQxkqQPfdYDD3YqZ5PkDG9jK8lI6Xn7Utz71ZauJCtZYhSCHm_U8FMqtzafwIspyRpB46Dps-us6ctaAp4DbX4xWt=w114
-    w411_JPG: https://lh3.googleusercontent.com/pw/ACtC-3fNWYgsdG0WoGz_tekZpkphuZd9czpNK8p_sYNkoEhlige_gqo9OeHEwJJZcUMZkgpNkxuyvcUzt8sgQ22U5stmsWSyD_puQIMNxTXld0cc8EOpFYYUFpUqcL-8N2qlNqQ7LDGGHNzMSeCiH3lgL-po=w114
-    w360_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fW7Bq_Hr4Th_pOwHuA632XzVZsZ5rMmvfFfJYzusWOGDs3aqI0Wud99hH1llreQxkqQPfdYDD3YqZ5PkDG9jK8lI6Xn7Utz71ZauJCtZYhSCHm_U8FMqtzafwIspyRpB46Dps-us6ctaAp4DbX4xWt=w100
-    w360_JPG: https://lh3.googleusercontent.com/pw/ACtC-3fNWYgsdG0WoGz_tekZpkphuZd9czpNK8p_sYNkoEhlige_gqo9OeHEwJJZcUMZkgpNkxuyvcUzt8sgQ22U5stmsWSyD_puQIMNxTXld0cc8EOpFYYUFpUqcL-8N2qlNqQ7LDGGHNzMSeCiH3lgL-po=w100
-    w240_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fW7Bq_Hr4Th_pOwHuA632XzVZsZ5rMmvfFfJYzusWOGDs3aqI0Wud99hH1llreQxkqQPfdYDD3YqZ5PkDG9jK8lI6Xn7Utz71ZauJCtZYhSCHm_U8FMqtzafwIspyRpB46Dps-us6ctaAp4DbX4xWt=w66
-    w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3fNWYgsdG0WoGz_tekZpkphuZd9czpNK8p_sYNkoEhlige_gqo9OeHEwJJZcUMZkgpNkxuyvcUzt8sgQ22U5stmsWSyD_puQIMNxTXld0cc8EOpFYYUFpUqcL-8N2qlNqQ7LDGGHNzMSeCiH3lgL-po=w66
+    PNG: https://lh3.googleusercontent.com/pw/AM-JKLXOsSoxyeqHhM8UDNLLAfqUx3Ij4uzamcjY1gsQ5Gx3fSySkxLDvT-g61S-MTfJ6pJo91ZOwoBAVrtYSNQtjpsbBIDSxiYcUBZmNy2-jIWOOFSMayg0YCcgekCTcJaq4cx_U9WRyi-hm5TYMXjzaCtR
+    JPG: https://lh3.googleusercontent.com/pw/AM-JKLX4N3cJENbwJ3o7Ieu2yDjByR-E35wCHv_b-nx3yYjXHanY-DR4x0tg31gMkC3bXz62er73QB3LKOS0i2dT7LZSXSKUBtaQt-r7MCEPEs2Mb3ScpepjWE58vF8kma9cNtZLVRMckbtI0i2YSWVhFXbX
 images:
     - label: Final Version
       caption: Fully rendered.
-      full: https://lh3.googleusercontent.com/pw/ACtC-3d1hgc2U8qltFH71pEbNAc5zD6ZXPg9cWkExsgiAPPTYjf8Rm8dqS--IiU43DOoIyzDnlAGm2Rr1HSoKDI8VN-gX4upWgVXR-6yDp_BDTzKuefT8itYnwrmbFyRo_1jffc2KviunC9Bk59mvBbv5ScX=w1080
-      w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3e5BwZMHUeOPoCedL65VqIh9XIhCLG_NCZLY7yra2RGsTErKuGSwhBmx1QQTIju2mPwaLUXT2fJQfqa_1zeuNQO2vrT7a-sBhChpSIn8TjNRSYVYA-hV-TYbOKuaGVfl8OH6cYVE5ZEcjgbVqc6BCJp=w850
-      w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dWU2AnsilhpEJWJnRWBQuQyyld6ClFgoyCFOSTR0Th5HzaNS3ddV1e8a1na434kcByoGhe-2aVflArN_j2dHGfBWSztWSc1cU6r92xrk15eLdyzZCD3p-PBJk-e5hF37XHs0y1hojLA1Pggq2d2IN0=w850
-      w1024_PNG: https://lh3.googleusercontent.com/pw/ACtC-3e5BwZMHUeOPoCedL65VqIh9XIhCLG_NCZLY7yra2RGsTErKuGSwhBmx1QQTIju2mPwaLUXT2fJQfqa_1zeuNQO2vrT7a-sBhChpSIn8TjNRSYVYA-hV-TYbOKuaGVfl8OH6cYVE5ZEcjgbVqc6BCJp=w711
-      w1024_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dWU2AnsilhpEJWJnRWBQuQyyld6ClFgoyCFOSTR0Th5HzaNS3ddV1e8a1na434kcByoGhe-2aVflArN_j2dHGfBWSztWSc1cU6r92xrk15eLdyzZCD3p-PBJk-e5hF37XHs0y1hojLA1Pggq2d2IN0=w711
-      w768_PNG: https://lh3.googleusercontent.com/pw/ACtC-3e5BwZMHUeOPoCedL65VqIh9XIhCLG_NCZLY7yra2RGsTErKuGSwhBmx1QQTIju2mPwaLUXT2fJQfqa_1zeuNQO2vrT7a-sBhChpSIn8TjNRSYVYA-hV-TYbOKuaGVfl8OH6cYVE5ZEcjgbVqc6BCJp=w533
-      w768_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dWU2AnsilhpEJWJnRWBQuQyyld6ClFgoyCFOSTR0Th5HzaNS3ddV1e8a1na434kcByoGhe-2aVflArN_j2dHGfBWSztWSc1cU6r92xrk15eLdyzZCD3p-PBJk-e5hF37XHs0y1hojLA1Pggq2d2IN0=w533
-      w600_PNG: https://lh3.googleusercontent.com/pw/ACtC-3e5BwZMHUeOPoCedL65VqIh9XIhCLG_NCZLY7yra2RGsTErKuGSwhBmx1QQTIju2mPwaLUXT2fJQfqa_1zeuNQO2vrT7a-sBhChpSIn8TjNRSYVYA-hV-TYbOKuaGVfl8OH6cYVE5ZEcjgbVqc6BCJp=w416
-      w600_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dWU2AnsilhpEJWJnRWBQuQyyld6ClFgoyCFOSTR0Th5HzaNS3ddV1e8a1na434kcByoGhe-2aVflArN_j2dHGfBWSztWSc1cU6r92xrk15eLdyzZCD3p-PBJk-e5hF37XHs0y1hojLA1Pggq2d2IN0=w416
-      w411_PNG: https://lh3.googleusercontent.com/pw/ACtC-3e5BwZMHUeOPoCedL65VqIh9XIhCLG_NCZLY7yra2RGsTErKuGSwhBmx1QQTIju2mPwaLUXT2fJQfqa_1zeuNQO2vrT7a-sBhChpSIn8TjNRSYVYA-hV-TYbOKuaGVfl8OH6cYVE5ZEcjgbVqc6BCJp=w285
-      w411_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dWU2AnsilhpEJWJnRWBQuQyyld6ClFgoyCFOSTR0Th5HzaNS3ddV1e8a1na434kcByoGhe-2aVflArN_j2dHGfBWSztWSc1cU6r92xrk15eLdyzZCD3p-PBJk-e5hF37XHs0y1hojLA1Pggq2d2IN0=w285
-      w360_PNG: https://lh3.googleusercontent.com/pw/ACtC-3e5BwZMHUeOPoCedL65VqIh9XIhCLG_NCZLY7yra2RGsTErKuGSwhBmx1QQTIju2mPwaLUXT2fJQfqa_1zeuNQO2vrT7a-sBhChpSIn8TjNRSYVYA-hV-TYbOKuaGVfl8OH6cYVE5ZEcjgbVqc6BCJp=w250
-      w360_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dWU2AnsilhpEJWJnRWBQuQyyld6ClFgoyCFOSTR0Th5HzaNS3ddV1e8a1na434kcByoGhe-2aVflArN_j2dHGfBWSztWSc1cU6r92xrk15eLdyzZCD3p-PBJk-e5hF37XHs0y1hojLA1Pggq2d2IN0=w250
-      w240_PNG: https://lh3.googleusercontent.com/pw/ACtC-3e5BwZMHUeOPoCedL65VqIh9XIhCLG_NCZLY7yra2RGsTErKuGSwhBmx1QQTIju2mPwaLUXT2fJQfqa_1zeuNQO2vrT7a-sBhChpSIn8TjNRSYVYA-hV-TYbOKuaGVfl8OH6cYVE5ZEcjgbVqc6BCJp=w166
-      w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dWU2AnsilhpEJWJnRWBQuQyyld6ClFgoyCFOSTR0Th5HzaNS3ddV1e8a1na434kcByoGhe-2aVflArN_j2dHGfBWSztWSc1cU6r92xrk15eLdyzZCD3p-PBJk-e5hF37XHs0y1hojLA1Pggq2d2IN0=w166
+      full: https://lh3.googleusercontent.com/pw/AM-JKLU6CJNGPO4vqkaEEh7aX107huqdv62qpU5VLbu1SkFhpOhQg6q-gubSbuBUOTDCGg-SUClOcww7sed0XfI8n5tLaUMag9Fq90oqwRRiR5A9hy2OIXqhZk6hxh1iMxKAopdYJNkpC-po4V54wb32wlyN=w2400
+      PNG: https://lh3.googleusercontent.com/pw/AM-JKLVEmZR10Nn0FGLKURICzseKea6zt0nWi61yNOm2L9Dh-Zt0ewEn8Q_cdikaLAd464SsjVuQl6zThwKsvCZmG8lAwyn4e3iCCXvemqZ3gj1YS9sObUCv_6WkIxaL2_uNSAUM1NxL7FH584q1WLwDSQAi
+      JPG: https://lh3.googleusercontent.com/pw/AM-JKLUr7Hbo63gVng9dy176cZZkAdPfqRCF1LAUuGZfalzpQ1UQ7ODEOHA66pyqTGN1qGPB1MU1ejVvjvTIYsV0jVPtgLg-QUjeXhomo6j9qoQIpGmMbW2RXvdsz0po3fD1hy3wP2wYGHtvKyCi-GFhNp7L
 ---
 
 Ink sketch of **Alea** from **Claws and Tears** by [Lec Leofric Games <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/mister.alex.fernandes/).   

@@ -11,38 +11,14 @@ external:
     - caption: GameJolt
       url: https://gamejolt.com/p/a-bunch-of-justice-league-sprites-based-on-a-rpg-maker-xp-character-esssnvxd
 thumbs:
-    w1920_PNG: https://lh3.googleusercontent.com/TXJ9QWxOwSPO3M2OWpdI-B8bhOtgt33egV712grx_lVKn9a8LCAvDd3UeBMkwbF_YR1NL-8Yzpn81eVXnE2NDepQN2h6yvsv1nO42_SoAdgFIltsfM4pJINXfBd5cFzO7uQ13wiz6w=w355
-    w1920_JPG: https://lh3.googleusercontent.com/5wMZ_41OPLDOS44ha-oH0joFgL8zS0U3eg8uVbHpKkz25_OcftJP-_ddnCsVbrUUHwk52oXnCc-r3YzE2vPA9mH61sfSrxcGfoGtTgLCCM1rrSX_N5YNbflWmUOnBh0gIpUgVxO4PQ=w355
-    w1024_PNG: https://lh3.googleusercontent.com/TXJ9QWxOwSPO3M2OWpdI-B8bhOtgt33egV712grx_lVKn9a8LCAvDd3UeBMkwbF_YR1NL-8Yzpn81eVXnE2NDepQN2h6yvsv1nO42_SoAdgFIltsfM4pJINXfBd5cFzO7uQ13wiz6w=w284
-    w1024_JPG: https://lh3.googleusercontent.com/5wMZ_41OPLDOS44ha-oH0joFgL8zS0U3eg8uVbHpKkz25_OcftJP-_ddnCsVbrUUHwk52oXnCc-r3YzE2vPA9mH61sfSrxcGfoGtTgLCCM1rrSX_N5YNbflWmUOnBh0gIpUgVxO4PQ=w284
-    w768_PNG: https://lh3.googleusercontent.com/TXJ9QWxOwSPO3M2OWpdI-B8bhOtgt33egV712grx_lVKn9a8LCAvDd3UeBMkwbF_YR1NL-8Yzpn81eVXnE2NDepQN2h6yvsv1nO42_SoAdgFIltsfM4pJINXfBd5cFzO7uQ13wiz6w=w213
-    w768_JPG: https://lh3.googleusercontent.com/5wMZ_41OPLDOS44ha-oH0joFgL8zS0U3eg8uVbHpKkz25_OcftJP-_ddnCsVbrUUHwk52oXnCc-r3YzE2vPA9mH61sfSrxcGfoGtTgLCCM1rrSX_N5YNbflWmUOnBh0gIpUgVxO4PQ=w213
-    w600_PNG: https://lh3.googleusercontent.com/TXJ9QWxOwSPO3M2OWpdI-B8bhOtgt33egV712grx_lVKn9a8LCAvDd3UeBMkwbF_YR1NL-8Yzpn81eVXnE2NDepQN2h6yvsv1nO42_SoAdgFIltsfM4pJINXfBd5cFzO7uQ13wiz6w=w166
-    w600_JPG: https://lh3.googleusercontent.com/5wMZ_41OPLDOS44ha-oH0joFgL8zS0U3eg8uVbHpKkz25_OcftJP-_ddnCsVbrUUHwk52oXnCc-r3YzE2vPA9mH61sfSrxcGfoGtTgLCCM1rrSX_N5YNbflWmUOnBh0gIpUgVxO4PQ=w166
-    w411_PNG: https://lh3.googleusercontent.com/TXJ9QWxOwSPO3M2OWpdI-B8bhOtgt33egV712grx_lVKn9a8LCAvDd3UeBMkwbF_YR1NL-8Yzpn81eVXnE2NDepQN2h6yvsv1nO42_SoAdgFIltsfM4pJINXfBd5cFzO7uQ13wiz6w=w114
-    w411_JPG: https://lh3.googleusercontent.com/5wMZ_41OPLDOS44ha-oH0joFgL8zS0U3eg8uVbHpKkz25_OcftJP-_ddnCsVbrUUHwk52oXnCc-r3YzE2vPA9mH61sfSrxcGfoGtTgLCCM1rrSX_N5YNbflWmUOnBh0gIpUgVxO4PQ=w114
-    w360_PNG: https://lh3.googleusercontent.com/TXJ9QWxOwSPO3M2OWpdI-B8bhOtgt33egV712grx_lVKn9a8LCAvDd3UeBMkwbF_YR1NL-8Yzpn81eVXnE2NDepQN2h6yvsv1nO42_SoAdgFIltsfM4pJINXfBd5cFzO7uQ13wiz6w=w100
-    w360_JPG: https://lh3.googleusercontent.com/5wMZ_41OPLDOS44ha-oH0joFgL8zS0U3eg8uVbHpKkz25_OcftJP-_ddnCsVbrUUHwk52oXnCc-r3YzE2vPA9mH61sfSrxcGfoGtTgLCCM1rrSX_N5YNbflWmUOnBh0gIpUgVxO4PQ=w100
-    w240_PNG: https://lh3.googleusercontent.com/TXJ9QWxOwSPO3M2OWpdI-B8bhOtgt33egV712grx_lVKn9a8LCAvDd3UeBMkwbF_YR1NL-8Yzpn81eVXnE2NDepQN2h6yvsv1nO42_SoAdgFIltsfM4pJINXfBd5cFzO7uQ13wiz6w=w66
-    w240_JPG: https://lh3.googleusercontent.com/5wMZ_41OPLDOS44ha-oH0joFgL8zS0U3eg8uVbHpKkz25_OcftJP-_ddnCsVbrUUHwk52oXnCc-r3YzE2vPA9mH61sfSrxcGfoGtTgLCCM1rrSX_N5YNbflWmUOnBh0gIpUgVxO4PQ=w66
+    PNG: https://lh3.googleusercontent.com/pw/AM-JKLUehLHTDNNc6H2PuKrJ_Lp_MoZFuqZaAoP6vquQ98JrmkNMMSywbeo0uQJNcJItFlfuGzsHEt089Bfm8XZWHm4Pm_sRNq5dNr_TjZ4Xt5gSTgGTsSsdYvYWAimkZehlgDtPXOjt-4_g244vqH1oEVtl
+    JPG: https://lh3.googleusercontent.com/pw/AM-JKLW6RtU62OoJjENmnSH1UUQaaPfhlMvh1DTkCoqZWkbuRumHf-L8K55bBApheC_t9k-ALLcoKIhajKVle2KbOECaM0e8eutZ6LjSsJ09AShEPKWR0WSiNrj5cGNvwmdCqjwZRjsNtWCiztRCOSVY6EXn
 images:
     - label: Final Version
       caption: Fully rendered.
-      full: https://lh3.googleusercontent.com/q6dy4FXMiubsE0cXONawn-LIy_D-FEhIdRzUfKAHqa01aByYyULjyPfC-eltRgEVGLCSJOMmgnJryyi8yur5qD__MQxQDnD9VIPKNAiZTbHUuLxSFZY1yR2xaD5yDneleNOT-n-qlA=w1080-h1080
-      w1920_PNG: https://lh3.googleusercontent.com/-puw65Zn9yzVOdZ7_wuhBFpJFfNHXwEwoVfLDmjOvZtaeyu-xkaqLEOaO3w6KrJy0WpIl5WHtpcDdyd1WFDQf-AnA1_iCb4NXGpYGGJp1tZh-m5rwzrIYXuHS2K-x3SuuYxg26ahgA=w850
-      w1920_JPG: https://lh3.googleusercontent.com/AdSuhBhzUPljU08JEy9A0EW_actDB4ZrS5fiUdgqbLSHppWbUtLMN2HsHu0HWIUIFA5KUNBRf4rJNI6WreoYBGzCKvU4B7u5MF2KrXsrEGoJ1CGbw9jgL2uN0Gzc9SU61w4vGNePSQ=w850
-      w1024_PNG: https://lh3.googleusercontent.com/-puw65Zn9yzVOdZ7_wuhBFpJFfNHXwEwoVfLDmjOvZtaeyu-xkaqLEOaO3w6KrJy0WpIl5WHtpcDdyd1WFDQf-AnA1_iCb4NXGpYGGJp1tZh-m5rwzrIYXuHS2K-x3SuuYxg26ahgA=w711
-      w1024_JPG: https://lh3.googleusercontent.com/AdSuhBhzUPljU08JEy9A0EW_actDB4ZrS5fiUdgqbLSHppWbUtLMN2HsHu0HWIUIFA5KUNBRf4rJNI6WreoYBGzCKvU4B7u5MF2KrXsrEGoJ1CGbw9jgL2uN0Gzc9SU61w4vGNePSQ=w711
-      w768_PNG: https://lh3.googleusercontent.com/-puw65Zn9yzVOdZ7_wuhBFpJFfNHXwEwoVfLDmjOvZtaeyu-xkaqLEOaO3w6KrJy0WpIl5WHtpcDdyd1WFDQf-AnA1_iCb4NXGpYGGJp1tZh-m5rwzrIYXuHS2K-x3SuuYxg26ahgA=w533
-      w768_JPG: https://lh3.googleusercontent.com/AdSuhBhzUPljU08JEy9A0EW_actDB4ZrS5fiUdgqbLSHppWbUtLMN2HsHu0HWIUIFA5KUNBRf4rJNI6WreoYBGzCKvU4B7u5MF2KrXsrEGoJ1CGbw9jgL2uN0Gzc9SU61w4vGNePSQ=w533
-      w600_PNG: https://lh3.googleusercontent.com/-puw65Zn9yzVOdZ7_wuhBFpJFfNHXwEwoVfLDmjOvZtaeyu-xkaqLEOaO3w6KrJy0WpIl5WHtpcDdyd1WFDQf-AnA1_iCb4NXGpYGGJp1tZh-m5rwzrIYXuHS2K-x3SuuYxg26ahgA=w416
-      w600_JPG: https://lh3.googleusercontent.com/AdSuhBhzUPljU08JEy9A0EW_actDB4ZrS5fiUdgqbLSHppWbUtLMN2HsHu0HWIUIFA5KUNBRf4rJNI6WreoYBGzCKvU4B7u5MF2KrXsrEGoJ1CGbw9jgL2uN0Gzc9SU61w4vGNePSQ=w416
-      w411_PNG: https://lh3.googleusercontent.com/-puw65Zn9yzVOdZ7_wuhBFpJFfNHXwEwoVfLDmjOvZtaeyu-xkaqLEOaO3w6KrJy0WpIl5WHtpcDdyd1WFDQf-AnA1_iCb4NXGpYGGJp1tZh-m5rwzrIYXuHS2K-x3SuuYxg26ahgA=w285
-      w411_JPG: https://lh3.googleusercontent.com/AdSuhBhzUPljU08JEy9A0EW_actDB4ZrS5fiUdgqbLSHppWbUtLMN2HsHu0HWIUIFA5KUNBRf4rJNI6WreoYBGzCKvU4B7u5MF2KrXsrEGoJ1CGbw9jgL2uN0Gzc9SU61w4vGNePSQ=w285
-      w360_PNG: https://lh3.googleusercontent.com/-puw65Zn9yzVOdZ7_wuhBFpJFfNHXwEwoVfLDmjOvZtaeyu-xkaqLEOaO3w6KrJy0WpIl5WHtpcDdyd1WFDQf-AnA1_iCb4NXGpYGGJp1tZh-m5rwzrIYXuHS2K-x3SuuYxg26ahgA=w250
-      w360_JPG: https://lh3.googleusercontent.com/AdSuhBhzUPljU08JEy9A0EW_actDB4ZrS5fiUdgqbLSHppWbUtLMN2HsHu0HWIUIFA5KUNBRf4rJNI6WreoYBGzCKvU4B7u5MF2KrXsrEGoJ1CGbw9jgL2uN0Gzc9SU61w4vGNePSQ=w250
-      w240_PNG: https://lh3.googleusercontent.com/-puw65Zn9yzVOdZ7_wuhBFpJFfNHXwEwoVfLDmjOvZtaeyu-xkaqLEOaO3w6KrJy0WpIl5WHtpcDdyd1WFDQf-AnA1_iCb4NXGpYGGJp1tZh-m5rwzrIYXuHS2K-x3SuuYxg26ahgA=w166
-      w240_JPG: https://lh3.googleusercontent.com/AdSuhBhzUPljU08JEy9A0EW_actDB4ZrS5fiUdgqbLSHppWbUtLMN2HsHu0HWIUIFA5KUNBRf4rJNI6WreoYBGzCKvU4B7u5MF2KrXsrEGoJ1CGbw9jgL2uN0Gzc9SU61w4vGNePSQ=w166
+      full: https://lh3.googleusercontent.com/pw/AM-JKLX7-_uDYy2fyE38HnRNZzZ0tQa5zdIdFZt67awHIVai4ZvCwlN_YfgkcVAtqjy3lDVyDqObJXUxKlXSutx62uzbPxjhrSy9SVah7SiwCP_6NPa8kwN6bVZxUNgu5dnvHxYxRSmRJ4VH54V9H-PH3XIz=s1080
+      PNG: https://lh3.googleusercontent.com/pw/AM-JKLVDGs3shCX_cW1uHlM0bI-5NEjAurxM-jeWdp1tTHf4FGQUu4Ok855QSVxMNVFCWyLotXGb55LG4T_Z2_mp5A6MWYB2n2__xPEwRA9K-5IHY2UWNV2E8jyQV3CTiSrRlMwIbyH-xYoq1lKRy5_k-irR
+      JPG: https://lh3.googleusercontent.com/pw/AM-JKLUtKYZBolRA_TQiDG9iAtf7KxjZzJnemu0uTOKgMHfSNFeEmrRzMQaNpPGP0p_BiVBKbnVn-G1nO3fAgil9kWwpV5m3g_EtbA8dLyAQNP9g7BbKsSTX803kvRXf-3qnVFqeA8YCveTd7Fuv1YHvrsun
 ---
 
 So it's finally been announced, **Zack Snyder**'s **Justice League** will be released in *2021*.

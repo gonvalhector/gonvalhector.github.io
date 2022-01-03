@@ -11,38 +11,14 @@ external:
     - caption: GameJolt
       url: https://gamejolt.com/p/a-little-batman-sprite-based-on-the-megaman-x-sprite-and-the-d-iay4sr7p
 thumbs:
-    w1920_PNG: https://lh3.googleusercontent.com/uPSigtzJIKDd33qid1Kzi7jbingm13ftCgKSDoEHUU1j_YhX7izTxBFLlAfwJ_-4m6SLQmBh9yWhviJmIclpwA6WiDt15UhyoEsZNpy0sv7z0KaYdqu_YVYwaO5cG5-uv_OCcCcp9A=w355
-    w1920_JPG: https://lh3.googleusercontent.com/8Fp1oyU7G9yPPG7CuADrRupp4vCNwBUraNPzfC15LMaStu9WxmAjoRjLBbrJ0fdvbaTupNK-x-0rJBJsd9nWlUgUdXGS7hWJ_GdOGyKNaHdDRnSjnTHgMqMXiyEwbxMl10f-C_SKmA=w355
-    w1024_PNG: https://lh3.googleusercontent.com/uPSigtzJIKDd33qid1Kzi7jbingm13ftCgKSDoEHUU1j_YhX7izTxBFLlAfwJ_-4m6SLQmBh9yWhviJmIclpwA6WiDt15UhyoEsZNpy0sv7z0KaYdqu_YVYwaO5cG5-uv_OCcCcp9A=w284
-    w1024_JPG: https://lh3.googleusercontent.com/8Fp1oyU7G9yPPG7CuADrRupp4vCNwBUraNPzfC15LMaStu9WxmAjoRjLBbrJ0fdvbaTupNK-x-0rJBJsd9nWlUgUdXGS7hWJ_GdOGyKNaHdDRnSjnTHgMqMXiyEwbxMl10f-C_SKmA=w284
-    w768_PNG: https://lh3.googleusercontent.com/uPSigtzJIKDd33qid1Kzi7jbingm13ftCgKSDoEHUU1j_YhX7izTxBFLlAfwJ_-4m6SLQmBh9yWhviJmIclpwA6WiDt15UhyoEsZNpy0sv7z0KaYdqu_YVYwaO5cG5-uv_OCcCcp9A=w213
-    w768_JPG: https://lh3.googleusercontent.com/8Fp1oyU7G9yPPG7CuADrRupp4vCNwBUraNPzfC15LMaStu9WxmAjoRjLBbrJ0fdvbaTupNK-x-0rJBJsd9nWlUgUdXGS7hWJ_GdOGyKNaHdDRnSjnTHgMqMXiyEwbxMl10f-C_SKmA=w213
-    w600_PNG: https://lh3.googleusercontent.com/uPSigtzJIKDd33qid1Kzi7jbingm13ftCgKSDoEHUU1j_YhX7izTxBFLlAfwJ_-4m6SLQmBh9yWhviJmIclpwA6WiDt15UhyoEsZNpy0sv7z0KaYdqu_YVYwaO5cG5-uv_OCcCcp9A=w166
-    w600_JPG: https://lh3.googleusercontent.com/8Fp1oyU7G9yPPG7CuADrRupp4vCNwBUraNPzfC15LMaStu9WxmAjoRjLBbrJ0fdvbaTupNK-x-0rJBJsd9nWlUgUdXGS7hWJ_GdOGyKNaHdDRnSjnTHgMqMXiyEwbxMl10f-C_SKmA=w166
-    w411_PNG: https://lh3.googleusercontent.com/uPSigtzJIKDd33qid1Kzi7jbingm13ftCgKSDoEHUU1j_YhX7izTxBFLlAfwJ_-4m6SLQmBh9yWhviJmIclpwA6WiDt15UhyoEsZNpy0sv7z0KaYdqu_YVYwaO5cG5-uv_OCcCcp9A=w114
-    w411_JPG: https://lh3.googleusercontent.com/8Fp1oyU7G9yPPG7CuADrRupp4vCNwBUraNPzfC15LMaStu9WxmAjoRjLBbrJ0fdvbaTupNK-x-0rJBJsd9nWlUgUdXGS7hWJ_GdOGyKNaHdDRnSjnTHgMqMXiyEwbxMl10f-C_SKmA=w114
-    w360_PNG: https://lh3.googleusercontent.com/uPSigtzJIKDd33qid1Kzi7jbingm13ftCgKSDoEHUU1j_YhX7izTxBFLlAfwJ_-4m6SLQmBh9yWhviJmIclpwA6WiDt15UhyoEsZNpy0sv7z0KaYdqu_YVYwaO5cG5-uv_OCcCcp9A=w100
-    w360_JPG: https://lh3.googleusercontent.com/8Fp1oyU7G9yPPG7CuADrRupp4vCNwBUraNPzfC15LMaStu9WxmAjoRjLBbrJ0fdvbaTupNK-x-0rJBJsd9nWlUgUdXGS7hWJ_GdOGyKNaHdDRnSjnTHgMqMXiyEwbxMl10f-C_SKmA=w100
-    w240_PNG: https://lh3.googleusercontent.com/uPSigtzJIKDd33qid1Kzi7jbingm13ftCgKSDoEHUU1j_YhX7izTxBFLlAfwJ_-4m6SLQmBh9yWhviJmIclpwA6WiDt15UhyoEsZNpy0sv7z0KaYdqu_YVYwaO5cG5-uv_OCcCcp9A=w66
-    w240_JPG: https://lh3.googleusercontent.com/8Fp1oyU7G9yPPG7CuADrRupp4vCNwBUraNPzfC15LMaStu9WxmAjoRjLBbrJ0fdvbaTupNK-x-0rJBJsd9nWlUgUdXGS7hWJ_GdOGyKNaHdDRnSjnTHgMqMXiyEwbxMl10f-C_SKmA=w66
+    PNG: https://lh3.googleusercontent.com/pw/AM-JKLUcu1o49gWZEVa4GvHBNA4spIJc12uL_C_plZ-S29X3BG3YmcZYcRTWvmDzKc3iO4k4vjMUXlbpHBfibNrm5D0mJiCRhbeHmTly1-E-TXrvmKfM_F9keTxJ_Kmb5xQyb4O9Y7DDqwrCZ78mhQ4_dpOV
+    JPG: https://lh3.googleusercontent.com/pw/AM-JKLULql0N96h1l0Og4JswmIPw8IFYJto_orclTArtxrP9LXjqt7HJ9o7PqbPlydainKzAA-kMtr0XTrSWGVXBHFej0QttNP9MVv7rldfICaSJHyF6inby-KgfsjBv7yz7Jeg-AQGQHAOiu5QtnksnPOP7
 images:
     - label: Final Version
       caption: Fully rendered.
-      full: https://lh3.googleusercontent.com/v2O4UAG7vJGsNnfbWh0zJDzf4tYXJYZ3HTjX2LVYXZDmTSm9Lxq8FG2sPfOTgz7ZINECs2Q5t1f-HFPbsXzV4zL7WC2JiMP7FOO5Z9uKMr3JauNAAL_i_7O8dmJRdTklOYaRVfmHCg=w1080-h1080
-      w1920_PNG: https://lh3.googleusercontent.com/wj0S5s7vpkc6Nv_4MCyguuEQ8Eu8zdWuXiHNQjM2um224LIinRM9EseYDnfah9zBc5KllOjGNCa7y3di7o-3JM_h1G6whFJVVSM44mjptbcLLdvBCEXSkA-EwRpPRO3-OoomIUcTuQ=w850
-      w1920_JPG: https://lh3.googleusercontent.com/x4fhMKahPmJHZmP7J7CYtNXt-jvYjUKAVMb7AirgRwHYhQSlrIwnDfT_PSziZfYqFszawesF14HFm7noC4k7d3Yy_8SWOPXBueHa292N9e0y74NIkvU2nuGCLJNCD_l1pYaZCrSynA=w850
-      w1024_PNG: https://lh3.googleusercontent.com/wj0S5s7vpkc6Nv_4MCyguuEQ8Eu8zdWuXiHNQjM2um224LIinRM9EseYDnfah9zBc5KllOjGNCa7y3di7o-3JM_h1G6whFJVVSM44mjptbcLLdvBCEXSkA-EwRpPRO3-OoomIUcTuQ=w711
-      w1024_JPG: https://lh3.googleusercontent.com/x4fhMKahPmJHZmP7J7CYtNXt-jvYjUKAVMb7AirgRwHYhQSlrIwnDfT_PSziZfYqFszawesF14HFm7noC4k7d3Yy_8SWOPXBueHa292N9e0y74NIkvU2nuGCLJNCD_l1pYaZCrSynA=w711
-      w768_PNG: https://lh3.googleusercontent.com/wj0S5s7vpkc6Nv_4MCyguuEQ8Eu8zdWuXiHNQjM2um224LIinRM9EseYDnfah9zBc5KllOjGNCa7y3di7o-3JM_h1G6whFJVVSM44mjptbcLLdvBCEXSkA-EwRpPRO3-OoomIUcTuQ=w533
-      w768_JPG: https://lh3.googleusercontent.com/x4fhMKahPmJHZmP7J7CYtNXt-jvYjUKAVMb7AirgRwHYhQSlrIwnDfT_PSziZfYqFszawesF14HFm7noC4k7d3Yy_8SWOPXBueHa292N9e0y74NIkvU2nuGCLJNCD_l1pYaZCrSynA=w533
-      w600_PNG: https://lh3.googleusercontent.com/wj0S5s7vpkc6Nv_4MCyguuEQ8Eu8zdWuXiHNQjM2um224LIinRM9EseYDnfah9zBc5KllOjGNCa7y3di7o-3JM_h1G6whFJVVSM44mjptbcLLdvBCEXSkA-EwRpPRO3-OoomIUcTuQ=w416
-      w600_JPG: https://lh3.googleusercontent.com/x4fhMKahPmJHZmP7J7CYtNXt-jvYjUKAVMb7AirgRwHYhQSlrIwnDfT_PSziZfYqFszawesF14HFm7noC4k7d3Yy_8SWOPXBueHa292N9e0y74NIkvU2nuGCLJNCD_l1pYaZCrSynA=w416
-      w411_PNG: https://lh3.googleusercontent.com/wj0S5s7vpkc6Nv_4MCyguuEQ8Eu8zdWuXiHNQjM2um224LIinRM9EseYDnfah9zBc5KllOjGNCa7y3di7o-3JM_h1G6whFJVVSM44mjptbcLLdvBCEXSkA-EwRpPRO3-OoomIUcTuQ=w285
-      w411_JPG: https://lh3.googleusercontent.com/x4fhMKahPmJHZmP7J7CYtNXt-jvYjUKAVMb7AirgRwHYhQSlrIwnDfT_PSziZfYqFszawesF14HFm7noC4k7d3Yy_8SWOPXBueHa292N9e0y74NIkvU2nuGCLJNCD_l1pYaZCrSynA=w285
-      w360_PNG: https://lh3.googleusercontent.com/wj0S5s7vpkc6Nv_4MCyguuEQ8Eu8zdWuXiHNQjM2um224LIinRM9EseYDnfah9zBc5KllOjGNCa7y3di7o-3JM_h1G6whFJVVSM44mjptbcLLdvBCEXSkA-EwRpPRO3-OoomIUcTuQ=w250
-      w360_JPG: https://lh3.googleusercontent.com/x4fhMKahPmJHZmP7J7CYtNXt-jvYjUKAVMb7AirgRwHYhQSlrIwnDfT_PSziZfYqFszawesF14HFm7noC4k7d3Yy_8SWOPXBueHa292N9e0y74NIkvU2nuGCLJNCD_l1pYaZCrSynA=w250
-      w240_PNG: https://lh3.googleusercontent.com/wj0S5s7vpkc6Nv_4MCyguuEQ8Eu8zdWuXiHNQjM2um224LIinRM9EseYDnfah9zBc5KllOjGNCa7y3di7o-3JM_h1G6whFJVVSM44mjptbcLLdvBCEXSkA-EwRpPRO3-OoomIUcTuQ=w166
-      w240_JPG: https://lh3.googleusercontent.com/x4fhMKahPmJHZmP7J7CYtNXt-jvYjUKAVMb7AirgRwHYhQSlrIwnDfT_PSziZfYqFszawesF14HFm7noC4k7d3Yy_8SWOPXBueHa292N9e0y74NIkvU2nuGCLJNCD_l1pYaZCrSynA=w166
+      full: https://lh3.googleusercontent.com/pw/AM-JKLWxGe4o2SP7UNhBLddOxBLohVz0V1-Tzx--73EvvHlevO-Ay6IasRb-YicIMcyb9ZDIaogVNIb67eL0aW1uNybZcpVGYXINFJ6lNUL-631H9MeF0zUHH5fgP5l5haVNeKjq4T9BuafdpL9xpY8NHOwF=s1080
+      PNG: https://lh3.googleusercontent.com/pw/AM-JKLVMtQyufYgn31vLz9gOnDRwUv5qjjy3-eh-IH-O-5sJZ26is2cJApJurMeRgAbuiU9m8w4-GdGwm86m8evWhN1fU-DEUfgo0AKjU6w6G1pNgkPqZkPYoaSZKQUqmpFWKAgRukpIQTmnrtljLu-vblmK
+      JPG: https://lh3.googleusercontent.com/pw/AM-JKLVKMft03gmCI3XhFNJGKTma8CoSduTMy08F-3FlGCi5rxk2p4lF1hogmxFAxOndvHk6a7BT9gtiBSIZ5sex7jSAIYwVCobTM-hsLMbjt4Z6c_CePtPKBSAsRTYoi-z_R36dAwiNh8MAjYQgM_1PII5s
 ---
 
 A little **Batman** sprite based on the **Megaman X** sprite and the **DCEU** interpretation of the character.  

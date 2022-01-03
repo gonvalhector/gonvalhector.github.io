@@ -11,38 +11,14 @@ external:
     - caption: GameJolt
       url: https://gamejolt.com/p/the-dark-wanderer-an-ink-sketch-i-made-around-august-of-201-wy77v9jd
 thumbs:
-    w1920_PNG: https://lh3.googleusercontent.com/ykoAxIpsXzjO54w16WBNYlOBKqbm_bsKVItMW-o2OUyeI06K_3KfcK7KC6nDme3qiUxy1WziAyFoQjlWLrIIELMdLqubCrtme1-VvwqdefSN_QbjwEQd6YmMwe6qV6IxgOpWs4xt_g=w355
-    w1920_JPG: https://lh3.googleusercontent.com/HTodK9mkZS71pKTaESQ85X8D1avsMcO1lJlmwayOKefRiBf9VcXYwZ7pNlG0EOO-JXaWtfCbaQCv-NaLersYSU7pOIH5zvbybmWzzL7KFuFlVFDgG6dAYnyJiIKPqHDB4clX541KUg=w355
-    w1024_PNG: https://lh3.googleusercontent.com/ykoAxIpsXzjO54w16WBNYlOBKqbm_bsKVItMW-o2OUyeI06K_3KfcK7KC6nDme3qiUxy1WziAyFoQjlWLrIIELMdLqubCrtme1-VvwqdefSN_QbjwEQd6YmMwe6qV6IxgOpWs4xt_g=w284
-    w1024_JPG: https://lh3.googleusercontent.com/HTodK9mkZS71pKTaESQ85X8D1avsMcO1lJlmwayOKefRiBf9VcXYwZ7pNlG0EOO-JXaWtfCbaQCv-NaLersYSU7pOIH5zvbybmWzzL7KFuFlVFDgG6dAYnyJiIKPqHDB4clX541KUg=w284
-    w768_PNG: https://lh3.googleusercontent.com/ykoAxIpsXzjO54w16WBNYlOBKqbm_bsKVItMW-o2OUyeI06K_3KfcK7KC6nDme3qiUxy1WziAyFoQjlWLrIIELMdLqubCrtme1-VvwqdefSN_QbjwEQd6YmMwe6qV6IxgOpWs4xt_g=w213
-    w768_JPG: https://lh3.googleusercontent.com/HTodK9mkZS71pKTaESQ85X8D1avsMcO1lJlmwayOKefRiBf9VcXYwZ7pNlG0EOO-JXaWtfCbaQCv-NaLersYSU7pOIH5zvbybmWzzL7KFuFlVFDgG6dAYnyJiIKPqHDB4clX541KUg=w213
-    w600_PNG: https://lh3.googleusercontent.com/ykoAxIpsXzjO54w16WBNYlOBKqbm_bsKVItMW-o2OUyeI06K_3KfcK7KC6nDme3qiUxy1WziAyFoQjlWLrIIELMdLqubCrtme1-VvwqdefSN_QbjwEQd6YmMwe6qV6IxgOpWs4xt_g=w166
-    w600_JPG: https://lh3.googleusercontent.com/HTodK9mkZS71pKTaESQ85X8D1avsMcO1lJlmwayOKefRiBf9VcXYwZ7pNlG0EOO-JXaWtfCbaQCv-NaLersYSU7pOIH5zvbybmWzzL7KFuFlVFDgG6dAYnyJiIKPqHDB4clX541KUg=w166
-    w411_PNG: https://lh3.googleusercontent.com/ykoAxIpsXzjO54w16WBNYlOBKqbm_bsKVItMW-o2OUyeI06K_3KfcK7KC6nDme3qiUxy1WziAyFoQjlWLrIIELMdLqubCrtme1-VvwqdefSN_QbjwEQd6YmMwe6qV6IxgOpWs4xt_g=w114
-    w411_JPG: https://lh3.googleusercontent.com/HTodK9mkZS71pKTaESQ85X8D1avsMcO1lJlmwayOKefRiBf9VcXYwZ7pNlG0EOO-JXaWtfCbaQCv-NaLersYSU7pOIH5zvbybmWzzL7KFuFlVFDgG6dAYnyJiIKPqHDB4clX541KUg=w114
-    w360_PNG: https://lh3.googleusercontent.com/ykoAxIpsXzjO54w16WBNYlOBKqbm_bsKVItMW-o2OUyeI06K_3KfcK7KC6nDme3qiUxy1WziAyFoQjlWLrIIELMdLqubCrtme1-VvwqdefSN_QbjwEQd6YmMwe6qV6IxgOpWs4xt_g=w100
-    w360_JPG: https://lh3.googleusercontent.com/HTodK9mkZS71pKTaESQ85X8D1avsMcO1lJlmwayOKefRiBf9VcXYwZ7pNlG0EOO-JXaWtfCbaQCv-NaLersYSU7pOIH5zvbybmWzzL7KFuFlVFDgG6dAYnyJiIKPqHDB4clX541KUg=w100
-    w240_PNG: https://lh3.googleusercontent.com/ykoAxIpsXzjO54w16WBNYlOBKqbm_bsKVItMW-o2OUyeI06K_3KfcK7KC6nDme3qiUxy1WziAyFoQjlWLrIIELMdLqubCrtme1-VvwqdefSN_QbjwEQd6YmMwe6qV6IxgOpWs4xt_g=w66
-    w240_JPG: https://lh3.googleusercontent.com/HTodK9mkZS71pKTaESQ85X8D1avsMcO1lJlmwayOKefRiBf9VcXYwZ7pNlG0EOO-JXaWtfCbaQCv-NaLersYSU7pOIH5zvbybmWzzL7KFuFlVFDgG6dAYnyJiIKPqHDB4clX541KUg=w66
+    PNG: https://lh3.googleusercontent.com/pw/AM-JKLWPkKLrys1VSPSx5vhm3rFP1lw5FqId3smK1MeZGTVj5sEBi13kF5VZs9SRiVBK4euwspAP_qYMfrWzyMk5sgDvseRV4slKfFBfzHixUEIwhNtP3BM2YjvsHrh-kTn1sOgheIvRhykKedJTOFN7JLd7
+    JPG: https://lh3.googleusercontent.com/pw/AM-JKLXcYQVKuuql38lg7aDr1-pqnMbpBaWcHgazhyq-n4h3yoIxApUJ0v0y6N0EvNn8zaS_PHA2d5mZEEUDNb9nQsld-vMK-igTWe7C6Zz68QsV0puLc4zw5DFsTZ9d25GZH-k6GIWjF6VQbOsPcWHjJ8OL
 images:
     - label: Final Version
       caption: Full height.
-      full: https://lh3.googleusercontent.com/Wtug7Jv9AbAnBGLuc-gF_HmFWmF1LOu6i_siBDywDHyUQ01W_dGSRe9rvotCCGoznBtk3eDO7UIu72CQYdmX0VjEANpDrBx2ggnwGfKJm68Hif_nXchPxcx_Xz-ZZ9--vd0kSzPneg=w1080-h1080
-      w1920_PNG: https://lh3.googleusercontent.com/18cF5s0TDqa932_Kb0mR15yuu_ygH2gjpRrQA-v-dh4uVWJQ4-_mYgpCGByJoGwHo4Gu_3mENqZAIjzQnpW2XiOeZ0Z9z5MJEMtM1FcXw7pE5bLlqjfLv99p_g3cTub64Vuf41U_wA=w850
-      w1920_JPG: https://lh3.googleusercontent.com/vzocqZLPC2svRv5huYG2ESWN981IR_R-0p37q0kyMl9p-tNLkn5zdQ29VA7loSf_2k9Dk0h0V1yPDoIdjByYbh_USgUY3OtKJJlCaVkh4PPoi0VrNITiFdE_jgOHFikB3dDQtKA2ew=w850
-      w1024_PNG: https://lh3.googleusercontent.com/18cF5s0TDqa932_Kb0mR15yuu_ygH2gjpRrQA-v-dh4uVWJQ4-_mYgpCGByJoGwHo4Gu_3mENqZAIjzQnpW2XiOeZ0Z9z5MJEMtM1FcXw7pE5bLlqjfLv99p_g3cTub64Vuf41U_wA=w711
-      w1024_JPG: https://lh3.googleusercontent.com/vzocqZLPC2svRv5huYG2ESWN981IR_R-0p37q0kyMl9p-tNLkn5zdQ29VA7loSf_2k9Dk0h0V1yPDoIdjByYbh_USgUY3OtKJJlCaVkh4PPoi0VrNITiFdE_jgOHFikB3dDQtKA2ew=w711
-      w768_PNG: https://lh3.googleusercontent.com/18cF5s0TDqa932_Kb0mR15yuu_ygH2gjpRrQA-v-dh4uVWJQ4-_mYgpCGByJoGwHo4Gu_3mENqZAIjzQnpW2XiOeZ0Z9z5MJEMtM1FcXw7pE5bLlqjfLv99p_g3cTub64Vuf41U_wA=w533
-      w768_JPG: https://lh3.googleusercontent.com/vzocqZLPC2svRv5huYG2ESWN981IR_R-0p37q0kyMl9p-tNLkn5zdQ29VA7loSf_2k9Dk0h0V1yPDoIdjByYbh_USgUY3OtKJJlCaVkh4PPoi0VrNITiFdE_jgOHFikB3dDQtKA2ew=w533
-      w600_PNG: https://lh3.googleusercontent.com/18cF5s0TDqa932_Kb0mR15yuu_ygH2gjpRrQA-v-dh4uVWJQ4-_mYgpCGByJoGwHo4Gu_3mENqZAIjzQnpW2XiOeZ0Z9z5MJEMtM1FcXw7pE5bLlqjfLv99p_g3cTub64Vuf41U_wA=w416
-      w600_JPG: https://lh3.googleusercontent.com/vzocqZLPC2svRv5huYG2ESWN981IR_R-0p37q0kyMl9p-tNLkn5zdQ29VA7loSf_2k9Dk0h0V1yPDoIdjByYbh_USgUY3OtKJJlCaVkh4PPoi0VrNITiFdE_jgOHFikB3dDQtKA2ew=w416
-      w411_PNG: https://lh3.googleusercontent.com/18cF5s0TDqa932_Kb0mR15yuu_ygH2gjpRrQA-v-dh4uVWJQ4-_mYgpCGByJoGwHo4Gu_3mENqZAIjzQnpW2XiOeZ0Z9z5MJEMtM1FcXw7pE5bLlqjfLv99p_g3cTub64Vuf41U_wA=w285
-      w411_JPG: https://lh3.googleusercontent.com/vzocqZLPC2svRv5huYG2ESWN981IR_R-0p37q0kyMl9p-tNLkn5zdQ29VA7loSf_2k9Dk0h0V1yPDoIdjByYbh_USgUY3OtKJJlCaVkh4PPoi0VrNITiFdE_jgOHFikB3dDQtKA2ew=w285
-      w360_PNG: https://lh3.googleusercontent.com/18cF5s0TDqa932_Kb0mR15yuu_ygH2gjpRrQA-v-dh4uVWJQ4-_mYgpCGByJoGwHo4Gu_3mENqZAIjzQnpW2XiOeZ0Z9z5MJEMtM1FcXw7pE5bLlqjfLv99p_g3cTub64Vuf41U_wA=w250
-      w360_JPG: https://lh3.googleusercontent.com/vzocqZLPC2svRv5huYG2ESWN981IR_R-0p37q0kyMl9p-tNLkn5zdQ29VA7loSf_2k9Dk0h0V1yPDoIdjByYbh_USgUY3OtKJJlCaVkh4PPoi0VrNITiFdE_jgOHFikB3dDQtKA2ew=w250
-      w240_PNG: https://lh3.googleusercontent.com/18cF5s0TDqa932_Kb0mR15yuu_ygH2gjpRrQA-v-dh4uVWJQ4-_mYgpCGByJoGwHo4Gu_3mENqZAIjzQnpW2XiOeZ0Z9z5MJEMtM1FcXw7pE5bLlqjfLv99p_g3cTub64Vuf41U_wA=w166
-      w240_JPG: https://lh3.googleusercontent.com/vzocqZLPC2svRv5huYG2ESWN981IR_R-0p37q0kyMl9p-tNLkn5zdQ29VA7loSf_2k9Dk0h0V1yPDoIdjByYbh_USgUY3OtKJJlCaVkh4PPoi0VrNITiFdE_jgOHFikB3dDQtKA2ew=w166
+      full: https://lh3.googleusercontent.com/pw/AM-JKLWBNARL7igs8HGzVr3F87OuRCw2dH8NAThJ5_huY5HdgjTBn4repB24ov0UWOHCXpFq05qA4Zp7U6CpviMjQxnD7fhWpjmpaHeSD8Z7RpeNzxJcqZd4hcAgQLWHxSNEDrXi6qB1KmFqHZScTNgk9vbd=w738-h1312
+      PNG: https://lh3.googleusercontent.com/pw/AM-JKLVGprgMlXprJli4EZz-TN97RlEyrQB7hp69DXDKQv8rt5b0WyhRdpJtXBqTPU7zk9_nDIC3qjLRyKFY_ZS4Bc0xtUaxuQmNHntNaqkhsTdEdEy5V1B16H0ICklaYTA_jmu4nrIEBx9--MrHic8Ca2hZ
+      JPG: https://lh3.googleusercontent.com/pw/AM-JKLVb6CkIBeuV1y26uHTjqJxyTLOVElIGHNMwdxQtJSB6hHFckiUcNy0M9GuzvmNwMzJzgWHtsQNcEAWg0msMTJQX9PSP3cmpWW4cUF4rJ96-4HM8Z6Qd3nyDWweTOBCTG35zqdhfoFXkZj9EuYSkikWY
 ---
 
 **"The Dark Wanderer"**, an ink sketch I made around *August of 2019*.  

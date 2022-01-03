@@ -11,38 +11,14 @@ external:
     - caption: GameJolt
       url: https://gamejolt.com/p/a-quick-watercolor-and-ink-sketch-that-i-did-of-aveliana-by-atthe-aftqygkb
 thumbs:
-    w1920_PNG: https://lh3.googleusercontent.com/WHzJmKY-JLx3zOizsyqqD-GBhv-wovuZwLNheSHCyUjOV3gYEY-yijzn4_x_KaBCI8FYPPoOaeIfti6eMCUdl2QlAvDh_w0ORHOaSNVUkekg5I_YsLC3Nn8LeJhdfKezr4HeV-_ZmQ=w355
-    w1920_JPG: https://lh3.googleusercontent.com/sV9L5Ic9Xp6p5vpe0mNSnNNNIluR6yARPiAoHZjoo2mIqO3pYKpa8U9TZe-XlPcu5bqTfJPFwOW0qHZrdScT70Kn-5emglOD_dLdUjOBpZSIRAP1rK39UhXsZynJ0JGrY8nG5HT4_w=w355
-    w1024_PNG: https://lh3.googleusercontent.com/WHzJmKY-JLx3zOizsyqqD-GBhv-wovuZwLNheSHCyUjOV3gYEY-yijzn4_x_KaBCI8FYPPoOaeIfti6eMCUdl2QlAvDh_w0ORHOaSNVUkekg5I_YsLC3Nn8LeJhdfKezr4HeV-_ZmQ=w284
-    w1024_JPG: https://lh3.googleusercontent.com/sV9L5Ic9Xp6p5vpe0mNSnNNNIluR6yARPiAoHZjoo2mIqO3pYKpa8U9TZe-XlPcu5bqTfJPFwOW0qHZrdScT70Kn-5emglOD_dLdUjOBpZSIRAP1rK39UhXsZynJ0JGrY8nG5HT4_w=w284
-    w768_PNG: https://lh3.googleusercontent.com/WHzJmKY-JLx3zOizsyqqD-GBhv-wovuZwLNheSHCyUjOV3gYEY-yijzn4_x_KaBCI8FYPPoOaeIfti6eMCUdl2QlAvDh_w0ORHOaSNVUkekg5I_YsLC3Nn8LeJhdfKezr4HeV-_ZmQ=w213
-    w768_JPG: https://lh3.googleusercontent.com/sV9L5Ic9Xp6p5vpe0mNSnNNNIluR6yARPiAoHZjoo2mIqO3pYKpa8U9TZe-XlPcu5bqTfJPFwOW0qHZrdScT70Kn-5emglOD_dLdUjOBpZSIRAP1rK39UhXsZynJ0JGrY8nG5HT4_w=w213
-    w600_PNG: https://lh3.googleusercontent.com/WHzJmKY-JLx3zOizsyqqD-GBhv-wovuZwLNheSHCyUjOV3gYEY-yijzn4_x_KaBCI8FYPPoOaeIfti6eMCUdl2QlAvDh_w0ORHOaSNVUkekg5I_YsLC3Nn8LeJhdfKezr4HeV-_ZmQ=w166
-    w600_JPG: https://lh3.googleusercontent.com/sV9L5Ic9Xp6p5vpe0mNSnNNNIluR6yARPiAoHZjoo2mIqO3pYKpa8U9TZe-XlPcu5bqTfJPFwOW0qHZrdScT70Kn-5emglOD_dLdUjOBpZSIRAP1rK39UhXsZynJ0JGrY8nG5HT4_w=w166
-    w411_PNG: https://lh3.googleusercontent.com/WHzJmKY-JLx3zOizsyqqD-GBhv-wovuZwLNheSHCyUjOV3gYEY-yijzn4_x_KaBCI8FYPPoOaeIfti6eMCUdl2QlAvDh_w0ORHOaSNVUkekg5I_YsLC3Nn8LeJhdfKezr4HeV-_ZmQ=w114
-    w411_JPG: https://lh3.googleusercontent.com/sV9L5Ic9Xp6p5vpe0mNSnNNNIluR6yARPiAoHZjoo2mIqO3pYKpa8U9TZe-XlPcu5bqTfJPFwOW0qHZrdScT70Kn-5emglOD_dLdUjOBpZSIRAP1rK39UhXsZynJ0JGrY8nG5HT4_w=w114
-    w360_PNG: https://lh3.googleusercontent.com/WHzJmKY-JLx3zOizsyqqD-GBhv-wovuZwLNheSHCyUjOV3gYEY-yijzn4_x_KaBCI8FYPPoOaeIfti6eMCUdl2QlAvDh_w0ORHOaSNVUkekg5I_YsLC3Nn8LeJhdfKezr4HeV-_ZmQ=w100
-    w360_JPG: https://lh3.googleusercontent.com/sV9L5Ic9Xp6p5vpe0mNSnNNNIluR6yARPiAoHZjoo2mIqO3pYKpa8U9TZe-XlPcu5bqTfJPFwOW0qHZrdScT70Kn-5emglOD_dLdUjOBpZSIRAP1rK39UhXsZynJ0JGrY8nG5HT4_w=w100
-    w240_PNG: https://lh3.googleusercontent.com/WHzJmKY-JLx3zOizsyqqD-GBhv-wovuZwLNheSHCyUjOV3gYEY-yijzn4_x_KaBCI8FYPPoOaeIfti6eMCUdl2QlAvDh_w0ORHOaSNVUkekg5I_YsLC3Nn8LeJhdfKezr4HeV-_ZmQ=w66
-    w240_JPG: https://lh3.googleusercontent.com/sV9L5Ic9Xp6p5vpe0mNSnNNNIluR6yARPiAoHZjoo2mIqO3pYKpa8U9TZe-XlPcu5bqTfJPFwOW0qHZrdScT70Kn-5emglOD_dLdUjOBpZSIRAP1rK39UhXsZynJ0JGrY8nG5HT4_w=w66
+    PNG: https://lh3.googleusercontent.com/pw/AM-JKLUSTx9iXyN1KgSVn7hUZXC6tP9GBhExijtAeCCa9KcMnII_z1ikuNpbgKQtappEKnY7Gr63KnMhev-5xO7hk43FsAaOhSpBKKhnhdY_PL4VkldFVzcAxpiKtmyp1rrJF5laNdERKEYmOdORcyiukIZR
+    JPG: https://lh3.googleusercontent.com/pw/AM-JKLV3hAr0y6RkYppBtWFeL3sViQiV0I-dUOOwgOORULbce0gNjJRaZbcy7DTf7aRuzE5nXUp7l2dW_NiDzIFxHVqSrYOb0U6SG4g5Esm3RqU8SVFwRo-QEPCjW-QgAswM1MTrp1RUtnvCirVIZfOsKZgp
 images:
     - label: Final Version
       caption: Fully rendered.
-      full: https://lh3.googleusercontent.com/Dj5EuXvOMaRMh4zJ2yGADbQryEyux8_cgMViZQtydbW-VASzim8S3_mr2N27-lwDJ_w8wzLvX0sYbwBevOeuUz2H7Tr8SKANQKwLCGjRY_f27qhmkhgK2-hfOAmPGxYQAYx7rgBFTw=w1080-h1080
-      w1920_PNG: https://lh3.googleusercontent.com/ydZsgSa95GZDjx0wCosDgIbEFn0ow2Q6oL9cAE2FRQJMlq6jmbKQiFOHXBzG4tPDQI3RXW1wHmDXd5gw3rPQ2fuLb92zCKVfxNcNGUqqnCHc2LqG7pei9JHquPP9lQ71PfKY88ElDQ=w850
-      w1920_JPG: https://lh3.googleusercontent.com/ydNvGOrRWNyg1j6EUvVxyrJPGtn2C4BBqj2QiYXYBmhOGIoVNZMRKyEmM7FkDxYyrVgDzdUKxrWEkTPl6tCgFe6BcnHZj9mhpayyEzgwG79Wf8hE6JzFueBpeRStfv2idNAfdKz95Q=w850
-      w1024_PNG: https://lh3.googleusercontent.com/ydZsgSa95GZDjx0wCosDgIbEFn0ow2Q6oL9cAE2FRQJMlq6jmbKQiFOHXBzG4tPDQI3RXW1wHmDXd5gw3rPQ2fuLb92zCKVfxNcNGUqqnCHc2LqG7pei9JHquPP9lQ71PfKY88ElDQ=w711
-      w1024_JPG: https://lh3.googleusercontent.com/ydNvGOrRWNyg1j6EUvVxyrJPGtn2C4BBqj2QiYXYBmhOGIoVNZMRKyEmM7FkDxYyrVgDzdUKxrWEkTPl6tCgFe6BcnHZj9mhpayyEzgwG79Wf8hE6JzFueBpeRStfv2idNAfdKz95Q=w711
-      w768_PNG: https://lh3.googleusercontent.com/ydZsgSa95GZDjx0wCosDgIbEFn0ow2Q6oL9cAE2FRQJMlq6jmbKQiFOHXBzG4tPDQI3RXW1wHmDXd5gw3rPQ2fuLb92zCKVfxNcNGUqqnCHc2LqG7pei9JHquPP9lQ71PfKY88ElDQ=w533
-      w768_JPG: https://lh3.googleusercontent.com/ydNvGOrRWNyg1j6EUvVxyrJPGtn2C4BBqj2QiYXYBmhOGIoVNZMRKyEmM7FkDxYyrVgDzdUKxrWEkTPl6tCgFe6BcnHZj9mhpayyEzgwG79Wf8hE6JzFueBpeRStfv2idNAfdKz95Q=w533
-      w600_PNG: https://lh3.googleusercontent.com/ydZsgSa95GZDjx0wCosDgIbEFn0ow2Q6oL9cAE2FRQJMlq6jmbKQiFOHXBzG4tPDQI3RXW1wHmDXd5gw3rPQ2fuLb92zCKVfxNcNGUqqnCHc2LqG7pei9JHquPP9lQ71PfKY88ElDQ=w416
-      w600_JPG: https://lh3.googleusercontent.com/ydNvGOrRWNyg1j6EUvVxyrJPGtn2C4BBqj2QiYXYBmhOGIoVNZMRKyEmM7FkDxYyrVgDzdUKxrWEkTPl6tCgFe6BcnHZj9mhpayyEzgwG79Wf8hE6JzFueBpeRStfv2idNAfdKz95Q=w416
-      w411_PNG: https://lh3.googleusercontent.com/ydZsgSa95GZDjx0wCosDgIbEFn0ow2Q6oL9cAE2FRQJMlq6jmbKQiFOHXBzG4tPDQI3RXW1wHmDXd5gw3rPQ2fuLb92zCKVfxNcNGUqqnCHc2LqG7pei9JHquPP9lQ71PfKY88ElDQ=w285
-      w411_JPG: https://lh3.googleusercontent.com/ydNvGOrRWNyg1j6EUvVxyrJPGtn2C4BBqj2QiYXYBmhOGIoVNZMRKyEmM7FkDxYyrVgDzdUKxrWEkTPl6tCgFe6BcnHZj9mhpayyEzgwG79Wf8hE6JzFueBpeRStfv2idNAfdKz95Q=w285
-      w360_PNG: https://lh3.googleusercontent.com/ydZsgSa95GZDjx0wCosDgIbEFn0ow2Q6oL9cAE2FRQJMlq6jmbKQiFOHXBzG4tPDQI3RXW1wHmDXd5gw3rPQ2fuLb92zCKVfxNcNGUqqnCHc2LqG7pei9JHquPP9lQ71PfKY88ElDQ=w250
-      w360_JPG: https://lh3.googleusercontent.com/ydNvGOrRWNyg1j6EUvVxyrJPGtn2C4BBqj2QiYXYBmhOGIoVNZMRKyEmM7FkDxYyrVgDzdUKxrWEkTPl6tCgFe6BcnHZj9mhpayyEzgwG79Wf8hE6JzFueBpeRStfv2idNAfdKz95Q=w250
-      w240_PNG: https://lh3.googleusercontent.com/ydZsgSa95GZDjx0wCosDgIbEFn0ow2Q6oL9cAE2FRQJMlq6jmbKQiFOHXBzG4tPDQI3RXW1wHmDXd5gw3rPQ2fuLb92zCKVfxNcNGUqqnCHc2LqG7pei9JHquPP9lQ71PfKY88ElDQ=w166
-      w240_JPG: https://lh3.googleusercontent.com/ydNvGOrRWNyg1j6EUvVxyrJPGtn2C4BBqj2QiYXYBmhOGIoVNZMRKyEmM7FkDxYyrVgDzdUKxrWEkTPl6tCgFe6BcnHZj9mhpayyEzgwG79Wf8hE6JzFueBpeRStfv2idNAfdKz95Q=w166
+      full: https://lh3.googleusercontent.com/pw/AM-JKLXO2x8voRNSiEAHoPmADaPQ9v88gzuZQICN3nsZS83B0LRoEwFfape4vvGduQS7mkfEkoNo-_MSRBKuwQe2mhMN_7PjGU18hFjyP7uT45KIokfadN4IFRx4v2ey2nF-ez6NXjUvcWobl0gbyeLGBCIS=s1080
+      PNG: https://lh3.googleusercontent.com/pw/AM-JKLWkxRfj1B8Oy06E1VRZhApS0tafpvBDMvKtLFkJ190P1v8Ist5X9DViawCPd_aomrzxLFD1NiWD1d_ITlfbgf9I37LVCJQ8elJHaYINmZtzds8g3sgqQoZm5Jwuw10M0sZsPlXsiBoAjTS_J1iAA7PF
+      JPG: https://lh3.googleusercontent.com/pw/AM-JKLUGPBwb3zw6oa_QrNjaF1wNwAE8pjsmUFw73ny1ayAxHw66BIfE9ed-H8AleG0h48ayq1MXADHRgbdGF0GsQgGejmYv1QxBBr4hmY5TOUveD0RsU5vYI8B-b_hzmc2AZ-Rpdc04nUN9DukAOZCzA61I
 ---
 
 A quick watercolor and ink sketch of [Aveliana <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://gamejolt.com/games/Aveliana/500900) by [The French Dev <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">](https://www.instagram.com/thefrenchdev/) in preparation for my entry of his **DTIYS** challenge.

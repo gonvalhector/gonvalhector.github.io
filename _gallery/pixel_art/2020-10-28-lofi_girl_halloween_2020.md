@@ -16,72 +16,24 @@ video:
    - type: Speedpaint
      url: https://www.youtube.com/embed/KdbKl80JN9s?rel=0
 thumbs:
-    w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3c3ht6C1nqIH3bp1f9Jsmn72U0QlKR8Sk6S1t1r19RoILK8bJPY-7BxWXFRr5LCRVGbBjDSyqrwga0dIaZ6M1wXpCf0piDfl0hDew30lfg1U-AtZcCfd6QXmCQnZ-S_Xn6Ya9z2-uBNwodA3a9tUvVo=w355
-    w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3daybD75jJWAG9jVl7UuCqonexkMkUrq_PFxV61KqBqh3PY-IzrPPRQHDCzG9s8FrHt8eWlfMjXniDqVHNx4NJk6jM7xcs_1xD08IYdXIS7KySqoT53QOoI6lwNK87rUsXoktFG6HcAhUhqxC4h6viX=w355
-    w1024_PNG: https://lh3.googleusercontent.com/pw/ACtC-3c3ht6C1nqIH3bp1f9Jsmn72U0QlKR8Sk6S1t1r19RoILK8bJPY-7BxWXFRr5LCRVGbBjDSyqrwga0dIaZ6M1wXpCf0piDfl0hDew30lfg1U-AtZcCfd6QXmCQnZ-S_Xn6Ya9z2-uBNwodA3a9tUvVo=w284
-    w1024_JPG: https://lh3.googleusercontent.com/pw/ACtC-3daybD75jJWAG9jVl7UuCqonexkMkUrq_PFxV61KqBqh3PY-IzrPPRQHDCzG9s8FrHt8eWlfMjXniDqVHNx4NJk6jM7xcs_1xD08IYdXIS7KySqoT53QOoI6lwNK87rUsXoktFG6HcAhUhqxC4h6viX=w284
-    w768_PNG: https://lh3.googleusercontent.com/pw/ACtC-3c3ht6C1nqIH3bp1f9Jsmn72U0QlKR8Sk6S1t1r19RoILK8bJPY-7BxWXFRr5LCRVGbBjDSyqrwga0dIaZ6M1wXpCf0piDfl0hDew30lfg1U-AtZcCfd6QXmCQnZ-S_Xn6Ya9z2-uBNwodA3a9tUvVo=w213
-    w768_JPG: https://lh3.googleusercontent.com/pw/ACtC-3daybD75jJWAG9jVl7UuCqonexkMkUrq_PFxV61KqBqh3PY-IzrPPRQHDCzG9s8FrHt8eWlfMjXniDqVHNx4NJk6jM7xcs_1xD08IYdXIS7KySqoT53QOoI6lwNK87rUsXoktFG6HcAhUhqxC4h6viX=w213
-    w600_PNG: https://lh3.googleusercontent.com/pw/ACtC-3c3ht6C1nqIH3bp1f9Jsmn72U0QlKR8Sk6S1t1r19RoILK8bJPY-7BxWXFRr5LCRVGbBjDSyqrwga0dIaZ6M1wXpCf0piDfl0hDew30lfg1U-AtZcCfd6QXmCQnZ-S_Xn6Ya9z2-uBNwodA3a9tUvVo=w166
-    w600_JPG: https://lh3.googleusercontent.com/pw/ACtC-3daybD75jJWAG9jVl7UuCqonexkMkUrq_PFxV61KqBqh3PY-IzrPPRQHDCzG9s8FrHt8eWlfMjXniDqVHNx4NJk6jM7xcs_1xD08IYdXIS7KySqoT53QOoI6lwNK87rUsXoktFG6HcAhUhqxC4h6viX=w166
-    w411_PNG: https://lh3.googleusercontent.com/pw/ACtC-3c3ht6C1nqIH3bp1f9Jsmn72U0QlKR8Sk6S1t1r19RoILK8bJPY-7BxWXFRr5LCRVGbBjDSyqrwga0dIaZ6M1wXpCf0piDfl0hDew30lfg1U-AtZcCfd6QXmCQnZ-S_Xn6Ya9z2-uBNwodA3a9tUvVo=w114
-    w411_JPG: https://lh3.googleusercontent.com/pw/ACtC-3daybD75jJWAG9jVl7UuCqonexkMkUrq_PFxV61KqBqh3PY-IzrPPRQHDCzG9s8FrHt8eWlfMjXniDqVHNx4NJk6jM7xcs_1xD08IYdXIS7KySqoT53QOoI6lwNK87rUsXoktFG6HcAhUhqxC4h6viX=w114
-    w360_PNG: https://lh3.googleusercontent.com/pw/ACtC-3c3ht6C1nqIH3bp1f9Jsmn72U0QlKR8Sk6S1t1r19RoILK8bJPY-7BxWXFRr5LCRVGbBjDSyqrwga0dIaZ6M1wXpCf0piDfl0hDew30lfg1U-AtZcCfd6QXmCQnZ-S_Xn6Ya9z2-uBNwodA3a9tUvVo=w100
-    w360_JPG: https://lh3.googleusercontent.com/pw/ACtC-3daybD75jJWAG9jVl7UuCqonexkMkUrq_PFxV61KqBqh3PY-IzrPPRQHDCzG9s8FrHt8eWlfMjXniDqVHNx4NJk6jM7xcs_1xD08IYdXIS7KySqoT53QOoI6lwNK87rUsXoktFG6HcAhUhqxC4h6viX=w100
-    w240_PNG: https://lh3.googleusercontent.com/pw/ACtC-3c3ht6C1nqIH3bp1f9Jsmn72U0QlKR8Sk6S1t1r19RoILK8bJPY-7BxWXFRr5LCRVGbBjDSyqrwga0dIaZ6M1wXpCf0piDfl0hDew30lfg1U-AtZcCfd6QXmCQnZ-S_Xn6Ya9z2-uBNwodA3a9tUvVo=w66
-    w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3daybD75jJWAG9jVl7UuCqonexkMkUrq_PFxV61KqBqh3PY-IzrPPRQHDCzG9s8FrHt8eWlfMjXniDqVHNx4NJk6jM7xcs_1xD08IYdXIS7KySqoT53QOoI6lwNK87rUsXoktFG6HcAhUhqxC4h6viX=w66
+    PNG: https://lh3.googleusercontent.com/pw/AM-JKLWjRk5i3987k5m_CL7B745Pm_iMioEY8c363Zvl4nQDQH8T9NWIEW-i_2-UAyqVvp52NPNx8Iwm-vk6za9cztNLlKzz9wPzaojSF_5Pind6DNRnxi0FG-A5R1B_486n9Qsoecss6Jd70xAztvFql-TK
+    JPG: https://lh3.googleusercontent.com/pw/AM-JKLXq-KGCz_kl2gSAdkfZ_tj32G2-9VGBCePF4QaB-Mok77IBo1Qcj09SVsG5XllDqKrQfU2a8wZCK0zraCiQj2DYHPy5kfzAT18WWHWA6jCN4JCGbQppTOOkZZRUyQvHQALxcSemHtZ9Bse3-FMV138T
 images:
     - label: Final Version
       caption: Fully rendered.
-      full: https://lh3.googleusercontent.com/pw/ACtC-3cQXeZgpSz2eyE1TTdwIzKGFQWtJl9xQnz-RIbCxfpb8bQ2JU45uYGvsNju6ggrAkoMkesxF_SGC_Jd1S3C9pKQMQSFhZOEOcitQEg4ye2nyLC5W8N7SzD8BVxXgCB4rKaq9C-UB0gdnm-TmhcpMUGp=w1080
-      w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fryHmbXM4qF-Waj34FWx9Qq34c2ZtIYKNSAwTrsJDHW3IzLZWTfyi_S7o_2kCZ-kE4JQo_L4JYxCtpsqX_7evpeOWC4l-gXdzDSJPLRlewBMAFbh4naR3mKfzCUHJYWnDIZLLfaWdpYJn70fBK-umq=w850
-      w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dwLCuFaCqOrFjnp21zIrYMbS9jJSmNCr2aclpvfnjXQIb0sLDkB6VMv0092teuj5l0nbfTsun392xqTvbHRk_O6beEY2QTKtLzZpDaUgelnQCJdPTFY64z2ucQAa5gt9t-BQFVppKlikrBkcsLutBB=w850
-      w1024_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fryHmbXM4qF-Waj34FWx9Qq34c2ZtIYKNSAwTrsJDHW3IzLZWTfyi_S7o_2kCZ-kE4JQo_L4JYxCtpsqX_7evpeOWC4l-gXdzDSJPLRlewBMAFbh4naR3mKfzCUHJYWnDIZLLfaWdpYJn70fBK-umq=w711
-      w1024_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dwLCuFaCqOrFjnp21zIrYMbS9jJSmNCr2aclpvfnjXQIb0sLDkB6VMv0092teuj5l0nbfTsun392xqTvbHRk_O6beEY2QTKtLzZpDaUgelnQCJdPTFY64z2ucQAa5gt9t-BQFVppKlikrBkcsLutBB=w711
-      w768_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fryHmbXM4qF-Waj34FWx9Qq34c2ZtIYKNSAwTrsJDHW3IzLZWTfyi_S7o_2kCZ-kE4JQo_L4JYxCtpsqX_7evpeOWC4l-gXdzDSJPLRlewBMAFbh4naR3mKfzCUHJYWnDIZLLfaWdpYJn70fBK-umq=w533
-      w768_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dwLCuFaCqOrFjnp21zIrYMbS9jJSmNCr2aclpvfnjXQIb0sLDkB6VMv0092teuj5l0nbfTsun392xqTvbHRk_O6beEY2QTKtLzZpDaUgelnQCJdPTFY64z2ucQAa5gt9t-BQFVppKlikrBkcsLutBB=w533
-      w600_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fryHmbXM4qF-Waj34FWx9Qq34c2ZtIYKNSAwTrsJDHW3IzLZWTfyi_S7o_2kCZ-kE4JQo_L4JYxCtpsqX_7evpeOWC4l-gXdzDSJPLRlewBMAFbh4naR3mKfzCUHJYWnDIZLLfaWdpYJn70fBK-umq=w416
-      w600_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dwLCuFaCqOrFjnp21zIrYMbS9jJSmNCr2aclpvfnjXQIb0sLDkB6VMv0092teuj5l0nbfTsun392xqTvbHRk_O6beEY2QTKtLzZpDaUgelnQCJdPTFY64z2ucQAa5gt9t-BQFVppKlikrBkcsLutBB=w416
-      w411_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fryHmbXM4qF-Waj34FWx9Qq34c2ZtIYKNSAwTrsJDHW3IzLZWTfyi_S7o_2kCZ-kE4JQo_L4JYxCtpsqX_7evpeOWC4l-gXdzDSJPLRlewBMAFbh4naR3mKfzCUHJYWnDIZLLfaWdpYJn70fBK-umq=w285
-      w411_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dwLCuFaCqOrFjnp21zIrYMbS9jJSmNCr2aclpvfnjXQIb0sLDkB6VMv0092teuj5l0nbfTsun392xqTvbHRk_O6beEY2QTKtLzZpDaUgelnQCJdPTFY64z2ucQAa5gt9t-BQFVppKlikrBkcsLutBB=w285
-      w360_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fryHmbXM4qF-Waj34FWx9Qq34c2ZtIYKNSAwTrsJDHW3IzLZWTfyi_S7o_2kCZ-kE4JQo_L4JYxCtpsqX_7evpeOWC4l-gXdzDSJPLRlewBMAFbh4naR3mKfzCUHJYWnDIZLLfaWdpYJn70fBK-umq=w250
-      w360_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dwLCuFaCqOrFjnp21zIrYMbS9jJSmNCr2aclpvfnjXQIb0sLDkB6VMv0092teuj5l0nbfTsun392xqTvbHRk_O6beEY2QTKtLzZpDaUgelnQCJdPTFY64z2ucQAa5gt9t-BQFVppKlikrBkcsLutBB=w250
-      w240_PNG: https://lh3.googleusercontent.com/pw/ACtC-3fryHmbXM4qF-Waj34FWx9Qq34c2ZtIYKNSAwTrsJDHW3IzLZWTfyi_S7o_2kCZ-kE4JQo_L4JYxCtpsqX_7evpeOWC4l-gXdzDSJPLRlewBMAFbh4naR3mKfzCUHJYWnDIZLLfaWdpYJn70fBK-umq=w166
-      w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3dwLCuFaCqOrFjnp21zIrYMbS9jJSmNCr2aclpvfnjXQIb0sLDkB6VMv0092teuj5l0nbfTsun392xqTvbHRk_O6beEY2QTKtLzZpDaUgelnQCJdPTFY64z2ucQAa5gt9t-BQFVppKlikrBkcsLutBB=w166
+      full: https://lh3.googleusercontent.com/pw/AM-JKLUMkWFW8-5MK65jLrSSY1O29mi4L57p4BGivGWpSOkHhjW4J2HYhVW_zb3zYC4-TiO7YrPMYJWbze9_wshiPxGiT-BOGJxLOSyXzFNntuYH6hl5YUKl3-lB9GzqZaEpUGss9d2VnDlYwSRjIE6BF2dr=s1080
+      PNG: https://lh3.googleusercontent.com/pw/AM-JKLWvzfNoLbQokXIH9yADQbKxoXkmFDZ99LFDbZZNe25L2CtlshQ15u67l-pfIs_HuHxLQxI8GPGYVQ3dQn992bQvy-5Ms8weudYN26JlC_ssbuVqZ1s2D-M2mzwB5bEmzEC-BXbGxYpXjoLNkMa1iTWC
+      JPG: https://lh3.googleusercontent.com/pw/AM-JKLWA-i3elVycAAT_kV1qmgW8z0C-V_j51mgSCGAKOTp0afD3iVw56Qs2CopH-W-2VdRoDYHM6PU0iGecNBbu-e0k6kkKKqBCfCg1wNOECI3vsrGDtY364WZupUPA3jVoSej8AuqKR7n3o3Fhwbr18G9n
     - label: First Version
       caption: Just the lineart and midtones.
-      full: https://lh3.googleusercontent.com/pw/ACtC-3dO4l4fgOCghhKiypqtVuV7547FcApIoq1EYuHo94vPyPGPI7b7nK4ZboHtj60TnhnfQpfTWmnH80eh86ytAgYWwiPs5dA4n0Mi3pvv5eQK8G6VFeukv0FE4rfZlbckgaMwH7au-EDxORfDmSkQTEyx=w1080
-      w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3cNhbeNNshH99EryNzkmzGCSYS0KK8bp9LjLn6p6yybLJ1VM9TADD3kX4sg1qd7jZZ63K-XNn-ZH_KMD_VRx4iC5C6YC_dsfLjUCnlkOKQRvG9QR5Soei-zoGGTdBVw4OzTHXx_du5ezCee3Y9SwURV=w850
-      w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3c31qQUppyTejz3GTKRCHWQfT3_WDIo7AIYA-aOsgpe-V2A--7nUWrauqK2yXx1mz3N6qlQZcvlVeIZMsXYyD_64jXdiwDlt0Q5MDWWooCtGvmvyajrCvZNzhIN1uloD3wXHTWBU4vXELJYG8zWJBGT=w850
-      w1024_PNG: https://lh3.googleusercontent.com/pw/ACtC-3cNhbeNNshH99EryNzkmzGCSYS0KK8bp9LjLn6p6yybLJ1VM9TADD3kX4sg1qd7jZZ63K-XNn-ZH_KMD_VRx4iC5C6YC_dsfLjUCnlkOKQRvG9QR5Soei-zoGGTdBVw4OzTHXx_du5ezCee3Y9SwURV=w711
-      w1024_JPG: https://lh3.googleusercontent.com/pw/ACtC-3c31qQUppyTejz3GTKRCHWQfT3_WDIo7AIYA-aOsgpe-V2A--7nUWrauqK2yXx1mz3N6qlQZcvlVeIZMsXYyD_64jXdiwDlt0Q5MDWWooCtGvmvyajrCvZNzhIN1uloD3wXHTWBU4vXELJYG8zWJBGT=w711
-      w768_PNG: https://lh3.googleusercontent.com/pw/ACtC-3cNhbeNNshH99EryNzkmzGCSYS0KK8bp9LjLn6p6yybLJ1VM9TADD3kX4sg1qd7jZZ63K-XNn-ZH_KMD_VRx4iC5C6YC_dsfLjUCnlkOKQRvG9QR5Soei-zoGGTdBVw4OzTHXx_du5ezCee3Y9SwURV=w533
-      w768_JPG: https://lh3.googleusercontent.com/pw/ACtC-3c31qQUppyTejz3GTKRCHWQfT3_WDIo7AIYA-aOsgpe-V2A--7nUWrauqK2yXx1mz3N6qlQZcvlVeIZMsXYyD_64jXdiwDlt0Q5MDWWooCtGvmvyajrCvZNzhIN1uloD3wXHTWBU4vXELJYG8zWJBGT=w533
-      w600_PNG: https://lh3.googleusercontent.com/pw/ACtC-3cNhbeNNshH99EryNzkmzGCSYS0KK8bp9LjLn6p6yybLJ1VM9TADD3kX4sg1qd7jZZ63K-XNn-ZH_KMD_VRx4iC5C6YC_dsfLjUCnlkOKQRvG9QR5Soei-zoGGTdBVw4OzTHXx_du5ezCee3Y9SwURV=w416
-      w600_JPG: https://lh3.googleusercontent.com/pw/ACtC-3c31qQUppyTejz3GTKRCHWQfT3_WDIo7AIYA-aOsgpe-V2A--7nUWrauqK2yXx1mz3N6qlQZcvlVeIZMsXYyD_64jXdiwDlt0Q5MDWWooCtGvmvyajrCvZNzhIN1uloD3wXHTWBU4vXELJYG8zWJBGT=w416
-      w411_PNG: https://lh3.googleusercontent.com/pw/ACtC-3cNhbeNNshH99EryNzkmzGCSYS0KK8bp9LjLn6p6yybLJ1VM9TADD3kX4sg1qd7jZZ63K-XNn-ZH_KMD_VRx4iC5C6YC_dsfLjUCnlkOKQRvG9QR5Soei-zoGGTdBVw4OzTHXx_du5ezCee3Y9SwURV=w285
-      w411_JPG: https://lh3.googleusercontent.com/pw/ACtC-3c31qQUppyTejz3GTKRCHWQfT3_WDIo7AIYA-aOsgpe-V2A--7nUWrauqK2yXx1mz3N6qlQZcvlVeIZMsXYyD_64jXdiwDlt0Q5MDWWooCtGvmvyajrCvZNzhIN1uloD3wXHTWBU4vXELJYG8zWJBGT=w285
-      w360_PNG: https://lh3.googleusercontent.com/pw/ACtC-3cNhbeNNshH99EryNzkmzGCSYS0KK8bp9LjLn6p6yybLJ1VM9TADD3kX4sg1qd7jZZ63K-XNn-ZH_KMD_VRx4iC5C6YC_dsfLjUCnlkOKQRvG9QR5Soei-zoGGTdBVw4OzTHXx_du5ezCee3Y9SwURV=w250
-      w360_JPG: https://lh3.googleusercontent.com/pw/ACtC-3c31qQUppyTejz3GTKRCHWQfT3_WDIo7AIYA-aOsgpe-V2A--7nUWrauqK2yXx1mz3N6qlQZcvlVeIZMsXYyD_64jXdiwDlt0Q5MDWWooCtGvmvyajrCvZNzhIN1uloD3wXHTWBU4vXELJYG8zWJBGT=w250
-      w240_PNG: https://lh3.googleusercontent.com/pw/ACtC-3cNhbeNNshH99EryNzkmzGCSYS0KK8bp9LjLn6p6yybLJ1VM9TADD3kX4sg1qd7jZZ63K-XNn-ZH_KMD_VRx4iC5C6YC_dsfLjUCnlkOKQRvG9QR5Soei-zoGGTdBVw4OzTHXx_du5ezCee3Y9SwURV=w166
-      w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3c31qQUppyTejz3GTKRCHWQfT3_WDIo7AIYA-aOsgpe-V2A--7nUWrauqK2yXx1mz3N6qlQZcvlVeIZMsXYyD_64jXdiwDlt0Q5MDWWooCtGvmvyajrCvZNzhIN1uloD3wXHTWBU4vXELJYG8zWJBGT=w166
+      full: https://lh3.googleusercontent.com/pw/AM-JKLUxRnkpsJAn_XJ3bQd9OQ_xpTH8ICZw9fmU2k9O5ckjzVZpu5HbfPNAKRxOoyMa0rznlSOszf-JM_Zinb8SPVia8d66DsHyeFaKhgtaMz6pzQQucyd0yDuB0icactDxmY2qParKJMor7hjCXQ4UEE-X=s1080
+      PNG: https://lh3.googleusercontent.com/pw/AM-JKLW2rpqwvTBvn814MGEdJyyHEN4QMe8al5ZgeE6jzjUBj1bOeQrV-eLkBnhqVzMuEbAu23fPAn_9pvFA2GFordZspFltu1woE1NmVMZxTdsu6ItbwrTlHdGo08nz2-35NuABW5fPY1OND1VX-aQjT-Lp
+      JPG: https://lh3.googleusercontent.com/pw/AM-JKLUZ1Pk543ujJvrno9arxQ4j34aaEN-3dqA7yadNPTpcOXoqoT9eWHFeagKln2LagGkEVzwVsS_fa1tPuAA2XAvGWkyT3OKZulMGiMxl5gI1hPeqC9EtBTFtag4XzEu1F9wfSYb5Ey-2luyivbIJuzfR
     - label: Second Version
       caption: Lofi girl rendered.
-      full: https://lh3.googleusercontent.com/pw/ACtC-3cqT4KbKOP8kokO1KhizWyxN9bJll0AonUdDFj9iyObfebBuXBMF6MdGF5uJX5Jfnb3FA_D5BNiB-v9SU6e7SKILIHE61r3zamnyanrda4hOlhWHWSlECEbaX-W9nimVEte8wpemBSCmOwex5XrzLA7=w1080
-      w1920_PNG: https://lh3.googleusercontent.com/pw/ACtC-3eIz2VX4TdNzGZIDEbqRi9Rah-mUERS-tkAJPKrxM0Fi1W1hWP0qpehCgf0TjhE0EZBBDac5soTvqq22yDv6-uphxpVtc2RUTakKHnufujujWhki4tATSafRtexa8MAE68o0dTuXzbaZ8LVudIEcIdx=w850
-      w1920_JPG: https://lh3.googleusercontent.com/pw/ACtC-3ck0-zA3DqxtQgX9MUSFYIKYX-7UwOM4hsHjvYQ2oEwGrR_Pbl8nRjySMnMk4U-co15M9-VKUtbAFuUQsFvX1wzsOb1m2OkahfpbvDCbZChlEj1MH52rV52BFwJ9NEpwUy7fNKJH-Mrw97bLVPM3jTU=w850
-      w1024_PNG: https://lh3.googleusercontent.com/pw/ACtC-3eIz2VX4TdNzGZIDEbqRi9Rah-mUERS-tkAJPKrxM0Fi1W1hWP0qpehCgf0TjhE0EZBBDac5soTvqq22yDv6-uphxpVtc2RUTakKHnufujujWhki4tATSafRtexa8MAE68o0dTuXzbaZ8LVudIEcIdx=w711
-      w1024_JPG: https://lh3.googleusercontent.com/pw/ACtC-3ck0-zA3DqxtQgX9MUSFYIKYX-7UwOM4hsHjvYQ2oEwGrR_Pbl8nRjySMnMk4U-co15M9-VKUtbAFuUQsFvX1wzsOb1m2OkahfpbvDCbZChlEj1MH52rV52BFwJ9NEpwUy7fNKJH-Mrw97bLVPM3jTU=w711
-      w768_PNG: https://lh3.googleusercontent.com/pw/ACtC-3eIz2VX4TdNzGZIDEbqRi9Rah-mUERS-tkAJPKrxM0Fi1W1hWP0qpehCgf0TjhE0EZBBDac5soTvqq22yDv6-uphxpVtc2RUTakKHnufujujWhki4tATSafRtexa8MAE68o0dTuXzbaZ8LVudIEcIdx=w533
-      w768_JPG: https://lh3.googleusercontent.com/pw/ACtC-3ck0-zA3DqxtQgX9MUSFYIKYX-7UwOM4hsHjvYQ2oEwGrR_Pbl8nRjySMnMk4U-co15M9-VKUtbAFuUQsFvX1wzsOb1m2OkahfpbvDCbZChlEj1MH52rV52BFwJ9NEpwUy7fNKJH-Mrw97bLVPM3jTU=w533
-      w600_PNG: https://lh3.googleusercontent.com/pw/ACtC-3eIz2VX4TdNzGZIDEbqRi9Rah-mUERS-tkAJPKrxM0Fi1W1hWP0qpehCgf0TjhE0EZBBDac5soTvqq22yDv6-uphxpVtc2RUTakKHnufujujWhki4tATSafRtexa8MAE68o0dTuXzbaZ8LVudIEcIdx=w416
-      w600_JPG: https://lh3.googleusercontent.com/pw/ACtC-3ck0-zA3DqxtQgX9MUSFYIKYX-7UwOM4hsHjvYQ2oEwGrR_Pbl8nRjySMnMk4U-co15M9-VKUtbAFuUQsFvX1wzsOb1m2OkahfpbvDCbZChlEj1MH52rV52BFwJ9NEpwUy7fNKJH-Mrw97bLVPM3jTU=w416
-      w411_PNG: https://lh3.googleusercontent.com/pw/ACtC-3eIz2VX4TdNzGZIDEbqRi9Rah-mUERS-tkAJPKrxM0Fi1W1hWP0qpehCgf0TjhE0EZBBDac5soTvqq22yDv6-uphxpVtc2RUTakKHnufujujWhki4tATSafRtexa8MAE68o0dTuXzbaZ8LVudIEcIdx=w285
-      w411_JPG: https://lh3.googleusercontent.com/pw/ACtC-3ck0-zA3DqxtQgX9MUSFYIKYX-7UwOM4hsHjvYQ2oEwGrR_Pbl8nRjySMnMk4U-co15M9-VKUtbAFuUQsFvX1wzsOb1m2OkahfpbvDCbZChlEj1MH52rV52BFwJ9NEpwUy7fNKJH-Mrw97bLVPM3jTU=w285
-      w360_PNG: https://lh3.googleusercontent.com/pw/ACtC-3eIz2VX4TdNzGZIDEbqRi9Rah-mUERS-tkAJPKrxM0Fi1W1hWP0qpehCgf0TjhE0EZBBDac5soTvqq22yDv6-uphxpVtc2RUTakKHnufujujWhki4tATSafRtexa8MAE68o0dTuXzbaZ8LVudIEcIdx=w250
-      w360_JPG: https://lh3.googleusercontent.com/pw/ACtC-3ck0-zA3DqxtQgX9MUSFYIKYX-7UwOM4hsHjvYQ2oEwGrR_Pbl8nRjySMnMk4U-co15M9-VKUtbAFuUQsFvX1wzsOb1m2OkahfpbvDCbZChlEj1MH52rV52BFwJ9NEpwUy7fNKJH-Mrw97bLVPM3jTU=w250
-      w240_PNG: https://lh3.googleusercontent.com/pw/ACtC-3eIz2VX4TdNzGZIDEbqRi9Rah-mUERS-tkAJPKrxM0Fi1W1hWP0qpehCgf0TjhE0EZBBDac5soTvqq22yDv6-uphxpVtc2RUTakKHnufujujWhki4tATSafRtexa8MAE68o0dTuXzbaZ8LVudIEcIdx=w166
-      w240_JPG: https://lh3.googleusercontent.com/pw/ACtC-3ck0-zA3DqxtQgX9MUSFYIKYX-7UwOM4hsHjvYQ2oEwGrR_Pbl8nRjySMnMk4U-co15M9-VKUtbAFuUQsFvX1wzsOb1m2OkahfpbvDCbZChlEj1MH52rV52BFwJ9NEpwUy7fNKJH-Mrw97bLVPM3jTU=w166
+      full: https://lh3.googleusercontent.com/pw/AM-JKLXM7ZHBfBRwaNYxf8CqvdVQcFNLJzNtnejTaCGp2eaN4kOqJd8RzyxdeoHBWqUHxT3QN9RnsRhA4p9P3LmQoo2mc5N9HGCk_1yc-shWDi8IDl4PLwZsx4_n3qIFMwDDuM2GUv1oS6gCF-D0lcu1hvkp=s1080
+      PNG: https://lh3.googleusercontent.com/pw/AM-JKLU22glO5TAtibow2Ne16kN3YARD828U3yvNckQP6g8Nae4xSqUp2fdSkiY-B_OCh0CbBcTvsDigSFbun8x4DmRq8hlDErv80dw8D6akYtnFOLT7tkPhqE3HYnnAA-AZKNzD9fM6EnGyTInnlNBIbMOb
+      JPG: https://lh3.googleusercontent.com/pw/AM-JKLVAHAe_t7ONifF6Siw_dTOUb5TXsYpoVX0x82Kc61cMKXdnBWC_nkUVvnng32uuVfz-hWSO3w8X13qUKki_65t5qZcX0ZjcMDezjuL_1PkbD-og2ZsGjTuTC12s_ifgk5_D29RGvvHR_fRaWw102rYx
 ---
 
 **Lo-Fi Girl** pixel art sprite for the **#lofigirlhalloween** contest on *Instagram*.

@@ -11,38 +11,14 @@ external:
     - caption: GameJolt
       url: https://gamejolt.com/p/an-old-wizard-and-his-projection-a-watercolor-and-ink-sketch-ukzwpyxb
 thumbs:
-    w1920_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w355
-    w1920_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w355
-    w1024_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w284
-    w1024_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w284
-    w768_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w213
-    w768_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w213
-    w600_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w166
-    w600_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w166
-    w411_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w114
-    w411_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w114
-    w360_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w100
-    w360_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w100
-    w240_PNG: https://lh3.googleusercontent.com/fivWIOiW1fApjH6cu7UrgccvIMZDndL1tH-V1LqJSUwdGh_dqxs5ZFXTAa7pSm_8cuoZed1mSXqQNAhJwfD7bJhHWQX84VLBDWOkXcKStSS4bXPhL-3qsYoKFmYg21auOJtArugFJw=w66
-    w240_JPG: https://lh3.googleusercontent.com/CUvFo3QuuKBGsGKsgPSROcqBTlqm4K3xb0KNIvZGSgUyx7pRjeHLZD_phBtEVGpyKVRmgirYjS9MLNsSPSL_Ro9ynHw1u_RRRqjYA9xsZ9W6pFMl_qnrEruMvkxRAe_QZ6ICeUjfSA=w66
+    PNG: https://lh3.googleusercontent.com/pw/AM-JKLW9sa_xsxwr-yarcZM9nEkT90bXRwl-6jZkdkfnCbWuzc_cA7_SdD6DDfSESfO-wYzpfnvvOj3uC3TTtwgQaiWUOUJ8KOq1WhJcW5bhyYObEqMeIgv7wI0157pod6y8j5hnEf1f-dWsw5jSsKopynfD
+    JPG: https://lh3.googleusercontent.com/pw/AM-JKLUZblWm0RJDgpgveysV2Z6EZUX-BLg1FZJhft8DfbdcwLg0tp5o7vPq9MGYphBSILML-Pde2WUS8Y_hxu-Jw2T8DbtAo1BE47ANaQKzb70YI3BOH5W2PCv1rOvQcAGtShOo51IbgajK17uzjDHZrhQZ
 images:
     - label: Final Version
       caption: Fully rendered.
-      full: https://lh3.googleusercontent.com/QG2hNX_BHFRPSAaEcSdJI7i2ORBP_eR6iTFWuaNpZcT6xHd238UDp_f57kWHhv82Wpq-DxzJNz841Gr8PURJsr5A08OfZ3Eo6A7_ieRIu097uAGasMFxfuF44kfjZUCI-5LTRzAAag=w1080-h1080
-      w1920_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w850
-      w1920_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w850
-      w1024_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w711
-      w1024_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w711
-      w768_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w533
-      w768_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w533
-      w600_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w416
-      w600_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w416
-      w411_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w285
-      w411_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w285
-      w360_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w250
-      w360_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w250
-      w240_PNG: https://lh3.googleusercontent.com/UQIzBUw51gRc9yhvP-RF4AOQTyRkcIknYG2mzpELUd48Fh0w0yYMHvjWtAL2IGupyR09KqxTXohgZXijpNvNdgIY2N8ii1-G7tSgE7JAb-MNeLqvwOYsHhsWb32YBuOrPQgApko20Q=w166
-      w240_JPG: https://lh3.googleusercontent.com/Wk9jLXo2QlDhjBXRT04qZMCeSorQ4E2sM2W0UpMyezD_-tWu33Wc8iAyrsczsQS3ukFyhTyKwwp4nyDGrSbFOtARg2O5MtGuArELzbx_Sl23_SDVOgLqfgSo9oq0ea2GUrfnySZNtA=w166
+      full: https://lh3.googleusercontent.com/pw/AM-JKLWhljRqGqie653teqf9Z1RSMPPkMrVg7ObwRsGjvTL0go-MXcNoiDDnIOOyGGqIZ4JWnSDep3f4OZPI76UfweIimX7n1yde8_XVml5eYEjemoz40ZnOa_rnqwciDyPCJj2ruOkc7-mMrnHzEONN3Oz8=w2400
+      PNG: https://lh3.googleusercontent.com/pw/AM-JKLXOr8lwHlWkjdCfcOxQvfkUbjqxxfhm7PAZ_zfAZvLui3XrG0igIycP0DaT5xl7ag2kuHHCZYG_KjUfxz1k6k1kg4qOcRlZmh2xtzzVcIdEn54o3VBVYao53vZG7TCHUdv5F3d4CJUh2dtBxyjCQx5K
+      JPG: https://lh3.googleusercontent.com/pw/AM-JKLUBYP9TpuvDcEc8l0f_QSKKMCmstYN6SOpBpdfN71apd41MEwxvvHoeFE_0kM1TM4fdHquLaFNlP4iphv1N9HL2tWYSXxbmYVnvoHYZpC1QTu2jNfHMTicqEbf5VYk7zAPs-_YJGfvBWPlIEw8pO3kb
 ---
 
 **"An Old Wizard and his Projection"**, a watercolor and ink sketch I made around *September of 2019*.  
