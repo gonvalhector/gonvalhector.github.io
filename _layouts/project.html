@@ -20,6 +20,12 @@ layout: regular
         <b>Try {{ page.title }}:</b> <a href="{{ page.demo.link }}">On {{ page.demo.host }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a>
     </div>
 {% endif %}
+<!-- Download-->
+{% if page.download %}
+    <div id="projectDownload" class="text-left my-2">
+        <b>Download {{ page.title }}:</b> <a href="{{ page.download.link }}">On {{ page.download.host }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon"></a>
+    </div>
+{% endif %}
 <!-- Framework -->
 {% if page.framework %}
     <div id="projectFramework" class="text-left my-2">
