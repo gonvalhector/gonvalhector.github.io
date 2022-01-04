@@ -24,5 +24,5 @@ thumbs:
 ---
 
 **[{{ page.title }} <img src="/assets/images/icons/external.svg" alt="External Link" class="external-icon">]({{ page.download.link }})** is a 2D platformer game made with the **LÖVE** framework and written in ***Lua***.  
-The objective is to traverse through **five levels** and complete their specific objectives to make the **ice cream** item appear, which gives you access to the next level.
+The objective is to traverse through **five levels** and complete their specific objectives to make the **ice cream** item appear, which gives you access to the next level.  
 Intended as my submission for the final project of the **"CS50’s Introduction to Game Development"** online course.
