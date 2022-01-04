@@ -4,3 +4,5 @@
   short_name: site_tools
 - name: Single Page Apps
   short_name: spas
+- name: Video Games
+  short_name: games

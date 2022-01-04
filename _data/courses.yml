@@ -6,7 +6,10 @@
   completed: true
 - name: CS50’s Introduction to Game Development
   url: https://cs50.harvard.edu/games/2018/
-  completed: false
+  completed: true
 - name: One Month’s JavaScript Online Course
   url: https://onemonth.com/courses/javascript
+  completed: true
+- name: Azure Fundamentals
+  url: https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
   completed: true
