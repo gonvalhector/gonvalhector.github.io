@@ -11,8 +11,8 @@ external:
     - caption: GameJolt
       url: https://gamejolt.com/p/i-made-this-ink-and-colored-pencils-chibi-character-around-2008-p-dudnjtzh
 thumbs:
-    PNG: https://lh3.googleusercontent.com/pw/AM-JKLUuLmehFaBbQ6clZ8pGT3f95MS3-XjscUUCJBWodQLEVmcIRUxW448U8_5RyY6N3Y5bQ5egvgY-MpjvLgBT037NyM0h0Cj_2_NjGkFBSnpzD1XD5zSGeYV7eA3WP_jvqIIjzGJbQ5M39IRY8lTEKcXK=s355-no?authuser=0
-    JPG: https://lh3.googleusercontent.com/pw/AM-JKLVZAb6_oc7o6Qg8eE_qeSTojjzqJaliELetWeBfo3eA9LoHBt3d_rF6OWXnevLksMQS69RVhLOdhha_m2ln_XQGCZqjJPDsAGYywk6AZDhvbZ1JrT-Z7NjXZn5oo4FuvNmOYMEziYBYtA-Z2VH1vB-u=s355-no?authuser=0
+    PNG: https://lh3.googleusercontent.com/pw/AM-JKLUuLmehFaBbQ6clZ8pGT3f95MS3-XjscUUCJBWodQLEVmcIRUxW448U8_5RyY6N3Y5bQ5egvgY-MpjvLgBT037NyM0h0Cj_2_NjGkFBSnpzD1XD5zSGeYV7eA3WP_jvqIIjzGJbQ5M39IRY8lTEKcXK
+    JPG: https://lh3.googleusercontent.com/pw/AM-JKLVZAb6_oc7o6Qg8eE_qeSTojjzqJaliELetWeBfo3eA9LoHBt3d_rF6OWXnevLksMQS69RVhLOdhha_m2ln_XQGCZqjJPDsAGYywk6AZDhvbZ1JrT-Z7NjXZn5oo4FuvNmOYMEziYBYtA-Z2VH1vB-u
 images:
     - label: Final Version
       caption: Fully rendered with colored pencils.
