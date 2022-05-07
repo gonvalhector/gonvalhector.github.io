@@ -13,3 +13,6 @@
 - name: Azure Fundamentals
   url: https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
   completed: true
+- name: CS50’s Introduction to Artificial Intelligence with Python
+  url: https://cs50.harvard.edu/ai/2020/
+  completed: true
