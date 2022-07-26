@@ -30,10 +30,12 @@ I started buying what are now a handful of art books; both educational and other
 
 
 Skimming through the pages, I immediately fell in love with the artwork and the style. The combination of watercolor and ink gave the paintings a sketch-like feeling that I loved and that I'm still trying to emulate with my own watercolor paintings. But I didn't give the book a proper look and read-through until a few months ago.  
-I don't know much about **Hayao Miyazaki**, even after reading his commentary on the pictures and his answers to the interviews presented in the book, but I find him to be a fascinating person from the things I read.
+
+I don't know much about **Hayao Miyazaki**, even after reading his commentary on the pictures and his answers to the interviews presented in the book, but I find him to be a fascinating person from the things I read.  
 He comes across as not being particularly proud of his work creating **Nausicaä**. Most of the time he doesn't remember when he made a certain painting or drawing, and some of the things I like the most about his artwork, like the combination of watercolor and ink, he doesn't like at all. He likes his watercolor paintings to look like regular paintings, with no defined lines. Hell, he drew the manga with pencils because at the time he didn't know how to use a manga pen. All of this was mind blowing to me.  
 A man who has made so many people happy with his stories, characters and artwork is lukewarm about his creations and some he even actively hates. His attitude towards his work reminded me a bit of myself.
 Maybe it's just my inexperience doing art and low skill levels, but when I finish some artwork, whether I use digital or traditional means, most of the time I'm just glad it's over. And if people like it, then I'm happy about it, but it quite often happens that the things I do that I either hate or I don't feel are the most representative of my skills, creativity and/or effort get the most attention.  
+
 It was also fascinating to see the creative process behind the beginnings of **Nausicaä** and the influences and stories that shaped all of that and how some of the narrative themes came to be. Seeing how **Miyazaki** added a bit of watercolor paint to his sketches just to make them pop up made me want to get more loose with the way I approach painting my own sketches.  
 
 
