@@ -1,8 +1,12 @@
 - name: Web Apps
   short_name: web_apps
+  hidden: False
 - name: Site Tools
   short_name: site_tools
+  hidden: False
 - name: Single Page Apps
   short_name: spas
+  hidden: True
 - name: Video Games
   short_name: games
+  hidden: False

@@ -8,49 +8,51 @@ js:
 ---
 
 {% for category in site.data.projects_categories %}
-    {% assign projects = site.projects | where: "category", category.short_name | sort: "date" | reverse %}
-    {% assign total = projects | size %}
-    {% if total > 0 %}
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <h1>{{ category.name }}</h1>
+    {% unless category.hidden %}
+        {% assign projects = site.projects | where: "category", category.short_name | sort: "date" | reverse %}
+        {% assign total = projects | size %}
+        {% if total > 0 %}
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h1>{{ category.name }}</h1>
+                    </div>
                 </div>
+                {% assign columns = page.columns %}
+                {% assign rows = total | divided_by: columns %}
+                {% assign leftovers = total | modulo: columns %}
+                {% if leftovers > 0 %}
+                    {% assign rows = rows | plus: 1 %}
+                {% endif %}
+                {% assign n = 0 %}
+                {% for i in (1..rows) %}
+                    <div class="row mr-1 my-5">
+                        {% for j in (1..columns) %}
+                            <div class="col-{{ columns | plus: 1 }}">
+                                {% if projects[n] %}
+                                <a href="{{ projects[n].url }}"><picture>
+                                    <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.PNG }}=w355">
+                                    <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.JPG }}=w355">
+                                    <source media="(min-width: 1024px)" srcset="{{ projects[n].thumbs.PNG }}=w284">
+                                    <source media="(min-width: 1024px)" srcset="{{ projects[n].thumbs.JPG }}=w284">
+                                    <source media="(min-width: 768px)" srcset="{{ projects[n].thumbs.PNG }}=w213">
+                                    <source media="(min-width: 768px)" srcset="{{ projects[n].thumbs.JPG }}=w213">
+                                    <source media="(min-width: 600px)" srcset="{{ projects[n].thumbs.PNG }}=w166">
+                                    <source media="(min-width: 600px)" srcset="{{ projects[n].thumbs.JPG }}=w166">
+                                    <source media="(min-width: 411px)" srcset="{{ projects[n].thumbs.PNG }}=w114">
+                                    <source media="(min-width: 411px)" srcset="{{ projects[n].thumbs.JPG }}=w114">
+                                    <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.PNG }}=w100">
+                                    <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.JPG }}=w100">
+                                    <source media="(min-width: 240px)" srcset="{{ projects[n].thumbs.PNG }}=w66">
+                                    <img src="{{ projects[n].thumbs.JPG }}=w66" alt="{{ projects[n].alt }}" title="{{ projects[n].title }}" class="rounded-lg transform-in">
+                                </picture></a>
+                                {% endif %}
+                            </div>
+                            {% assign n = n | plus: 1 %}
+                        {% endfor %}
+                    </div>
+                {% endfor %}
             </div>
-            {% assign columns = page.columns %}
-            {% assign rows = total | divided_by: columns %}
-            {% assign leftovers = total | modulo: columns %}
-            {% if leftovers > 0 %}
-                {% assign rows = rows | plus: 1 %}
-            {% endif %}
-            {% assign n = 0 %}
-            {% for i in (1..rows) %}
-                <div class="row mr-1 my-5">
-                    {% for j in (1..columns) %}
-                        <div class="col-{{ columns | plus: 1 }}">
-                            {% if projects[n] %}
-                            <a href="{{ projects[n].url }}"><picture>
-                                <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.PNG }}=w355">
-                                <source media="(min-width: 1920px)" srcset="{{ projects[n].thumbs.JPG }}=w355">
-                                <source media="(min-width: 1024px)" srcset="{{ projects[n].thumbs.PNG }}=w284">
-                                <source media="(min-width: 1024px)" srcset="{{ projects[n].thumbs.JPG }}=w284">
-                                <source media="(min-width: 768px)" srcset="{{ projects[n].thumbs.PNG }}=w213">
-                                <source media="(min-width: 768px)" srcset="{{ projects[n].thumbs.JPG }}=w213">
-                                <source media="(min-width: 600px)" srcset="{{ projects[n].thumbs.PNG }}=w166">
-                                <source media="(min-width: 600px)" srcset="{{ projects[n].thumbs.JPG }}=w166">
-                                <source media="(min-width: 411px)" srcset="{{ projects[n].thumbs.PNG }}=w114">
-                                <source media="(min-width: 411px)" srcset="{{ projects[n].thumbs.JPG }}=w114">
-                                <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.PNG }}=w100">
-                                <source media="(min-width: 360px)" srcset="{{ projects[n].thumbs.JPG }}=w100">
-                                <source media="(min-width: 240px)" srcset="{{ projects[n].thumbs.PNG }}=w66">
-                                <img src="{{ projects[n].thumbs.JPG }}=w66" alt="{{ projects[n].alt }}" title="{{ projects[n].title }}" class="rounded-lg transform-in">
-                            </picture></a>
-                            {% endif %}
-                        </div>
-                        {% assign n = n | plus: 1 %}
-                    {% endfor %}
-                </div>
-            {% endfor %}
-        </div>
-    {% endif %}
+        {% endif %}
+    {% endunless %}
 {% endfor %}
