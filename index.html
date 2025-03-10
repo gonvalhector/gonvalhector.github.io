@@ -20,18 +20,6 @@ js:
         {% endfor %}
 </div>
 
-<div class="mb-3" id="new_post">
-    <h2><img src="assets/images/icons/new.svg" class="static-icon" alt="stars icon"> Newest Post in Blog</h2>
-    <ul>
-        {% for post in site.posts limit: 1 %}
-            <li>
-                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                {{ post.excerpt | strip_html | truncatewords: 50 }}
-            </li>
-        {% endfor %}
-    </ul>
-</div>
-
 <div class="mb-3" id="new_projects">
     <h2><img src="assets/images/icons/new.svg" class="static-icon" alt="stars icon"> New Projects</h2>
     {% assign projects = site.projects | sort: "date" | reverse | slice: 0, 3 %}
@@ -126,4 +114,13 @@ js:
             </div>
         {% endfor %}
     </div>
+</div>
+
+<div class="mb-3" id="new_post">
+    <h2><img src="assets/images/icons/new.svg" class="static-icon" alt="stars icon"> Newest Post in Blog</h2>
+    <ul>
+        {% for post in site.posts limit: 1 %}
+            <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
+        {% endfor %}
+    </ul>
 </div>
