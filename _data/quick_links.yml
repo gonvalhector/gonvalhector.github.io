@@ -1,3 +1,12 @@
+- label: TasksDaily
+  in-page: False
+  url: https://www.gonvalhector.com/project/tasksdaily
+- label: R8Books
+  in-page: False
+  url: https://www.gonvalhector.com/project/r8books
+- label: Fitness Programmer
+  in-page: False
+  url: https://www.gonvalhector.com/project/fitness_programmer
 - label: Play Finite Platformer!
   in-page: False
   url: https://gamejolt.com/games/finite-platformer/674882
@@ -7,15 +16,3 @@
 - label: Speedpaint Videos (Youtube)
   in-page: False
   url: https://www.youtube.com/playlist?list=PLPTUEscpvwV_kUDUPA2blpNVufHiBFuno
-- label: Open Game Art Contributions
-  in-page: False
-  url: https://opengameart.org/users/gonvalhector
-- label: Newest Post in Blog
-  in-page: True
-  url: new_post
-- label: New Projects
-  in-page: True
-  url: new_projects
-- label: New in Gallery
-  in-page: True
-  url: new_images
